@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<dynamic_object>
+	<diesel materials="units/pd2_mod_branch/architecture/branchbank/branchbank" orientation_object="rp_root" />
+	<bodies>
+        <body name="static_body" template="static" enabled="true" >
+			<object name="c_mesh" 			collision_type="mesh_mopp" />
+			<object name="c_mesh_counter" 	collision_type="mesh_mopp" />
+			<object name="c_mesh_ceiling" 	collision_type="mesh_mopp" />
+			<object name="c_mesh_floor" 	collision_type="mesh_mopp" />			
+        </body>
+    </bodies>
+	
+	<decal_surfaces default_material="plastic">
+        <decal_mesh enabled="true" name="dm_plaster" material="plaster" />
+        <decal_mesh enabled="true" name="dm_wood" material="wood" />
+        <decal_mesh enabled="true" name="dm_plastic" material="plastic" />
+        <decal_mesh enabled="true" name="dm_carpet" material="carpet" />
+        <decal_mesh enabled="true" name="dm_metal" material="metal" />
+		<decal_mesh name="dm_glass_breakable" enabled="true" material="glass_breakable"/>
+		<decal_mesh name="dm_paper" enabled="true" material="cloth"/>
+	</decal_surfaces>
+
+    <graphics>
+		<object name="g_counter" 	enabled="true"/>
+		<object name="g_offices_01" enabled="true"/>
+		<object name="g_offices_02" enabled="true"/>
+		<object name="g_ceiling" 	enabled="true"/>
+		<object name="g_floor" 		enabled="true"/>
+		<object name="g_walls" 		enabled="true"/>
+    </graphics>
+	
+</dynamic_object> 

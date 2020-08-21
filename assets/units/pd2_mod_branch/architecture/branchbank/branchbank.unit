@@ -1,0 +1,7 @@
+<unit type="bnk" slot="1" >
+    <object file="units/pd2_mod_branch/architecture/branchbank/branchbank" />
+	<network sync="spawn"/>
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>
