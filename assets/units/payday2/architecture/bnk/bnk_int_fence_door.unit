@@ -1,0 +1,16 @@
+<unit type="bnk" slot="1" >
+	<object file="units/payday2/architecture/bnk/bnk_int_fence_door" />
+	<network sync="spawn"/>
+	<dependencies>
+		<depends_on unit="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge" />
+		<depends_on unit="units/payday2/equipment/item_door_drill_small/item_door_drill_small" />
+		<depends_on effect="effects/particles/explosions/explosion_grenade" />
+	</dependencies>
+	<extensions>
+		<extension name="base" class="MissionDoor" >
+			<var name="tweak_data" value="shape_and_drill" />
+		</extension>
+		<extension class="ScriptUnitData" name="unit_data" />
+		<extension name="damage" class="UnitDamage" />
+	</extensions>
+</unit>
