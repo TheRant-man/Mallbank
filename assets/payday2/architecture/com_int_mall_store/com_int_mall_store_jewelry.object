@@ -1,0 +1,135 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_int_mall_store_jewelry" materials="units/payday2/architecture/com_int_mall_store/com_int_mall_store" />
+	<sequence_manager file="units/payday2/architecture/com_int_mall_store/com_int_mall_store_jewelry" />
+    		
+	<bodies>
+        <body enabled="true" template="static" name="body0" >
+			<object name="rp_com_int_mall_store_jewelry" />
+			<object name="c_box_000" collision_type="box" padding="-2.5"/>
+			<object name="c_box_001" collision_type="box" padding="-2.5"/>
+			<object name="c_box_002" collision_type="box" padding="-2.5"/>
+			<object name="c_box_003" collision_type="box" padding="-2.5"/>
+			<object name="c_box_004" collision_type="box" padding="-2.5"/>
+			<object name="c_box_005" collision_type="box" padding="-2.5"/>
+			<object name="c_box_006" collision_type="box" padding="-2.5"/>
+			<object name="c_box_007" collision_type="box" padding="-2.5"/>
+			<object name="c_box_008" collision_type="box" padding="-2.5"/>
+			<object name="c_box_009" collision_type="box" padding="-2.5"/>
+			<object name="c_box_010" collision_type="box" padding="-2.5"/>
+			<object name="c_box_011" collision_type="box" padding="-2.5"/>
+			<object name="c_box_012" collision_type="box" padding="-2.5"/>
+			<object name="c_box_013" collision_type="box" padding="-2.5"/>
+			<object name="c_box_014" collision_type="box" padding="-2.5"/>
+			<object name="c_box_015" collision_type="box" padding="-2.5"/>
+			<object name="c_box_016" collision_type="box" padding="-2.5"/>
+			<object name="c_box_017" collision_type="box" padding="-2.5"/>
+			<object name="c_box_018" collision_type="box" padding="-2.5"/>
+			<object name="c_box_019" collision_type="box" padding="-2.5"/>
+			<object name="c_box_020" collision_type="box" padding="-2.5"/>
+			<object name="c_box_021" collision_type="box" padding="-2.5"/>
+			<object name="c_box_022" collision_type="box" padding="-2.5"/>
+			<object name="c_box_023" collision_type="box" padding="-2.5"/>
+			<object name="c_box_024" collision_type="box" padding="-2.5"/>
+			<object name="c_box_025" collision_type="box" padding="-2.5"/>
+			<object name="c_box_026" collision_type="box" padding="-2.5"/>
+			<object name="c_box_027" collision_type="box" padding="-2.5"/>
+			<object name="c_box_028" collision_type="box" padding="-2.5"/>
+			<object name="c_box_029" collision_type="box" padding="-2.5"/>
+			<object name="c_box_030" collision_type="box" padding="-2.5"/>
+			<object name="c_box_031" collision_type="box" padding="-2.5"/>
+			<object name="c_box_032" collision_type="box" padding="-2.5"/>
+			<object name="c_box_033" collision_type="box" padding="-2.5"/>
+			<object name="c_box_034" collision_type="box" padding="-2.5"/>
+			<object name="c_box_035" collision_type="box" padding="-2.5"/>
+			<object name="c_box_036" collision_type="box" padding="-2.5"/>
+			<object name="c_box_037" collision_type="box" padding="-2.5"/>
+			<object name="c_box_038" collision_type="box" padding="-2.5"/>
+			<object name="c_box_039" collision_type="box" padding="-2.5"/>
+			<object name="c_box_040" collision_type="box" padding="-2.5"/>
+			<object name="c_box_041" collision_type="box" padding="-2.5"/>
+			<object name="c_box_042" collision_type="box" padding="-2.5"/>
+			<object name="c_box_043" collision_type="box" padding="-2.5"/>
+			<object name="c_box_044" collision_type="box" padding="-2.5"/>
+			<object name="c_box_045" collision_type="box" padding="-2.5"/>
+			<object name="c_box_046" collision_type="box" padding="-2.5"/>
+        </body>
+		
+		<body enabled="true" template="static" name="glass_display_body_1" >
+			<object name="c_mesh_mopp_glass_01" collision_type="mesh_mopp" />
+        </body>
+		<body enabled="true" template="static" name="glass_display_body_2" >
+			<object name="c_mesh_mopp_glass_02" collision_type="mesh_mopp" />
+        </body>
+		<body enabled="true" template="static" name="glass_display_body_3" >
+			<object name="c_mesh_mopp_glass_03" collision_type="mesh_mopp" />
+        </body>
+		
+		<body enabled="true" template="static" name="glass_body_4" >
+			<object name="c_box_glass_04" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_5" >
+			<object name="c_box_glass_05" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_6" >
+			<object name="c_box_glass_06" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_7" >
+			<object name="c_box_glass_07" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_8" >
+			<object name="c_box_glass_08" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_9" >
+			<object name="c_box_glass_09" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_10" >
+			<object name="c_box_glass_10" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_11" >
+			<object name="c_box_glass_11" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_12" >
+			<object name="c_box_glass_12" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_13" >
+			<object name="c_box_glass_13" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_14" >
+			<object name="c_box_glass_14" collision_type="box" padding="-2.5" />
+        </body>
+		<body enabled="true" template="static" name="glass_body_15" >
+			<object name="c_box_glass_15" collision_type="box" padding="-2.5" />
+        </body>
+		
+		
+    </bodies>
+	
+	<decal_surfaces default_material="plaster">
+        <decal_mesh enabled="true" name="dm_plaster" material="plaster" />
+        <decal_mesh enabled="true" name="dm_wood" material="wood" />
+        <decal_mesh enabled="true" name="dm_carpet" material="carpet" />
+        <decal_mesh enabled="true" name="dm_metal" material="metal" />
+    </decal_surfaces>
+    
+	<graphics>
+        <object enabled="true" name="g_g" />
+        <object enabled="true" name="g_add" />
+        <object enabled="true" name="g_lights" />
+        <object enabled="true" name="g_glass_01" />
+        <object enabled="true" name="g_glass_02" />
+        <object enabled="true" name="g_glass_03" />
+        <object enabled="true" name="g_glass_04" />
+        <object enabled="true" name="g_glass_05" />
+        <object enabled="true" name="g_glass_06" />
+        <object enabled="true" name="g_glass_07" />
+        <object enabled="true" name="g_glass_08" />
+        <object enabled="true" name="g_glass_09" />
+        <object enabled="true" name="g_glass_10" />
+        <object enabled="true" name="g_glass_11" />
+        <object enabled="true" name="g_glass_12" />
+        <object enabled="true" name="g_glass_13" />
+        <object enabled="true" name="g_glass_14" />
+        <object enabled="true" name="g_glass_15" />
+    </graphics>
+
+</dynamic_object>

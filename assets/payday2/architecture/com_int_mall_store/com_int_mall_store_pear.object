@@ -1,0 +1,30 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_int_mall_store_pear" materials="units/payday2/architecture/com_int_mall_store/com_int_mall_store" />
+    
+	<bodies>
+        <body enabled="true" template="static" name="body0" >
+			<object name="rp_com_int_mall_store_pear" />
+			<object name="c_box_01" collision_type="box"/>
+			<object name="c_box_02" collision_type="box"/>	
+			<object name="c_box_03" collision_type="box"/>	
+			<object name="c_box_04" collision_type="box"/>
+			<object name="c_box_05" collision_type="box"/>	
+			<object name="c_box_06" collision_type="box"/>	
+			<object name="c_box_07" collision_type="box"/>
+			<object name="c_box_08" collision_type="box"/>
+			<object name="c_box_09" collision_type="box"/>	
+        </body>
+    </bodies>
+	
+	<decal_surfaces default_material="plaster">
+        <decal_mesh enabled="true" name="dm_plaster" material="plaster" />
+		<decal_mesh enabled="true" name="dm_wood" material="wood" />
+		<decal_mesh enabled="true" name="dm_cloth" material="cloth" />
+    </decal_surfaces>
+    
+	<graphics>
+        <object enabled="true" name="g_g" />
+        <object enabled="true" name="g_lights" />
+    </graphics>
+
+</dynamic_object>
