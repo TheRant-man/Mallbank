@@ -40,6 +40,10 @@
 			<value_node value="levels/narratives/e_election_day/stage_3/world/world"/>
 			<value_node value="levels/narratives/e_election_day/stage_3/world"/>
 			<value_node value="levels/instances/unique/pbr/pbr_hardware_store/world/world"/>
+			<value_node value="levels/narratives/dentist/mia/stage1/world/world"/>
+			<value_node value="levels/narratives/vlad/nightclub/world"/>
+			<value_node value="levels/instances/unique/chill/wolf_stage_01/world/world"/>
+			<value_node value="levels/narratives/e_framing_frame/stage_3/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
