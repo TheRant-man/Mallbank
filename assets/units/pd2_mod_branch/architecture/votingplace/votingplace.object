@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<dynamic_object>
+	<diesel materials="units/pd2_mod_branch/architecture/branchbank/branchbank" orientation_object="rp_bnk_voting_place" />
+	<bodies>
+        <body name="static_body" template="static" enabled="true" >
+            <object name="rp_bnk_voting_place"/>
+			<object name="c_meshmopp" collision_type="mesh_mopp" />
+			<object name="c_mesh_floor" collision_type="mesh_mopp" />
+			<object name="c_mesh_ceiling" collision_type="mesh_mopp" />
+        </body>
+    </bodies>
+	
+	<decal_surfaces default_material="plaster">		
+		<decal_mesh name="dm_carpet" 	enabled="true" material="carpet"/>
+		<decal_mesh name="dm_plaster"	enabled="true" material="plaster"/>
+		<decal_mesh name="dm_plastic" 	enabled="true" material="plastic"/>
+		<decal_mesh name="dm_wood" 		enabled="true" material="wood"/>
+		<decal_mesh name="dm_metal" enabled="true" material="metal"/>
+		<decal_mesh name="dm_glass_breakable" enabled="true" material="glass_breakable"/>
+		<decal_mesh name="dm_paper" enabled="true" material="cloth"/>
+	</decal_surfaces>
+
+    <graphics>
+		<object name="g_g" 			enabled="true"/>
+		<object name="g_floor" 		enabled="true"/>
+		<object name="g_ceiling" 	enabled="true"/>
+    </graphics>
+	
+</dynamic_object> 

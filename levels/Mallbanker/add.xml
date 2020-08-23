@@ -7,6 +7,11 @@
 	<object path="units/payday2/architecture/bnk_branch/bnk_branch_security_office_v2"/>
 	<unit path="units/payday2/architecture/bnk_branch/bnk_branch_security_office_v2"/>
 	<cooked_physics path="units/payday2/architecture/bnk_branch/bnk_branch_security_office_v2"/>
+	
+	<unit path="units/pd2_mod_branch/architecture/votingplace/votingplace"/>
+	<object path="units/pd2_mod_branch/architecture/votingplace/votingplace"/>
+	<model path="units/pd2_mod_branch/architecture/votingplace/votingplace"/>
+	
 	<texture path="levels/mods/mallbanker/cube_lights/100061"/>
 	<texture path="levels/mods/mallbanker/cube_lights/104123"/>
 	<texture path="levels/mods/mallbanker/cube_lights/104294"/>

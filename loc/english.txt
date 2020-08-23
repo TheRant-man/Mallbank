@@ -1,11 +1,11 @@
 {
 	"bnk_open_shut":"Open the shutters",
 	"heist_Mallbanker_brief":"Go rob the old ED3 bank.",
-	"heist_Mallbank_name":"Bank Heist: Shield Mall",
+	"heist_Mallbank_name":"Black Friday",
 	"heist_Mallbanker_name":"Shield Mall",
 	"bnk_open_shut_desc":"Get inside the security office and open up the bank's shutters.",
 	"bnk_pku_drill":"Get the drill",
-	"heist_Mallbank_brief":"now stfu Baddy",
+	"heist_Mallbank_brief":"no YOU SHUT UP",
 	"bnk_pku_drill_desc":"Go get the drill hidden inside a copy machine.",
 	"bnk_sec_off":"Find the security office",
 	"bnk_sec_off_desc":"Locate the security office and find the keypad."
