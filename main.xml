@@ -1,4 +1,7 @@
 <table name="Mallbank">
+	<AddFiles directory="assets">
+		<texture load="true" path="guis/mallbank"/>
+	</AddFiles>
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
@@ -6,10 +9,10 @@
 		<add file="levels/Mallbanker/add.xml"/>
 		<assets/>
 		<include directory="levels/Mallbanker">
-			<file file="nav_manager_data.nav_data" type="binary"/>
 			<file file="world.world" type="binary"/>
 			<file file="continents.continents" type="binary"/>
 			<file file="mission.mission" type="binary"/>
+			<file file="nav_manager_data.nav_data" type="binary"/>
 			<file file="world_sounds.world_sounds" type="binary"/>
 			<file file="world_cameras.world_cameras" type="binary"/>
 			<file file="pc_only/pc_only.continent" type="binary"/>
@@ -44,6 +47,7 @@
 			<value_node value="levels/narratives/vlad/nightclub/world"/>
 			<value_node value="levels/instances/unique/chill/wolf_stage_01/world/world"/>
 			<value_node value="levels/narratives/e_framing_frame/stage_3/world/world"/>
+			<value_node value="levels/narratives/e_election_day/stage_3/new_mall/new_mall"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
@@ -51,7 +55,7 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="vld_mallcrashers_brf" contact="vlad" id="Mallbank" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
+	<narrative briefing_event="vld_mallcrashers_brf" contact="bain" icon="guis/mallbank" id="Mallbank" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
 		<chain>
 			<table level_id="Mallbanker" type="d" type_id="heist_type_assault"/>
 		</chain>
