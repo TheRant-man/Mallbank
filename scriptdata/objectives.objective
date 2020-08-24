@@ -2,4 +2,5 @@
 	<objective description="bnk_sec_off_desc" id="bnk_sec_off" text="bnk_sec_off"/>
 	<objective description="bnk_open_shut_desc" id="bnk_open_shut" text="bnk_open_shut"/>
 	<objective description="bnk_pku_drill_desc" id="bnk_pku_drill" text="bnk_pku_drill"/>
+	<objective description="bnk_find_desc" id="bnk_find" text="bnk_find"/>
 </table>
