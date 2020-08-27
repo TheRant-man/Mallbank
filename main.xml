@@ -51,6 +51,8 @@
 			<value_node value="levels/narratives/e_election_day/stage_3/new_mall/new_mall"/>
 			<value_node value="levels/instances/unique/moon/crate_shoes/world/world"/>
 			<value_node value="levels/instances/unique/kenaz/security_room/world"/>
+			<value_node value="levels/instances/unique/spa/spa_vip_escort/world/world"/>
+			<value_node value="levels/narratives/locke/brb/editor_only/editor_only"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
