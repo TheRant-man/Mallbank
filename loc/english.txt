@@ -1,6 +1,6 @@
 {
 	"bnk_open_shut":"Open the shutters",
-	"heist_Mallbanker_brief":"Go rob the old ED3 bank.",
+	"heist_Mallbanker_brief":"Nicolas has asked us to clear out the Capitol Savings bank inside Shield Mall for some enterprice funds. You remember the place? We demolished it for Vlad a whilte back. Anyway what you gotta do is go in. Locate the bank's vault. Clean it and get out. Should be easy enough. Lets do this!",
 	"heist_Mallbank_name":"Capitol Withdrawal",
 	"heist_Mallbanker_name":"Shield Mall",
 	"bnk_open_shut_desc":"Get to the shutters and saw em open!",
