@@ -5,9 +5,13 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="america" briefing_dialog="Play_pln_mallcrasch_stage1_brief" cube="cube_apply_heist_bank" id="Mallbanker" intro_event="Play_pln_mallcrasch_stage1_intro_a" max_bags="12" music="heist">
+	<level ai_group_type="america" briefing_dialog="Play_pln_mallcrasch_stage1_brief" cube="cube_apply_heist_bank" id="Mallbanker" intro_event="Play_pln_mallcrasch_stage1_intro_a" max_bags="12" music="heist" orig_id="Mallbanker">
 		<add file="levels/Mallbanker/add.xml"/>
-		<assets/>
+		<assets>
+			<asset name="mallcrasher_health"/>
+			<asset name="mallcrasher_ammo"/>
+			<asset name="safe_escape"/>
+		</assets>
 		<include directory="levels/Mallbanker">
 			<file file="world.world" type="binary"/>
 			<file file="continents.continents" type="binary"/>
