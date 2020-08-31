@@ -63,4 +63,9 @@
 	
 	<cooked_physics path="units/payday2/architecture/bnk_branch/bnk_branch_security_office_v2"/>
 	<material_config path="units/pd2_mod_branch/architecture/branchbank/branchbank"/>
+	
+	<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 </table>
