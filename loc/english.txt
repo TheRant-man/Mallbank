@@ -3,10 +3,10 @@
 	"heist_Mallbanker_brief":"Go rob the old ED3 bank.",
 	"heist_Mallbank_name":"Capitol Withdrawal",
 	"heist_Mallbanker_name":"Shield Mall",
-	"bnk_open_shut_desc":"Get inside the security office and open up the bank's shutters.",
-	"bnk_pku_drill":"Get the drill",
+	"bnk_open_shut_desc":"Get to the shutters and saw em open!",
+	"bnk_pku_drill":"Wait for the drill",
 	"heist_Mallbank_brief":"No more savings, you fuckers couldn't behave!",
-	"bnk_pku_drill_desc":"Go get the drill hidden inside a copy machine.",
-	"bnk_sec_off":"Locate the security office",
+	"bnk_pku_drill_desc":"Wait for the pilot to arrive with the lance",
+	"bnk_sec_off":"Locate the saw",
 	"bnk_sec_off_desc":"Locate the security office and find the keypad."
 }
