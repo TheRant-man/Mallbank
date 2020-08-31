@@ -6,7 +6,7 @@
 	"heist_Mallbanker_name":"Crashing Capitol",
 	"bnk_open_shut_desc":"Get to the shutters and saw them open!",
 	"bnk_pku_drill":"Wait for the drill",
-	"heist_Mallbank_brief":"a new contact has informed us that a prominent figure amongst the Colombian weapon dealers in D.C. is moving funds through the Capitol Savings branch over at the Shield Mall, and he wants us to take it while it's vulnerable.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal all the cash you can manage\n»Escape",
+	"heist_Mallbank_brief":"A new contact has informed us that a prominent figure amongst the Colombian weapon dealers in D.C. is moving funds through the Capitol Savings branch over at the Shield Mall, and he wants us to take it while it's vulnerable.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal all the cash you can manage\n»Escape",
 	"bnk_sec_off":"Locate the saw",
 	"bnk_sec_off_desc":"Locate the security office and find the keypad."
 }
