@@ -1,18 +1,18 @@
-<table name="Mallbank">
+<table name="friday">
 	<AddFiles directory="assets">
-		<texture load="true" path="guis/mallbank"/>
+		<texture load="true" path="guis/friday"/>
 	</AddFiles>
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="america" briefing_dialog="Play_pln_mallcrasch_stage1_brief" cube="cube_apply_heist_bank" id="Mallbanker" intro_event="Play_pln_mallcrasch_stage1_intro_a" max_bags="12" music="heist" orig_id="Mallbanker">
-		<add file="levels/Mallbanker/add.xml"/>
+	<level ai_group_type="america" briefing_dialog="Play_pln_mallcrasch_stage1_brief" cube="cube_apply_heist_bank" id="lvl_friday" intro_event="Play_pln_mallcrasch_stage1_intro_a" max_bags="12" music="heist">
+		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
 			<asset name="mallcrasher_ammo"/>
 			<asset name="safe_escape"/>
 		</assets>
-		<include directory="levels/Mallbanker">
+		<include directory="levels/lvl_friday">
 			<file file="world.world" type="binary"/>
 			<file file="continents.continents" type="binary"/>
 			<file file="mission.mission" type="binary"/>
@@ -63,9 +63,9 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="vld_mallcrashers_brf" contact="bain" icon="guis/mallbank" id="Mallbank" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
+	<narrative briefing_event="vld_mallcrashers_brf" contact="bain" icon="guis/friday" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
 		<chain>
-			<table level_id="Mallbanker" type="d" type_id="heist_type_assault"/>
+			<table level_id="lvl_friday" type="d" type_id="heist_type_assault"/>
 		</chain>
 		<contract_cost>
 			<value_node value="8000"/>

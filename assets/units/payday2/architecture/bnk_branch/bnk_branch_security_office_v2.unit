@@ -1,6 +1,0 @@
-<unit type="bnk" slot="1" >
-    <object file="units/payday2/architecture/bnk_branch/bnk_branch_security_office_v2" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>

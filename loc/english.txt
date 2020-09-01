@@ -1,12 +1,12 @@
 {
 	"bnk_open_shut":"Open the shutters",
-	"heist_Mallbanker_brief":"Okay, the Shield Mall.  You've all been here before for Vlad, years back.  Now, the Capitol Savings branch here wasn't open to the public at the time, but it shouldn't be anything you're not familiar with.  The mall has GenSec's 'anti-tamper security package', which means shutters, an electrified vault, and decent network security. Otherwise, this is simple:  breach the bank, the vault, get the cash, get gone. The usual.\n\nThere'll probably be plenty of civilians, so be aware if things go weapons hot.",
+	"heist_lvl_friday_brief":"Okay, the Shield Mall.  You've all been here before for Vlad, years back.  Now, the Capitol Savings branch here wasn't open to the public at the time, but it shouldn't be anything you're not familiar with.  The mall has GenSec's 'anti-tamper security package', which means shutters, an electrified vault, and decent network security. Otherwise, this is simple:  breach the bank, the vault, get the cash, get gone. The usual.\n\nThere'll probably be plenty of civilians, so be aware if things go weapons hot.",
 	"bnk_pku_drill_desc":"Wait for the pilot to arrive with the lance",
-	"heist_Mallbank_name":"Crashing Capitol",
-	"heist_Mallbanker_name":"Crashing Capitol",
+	"heist_narr_friday_name":"Crashing Capitol",
+	"heist_lvl_friday_name":"Crashing Capitol",
 	"bnk_open_shut_desc":"Get to the shutters and saw them open!",
 	"bnk_pku_drill":"Wait for the drill",
-	"heist_Mallbank_brief":"A new contact has informed us that a prominent figure amongst the Colombian weapon dealers in D.C. is moving funds through the Capitol Savings branch over at the Shield Mall, and he wants us to take it while it's vulnerable.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal all the cash you can manage\n»Escape",
+	"heist_narr_friday_brief":"A new contact has informed us that a prominent figure amongst the Colombian weapon dealers in D.C. is moving funds through the Capitol Savings branch over at the Shield Mall, and he wants us to take it while it's vulnerable.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal all the cash you can manage\n»Escape",
 	"bnk_sec_off":"Gain entry to the bank",
 	"bnk_sec_off_desc":"Find your way into Capitol Savings"
 }
