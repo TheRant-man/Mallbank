@@ -5,7 +5,7 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="america" briefing_dialog="Play_pln_mallcrasch_stage1_brief" cube="cube_apply_heist_bank" id="lvl_friday" intro_event="Play_pln_mallcrasch_stage1_intro_a" max_bags="12" music="heist">
+	<level ai_group_type="america" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" id="lvl_friday" intro_event="friday_intro" max_bags="12" music="heist">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
@@ -13,10 +13,10 @@
 			<asset name="safe_escape"/>
 		</assets>
 		<include directory="levels/lvl_friday">
-			<file file="nav_manager_data.nav_data" type="binary"/>
 			<file file="world.world" type="binary"/>
 			<file file="continents.continents" type="binary"/>
 			<file file="mission.mission" type="binary"/>
+			<file file="nav_manager_data.nav_data" type="binary"/>
 			<file file="world_sounds.world_sounds" type="binary"/>
 			<file file="world_cameras.world_cameras" type="binary"/>
 			<file file="pc_only/pc_only.continent" type="binary"/>
@@ -33,8 +33,8 @@
 			<file file="environments/friday.environment" type="custom_xml"/>
 		</include>
 		<outro_event>
-			<value_node value="Play_pln_mallcrasch_stage1_end_a"/>
-			<value_node value="Play_pln_mallcrasch_stage1_end_b"/>
+			<value_node value="friday_escape_a"/>
+			<value_node value="friday_escape_b"/>
 		</outro_event>
 		<packages>
 			<value_node value="packages/vlad_mallcrasher"/>
@@ -63,7 +63,7 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="vld_mallcrashers_brf" contact="bain" icon="guis/friday" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
+	<narrative briefing_event="friday_brf" contact="bain" icon="guis/friday" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault"/>
 		</chain>
@@ -77,15 +77,15 @@
 			<value_node value="100000"/>
 		</contract_cost>
 		<crimenet_callouts>
-			<value_node value="vld_mallcrashers_cnc_01"/>
+			<value_node value="rze_friday_cnc_01"/>
 		</crimenet_callouts>
 		<crimenet_videos>
-			<value_node value="cn_mallcrash1"/>
-			<value_node value="cn_mallcrash2"/>
-			<value_node value="cn_mallcrash3"/>
+			<value_node value="cn_branchbank1"/>
+			<value_node value="cn_branchbank2"/>
+			<value_node value="cn_branchbank3"/>
 		</crimenet_videos>
 		<debrief_event>
-			<value_node value="vld_mallcrashers_debrief"/>
+			<value_node value="rze_friday_debrief"/>
 		</debrief_event>
 		<experience_mul>
 			<value_node value="1"/>
