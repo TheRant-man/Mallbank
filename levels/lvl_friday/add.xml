@@ -64,4 +64,12 @@
 	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	
+	<cooked_physics path="units/world/props/atm/atm"/>	
+	<unit path="units/world/props/atm/atm"/>
+	<object path="units/world/props/atm/atm"/>
+	<model path="units/world/props/atm/atm"/>	
+	<material_config path="units/world/props/atm/atm"/>
+	<texture path="units/world/props/atm/atm_df"/>
+	<texture path="units/world/props/atm/atm_nm"/>
 </table>
