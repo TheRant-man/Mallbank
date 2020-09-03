@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<unit type="bnk" slot="1">
+  <object file="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" />
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+  </extensions>
+</unit>
