@@ -1,6 +1,6 @@
 {
 	"bnk_open_shut":"Open the shutters",
-	"heist_lvl_friday_brief":"Okay, the Shield Mall.  You've all been here before for Vlad, years back.  Now, the Capitol Savings branch here wasn't open to the public at the time, but it shouldn't be anything you're not familiar with.  The mall has GenSec's 'anti-tamper security package', which means shutters, an electrified vault, and decent network security. Otherwise, this is simple:  breach the bank, the vault, get the cash, get gone. The usual.\n\nThere'll probably be plenty of civilians, so be aware if things go weapons hot.",
+	"heist_lvl_friday_brief":"Okay, the Shield Mall.  You've all been here before for Vlad, years back.  Now, the Capitol Savings branch here wasn't open to the public at the time, but it shouldn't be anything you're not familiar with.  The mall has White Mesa's 'anti-tamper security package', which means shutters, an electrified vault, and decent network security. Otherwise, this is simple:  breach the bank, the vault, get the cash, get gone. The usual.\n\nThere'll probably be plenty of civilians, so be aware if things get hot.",
 	"bnk_pku_drill_desc":"Wait for the pilot to arrive with the lance",
 	"heist_narr_friday_name":"Crashing Capitol",
 	"heist_lvl_friday_name":"Crashing Capitol",
