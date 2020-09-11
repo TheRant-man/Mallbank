@@ -10,7 +10,7 @@
 	"bnk_sec_off":"Disable the bank's security",
 	"bnk_sec_off_desc":"Locate a keypad inside the bank to disable its security.",
 	"bnk_enter":"Enter the back of the bank",
-	"bnk_enter_desc":"Find your way past the bank's security into the employee-only area."
+	"bnk_enter_desc":"Find your way past the bank's security into the employee-only area.",
 	"bnk_find":"Inspect the bank",
 	"bnk_find_desc":"Case the bank's security from the front side."
 }
