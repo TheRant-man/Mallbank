@@ -57,6 +57,7 @@
 			<value_node value="levels/narratives/e_framing_frame/stage_3/world/world"/>
 			<value_node value="levels/instances/unique/chew/chew_swat_van/world/world"/>
 			<value_node value="levels/narratives/dentist/mia/stage1/world/world"/>
+			<value_node value="packages/job_branchbank_cash"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
