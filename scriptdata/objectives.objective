@@ -4,4 +4,5 @@
 	<objective description="bnk_pku_drill_desc" id="bnk_pku_drill" text="bnk_pku_drill"/>
 	<objective description="bnk_find_desc" id="bnk_find" text="bnk_find"/>
 	<objective description="bnk_enter_desc" id="bnk_enter" text="bnk_enter"/>
+	<objective description="bnk_hack_desc" id="bnk_hack" text="bnk_hack"/>
 </table>
