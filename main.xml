@@ -5,38 +5,6 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<instance id="fri_office_hack">
-		<add directory="assets"/>
-		<include directory="levels/instances/fri_office_hack">
-			<file file="world.world" type="binary"/>
-			<file file="continents.continents" type="binary"/>
-			<file file="mission.mission" type="binary"/>
-			<file file="nav_manager_data.nav_data" type="binary"/>
-			<file file="world_sounds.world_sounds" type="binary"/>
-			<file file="world_cameras.world_cameras" type="binary"/>
-			<file file="world/world.continent" type="binary"/>
-			<file file="world/world.mission" type="binary"/>
-			<file file="cover_data.cover_data" type="binary"/>
-			<file file="environments/default.environment" type="custom_xml"/>
-			<file file="world.world" type="binary"/>
-			<file file="mission.mission" type="binary"/>
-			<file file="nav_manager_data.nav_data" type="binary"/>
-			<file file="cover_data.cover_data" type="binary"/>
-			<file file="world_sounds.world_sounds" type="binary"/>
-			<file file="world_cameras.world_cameras" type="binary"/>
-			<file file="world_cameras.world_cameras" type="binary"/>
-			<file file="continents.continents" type="binary"/>
-			<file file="world/world.continent" type="binary"/>
-			<file file="world/world.mission" type="binary"/>
-		</include>
-		<packages>
-			<value_node value="levels/instances/unique/sub_sewer_sidespawn/world/world"/>
-			<value_node value="levels/instances/unique/tag/tag_computer_hack/world"/>
-			<value_node value="levels/instances/unique/tag/tag_computer_hack/world_sounds"/>
-			<value_node value="levels/instances/unique/tag/tag_computer_hack/world/world"/>
-		</packages>
-		<script_data_mods directory="scriptdata"/>
-	</instance>
 	<level ai_group_type="america" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" id="lvl_friday" intro_event="friday_intro" max_bags="12" music="heist">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
