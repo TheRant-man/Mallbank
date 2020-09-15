@@ -5,4 +5,6 @@
 	<objective description="bnk_find_desc" id="bnk_find" text="bnk_find"/>
 	<objective description="bnk_enter_desc" id="bnk_enter" text="bnk_enter"/>
 	<objective description="bnk_hack_desc" id="bnk_hack" text="bnk_hack"/>
+	<objective description="bnk_hack_defend_desc" id="bnk_hack_defend" text="bnk_hack_defend"/>
+	<objective description="bnk_hack_resume_desc" id="bnk_hack_resume" text="bnk_hack_resume"/>
 </table>

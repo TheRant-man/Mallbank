@@ -28,7 +28,7 @@
 						<param key="ambient_color_scale" value="0.5"/>
 						<param key="ambient_color" value="0.39215686917305 0.29411765933037 0.29803922772408"/>
 						<param key="fog_max_range" value="200000"/>
-						<param key="bloom_threshold" value="0.74519032239914"/>
+						<param key="bloom_threshold" value="0.85000002384186"/>
 						<param key="sky_top_color_scale" value="0.60000002384186"/>
 						<param key="sky_top_color" value="0.79215687513351 0.81960785388947 1"/>
 						<param key="fog_min_range" value="0"/>
@@ -53,7 +53,7 @@
 					<bloom_lense>
 						<param key="lense_intensity" value="1"/>
 						<param key="bloom_blur_size" value="4"/>
-						<param key="bloom_intensity" value="0.5"/>
+						<param key="bloom_intensity" value="1"/>
 					</bloom_lense>
 				</bloom_combine>
 			</bloom_combine_post_processor>

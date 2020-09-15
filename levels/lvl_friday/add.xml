@@ -1,71 +1,18 @@
 <table directory="assets">
-	<texture path="levels/mods/lvl_friday/cube_lights/100061"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/104123"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/104294"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/104295"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/104370"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500006"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500007"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500009"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500025"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500028"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500051"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500151"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500226"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500230"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500257"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500492"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500502"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500549"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500551"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500553"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500596"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500639"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500640"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500642"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500643"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500646"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500679"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500680"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500683"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500684"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500685"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500686"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500687"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500688"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500689"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500690"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500700"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500721"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500740"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500843"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/500997"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/501059"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/501784"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/501803"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/501818"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/502069"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/502317"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/dome_occlusion"/>
-	
 	<unit path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
 	<object path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
 	<model path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
-	
 	<model path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
 	<object path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
 	<unit path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
-	
 	<unit path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
 	<object path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
 	<model path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
-	
 	<texture path="units/pd2_mod_friday/architecture/shared_textures/bnk_branch_signs_df"/>
-	
 	<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
-	
 	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" type="unit">
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<object path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
@@ -73,7 +20,6 @@
 		<material_config path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" unload="true"/>
 	</add>
-	
 	<add path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" type="unit">
 		<cooked_physics path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" unload="true"/>
 		<material_config path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" unload="true"/>
@@ -81,7 +27,26 @@
 		<object path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" unload="true"/>
 		<unit path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" unload="true"/>
 	</add>
-	
 	<material_config path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101802"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101794"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101728"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101807"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101729"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101806"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101791"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101793"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101798"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101792"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101808"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101801"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101783"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101786"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101787"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101785"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101800"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101654"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101788"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101799"/>
 </table>
