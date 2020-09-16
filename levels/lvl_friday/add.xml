@@ -54,4 +54,11 @@
 	</add>
 	<material_config path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100599"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100600"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100602"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100538"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100556"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100553"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100554"/>
 </table>
