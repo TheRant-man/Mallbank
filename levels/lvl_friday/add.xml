@@ -73,14 +73,15 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/101176"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101258"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101230"/>
-
 	<material_config path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
-	
 	<unit path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<model path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<object path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<material_config path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<texture path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter_df"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101022"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101789"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101790"/>
 </table>
