@@ -48,12 +48,10 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/101788"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101799"/>
 	<add path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" type="scene">
-		<scene load="true" path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
 		<material_config path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
 		<model path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
+		<scene load="true" path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
 	</add>
-	<material_config path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
-	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/100599"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/100600"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/100602"/>
@@ -75,4 +73,14 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/101176"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101258"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101230"/>
+
+	<material_config path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
+	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	
+	<unit path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
+	<model path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
+	<object path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
+	<material_config path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
+	<sequence_manager path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
+	<texture path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter_df"/>
 </table>

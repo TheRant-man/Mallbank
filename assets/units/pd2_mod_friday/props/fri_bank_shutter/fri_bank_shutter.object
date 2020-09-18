@@ -1,0 +1,68 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" orientation_object="rp_sfm_prop_bulletproof_shutter" />
+	<sequence_manager file="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter"/>
+	
+	<animations>
+		<animation_group name="shutters" enabled="false">
+			<object name="a_shutter_01" />
+			<object name="a_shutter_02" />
+			<object name="a_shutter_03" />
+			<object name="a_shutter_04" />
+			<object name="a_shutter_05" />
+			<object name="a_shutter_06" />
+		</animation_group>
+	</animations>
+
+	<bodies>
+		<body name="shutter_01" enabled="true" template="animated">
+			<object name="a_shutter_01" />
+			<object name="c_cube_01" collision_type="box" padding="-2.5" />
+		</body>
+		<body name="shutter_02" enabled="true" template="animated">
+			<object name="a_shutter_02" />
+			<object name="c_cube_02" collision_type="box" padding="-2.5" />
+		</body>
+		<body name="shutter_03" enabled="true" template="animated">
+			<object name="a_shutter_03" />
+			<object name="c_cube_03" collision_type="box" padding="-2.5" />
+		</body>
+		<body name="shutter_04" enabled="true" template="animated">
+			<object name="a_shutter_04" />
+			<object name="c_cube_04" collision_type="box" padding="-2.5" />
+		</body>
+		<body name="shutter_05" enabled="true" template="animated">
+			<object name="a_shutter_05" />
+			<object name="c_cube_05" collision_type="box" padding="-2.5" />
+		</body>
+		<body name="shutter_06" enabled="true" template="animated">
+			<object name="a_shutter_06" />
+			<object name="c_cube_06" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+
+
+	<decal_surfaces default_material="metal">
+		<decal_mesh name="dm_metal_01" enabled="true" material="metal" />
+		<decal_mesh name="dm_metal_02" enabled="true" material="metal" />
+		<decal_mesh name="dm_metal_03" enabled="true" material="metal" />
+		<decal_mesh name="dm_metal_04" enabled="true" material="metal" />
+		<decal_mesh name="dm_metal_05" enabled="true" material="metal" />
+		<decal_mesh name="dm_metal_06" enabled="true" material="metal" />
+	</decal_surfaces>
+
+	
+	<graphics>
+		<object name="g_shutter_01" enabled="true" shadow_caster="true" />
+		<object name="g_shutter_02" enabled="true" shadow_caster="true"  />
+		<object name="g_shutter_03" enabled="true" shadow_caster="true"  />
+		<object name="g_shutter_04" enabled="true" shadow_caster="true"  />
+		<object name="g_shutter_05" enabled="true" shadow_caster="true"  />
+		<object name="g_shutter_06" enabled="true" shadow_caster="true"  />
+		<object name="s_01" enabled="true" shadow_caster="true"/>
+		<object name="s_02" enabled="true" shadow_caster="true"/>
+		<object name="s_03" enabled="true" shadow_caster="true"/>
+		<object name="s_04" enabled="true" shadow_caster="true"/>
+		<object name="s_05" enabled="true" shadow_caster="true"/>
+		<object name="s_06" enabled="true" shadow_caster="true"/>
+	</graphics>
+</dynamic_object>
