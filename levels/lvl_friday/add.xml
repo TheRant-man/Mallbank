@@ -84,4 +84,15 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/101022"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101789"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101790"/>
+	<add path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" type="unit">
+		<unit path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" unload="true"/>
+		<object path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" unload="true"/>
+		<model path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" unload="true"/>
+		<material_config path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin" unload="true"/>
+		<sequence_manager path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" unload="true"/>
+		<unit path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/spawn_pumpkin_debri" unload="true"/>
+		<object path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/spawn_pumpkin_debri" unload="true"/>
+		<model path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/spawn_pumpkin_debri" unload="true"/>
+	</add>
+	<texture path="levels/mods/lvl_friday/cube_lights/101269"/>
 </table>

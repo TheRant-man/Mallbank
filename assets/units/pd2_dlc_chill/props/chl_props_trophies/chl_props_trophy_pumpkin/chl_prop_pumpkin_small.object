@@ -1,0 +1,16 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin" orientation_object="rp_chl_prop_pumpkin_small" />
+	<sequence_manager file="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_chl_prop_pumpkin_small" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="thin_layer">
+		<decal_mesh name="dm_pumpkin" enabled="true" material="thin_layer" />
+	</decal_surfaces>
+	<graphics>
+		<object name="g_g" enabled="true" />
+	</graphics>
+</dynamic_object>

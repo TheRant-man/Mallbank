@@ -7,4 +7,6 @@
 	<objective description="bnk_hack_desc" id="bnk_hack" text="bnk_hack"/>
 	<objective description="bnk_hack_defend_desc" id="bnk_hack_defend" text="bnk_hack_defend"/>
 	<objective description="bnk_hack_resume_desc" id="bnk_hack_resume" text="bnk_hack_resume"/>
+	<objective description="bnk_enter_offices_desc" id="bnk_enter_offices" text="bnk_enter_offices"/>
+	<objective description="bnk_find_hack_desc" id="bnk_find_hack" text="bnk_find_hack"/>
 </table>
