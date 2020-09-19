@@ -1,0 +1,11 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_prop_shop_pear_meshlogo_b" materials="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo"/>
+	<bodies>
+		<body name="static_body" enabled="true" template="editor">
+			<object name="c_box" collision_type="box" padding="-2.5"/>
+		</body>
+	</bodies>
+    <graphics>
+        <object enabled="true" name="g_g" />
+    </graphics>
+</dynamic_object>

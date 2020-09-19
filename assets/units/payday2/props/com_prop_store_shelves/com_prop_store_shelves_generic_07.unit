@@ -1,0 +1,6 @@
+<unit type="com" slot="1" >
+    <object file="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

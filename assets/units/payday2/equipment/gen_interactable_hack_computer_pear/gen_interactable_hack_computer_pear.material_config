@@ -1,0 +1,44 @@
+<materials version="3">
+    <material name="mat_hack" render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE" version="2">
+        <diffuse_texture file="units/payday2/equipment/gen_interactable_hack_computer_pear/hack_screen_df"/>
+        <variable value="monitor" type="scalar" name="intensity"/>
+    </material>
+    <material name="mat_hack_mull" render_template="effect:BLEND_MUL:DIFFUSE0_TEXTURE" version="2">
+        <diffuse_texture file="units/payday2/equipment/gen_interactable_hack_computer_pear/hack_screen_df"/>
+        <variable value="monitor" type="scalar" name="intensity"/>
+    </material>
+    <material name="mat_monitor" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/payday2/props/bnk_prop_office_desk_shelves_props/bnk_prop_office_desk_monitor_df"/>
+        <bump_normal_texture file="units/payday2/props/bnk_prop_office_desk_shelves_props/bnk_prop_office_desk_monitor_nm"/>
+        <reflection_texture type="cubemap" file="units/payday2/cubemaps/cubemap_gold_light_df"/>
+        <variable value="1 0 2" type="vector3" name="environment_settings"/>
+    </material>
+    <material name="mat_monitor_picture" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION" version="2">
+        <diffuse_texture file="units/payday2/props/bnk_prop_office_desk_shelves_props/bnk_prop_office_desk_monitor_display_df"/>
+        <self_illumination_texture file="units/payday2/props/bnk_prop_office_desk_shelves_props/bnk_prop_office_desk_monitor_display_df"/>
+        <variable value="monitor" type="scalar" name="il_multiplier"/>
+    </material>
+    <material name="mat_hack_anim" version="2" render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE:DIFFUSE0_UVANIM:SKINNED_3WEIGHTS">
+        <diffuse_texture file="units/payday2/equipment/gen_interactable_hack_computer_pear/hack_screen_df"/>
+        <variable value="monitor" type="scalar" name="intensity"/>
+        <variable value="0 0.1 0" type="vector3" name="uv0_speed"/>
+    </material>
+    <material name="mat_hack_scroll" version="2" render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE:DIFFUSE0_UVANIM">
+        <diffuse_texture file="units/payday2/equipment/gen_interactable_hack_computer_pear/hack_screen_df"/>
+        <variable value="monitor" type="scalar" name="intensity"/>
+        <variable value="0 0.10000000149012 0" type="vector3" name="uv0_speed"/>
+    </material>
+    <material version="2" decal_material="glass_breakable" name="mat_glass" render_template="opacity:CUBE_ENVIRONMENT_MAPPING:CUBE_FRESNEL:DIFFUSE_TEXTURE">
+        <variable value="0 1 0.59999996423721" type="vector3" name="fresnel_settings"/>
+        <opacity_texture file="units/payday2/glass/glass_clear_small_op"/>
+        <diffuse_texture file="units/payday2/glass/glass_clear_small_df"/>
+        <reflection_texture file="environments/cubemaps/cubemap_big_office" type="cubemap"/>
+    </material>
+
+    <material name="mtr_outline" unique="true" version="2" render_template="generic:ALPHA_MASKED:CONTOUR:DIFFUSE_TEXTURE:OPACITY_TEXTURE">
+        <diffuse_texture file="units/white_df"/>
+        <variable value="1 0.5 0" type="vector3" name="contour_color"/>
+        <variable value="1" type="scalar" name="contour_opacity"/>
+        <opacity_texture file="units/transparent_op"/>
+    </material>
+</materials>

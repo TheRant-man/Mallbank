@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<unit type="gen" slot="1">
+  <object file="units/payday2/props/gen_interactable_prop_ipad/gen_interactable_prop_ipad" />
+   <network sync="spawn"/>
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+	<extension name="damage" class="UnitDamage" />
+    <extension name="base" class="SmallLootBase">
+    	<var name="small_loot" value="money_bundle" />
+    </extension>
+	<extension name="interaction" class="SmallLootInteractionExt">
+		<var name="tweak_data" value="pickup_tablet" />
+	</extension>
+  </extensions>
+</unit>

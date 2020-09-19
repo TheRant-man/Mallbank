@@ -1,0 +1,20 @@
+<unit type="gen" slot="1" >
+    <object file="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear_keyboard" />
+    <network sync="spawn"/>
+	<dependencies>
+		<depends_on bnk="soundbanks/regular_sfx" />
+	</dependencies>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="UseInteractionExt">
+			<var name="drop_in_sync_tweak_data" value="true" />
+			<var name="tweak_data" value="big_computer_hackable" />
+			<var name="_interact_object" value="int_locator"/>
+			<!-- <var name="_ray_object_names" type="table" >
+				<var value="a_ray1"/>
+				<var value="a_ray2"/>
+			</var> -->
+		</extension>
+	</extensions>
+</unit>

@@ -1,24 +1,19 @@
 <table directory="assets">
 	<texture path="levels/mods/lvl_friday/cube_lights/dome_occlusion"/>
-	
 	<unit path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
 	<object path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
 	<model path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
-	
 	<model path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
 	<object path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
 	<unit path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
-	
 	<unit path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
 	<object path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
 	<model path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
-	
 	<texture path="units/pd2_mod_friday/architecture/shared_textures/bnk_branch_signs_df"/>
 	<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
-	
 	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" type="unit">
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" unload="true"/>
@@ -78,20 +73,61 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/101789"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101790"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101269"/>
-	
 	<add path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" type="scene">
 		<material_config path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
 		<model path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
 		<scene load="true" path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
 	</add>
-	
 	<material_config path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
-	
 	<unit path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<model path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<object path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<material_config path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<texture path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter_df"/>
-	
+	<add path="units/pd2_dlc_moon/props/moo_interactable_prop_ipad/moo_interactable_prop_ipad" type="unit">
+		<material_config path="units/payday2/props/gen_interactable_prop_ipad/gen_interactable_prop_ipad" unload="true"/>
+		<model path="units/payday2/props/gen_interactable_prop_ipad/gen_interactable_prop_ipad" unload="true"/>
+		<object path="units/payday2/props/gen_interactable_prop_ipad/gen_interactable_prop_ipad" unload="true"/>
+		<sequence_manager path="units/payday2/props/gen_interactable_prop_ipad/gen_interactable_prop_ipad" unload="true"/>
+		<unit path="units/pd2_dlc_moon/props/moo_interactable_prop_ipad/moo_interactable_prop_ipad" unload="true"/>
+	</add>
+	<add path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear" type="unit">
+		<material_config path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear" unload="true"/>
+		<model path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear" unload="true"/>
+		<object path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear" unload="true"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear" unload="true"/>
+		<unit path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear" unload="true"/>
+	</add>
+	<add path="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo_b" type="unit">
+		<material_config path="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo" unload="true"/>
+		<model path="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo_b" unload="true"/>
+		<object path="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo_b" unload="true"/>
+		<unit path="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo_b" unload="true"/>
+	</add>
+	<add path="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo_a" type="unit">
+		<material_config path="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo" unload="true"/>
+		<model path="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo_a" unload="true"/>
+		<object path="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo_a" unload="true"/>
+		<unit path="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo_a" unload="true"/>
+	</add>
+	<add path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear_keyboard" type="unit">
+		<material_config path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear" unload="true"/>
+		<model path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear_keyboard" unload="true"/>
+		<object path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear_keyboard" unload="true"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear_keyboard" unload="true"/>
+		<unit path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear_keyboard" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" type="unit">
+		<material_config path="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" unload="true"/>
+		<model path="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" unload="true"/>
+		<object path="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" unload="true"/>
+		<unit path="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" unload="true"/>
+	</add>
+	<add path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" type="unit">
+		<unit path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
+		<object path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
+		<model path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
+		<material_config path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic" unload="true"/>
+	</add>
 </table>

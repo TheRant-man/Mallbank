@@ -1,0 +1,6 @@
+<unit type="com" slot="1" >
+    <object file="units/payday2/props/com_prop_shop_pear/com_prop_shop_pear_meshlogo_b" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

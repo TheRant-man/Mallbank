@@ -1,0 +1,24 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" orientation_object="rp_lxa_prop_livingroom_tv_uhd" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_lxa_prop_livingroom_tv_uhd" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+			<object name="c_box_02" collision_type="box" padding="-2.5" />
+			<object name="c_box_03" collision_type="box" padding="-2.5" />
+			<object name="c_box_04" collision_type="box" padding="-2.5" />
+			<object name="c_box_05" collision_type="box" padding="-2.5" />
+			<object name="c_box_06" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="plastic">
+		<decal_mesh name="dm_glass" enabled="true" material="glass_breakable" />
+		<decal_mesh name="dm_plastic" enabled="true" material="plastic" />
+	</decal_surfaces>
+	<graphics>
+		<lod_object name="lod_g">
+			<object name="g_lod0" enabled="true" max_distance="1500" />
+			<object name="g_lod1" enabled="true" />
+		</lod_object>
+	</graphics>
+</dynamic_object>
