@@ -125,9 +125,13 @@
 		<unit path="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" unload="true"/>
 	</add>
 	<add path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" type="unit">
-		<unit path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
-		<object path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
-		<model path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
 		<material_config path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic" unload="true"/>
+		<model path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
+		<object path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
+		<unit path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
 	</add>
+	
+	<unit path="units/pd2_mod_friday/mockup/occluder_friday"/>
+	<object path="units/pd2_mod_friday/mockup/occluder_friday" />
+	<model path="units/pd2_mod_friday/mockup/occluder_friday" />
 </table>
