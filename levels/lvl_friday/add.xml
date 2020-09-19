@@ -1,18 +1,24 @@
 <table directory="assets">
 	<texture path="levels/mods/lvl_friday/cube_lights/dome_occlusion"/>
+	
 	<unit path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
 	<object path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
 	<model path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
+	
 	<model path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
 	<object path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
 	<unit path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
+	
 	<unit path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
 	<object path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
 	<model path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
+	
 	<texture path="units/pd2_mod_friday/architecture/shared_textures/bnk_branch_signs_df"/>
 	<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	
 	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" type="unit">
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" unload="true"/>
@@ -47,11 +53,6 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/101654"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101788"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101799"/>
-	<add path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" type="scene">
-		<material_config path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
-		<model path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
-		<scene load="true" path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
-	</add>
 	<texture path="levels/mods/lvl_friday/cube_lights/100599"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/100600"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/100602"/>
@@ -73,26 +74,24 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/101176"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101258"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101230"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101022"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101789"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101790"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101269"/>
+	
+	<add path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" type="scene">
+		<material_config path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
+		<model path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
+		<scene load="true" path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
+	</add>
+	
 	<material_config path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
-	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	
 	<unit path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<model path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<object path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<material_config path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
 	<texture path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter_df"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/101022"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/101789"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/101790"/>
-	<add path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" type="unit">
-		<unit path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" unload="true"/>
-		<object path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" unload="true"/>
-		<model path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" unload="true"/>
-		<material_config path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin" unload="true"/>
-		<sequence_manager path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/chl_prop_pumpkin_small" unload="true"/>
-		<unit path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/spawn_pumpkin_debri" unload="true"/>
-		<object path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/spawn_pumpkin_debri" unload="true"/>
-		<model path="units/pd2_dlc_chill/props/chl_props_trophies/chl_props_trophy_pumpkin/spawn_pumpkin_debri" unload="true"/>
-	</add>
-	<texture path="levels/mods/lvl_friday/cube_lights/101269"/>
+	
 </table>
