@@ -10,4 +10,5 @@
 	<objective description="bnk_find_hack_desc" id="bnk_find_hack" text="bnk_find_hack"/>
 	<objective description="bnk_find_hard_drive_desc" id="bnk_find_hard_drive" text="bnk_find_hard_drive"/>
 	<objective description="bnk_mac_attack_desc" id="bnk_mac_attack_drive" text="bnk_mac_attack_drive"/>
+	<objective description="bnk_pku_drill2_desc" id="bnk_pku_drill2" text="bnk_pku_drill2"/>
 </table>
