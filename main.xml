@@ -62,6 +62,8 @@
 			<value_node value="levels/narratives/bain/arena/backdrop/backdrop"/>
 			<value_node value="levels/narratives/locke/vit/props1/props1"/>
 			<value_node value="levels/instances/unique/pbr/pbr_hardware_store/world/world"/>
+			<value_node value="levels/instances/unique/dark/murky_computer/world/world"/>
+			<value_node value="levels/instances/unique/train_cam_computer/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
