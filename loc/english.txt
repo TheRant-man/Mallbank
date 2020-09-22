@@ -7,8 +7,8 @@
 	"heist_narr_friday_name":"Crashing Capitol",
 	"heist_lvl_friday_name":"Crashing Capitol",
 	
-	"bnk_open_shut":"Open the shutters",
-	"bnk_open_shut_desc":"Get to the shutters and saw them open!",
+	"bnk_open_shut":"Saw the shutter",
+	"bnk_open_shut_desc":"Saw the shutter open, remember to defend your saw!",
 	
 	"heist_narr_friday_brief":"Nico wants you to hit a bank that's holding money for a cartel.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal the cash\n»Escape",
 	
