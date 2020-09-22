@@ -42,5 +42,5 @@
 	"bnk_pku_drill2":"Get the drill",
 	"bnk_pku_drill2_desc":"The pilot has delivered the drill, go get it!"
 	
-	"hud_int_keyboard_eday_2":"Start the override"
+	"hud_int_keyboard_eday_2":"Hold [] to start the override"
 }
