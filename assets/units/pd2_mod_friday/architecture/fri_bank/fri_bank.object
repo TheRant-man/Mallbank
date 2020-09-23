@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <dynamic_object>
-	<diesel materials="units/pd2_mod_friday/architecture/branchbank/branchbank" orientation_object="rp_root" />
+	<diesel materials="units/pd2_mod_friday/architecture/fri_bank/fri_bank" orientation_object="rp_root" />
 	<bodies>
         <body name="static_body" template="static" enabled="true" >
 			<object name="c_mesh" 			collision_type="mesh_mopp" />

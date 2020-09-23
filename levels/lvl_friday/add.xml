@@ -1,19 +1,23 @@
 <table directory="assets">
 	<texture path="levels/mods/lvl_friday/cube_lights/dome_occlusion"/>
-	<unit path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
-	<object path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
-	<model path="units/pd2_mod_friday/architecture/branchbank/branchbank"/>
-	<model path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
-	<object path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
-	<unit path="units/pd2_mod_friday/architecture/branchbank/secroom"/>
-	<unit path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
-	<object path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
-	<model path="units/pd2_mod_friday/architecture/branchbank/votingplace"/>
+	<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
+	<object path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
+	<model path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
+	<model path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room"/>
+	<object path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room"/>
+	<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room"/>
+	<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge"/>
+	<object path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge"/>
+	<model path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge"/>
+	<material_config path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
 	<texture path="units/pd2_mod_friday/architecture/shared_textures/bnk_branch_signs_df"/>
 	<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	<unit path="units/pd2_mod_friday/props/fri_bank_logo/fri_bank_logo"/>
+	<object path="units/pd2_mod_friday/props/fri_bank_logo/fri_bank_logo"/>
+	<model path="units/pd2_mod_friday/props/fri_bank_logo/fri_bank_logo"/>
 	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" type="unit">
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" unload="true"/>
@@ -130,8 +134,13 @@
 		<object path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
 		<unit path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
 	</add>
-	
 	<unit path="units/pd2_mod_friday/mockup/occluder_friday"/>
-	<object path="units/pd2_mod_friday/mockup/occluder_friday" />
-	<model path="units/pd2_mod_friday/mockup/occluder_friday" />
+	<object path="units/pd2_mod_friday/mockup/occluder_friday"/>
+	<model path="units/pd2_mod_friday/mockup/occluder_friday"/>
+	
+	<unit path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
+	<object path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
+	<model path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
+	<material_config path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
+	<texture path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag_df" unload="true"/>
 </table>

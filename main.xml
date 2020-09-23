@@ -64,6 +64,7 @@
 			<value_node value="levels/instances/unique/dark/murky_computer/world/world"/>
 			<value_node value="levels/instances/unique/train_cam_computer/world/world"/>
 			<value_node value="levels/narratives/dentist/mia/stage1/world/world"/>
+			<value_node value="levels/instances/unique/dark/equipment_board/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

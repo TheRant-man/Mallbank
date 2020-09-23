@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <dynamic_object>
-	<diesel materials="units/pd2_mod_friday/architecture/branchbank/branchbank" orientation_object="rp_bnk_voting_place" />
+	<diesel materials="units/pd2_mod_friday/architecture/fri_bank/fri_bank" orientation_object="rp_bnk_voting_place" />
 	<bodies>
         <body name="static_body" template="static" enabled="true" >
             <object name="rp_bnk_voting_place"/>
