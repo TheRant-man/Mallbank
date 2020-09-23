@@ -15,7 +15,7 @@
 	</dependencies>
 	<extensions>
 		<extension name="base" class="MissionDoor" >
-			<var name="tweak_data" value="drill_door_no_jam" />
+			<var name="tweak_data" value="drill_door" />
 		</extension>
 		<extension class="ScriptUnitData" name="unit_data" />
 		<extension name="damage" class="UnitDamage" />
