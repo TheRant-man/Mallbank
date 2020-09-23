@@ -1,5 +1,7 @@
 {
-	"heist_lvl_friday_brief":"I've got a new contact, an upcoming Colombian weapons dealer, informing me about a rival cartel moving some cash discretely. They're using a branch of Capitol Savings Bank inside the Shield Mall to hold it for now. That mall must attract criminals and gang wars, huh? Anyway, the bank's security should be pretty standard, and the layout should be familiar, but we'll need to take down the vault's boobytraps. There may be some opportunities for extra loot, but remember: the goal here is the money on the table.",
+	"heist_lvl_friday_brief":"You've all been to the Shield Mall before for Vlad, years back, but the Capitol Savings branch here wasn't open to the public at the time. Its layout is similar to other branches, but its security is notable; rudimentary, but effective. Metal detectors, shutters, cameras, and a rumored boobytrapped bank vault. Otherwise, this is simple:  breach the bank, the vault, get the cash, get gone. The usual. You can keep your hands clean on this if you know your way around, but just in case things go bad, you'll be carrying a saw on your person. Good luck, and watch for civilians.",
+	
+	"heist_narr_friday_brief":"Nico wants you to hit a bank that's holding money for a cartel.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vaultn»Steal the cash\n»Escape",
 	
 	"bnk_pku_drill":"Wait for the drill",
 	"bnk_pku_drill_desc":"Wait for the pilot to arrive with the lance.",
@@ -9,8 +11,6 @@
 	
 	"bnk_open_shut":"Saw the shutter",
 	"bnk_open_shut_desc":"Saw the shutter open, remember to defend your saw!",
-	
-	"heist_narr_friday_brief":"Nico wants you to hit a bank that's holding money for a cartel.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal the cash\n»Escape",
 	
 	"bnk_sec_off":"Disable the bank's security",
 	"bnk_sec_off_desc":"Locate a keypad inside the bank to disable its security.",
@@ -42,5 +42,5 @@
 	"bnk_pku_drill2":"Get the drill",
 	"bnk_pku_drill2_desc":"The pilot has delivered the drill, go get it!"
 	
-	"hud_int_keyboard_eday_2":"Hold [] to start the override"
+	"hud_int_keyboard_eday_2":"Hold $BTN_INTERACT to start the override"
 }
