@@ -9,7 +9,7 @@
         <bump_normal_texture file="units/payday2/architecture/bnk_branch/bnk_branch_02_nm"/>
     </material>
     <material name="mat_bnk_branch_floor_01" version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT:VERTEX_COLOR" >
-        <diffuse_texture file="units/payday2/architecture/bnk_branch/bnk_branch_floor_02_df"/>
+        <diffuse_texture file="units/pd2_dlc_red/architecture/textures/red_int_carpet_df"/>
         <bump_normal_texture file="units/payday2/architecture/bnk_branch/bnk_branch_floor_02_nm"/>
     </material>
     <material name="mat_bnk_branch_ceiling_01" version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_CORE_ENVIRONMENT" >
