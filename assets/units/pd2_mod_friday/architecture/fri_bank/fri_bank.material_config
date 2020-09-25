@@ -44,4 +44,12 @@
         <bump_normal_texture file="units/payday2/glass/glass_shattered_nm"/>
         <reflection_texture type="cubemap" file="units/payday2/cubemaps/cubemap_steel"/>
     </material>
+	
+	<material version="2" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP" name="mtr_vault_door_light">
+        <diffuse_texture file="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_df"/>
+        <bump_normal_texture file="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_nm"/>
+        <variable value="candle" type="scalar" name="il_multiplier"/>
+        <reflection_texture file="units/payday2/cubemaps/cubemap_silver_df" type="cubemap"/>
+        <variable value="1 0 2" type="vector3" name="environment_settings"/>
+    </material>  	
 </materials>
