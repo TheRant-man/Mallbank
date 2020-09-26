@@ -36,8 +36,8 @@
 	"bnk_find_hard_drive":"Grab the hard drive",
 	"bnk_find_hard_drive_desc":"Take the server's hard drive and wait for Raze's plan B."
 	
-	"bnk_mac_attack":"Get to the Pear Store",
-	"bnk_mac_attack_desc":"The Pear Store might have a viable computer to use, take the hard drive there."
+	"bnk_mac_attack_drive":"Get to the Pear Store",
+	"bnk_mac_attack_drive_desc":"The Pear Store might have a viable computer to use, take the hard drive there."
 	
 	"bnk_pku_drill2":"Get the drill",
 	"bnk_pku_drill2_desc":"The pilot has delivered the drill, go get it!"
