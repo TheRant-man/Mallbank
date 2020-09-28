@@ -137,10 +137,11 @@
 	<unit path="units/pd2_mod_friday/mockup/occluder_friday"/>
 	<object path="units/pd2_mod_friday/mockup/occluder_friday"/>
 	<model path="units/pd2_mod_friday/mockup/occluder_friday"/>
-	
 	<unit path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 	<object path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 	<model path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 	<material_config path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 	<texture path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag_df" unload="true"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100758"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100795"/>
 </table>
