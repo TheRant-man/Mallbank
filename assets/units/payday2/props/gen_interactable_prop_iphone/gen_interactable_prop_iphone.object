@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/payday2/props/gen_interactable_prop_iphone/gen_interactable_prop_iphone" orientation_object="rp_iphone" />
+  <sequence_manager file="units/payday2/props/gen_interactable_prop_iphone/gen_interactable_prop_iphone" />
+  <bodies>
+    <body name="static_body" enabled="true" template="editor">
+      <object name="c_iphone" collision_type="box" />
+    </body>
+  </bodies>
+  <graphics>
+    <object name="g_iphone" enabled="true" />
+    <object name="g_display_on" enabled="false" />
+    <object name="g_display_off" enabled="true" />
+  </graphics>
+</dynamic_object>
