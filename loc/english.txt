@@ -45,4 +45,8 @@
 	"hud_int_keyboard_eday_2":"Hold $BTN_INTERACT to start the override"
 	
 	"hud_cam_access_camera_exit":"Side Exit"
+	
+	"hud_cam_access_camera_floor3":"Mall Floor 3"
+	
+	"hud_cam_access_camera_floor2":"Mall Floor 2"
 }
