@@ -32,48 +32,34 @@
 		<object path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 	</add>
 	
-	<!--MORE BANK GUARDS, HUH?!--
-	<add path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" type="unit"/>
-		<material_config path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>	
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>	
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>		
-		<material_config path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_contour" unload="true"/>	
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_husk" unload="true"/>
-	</add>
-	<add path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" type="unit"/>
-		<material_config path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>	
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>	
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>		
-		<material_config path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2_contour" unload="true"/>	
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2_husk" unload="true"/>
-	</add>
-	<add path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" type="unit"/>
-		<material_config path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>	
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>	
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>		
-		<material_config path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3_contour" unload="true"/>	
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3_husk" unload="true"/>
-	</add>
-	<add path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" type="unit"/>
-		<material_config path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>	
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_1" unload="true"/>	
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_1" unload="true"/>	
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>		
-		<material_config path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4_contour" unload="true"/>	
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4_husk" unload="true"/>
-	</add>
-	<add path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" type="unit"/>
-		<material_config path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>	
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>	
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>	
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>		
-		<material_config path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5_contour" unload="true"/>	
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5_husk" unload="true"/>
-	</add>
-	!--Guards end here-->
+	<!--MORE BANK GUARDS, HUH?!-->
+	<material_config path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" />
+	<material_config path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_contour" />
+	<model path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" />	
+	<object path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" />	
+	<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" />		
+	<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_husk" />
+	
+	<model path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" />	
+	<object path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2"/>	
+	<unit path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" />		
+	<unit path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2_husk"/>
+	
+	<model path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" />	
+	<object path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" />	
+	<unit path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" />		
+	<unit path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3_husk" />
+	
+	<model path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4"/>	
+	<object path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" />	
+	<unit path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4"/>		
+	<unit path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4_husk"/> 
+		
+	<model path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5"/>	
+	<object path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" />	
+	<unit path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5"/>		
+	<unit path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5_husk"/> 
+	<!--Guards end here-->
 	
 	<add path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" type="unit">
 		<cooked_physics path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" unload="true"/>
