@@ -1,0 +1,12 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_prop_sign_kranich_8x2m_il" materials="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_8x2m_il" />
+    <bodies>
+        <body enabled="true" template="editor" name="editor_body" >
+            <object collision_type="box" name="c_box_editor" />
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_g" />
+        <object enabled="true" name="g_add" />
+    </graphics>
+</dynamic_object>

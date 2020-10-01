@@ -1,0 +1,11 @@
+<materials version="3">
+    <material name="mat_sign" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION" version="2">
+        <diffuse_texture file="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_df"/>
+        <self_illumination_texture file="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_df"/>
+        <variable value="candle" type="scalar" name="il_multiplier"/>
+    </material>
+    <material name="mat_add" render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE" version="2">
+        <diffuse_texture file="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_df"/>
+        <variable value="sun" type="scalar" name="intensity"/>
+    </material>
+</materials>
