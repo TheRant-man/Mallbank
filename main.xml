@@ -5,12 +5,13 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="america" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" id="lvl_friday" intro_event="friday_intro" max_bags="12" music="heist">
+	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" ghost_bonus="0.1" id="lvl_friday" intro_event="friday_intro" max_bags="20" music="heist" orig_id="lvl_friday" player_style="generic" repossess_bags="true">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
 			<asset name="mallcrasher_ammo"/>
 			<asset name="safe_escape"/>
+			<asset name="camera_access"/>
 		</assets>
 		<include directory="levels/lvl_friday">
 			<file file="world.world" type="binary"/>
