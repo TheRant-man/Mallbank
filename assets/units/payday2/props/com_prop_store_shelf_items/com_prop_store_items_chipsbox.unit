@@ -1,0 +1,7 @@
+<unit type="com" slot="1" >
+    <object file="units/payday2/props/com_prop_store_shelf_items/com_prop_store_items_chipsbox" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+        <extension class="UnitDamage" name="damage" />
+    </extensions>
+</unit>

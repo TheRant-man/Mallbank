@@ -1,0 +1,6 @@
+<unit type="bor" slot="1">
+	<object file="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+	</extensions>
+</unit>

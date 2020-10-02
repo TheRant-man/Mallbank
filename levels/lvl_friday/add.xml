@@ -174,8 +174,24 @@
 		<unit path="units/payday2/equipment/gen_interactable_objective_server/gen_interactable_objective_server" unload="true"/>
 	</add>
 	<add path="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_8x2m_il" type="unit">
-		<unit path="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_8x2m_il" unload="true"/>
-		<object path="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_8x2m_il" unload="true"/>
 		<material_config path="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_8x2m_il" unload="true"/>
+		<object path="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_8x2m_il" unload="true"/>
+		<unit path="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_8x2m_il" unload="true"/>
+	</add>
+	<add path="units/payday2/props/com_prop_barista_cup/com_prop_barista_cup_stack_tall" type="unit">
+		<material_config path="units/payday2/props/com_prop_barista_cup/com_prop_barista_cup" unload="true"/>
+		<object path="units/payday2/props/com_prop_barista_cup/com_prop_barista_cup_stack_tall" unload="true"/>
+		<unit path="units/payday2/props/com_prop_barista_cup/com_prop_barista_cup_stack_tall" unload="true"/>
+	</add>
+	<add path="units/payday2/props/com_prop_store_shelf_items/com_prop_store_items_chipsbox" type="unit">
+		<material_config path="units/payday2/props/com_prop_store_shelf_items/com_prop_store_items" unload="true"/>
+		<object path="units/payday2/props/com_prop_store_shelf_items/com_prop_store_items_chipsbox" unload="true"/>
+		<sequence_manager path="units/payday2/props/com_prop_store_shelf_items/com_prop_store_items_chipsbox" unload="true"/>
+		<unit path="units/payday2/props/com_prop_store_shelf_items/com_prop_store_items_chipsbox" unload="true"/>
+	</add>
+	<add path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" type="unit">
+		<unit path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" unload="true"/>
+		<object path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" unload="true"/>
+		<material_config path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_tavern" unload="true"/>
 	</add>
 </table>

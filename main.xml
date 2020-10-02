@@ -14,10 +14,10 @@
 			<asset name="camera_access"/>
 		</assets>
 		<include directory="levels/lvl_friday">
+			<file file="nav_manager_data.nav_data" type="binary"/>
 			<file file="world.world" type="binary"/>
 			<file file="continents.continents" type="binary"/>
 			<file file="mission.mission" type="binary"/>
-			<file file="nav_manager_data.nav_data" type="binary"/>
 			<file file="world_sounds.world_sounds" type="binary"/>
 			<file file="world_cameras.world_cameras" type="binary"/>
 			<file file="halloween_props/halloween_props.continent" type="binary"/>
@@ -69,6 +69,7 @@
 			<value_node value="levels/instances/unique/crojob/random_loot/world/world"/>
 			<value_node value="levels/instances/unique/red/red_hacking_quick/world/world"/>
 			<value_node value="levels/narratives/dentist/mia/stage1/world/world"/>
+			<value_node value="levels/instances/unique/pbr/pbr_gas_station/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

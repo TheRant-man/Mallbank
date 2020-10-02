@@ -1,0 +1,16 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_prop_store_items_chipsbox" materials="units/payday2/props/com_prop_store_shelf_items/com_prop_store_items" />
+	<sequence_manager file="units/payday2/props/com_prop_store_shelf_items/com_prop_store_items_chipsbox" />
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+			<object name="c_box_01" collision_type="box" padding="-2.5"/>
+        </body>
+        <body enabled="false" template="small_prop" name="dynamic_body" >
+			<object name="rp_com_prop_store_items_chipsbox" />
+			<object name="c_box_01" collision_type="box" mass="1" padding="-2.5"/>
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_g" />
+    </graphics>
+</dynamic_object>

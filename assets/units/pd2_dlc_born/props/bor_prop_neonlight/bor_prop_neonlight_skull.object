@@ -1,0 +1,12 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_tavern" orientation_object="rp_bor_prop_neonlight_skull" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_bor_prop_neonlight_skull" />
+			<object name="c_box" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<graphics>
+		<object name="g_g" enabled="true" />
+	</graphics>
+</dynamic_object>

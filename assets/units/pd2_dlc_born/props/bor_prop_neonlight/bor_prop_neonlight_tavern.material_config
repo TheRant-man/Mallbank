@@ -1,0 +1,22 @@
+<materials version="3">
+    <material name="mat_bor_neonlight" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM" version="2">
+        <diffuse_texture file="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_df"/>
+        <bump_normal_texture file="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_nm"/>
+        <self_illumination_texture file="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_il"/>
+        <variable value="neonsign" type="scalar" name="il_multiplier"/>
+        <variable value="3.41100025177" type="scalar" name="il_bloom"/>
+    </material>
+    <material name="mat_bor_neonlight_flash" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION:SELF_ILLUMINATION_UVANIM" version="2">
+        <diffuse_texture file="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_df"/>
+        <self_illumination_texture file="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_flash_il"/>
+        <variable value="-3.3329999446869 -3.7979998588562 0" type="vector3" name="uv_speed"/>
+        <variable value="neonsign" type="scalar" name="il_multiplier"/>
+    </material>
+    <material name="mat_bor_neonlight_flash_b" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION:SELF_ILLUMINATION_BLOOM:SELF_ILLUMINATION_UVANIM" version="2">
+        <diffuse_texture file="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_df"/>
+        <self_illumination_texture file="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_flash_b_il"/>
+        <variable value="2 0 0" type="vector3" name="uv_speed"/>
+        <variable value="neonsign" type="scalar" name="il_multiplier"/>
+        <variable value="3.7980000972748" type="scalar" name="il_bloom"/>
+    </material>
+</materials>

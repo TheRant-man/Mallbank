@@ -1,0 +1,6 @@
+<materials version="3">
+    <material version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="mat_items">
+        <diffuse_texture file="units/payday2/props/com_prop_store_shelf_items/com_prop_store_shelv_items_df"/>
+        <bump_normal_texture file="units/payday2/props/com_prop_store_shelf_items/com_prop_store_shelv_items_nm"/>
+    </material>
+</materials>
