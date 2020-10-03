@@ -14,10 +14,10 @@
 			<asset name="camera_access"/>
 		</assets>
 		<include directory="levels/lvl_friday">
-			<file file="nav_manager_data.nav_data" type="binary"/>
 			<file file="world.world" type="binary"/>
 			<file file="continents.continents" type="binary"/>
 			<file file="mission.mission" type="binary"/>
+			<file file="nav_manager_data.nav_data" type="binary"/>
 			<file file="world_sounds.world_sounds" type="binary"/>
 			<file file="world_cameras.world_cameras" type="binary"/>
 			<file file="halloween_props/halloween_props.continent" type="binary"/>
