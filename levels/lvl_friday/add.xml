@@ -15,17 +15,14 @@
 	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
-	<unit path="units/pd2_mod_friday/props/fri_bank_logo/fri_bank_logo"/>
-	<object path="units/pd2_mod_friday/props/fri_bank_logo/fri_bank_logo"/>
-	<model path="units/pd2_mod_friday/props/fri_bank_logo/fri_bank_logo"/>
 	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" type="unit">
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" unload="true"/>
 		<material_config path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<object path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 	</add>
-	<material_config path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
-	<material_config path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_contour"/>
+	<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870"/>
+	<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870_contour"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
 	<object path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
 	<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
@@ -147,9 +144,6 @@
 		<object path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
 		<unit path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
 	</add>
-	<unit path="units/pd2_mod_friday/mockup/occluder_friday"/>
-	<object path="units/pd2_mod_friday/mockup/occluder_friday"/>
-	<model path="units/pd2_mod_friday/mockup/occluder_friday"/>
 	<unit path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 	<object path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 	<model path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
