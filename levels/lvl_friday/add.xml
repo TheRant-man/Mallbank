@@ -100,12 +100,6 @@
 		<material_config path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
 		<scene load="true" path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
 	</add>
-	<unit path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
-	<model path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
-	<object path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
-	<material_config path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
-	<sequence_manager path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter" unload="true"/>
-	<texture path="units/pd2_mod_friday/props/fri_bank_shutter/fri_bank_shutter_df"/>
 	<add path="units/pd2_dlc_moon/props/moo_interactable_prop_ipad/moo_interactable_prop_ipad" type="unit">
 		<material_config path="units/payday2/props/gen_interactable_prop_ipad/gen_interactable_prop_ipad" unload="true"/>
 		<object path="units/payday2/props/gen_interactable_prop_ipad/gen_interactable_prop_ipad" unload="true"/>
