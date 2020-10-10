@@ -5,7 +5,7 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" ghost_bonus="0.1" id="lvl_friday" intro_event="friday_intro" max_bags="20" music="heist" orig_id="lvl_friday" repossess_bags="true">
+	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" ghost_bonus="0" id="lvl_friday" intro_event="friday_intro" max_bags="20" music="heist" orig_id="lvl_friday" repossess_bags="true">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
@@ -70,6 +70,7 @@
 			<value_node value="levels/instances/unique/red/red_hacking_quick/world/world"/>
 			<value_node value="levels/narratives/dentist/mia/stage1/world/world"/>
 			<value_node value="levels/instances/unique/pbr/pbr_gas_station/world/world"/>
+			<value_node value="levels/narratives/butcher/thebomb/stage_2/occluders/occluders"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
