@@ -1,7 +1,7 @@
 {
-	"heist_lvl_friday_brief":"You've all been to the Shield Mall for Vlad years back, but the Capitol Savings branch here wasn't open to the public at the time. Its layout is similar to other branches, but its security is notable; rudimentary, but effective. Metal detectors, shutters, well-armed guards, and a rumored boobytrapped bank vault. Otherwise, this is simple:  breach the bank, open the vault, get the cash, get gone. The usual. You won't be keeping your hands clean on this, so just in case, you'll be carrying a saw on your person. Good luck, and watch for civilians.",
+	"heist_lvl_friday_brief":"You've all been to the Shield Mall for Vlad years back, but the Capitol Savings branch here wasn't open to the public at the time. Its layout is similar to other branches, but its security is notable; rudimentary, but effective. Metal detectors, shutters, well-armed guards, and a rumored boobytrapped bank vault. Otherwise, this is simple:  breach the bank, open the vault, grab the gold, and escape. The usual. You won't be keeping your hands clean on this, so just in case, you'll be carrying a saw on your person. Good luck, and watch for civilians.",
 	
-	"heist_narr_friday_brief":"Nico wants you to hit a bank that's holding money for a cartel.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal the cash\n»Escape",
+	"heist_narr_friday_brief":"Jackal wants you to hit a bank that's holding cartel-owned gold.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal the cash\n»Escape",
 	
 	"bnk_pku_drill":"Wait for the drill",
 	"bnk_pku_drill_desc":"Wait for the pilot to arrive with the lance.",
@@ -31,10 +31,10 @@
 	"bnk_hack_resume_desc":"The PC has stopped, get the override going again!"
 	
 	"bnk_enter_offices":"Get into the offices",
-	"bnk_enter_offices_desc":"Make your way into the bank's offices, through the lounge."
+	"bnk_enter_offices_desc":"Make your way into the bank's offices, through the halloween store."
 	
 	"bnk_find_hard_drive":"Grab the hard drive",
-	"bnk_find_hard_drive_desc":"Take the server's hard drive and wait for Raze's plan B."
+	"bnk_find_hard_drive_desc":"Take the server's hard drive and wait for Jackal's plan B."
 	
 	"bnk_mac_attack_drive":"Get to the Pear Store",
 	"bnk_mac_attack_drive_desc":"The Pear Store might have a viable computer to use, take the hard drive there."
