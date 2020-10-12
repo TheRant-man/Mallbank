@@ -6208,8 +6208,8 @@
 			<unit_data _prev_pos="906.76 -2720.52 95.572" _prev_rot="0 0 -0.573577 -0.819152" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m" name_id="dev_collision_1m_036" only_visible_in_editor="true" position="906.76 -2720.52 95.572" rotation="0 0 -0.573577 -0.819152" unit_id="101326"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1785.16 -766.96 167.972" _prev_rot="-0.0616285 0.704416 0.704416 0.0616284" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_010" position="1785.16 -766.96 167.972" rotation="-0.0616285 0.704416 0.704416 0.0616284" unit_id="101327">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0 0 0" font_size="0.95" render_template="diffuse_vc_decal" text="this place needs more doors" vertical="center" word_wrap="false" wrap="false">
+			<unit_data _prev_pos="1794.37 -766.96 138.288" _prev_rot="0.0123408 0.706999 0.706999 -0.0123407" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_010" position="1794.37 -770.96 138.288" rotation="0.012341 0.706999 0.706999 -0.0123407" unit_id="101327">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0 0 0" font_size="0.95" render_template="diffuse_vc_decal" text="when did we install automatic doors?" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>
@@ -6542,18 +6542,6 @@
 			<unit_data _prev_pos="950 -4000 400" _prev_rot="0 1.77636e-015 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_mall_store/com_int_mall_store_gym" name_id="com_int_mall_store_gym_001" position="950 -4000 400" rotation="0 1.77636e-015 0 -1" unit_id="101129"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1786.75 -766.96 110.227" _prev_rot="0.0308435 0.706434 0.706434 -0.0308436" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_011" position="1795.72 -766.96 109.443" rotation="0.0308436 0.706434 0.706434 -0.0308435" unit_id="100486">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0 0 0" font_size="0.95" render_template="diffuse_vc_decal" text="Nah, this place needs proper door holes" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
 			<unit_data _prev_pos="1849 -3111 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_001" only_visible_in_editor="true" position="1853 -3111 0" rotation="0 0 -0.707107 -0.707107" unit_id="100760"/>
 		</table>
 		<table>
@@ -6598,9 +6586,14 @@
 		<table>
 			<unit_data _prev_pos="1071 -2392 400" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_015" only_visible_in_editor="true" position="1071 -2389 400" rotation="0 0 1 4.37114e-008" unit_id="101347"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="2464 -143 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_appliance_computer/off_prop_appliance_computer" name_id="off_prop_appliance_computer_015" position="2464 -351 0" rotation="0 0 0.707107 -0.707107" unit_id="100486"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
 	</values>
-	<instances/>
+	<instances>
+		<table continent="world" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_006" position="2433 -376 0" rotation="0 0 0.92388 -0.382683" script="default" start_index="0"/>
+	</instances>
 </table>

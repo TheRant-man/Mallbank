@@ -6936,18 +6936,6 @@
 			<unit_data _prev_pos="4510 -3123 1229" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="black006" position="4510 -3123 1229" rotation="0 0 0 -1" unit_id="201928"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="4214 -3567 1252.5" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="whydothesetextunitshavesuchshitcollision" position="4214 -3567 1252.5" rotation="0 0 -0.707107 -0.707107" unit_id="201929">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="6.21182" render_template="diffuse_vc_decal" text="PC HACK EXTRAS" vertical="center" word_wrap="false" wrap="true">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
 			<unit_data _prev_pos="4503 -722 1229" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="black007" position="4503 319 1229" rotation="0 0 0 -1" unit_id="201930"/>
 		</table>
 		<table>
