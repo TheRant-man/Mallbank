@@ -6589,6 +6589,18 @@
 		<table>
 			<unit_data _prev_pos="2464 -143 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_appliance_computer/off_prop_appliance_computer" name_id="off_prop_appliance_computer_015" position="2464 -351 0" rotation="0 0 0.707107 -0.707107" unit_id="100486"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1793.71 -770.96 119.3" _prev_rot="0.0123407 0.706999 0.706999 -0.0123407" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_011" position="1729.75 -770.96 121.534" rotation="0.0123407 0.706999 0.706999 -0.012341" unit_id="100631">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0 0 0" font_size="0.95" render_template="diffuse_vc_decal" text="We didn't." vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
