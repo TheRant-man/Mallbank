@@ -71423,6 +71423,49 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
+			<entry index="2493" type="table">
+				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
+				<entry key="editor_name" type="string" value="instance_output_player_near_pc"/>
+				<entry key="id" type="number" value="301285"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="event_list" type="table">
+						<entry index="1" type="table">
+							<entry key="event" type="string" value="player_near_pc"/>
+							<entry key="instance" type="string" value="fri_computer_hack_001"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="event" type="string" value="player_near_pc"/>
+							<entry key="instance" type="string" value="fri_computer_hack_002"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="event" type="string" value="player_near_pc"/>
+							<entry key="instance" type="string" value="fri_computer_hack_003"/>
+						</entry>
+						<entry index="4" type="table">
+							<entry key="event" type="string" value="player_near_pc"/>
+							<entry key="instance" type="string" value="fri_computer_hack_004"/>
+						</entry>
+						<entry index="5" type="table">
+							<entry key="event" type="string" value="player_near_pc"/>
+							<entry key="instance" type="string" value="fri_computer_hack_005"/>
+						</entry>
+					</entry>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="300536"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="4226.33 -1526.97 1231.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
 		</entry>
 		<entry key="instances" type="table">
 			<entry index="1" type="string" value="fri_computer_hack_001"/>
