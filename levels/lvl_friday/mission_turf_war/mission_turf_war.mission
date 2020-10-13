@@ -51162,7 +51162,7 @@
 			</entry>
 			<entry index="1781" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
-				<entry key="editor_name" type="string" value="unit_sequence_all_shutters_open"/>
+				<entry key="editor_name" type="string" value="sequence_open_shutters_teller"/>
 				<entry key="id" type="number" value="300354"/>
 				<entry key="module" type="string" value="CoreElementUnitSequence"/>
 				<entry key="script" type="string" value="default"/>
@@ -62540,7 +62540,7 @@
 			</entry>
 			<entry index="2180" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
-				<entry key="editor_name" type="string" value="sequence_close_shutters"/>
+				<entry key="editor_name" type="string" value="sequence_close_teller_shutters"/>
 				<entry key="id" type="number" value="302300"/>
 				<entry key="module" type="string" value="CoreElementUnitSequence"/>
 				<entry key="script" type="string" value="default"/>
@@ -70492,6 +70492,7 @@
 					<entry key="elements" type="table">
 						<entry index="1" type="number" value="302300"/>
 						<entry index="2" type="number" value="302555"/>
+						<entry index="3" type="number" value="300354"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
@@ -70614,7 +70615,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="false"/>
+					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
@@ -71419,7 +71420,7 @@
 						<entry index="1" type="number" value="300354"/>
 						<entry index="2" type="number" value="302555"/>
 					</entry>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
