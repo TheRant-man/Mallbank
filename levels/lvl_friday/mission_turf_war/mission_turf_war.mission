@@ -71441,7 +71441,7 @@
 						<entry index="1" type="number" value="302600"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event" type="string" value="anim_act_01"/>
+					<entry key="event" type="string" value="anim_start"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
@@ -71449,8 +71449,8 @@
 							<entry key="id" type="number" value="302612"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="1366.87 -401.357 63.4319"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="position" type="vector3" value="1426.87 -401.357 63.4319"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
@@ -71465,7 +71465,7 @@
 						<entry index="1" type="number" value="302602"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event" type="string" value="anim_act_01"/>
+					<entry key="event" type="string" value="anim_start"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
@@ -71489,7 +71489,7 @@
 						<entry index="1" type="number" value="302601"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event" type="string" value="anim_act_01"/>
+					<entry key="event" type="string" value="anim_start"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
@@ -71497,8 +71497,8 @@
 							<entry key="id" type="number" value="302614"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="1244.44 -692.894 136.054"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="position" type="vector3" value="1244.44 -602.894 136.054"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
