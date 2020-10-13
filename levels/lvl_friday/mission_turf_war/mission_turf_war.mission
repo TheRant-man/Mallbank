@@ -51091,7 +51091,7 @@
 			</entry>
 			<entry index="1780" type="table">
 				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
-				<entry key="editor_name" type="string" value="unit_sequence_trigger_barrier"/>
+				<entry key="editor_name" type="string" value="unit_sequence_trigger_keypad"/>
 				<entry key="id" type="number" value="300353"/>
 				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
 				<entry key="script" type="string" value="default"/>
@@ -51365,10 +51365,6 @@
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="302278"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="301287"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="10.1081 4993.81 1252.5"/>
@@ -68583,7 +68579,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="close_to_element" type="boolean" value="false"/>
+					<entry key="close_to_element" type="boolean" value="true"/>
 					<entry key="comment" type="string" value="g26"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
@@ -70493,6 +70489,7 @@
 						<entry index="1" type="number" value="302300"/>
 						<entry index="2" type="number" value="302555"/>
 						<entry index="3" type="number" value="300354"/>
+						<entry index="4" type="number" value="302424"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
@@ -71409,29 +71406,6 @@
 				</entry>
 			</entry>
 			<entry index="2492" type="table">
-				<entry key="class" type="string" value="ElementToggle"/>
-				<entry key="editor_name" type="string" value="toggle_teller_shutters"/>
-				<entry key="id" type="number" value="301287"/>
-				<entry key="module" type="string" value="CoreElementToggle"/>
-				<entry key="script" type="string" value="default"/>
-				<entry key="values" type="table">
-					<entry key="base_delay" type="number" value="0"/>
-					<entry key="elements" type="table">
-						<entry index="1" type="number" value="300354"/>
-						<entry index="2" type="number" value="302555"/>
-					</entry>
-					<entry key="enabled" type="boolean" value="false"/>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="on_executed" type="table">
-					</entry>
-					<entry key="position" type="vector3" value="154.999 395.954 582.845"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-					<entry key="set_trigger_times" type="number" value="-1"/>
-					<entry key="toggle" type="string" value="off"/>
-					<entry key="trigger_times" type="number" value="0"/>
-				</entry>
-			</entry>
-			<entry index="2493" type="table">
 				<entry key="class" type="string" value="ElementSpecialObjectiveTrigger"/>
 				<entry key="editor_name" type="string" value="special_objective_trigger_001"/>
 				<entry key="id" type="number" value="301289"/>
@@ -71455,7 +71429,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2494" type="table">
+			<entry index="2493" type="table">
 				<entry key="class" type="string" value="ElementSpecialObjectiveTrigger"/>
 				<entry key="editor_name" type="string" value="special_objective_trigger_002"/>
 				<entry key="id" type="number" value="301290"/>
@@ -71479,7 +71453,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2495" type="table">
+			<entry index="2494" type="table">
 				<entry key="class" type="string" value="ElementSpecialObjectiveTrigger"/>
 				<entry key="editor_name" type="string" value="special_objective_trigger_003"/>
 				<entry key="id" type="number" value="301291"/>
