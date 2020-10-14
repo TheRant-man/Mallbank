@@ -14,7 +14,6 @@
 	<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
-	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" type="unit">
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" unload="true"/>
@@ -25,24 +24,24 @@
 	<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870_contour"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
 	<object path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
-	<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" load="true"/>
-	<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_husk" load="true"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_husk"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2"/>
 	<object path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2"/>
-	<unit path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" load="true"/>
-	<unit path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2_husk" load="true"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2_husk"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3"/>
 	<object path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3"/>
-	<unit path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" load="true"/>
-	<unit path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3_husk" load="true"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3_husk"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4"/>
 	<object path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4"/>
-	<unit path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" load="true"/>
-	<unit path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4_husk" load="true"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4_husk"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5"/>
 	<object path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5"/>
-	<unit path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" load="true"/>
-	<unit path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5_husk" load="true"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5_husk"/>
 	<add path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" type="unit">
 		<cooked_physics path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" unload="true"/>
 		<material_config path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" unload="true"/>
@@ -178,8 +177,12 @@
 		<unit path="units/payday2/props/com_prop_store_shelf_items/com_prop_store_items_chipsbox" unload="true"/>
 	</add>
 	<add path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" type="unit">
-		<unit path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" unload="true"/>
-		<object path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" unload="true"/>
 		<material_config path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_tavern" unload="true"/>
+		<object path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" unload="true"/>
+		<unit path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" unload="true"/>
 	</add>
+	<add path="effects/particles/environment/scene_birds_from_trees" type="effect">
+		<effect load="true" path="effects/particles/environment/scene_birds_from_trees" unload="true"/>
+	</add>
+	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 </table>
