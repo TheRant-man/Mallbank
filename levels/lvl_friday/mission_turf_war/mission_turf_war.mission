@@ -60593,10 +60593,6 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="302524"/>
 						</entry>
-						<entry index="3" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="301287"/>
-						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="2619.76 -3721.72 -0.999999"/>
 					<entry key="radius" type="number" value="250"/>
@@ -70777,10 +70773,6 @@
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="302620"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="301287"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="924.682 -2180.7 1.17318"/>
