@@ -70495,7 +70495,7 @@
 						<entry index="3" type="number" value="300354"/>
 						<entry index="4" type="number" value="302424"/>
 					</entry>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
@@ -71474,7 +71474,7 @@
 					<entry key="elements" type="table">
 						<entry index="1" type="number" value="300354"/>
 					</entry>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
