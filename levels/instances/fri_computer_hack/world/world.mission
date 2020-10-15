@@ -161,6 +161,12 @@
 							<entry key="notify_unit_sequence" type="string" value="2_we_get_signal"/>
 							<entry key="time" type="number" value="0.5"/>
 						</entry>
+						<entry index="6" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="100007"/>
+							<entry key="notify_unit_sequence" type="string" value="set_tweakdata_3"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
