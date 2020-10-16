@@ -565,7 +565,7 @@
 			<unit_data _prev_pos="846.085 -3140 300" _prev_rot="0 0 0 -1" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="teller_in_shutter_new001" position="846.085 -3120 300" rotation="0 0 0 -1" unit_id="300014"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1477 -3570 300" _prev_rot="-0 0 -0 -1" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="mall_in_shutter_new002" position="1477 -3570 300" rotation="-0 0 -0 -1" unit_id="300073"/>
+			<unit_data _prev_pos="1475 -3570 300" _prev_rot="-0 0 -0 -1" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="mall_in_shutter_new002" position="1475 -3570 300" rotation="-0 0 -0 -1" unit_id="300073"/>
 		</table>
 	</statics>
 	<values>
