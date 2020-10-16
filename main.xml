@@ -1,10 +1,4 @@
 <table name="Mallbank">
-	<AddFiles directory="assets">
-		<texture load="true" path="guis/friday"/>
-	</AddFiles>
-	<Localization default="english.txt" directory="loc">
-		<loc file="english.txt" language="english"/>
-	</Localization>
 	<instance id="fri_computer_hack">
 		<add file="levels/instances/fri_computer_hack/add.xml"/>
 		<include directory="levels/instances/fri_computer_hack">
@@ -27,6 +21,32 @@
 		</packages>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
+	<instance id="fri_metal_detector">
+		<add directory="assets"/>
+		<include directory="levels/instances/fri_metal_detector">
+			<file file="world.world" type="generic_xml"/>
+			<file file="continents.continents" type="custom_xml"/>
+			<file file="mission.mission" type="custom_xml"/>
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
+			<file file="world_sounds.world_sounds" type="generic_xml"/>
+			<file file="world_cameras.world_cameras" type="custom_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="cover_data.cover_data" type="custom_xml"/>
+		</include>
+		<packages>
+			<value_node value="levels/instances/unique/kenaz/metal_detector_01/world"/>
+			<value_node value="levels/instances/unique/kenaz/metal_detector_01/world_sounds"/>
+			<value_node value="levels/instances/unique/kenaz/metal_detector_01/world/world"/>
+		</packages>
+		<script_data_mods directory="scriptdata"/>
+	</instance>
+	<AddFiles directory="assets">
+		<texture load="true" path="guis/friday"/>
+	</AddFiles>
+	<Localization default="english.txt" directory="loc">
+		<loc file="english.txt" language="english"/>
+	</Localization>
 	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" ghost_bonus="0" id="lvl_friday" intro_event="friday_intro" max_bags="20" music="heist" orig_id="lvl_friday" repossess_bags="true">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>

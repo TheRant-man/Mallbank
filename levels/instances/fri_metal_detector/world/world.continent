@@ -1,0 +1,13 @@
+<table>
+	<statics>
+		<table>
+			<unit_data _prev_pos="0 25 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/com_prop_store_alarm/com_prop_store_alarm" name_id="com_prop_store_alarm_001" position="0 25 0" rotation="-0 0 -0 -1" unit_id="100012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="175 25 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/com_prop_store_alarm/com_prop_store_alarm" name_id="com_prop_store_alarm_002" position="200 25 0" rotation="-0 0 -0 -1" unit_id="100013"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

@@ -6607,5 +6607,7 @@
 	</values>
 	<instances>
 		<table continent="world" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_006" position="2433 -376 0" rotation="0 0 0.92388 -0.382683" script="default" start_index="0"/>
+		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_001" position="127 -2087 0" rotation="-0 0 -0 -1" script="default" start_index="250"/>
+		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_002" position="501 -3105 0" rotation="-0 0 -0 -1" script="default" start_index="500"/>
 	</instances>
 </table>
