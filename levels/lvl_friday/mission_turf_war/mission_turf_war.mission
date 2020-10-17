@@ -62470,6 +62470,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="302300"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="301286"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="521.66 -2931.48 -0.000348648"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -62533,6 +62537,18 @@
 						<entry index="15" type="table">
 							<entry key="sequence" type="string" value="crack_glass_03"/>
 							<entry key="unit_id" type="number" value="101194"/>
+						</entry>
+						<entry index="16" type="table">
+							<entry key="sequence" type="string" value="destroy_01"/>
+							<entry key="unit_id" type="number" value="501159"/>
+						</entry>
+						<entry index="17" type="table">
+							<entry key="sequence" type="string" value="destroy_01"/>
+							<entry key="unit_id" type="number" value="501158"/>
+						</entry>
+						<entry index="18" type="table">
+							<entry key="sequence" type="string" value="destroy_01"/>
+							<entry key="unit_id" type="number" value="501169"/>
 						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
@@ -71570,6 +71586,25 @@
 					<entry key="trigger_type" type="string" value="load"/>
 				</entry>
 			</entry>
+			<entry index="2498" type="table">
+				<entry key="class" type="string" value="ElementAiGlobalEvent"/>
+				<entry key="editor_name" type="string" value="ai_global_event_glass_shattered"/>
+				<entry key="id" type="number" value="301286"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="AI_event" type="string" value="police_called"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="blame" type="string" value="glass_alarm"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-1175 3998 1252.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="1"/>
+					<entry key="wave_mode" type="string" value="none"/>
+				</entry>
+			</entry>
 		</entry>
 		<entry key="instances" type="table">
 			<entry index="1" type="string" value="fri_computer_hack_001"/>
@@ -71580,6 +71615,12 @@
 			<entry index="6" type="string" value="fri_computer_hack_006"/>
 			<entry index="7" type="string" value="fri_metal_detector_001"/>
 			<entry index="8" type="string" value="fri_metal_detector_002"/>
+			<entry index="9" type="string" value="fri_metal_detector_003"/>
+			<entry index="10" type="string" value="fri_metal_detector_004"/>
+			<entry index="11" type="string" value="fri_metal_detector_005"/>
+			<entry index="12" type="string" value="fri_metal_detector_006"/>
+			<entry index="13" type="string" value="fri_metal_detector_007"/>
+			<entry index="14" type="string" value="fri_metal_detector_008"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>

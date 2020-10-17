@@ -22,7 +22,7 @@
 		<script_data_mods directory="scriptdata"/>
 	</instance>
 	<instance id="fri_metal_detector">
-		<add directory="assets"/>
+		<add file="levels/instances/fri_metal_detector/add.xml"/>
 		<include directory="levels/instances/fri_metal_detector">
 			<file file="world.world" type="generic_xml"/>
 			<file file="continents.continents" type="custom_xml"/>

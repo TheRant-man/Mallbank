@@ -6609,5 +6609,11 @@
 		<table continent="world" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_006" position="2433 -376 0" rotation="0 0 0.92388 -0.382683" script="default" start_index="0"/>
 		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_001" position="127 -2087 0" rotation="-0 0 -0 -1" script="default" start_index="250"/>
 		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_002" position="501 -3105 0" rotation="-0 0 -0 -1" script="default" start_index="500"/>
+		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_003" position="-1326 -2310 0" rotation="-0 0 -0 -1" script="default" start_index="750"/>
+		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_004" position="-969 -1900 0" rotation="0 0 0.707107 -0.707107" script="default" start_index="1000"/>
+		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_005" position="-1112 -3700 400" rotation="0 0 -0.707107 -0.707107" script="default" start_index="1250"/>
+		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_006" position="-1108 -2900 400" rotation="0 0 -0.707107 -0.707107" script="default" start_index="1500"/>
+		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_007" position="-1118 -2100 400" rotation="0 0 -0.707107 -0.707107" script="default" start_index="1750"/>
+		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_008" position="-1525 -1743 400" rotation="-0 0 -0 -1" script="default" start_index="2000"/>
 	</instances>
 </table>
