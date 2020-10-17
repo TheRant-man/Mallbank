@@ -6601,6 +6601,18 @@
 				</editable_gui>
 			</unit_data>
 		</table>
+		<table>
+			<unit_data _prev_pos="848.595 2100.35 2562.5" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_001" position="848.595 2100.35 2562.5" rotation="0 0 1 -4.37114e-008" unit_id="100668">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.05882" render_template="diffuse_vc_decal" text="Jaco" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
