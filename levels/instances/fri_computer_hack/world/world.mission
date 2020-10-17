@@ -460,6 +460,10 @@
 					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100043"/>
+						</entry>
 					</entry>
 					<entry key="only_for_local_player" type="boolean" value="false"/>
 					<entry key="position" type="vector3" value="-174 263 0"/>
@@ -844,6 +848,10 @@
 					<entry key="event" type="string" value="player_near_pc"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100039"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-150.263 -220.14 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -862,6 +870,14 @@
 					<entry key="event" type="string" value="pc_jammed"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100040"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100042"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-89.2627 -220.14 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -1023,6 +1039,138 @@
 					<entry key="operation" type="string" value="remove"/>
 					<entry key="position" type="vector3" value="161.229 15.6703 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="40" type="table">
+				<entry key="class" type="string" value="ElementTeammateComment"/>
+				<entry key="editor_name" type="string" value="teammate_found_pc"/>
+				<entry key="id" type="number" value="100039"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="close_to_element" type="boolean" value="false"/>
+					<entry key="comment" type="string" value="v04"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="0 -35 80"/>
+					<entry key="radius" type="number" value="0"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
+					<entry key="test_robber" type="number" value="1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="use_instigator" type="boolean" value="false"/>
+				</entry>
+			</entry>
+			<entry index="41" type="table">
+				<entry key="class" type="string" value="ElementTeammateComment"/>
+				<entry key="editor_name" type="string" value="teammate_pc_jammed"/>
+				<entry key="id" type="number" value="100040"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="close_to_element" type="boolean" value="false"/>
+					<entry key="comment" type="string" value="p08"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100044"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-117.021 -160.552 0"/>
+					<entry key="radius" type="number" value="0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="test_robber" type="number" value="1"/>
+					<entry key="trigger_times" type="number" value="1"/>
+					<entry key="use_instigator" type="boolean" value="false"/>
+				</entry>
+			</entry>
+			<entry index="42" type="table">
+				<entry key="class" type="string" value="ElementTeammateComment"/>
+				<entry key="editor_name" type="string" value="teammate_pc_started"/>
+				<entry key="id" type="number" value="100041"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="close_to_element" type="boolean" value="false"/>
+					<entry key="comment" type="string" value="none"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="7.97948 -160.552 0"/>
+					<entry key="radius" type="number" value="0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="test_robber" type="number" value="1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="use_instigator" type="boolean" value="false"/>
+				</entry>
+			</entry>
+			<entry index="43" type="table">
+				<entry key="class" type="string" value="ElementTeammateComment"/>
+				<entry key="editor_name" type="string" value="teammate_pc_jammed002"/>
+				<entry key="id" type="number" value="100042"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="close_to_element" type="boolean" value="false"/>
+					<entry key="comment" type="string" value="p09"/>
+					<entry key="enabled" type="boolean" value="false"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-55.0205 -160.552 0"/>
+					<entry key="radius" type="number" value="0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="test_robber" type="number" value="1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="use_instigator" type="boolean" value="false"/>
+				</entry>
+			</entry>
+			<entry index="44" type="table">
+				<entry key="class" type="string" value="ElementTeammateComment"/>
+				<entry key="editor_name" type="string" value="teammate_pc_resumed"/>
+				<entry key="id" type="number" value="100043"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="close_to_element" type="boolean" value="false"/>
+					<entry key="comment" type="string" value="p10"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="0 -35 80"/>
+					<entry key="radius" type="number" value="0"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
+					<entry key="test_robber" type="number" value="1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="use_instigator" type="boolean" value="false"/>
+				</entry>
+			</entry>
+			<entry index="45" type="table">
+				<entry key="class" type="string" value="ElementToggle"/>
+				<entry key="editor_name" type="string" value="toggle_jam_lines"/>
+				<entry key="id" type="number" value="100044"/>
+				<entry key="module" type="string" value="CoreElementToggle"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="elements" type="table">
+						<entry index="1" type="number" value="100040"/>
+						<entry index="2" type="number" value="100042"/>
+					</entry>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-87.7474 -119.556 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="set_trigger_times" type="number" value="-1"/>
+					<entry key="toggle" type="string" value="toggle"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
