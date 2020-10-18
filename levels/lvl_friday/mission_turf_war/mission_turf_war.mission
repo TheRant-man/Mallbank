@@ -50960,6 +50960,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="300723"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302404"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-170.5 4990.91 1252.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -58103,6 +58107,10 @@
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="0.5"/>
 							<entry key="id" type="number" value="302523"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302403"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="115.145 5389.78 1252.5"/>
@@ -68558,9 +68566,9 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="16.7778 5045.5 1252.5"/>
+					<entry key="position" type="vector3" value="116.345 5452.44 1252.5"/>
 					<entry key="radius" type="number" value="0"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="test_robber" type="number" value="1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="false"/>
@@ -72268,7 +72276,7 @@
 			</entry>
 			<entry index="2526" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
-				<entry key="editor_name" type="string" value="toggle_004"/>
+				<entry key="editor_name" type="string" value="toggle_off_bank"/>
 				<entry key="id" type="number" value="302404"/>
 				<entry key="module" type="string" value="CoreElementToggle"/>
 				<entry key="script" type="string" value="default"/>
@@ -72327,7 +72335,7 @@
 							<entry key="id" type="number" value="302399"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="-570.125 2023.83 2562.5"/>
+					<entry key="position" type="vector3" value="-588.125 2023.83 2562.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -72357,7 +72365,7 @@
 							<entry key="id" type="number" value="302400"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="-581.381 2104.14 2562.5"/>
+					<entry key="position" type="vector3" value="-853.381 2058.14 2562.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
