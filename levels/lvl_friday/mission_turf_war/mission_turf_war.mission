@@ -71736,6 +71736,10 @@
 							<entry key="delay" type="number" value="2.5"/>
 							<entry key="id" type="number" value="301297"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302498"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="2525.76 -3735.72 136"/>
 					<entry key="radius" type="number" value="250"/>
@@ -71768,6 +71772,10 @@
 						<entry index="1" type="table">
 							<entry key="delay" type="number" value="2.5"/>
 							<entry key="id" type="number" value="301297"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302498"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="603.491 -2169.71 59.7086"/>
@@ -72602,7 +72610,6 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="elements" type="table">
 						<entry index="1" type="number" value="302424"/>
-						<entry index="2" type="number" value="302555"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
