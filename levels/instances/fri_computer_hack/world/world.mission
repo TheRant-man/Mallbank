@@ -627,7 +627,7 @@
 					<entry key="interaction_voice" type="string" value="none"/>
 					<entry key="interrupt_dis" type="number" value="2"/>
 					<entry key="interrupt_dmg" type="number" value="0"/>
-					<entry key="interval" type="number" value="10"/>
+					<entry key="interval" type="number" value="5"/>
 					<entry key="needs_pos_rsrv" type="boolean" value="true"/>
 					<entry key="on_executed" type="table">
 					</entry>
@@ -636,10 +636,10 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="22 -90 0"/>
+					<entry key="position" type="vector3" value="-7 -83 0"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 					<entry key="scan" type="boolean" value="true"/>
-					<entry key="search_distance" type="number" value="550"/>
+					<entry key="search_distance" type="number" value="600"/>
 					<entry key="search_position" type="vector3" value="22 -90 0"/>
 					<entry key="so_action" type="string" value="e_so_interact_mid"/>
 					<entry key="spawn_instigator_ids" type="table">
