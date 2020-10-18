@@ -52650,10 +52650,6 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="300497"/>
 						</entry>
-						<entry index="3" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="300551"/>
-						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="2274 -2250 50.0002"/>
 					<entry key="radius" type="number" value="250"/>
@@ -52691,10 +52687,6 @@
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="300497"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="300552"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="2274 -3200 50.0002"/>
@@ -53377,7 +53369,7 @@
 							<entry key="unit_id" type="number" value="100405"/>
 						</entry>
 					</entry>
-					<entry key="trigger_times" type="number" value="2"/>
+					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
 			<entry index="1851" type="table">
@@ -54162,7 +54154,7 @@
 			</entry>
 			<entry index="1878" type="table">
 				<entry key="class" type="string" value="ElementAreaMinPoliceForce"/>
-				<entry key="editor_name" type="string" value="area_min_police_force_001"/>
+				<entry key="editor_name" type="string" value="area_min_police_force_vault_left"/>
 				<entry key="id" type="number" value="300551"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
@@ -54179,7 +54171,7 @@
 			</entry>
 			<entry index="1879" type="table">
 				<entry key="class" type="string" value="ElementAreaMinPoliceForce"/>
-				<entry key="editor_name" type="string" value="area_min_police_force_002"/>
+				<entry key="editor_name" type="string" value="area_min_police_force_vault_right"/>
 				<entry key="id" type="number" value="300552"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
@@ -60582,7 +60574,7 @@
 							<entry key="id" type="number" value="302373"/>
 						</entry>
 						<entry index="5" type="table">
-							<entry key="delay" type="number" value="4"/>
+							<entry key="delay" type="number" value="2"/>
 							<entry key="id" type="number" value="302530"/>
 						</entry>
 					</entry>
@@ -63276,6 +63268,14 @@
 						<entry index="5" type="table">
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="300479"/>
+						</entry>
+						<entry index="6" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302518"/>
+						</entry>
+						<entry index="7" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302517"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-114.643 -5080.77 1300"/>
@@ -70266,6 +70266,10 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="300551"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4043.76 -1213.29 -419.999"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -70288,6 +70292,10 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="300552"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4045.39 -1090.28 -419.999"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
