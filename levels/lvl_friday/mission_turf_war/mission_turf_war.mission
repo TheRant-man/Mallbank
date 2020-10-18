@@ -62487,7 +62487,7 @@
 							<entry key="id" type="number" value="302300"/>
 						</entry>
 						<entry index="2" type="table">
-							<entry key="delay" type="number" value="0"/>
+							<entry key="delay" type="number" value="1"/>
 							<entry key="id" type="number" value="301286"/>
 						</entry>
 					</entry>
@@ -68627,7 +68627,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="fade_in" type="string" value="fade_out_in"/>
 					<entry key="on_executed" type="table">
