@@ -71584,6 +71584,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="302517"/>
 						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302518"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-466.232 757.918 2562.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
