@@ -7830,11 +7830,6 @@
 					<entry key="position" type="vector3" value="470 157 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103756"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -7902,11 +7897,6 @@
 					<entry key="position" type="vector3" value="1515 2432 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103759"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -7934,11 +7924,6 @@
 					<entry key="position" type="vector3" value="700 322 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103757"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -8006,11 +7991,6 @@
 					<entry key="position" type="vector3" value="8619 5563 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103760"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -8038,11 +8018,6 @@
 					<entry key="position" type="vector3" value="7183 3190 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103758"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -8110,11 +8085,6 @@
 					<entry key="position" type="vector3" value="2164 1275 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103761"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -8142,11 +8112,6 @@
 					<entry key="position" type="vector3" value="4413 2620 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103762"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -8214,11 +8179,6 @@
 					<entry key="position" type="vector3" value="8696 8768 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103763"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -8246,11 +8206,6 @@
 					<entry key="position" type="vector3" value="1991 2252 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103774"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -8346,11 +8301,6 @@
 					<entry key="position" type="vector3" value="7916 8411 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103778"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -8414,11 +8364,6 @@
 					<entry key="position" type="vector3" value="3113 4767 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103777"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -8464,11 +8409,6 @@
 					<entry key="position" type="vector3" value="6152 7505 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103776"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -20724,11 +20664,6 @@
 					<entry key="position" type="vector3" value="1599 5099 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="sequence_list" type="table">
-						<entry index="1" type="table">
-							<entry key="guis_id" type="number" value="1"/>
-							<entry key="sequence" type="string" value="done_opened"/>
-							<entry key="unit_id" type="number" value="500678"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
@@ -24060,421 +23995,361 @@
 							<entry key="unit_id" type="number" value="102943"/>
 						</entry>
 						<entry index="67" type="table">
-							<entry key="guis_id" type="number" value="67"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103756"/>
-						</entry>
-						<entry index="68" type="table">
-							<entry key="guis_id" type="number" value="68"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103759"/>
-						</entry>
-						<entry index="69" type="table">
-							<entry key="guis_id" type="number" value="69"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103757"/>
-						</entry>
-						<entry index="70" type="table">
-							<entry key="guis_id" type="number" value="70"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103760"/>
-						</entry>
-						<entry index="71" type="table">
-							<entry key="guis_id" type="number" value="71"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103761"/>
-						</entry>
-						<entry index="72" type="table">
-							<entry key="guis_id" type="number" value="72"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103758"/>
-						</entry>
-						<entry index="73" type="table">
-							<entry key="guis_id" type="number" value="73"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103762"/>
-						</entry>
-						<entry index="74" type="table">
-							<entry key="guis_id" type="number" value="74"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103763"/>
-						</entry>
-						<entry index="75" type="table">
-							<entry key="guis_id" type="number" value="75"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103774"/>
-						</entry>
-						<entry index="76" type="table">
 							<entry key="guis_id" type="number" value="76"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103775"/>
 						</entry>
-						<entry index="77" type="table">
-							<entry key="guis_id" type="number" value="77"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103776"/>
-						</entry>
-						<entry index="78" type="table">
-							<entry key="guis_id" type="number" value="78"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103777"/>
-						</entry>
-						<entry index="79" type="table">
-							<entry key="guis_id" type="number" value="79"/>
-							<entry key="sequence" type="string" value="destroy_02"/>
-							<entry key="unit_id" type="number" value="103778"/>
-						</entry>
-						<entry index="80" type="table">
+						<entry index="68" type="table">
 							<entry key="guis_id" type="number" value="80"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103779"/>
 						</entry>
-						<entry index="81" type="table">
+						<entry index="69" type="table">
 							<entry key="guis_id" type="number" value="81"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103780"/>
 						</entry>
-						<entry index="82" type="table">
+						<entry index="70" type="table">
 							<entry key="guis_id" type="number" value="82"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103781"/>
 						</entry>
-						<entry index="83" type="table">
+						<entry index="71" type="table">
 							<entry key="guis_id" type="number" value="83"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103783"/>
 						</entry>
-						<entry index="84" type="table">
+						<entry index="72" type="table">
 							<entry key="guis_id" type="number" value="84"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103782"/>
 						</entry>
-						<entry index="85" type="table">
+						<entry index="73" type="table">
 							<entry key="guis_id" type="number" value="85"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103767"/>
 						</entry>
-						<entry index="86" type="table">
+						<entry index="74" type="table">
 							<entry key="guis_id" type="number" value="86"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103765"/>
 						</entry>
-						<entry index="87" type="table">
+						<entry index="75" type="table">
 							<entry key="guis_id" type="number" value="87"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103768"/>
 						</entry>
-						<entry index="88" type="table">
+						<entry index="76" type="table">
 							<entry key="guis_id" type="number" value="88"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103766"/>
 						</entry>
-						<entry index="89" type="table">
+						<entry index="77" type="table">
 							<entry key="guis_id" type="number" value="89"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103764"/>
 						</entry>
-						<entry index="90" type="table">
+						<entry index="78" type="table">
 							<entry key="guis_id" type="number" value="90"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103755"/>
 						</entry>
-						<entry index="91" type="table">
+						<entry index="79" type="table">
 							<entry key="guis_id" type="number" value="91"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103754"/>
 						</entry>
-						<entry index="92" type="table">
+						<entry index="80" type="table">
 							<entry key="guis_id" type="number" value="92"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103752"/>
 						</entry>
-						<entry index="93" type="table">
+						<entry index="81" type="table">
 							<entry key="guis_id" type="number" value="93"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103753"/>
 						</entry>
-						<entry index="94" type="table">
+						<entry index="82" type="table">
 							<entry key="guis_id" type="number" value="94"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102908"/>
 						</entry>
-						<entry index="95" type="table">
+						<entry index="83" type="table">
 							<entry key="guis_id" type="number" value="95"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102914"/>
 						</entry>
-						<entry index="96" type="table">
+						<entry index="84" type="table">
 							<entry key="guis_id" type="number" value="96"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102915"/>
 						</entry>
-						<entry index="97" type="table">
+						<entry index="85" type="table">
 							<entry key="guis_id" type="number" value="97"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102917"/>
 						</entry>
-						<entry index="98" type="table">
+						<entry index="86" type="table">
 							<entry key="guis_id" type="number" value="98"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102912"/>
 						</entry>
-						<entry index="99" type="table">
+						<entry index="87" type="table">
 							<entry key="guis_id" type="number" value="99"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103988"/>
 						</entry>
-						<entry index="100" type="table">
+						<entry index="88" type="table">
 							<entry key="guis_id" type="number" value="100"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103989"/>
 						</entry>
-						<entry index="101" type="table">
+						<entry index="89" type="table">
 							<entry key="guis_id" type="number" value="101"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103990"/>
 						</entry>
-						<entry index="102" type="table">
+						<entry index="90" type="table">
 							<entry key="guis_id" type="number" value="102"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103991"/>
 						</entry>
-						<entry index="103" type="table">
+						<entry index="91" type="table">
 							<entry key="guis_id" type="number" value="103"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103992"/>
 						</entry>
-						<entry index="104" type="table">
+						<entry index="92" type="table">
 							<entry key="guis_id" type="number" value="104"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103983"/>
 						</entry>
-						<entry index="105" type="table">
+						<entry index="93" type="table">
 							<entry key="guis_id" type="number" value="105"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103984"/>
 						</entry>
-						<entry index="106" type="table">
+						<entry index="94" type="table">
 							<entry key="guis_id" type="number" value="106"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103985"/>
 						</entry>
-						<entry index="107" type="table">
+						<entry index="95" type="table">
 							<entry key="guis_id" type="number" value="107"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103986"/>
 						</entry>
-						<entry index="108" type="table">
+						<entry index="96" type="table">
 							<entry key="guis_id" type="number" value="108"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103987"/>
 						</entry>
-						<entry index="109" type="table">
+						<entry index="97" type="table">
 							<entry key="guis_id" type="number" value="109"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102462"/>
 						</entry>
-						<entry index="110" type="table">
+						<entry index="98" type="table">
 							<entry key="guis_id" type="number" value="110"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102500"/>
 						</entry>
-						<entry index="111" type="table">
+						<entry index="99" type="table">
 							<entry key="guis_id" type="number" value="111"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102465"/>
 						</entry>
-						<entry index="112" type="table">
+						<entry index="100" type="table">
 							<entry key="guis_id" type="number" value="112"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102421"/>
 						</entry>
-						<entry index="113" type="table">
+						<entry index="101" type="table">
 							<entry key="guis_id" type="number" value="113"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102485"/>
 						</entry>
-						<entry index="114" type="table">
+						<entry index="102" type="table">
 							<entry key="guis_id" type="number" value="114"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103085"/>
 						</entry>
-						<entry index="115" type="table">
+						<entry index="103" type="table">
 							<entry key="guis_id" type="number" value="115"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102955"/>
 						</entry>
-						<entry index="116" type="table">
+						<entry index="104" type="table">
 							<entry key="guis_id" type="number" value="116"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102954"/>
 						</entry>
-						<entry index="117" type="table">
+						<entry index="105" type="table">
 							<entry key="guis_id" type="number" value="117"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102952"/>
 						</entry>
-						<entry index="118" type="table">
+						<entry index="106" type="table">
 							<entry key="guis_id" type="number" value="118"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102953"/>
 						</entry>
-						<entry index="119" type="table">
+						<entry index="107" type="table">
 							<entry key="guis_id" type="number" value="119"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102235"/>
 						</entry>
-						<entry index="120" type="table">
+						<entry index="108" type="table">
 							<entry key="guis_id" type="number" value="120"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102556"/>
 						</entry>
-						<entry index="121" type="table">
+						<entry index="109" type="table">
 							<entry key="guis_id" type="number" value="121"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102557"/>
 						</entry>
-						<entry index="122" type="table">
+						<entry index="110" type="table">
 							<entry key="guis_id" type="number" value="122"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102558"/>
 						</entry>
-						<entry index="123" type="table">
+						<entry index="111" type="table">
 							<entry key="guis_id" type="number" value="123"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102559"/>
 						</entry>
-						<entry index="124" type="table">
+						<entry index="112" type="table">
 							<entry key="guis_id" type="number" value="124"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102560"/>
 						</entry>
-						<entry index="125" type="table">
+						<entry index="113" type="table">
 							<entry key="guis_id" type="number" value="125"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="102561"/>
 						</entry>
-						<entry index="126" type="table">
+						<entry index="114" type="table">
 							<entry key="guis_id" type="number" value="126"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103973"/>
 						</entry>
-						<entry index="127" type="table">
+						<entry index="115" type="table">
 							<entry key="guis_id" type="number" value="127"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103979"/>
 						</entry>
-						<entry index="128" type="table">
+						<entry index="116" type="table">
 							<entry key="guis_id" type="number" value="128"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103980"/>
 						</entry>
-						<entry index="129" type="table">
+						<entry index="117" type="table">
 							<entry key="guis_id" type="number" value="129"/>
 							<entry key="sequence" type="string" value="destroy"/>
 							<entry key="unit_id" type="number" value="103286"/>
 						</entry>
-						<entry index="130" type="table">
+						<entry index="118" type="table">
 							<entry key="guis_id" type="number" value="130"/>
 							<entry key="sequence" type="string" value="destroy"/>
 							<entry key="unit_id" type="number" value="103287"/>
 						</entry>
-						<entry index="131" type="table">
+						<entry index="119" type="table">
 							<entry key="guis_id" type="number" value="131"/>
 							<entry key="sequence" type="string" value="destroy"/>
 							<entry key="unit_id" type="number" value="102836"/>
 						</entry>
-						<entry index="132" type="table">
+						<entry index="120" type="table">
 							<entry key="guis_id" type="number" value="132"/>
 							<entry key="sequence" type="string" value="destroy"/>
 							<entry key="unit_id" type="number" value="101109"/>
 						</entry>
-						<entry index="133" type="table">
+						<entry index="121" type="table">
 							<entry key="guis_id" type="number" value="133"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100369"/>
 						</entry>
-						<entry index="134" type="table">
+						<entry index="122" type="table">
 							<entry key="guis_id" type="number" value="134"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100375"/>
 						</entry>
-						<entry index="135" type="table">
+						<entry index="123" type="table">
 							<entry key="guis_id" type="number" value="135"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100378"/>
 						</entry>
-						<entry index="136" type="table">
+						<entry index="124" type="table">
 							<entry key="guis_id" type="number" value="136"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100379"/>
 						</entry>
-						<entry index="137" type="table">
+						<entry index="125" type="table">
 							<entry key="guis_id" type="number" value="137"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100372"/>
 						</entry>
-						<entry index="138" type="table">
+						<entry index="126" type="table">
 							<entry key="guis_id" type="number" value="138"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100366"/>
 						</entry>
-						<entry index="139" type="table">
+						<entry index="127" type="table">
 							<entry key="guis_id" type="number" value="139"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100365"/>
 						</entry>
-						<entry index="140" type="table">
+						<entry index="128" type="table">
 							<entry key="guis_id" type="number" value="140"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100371"/>
 						</entry>
-						<entry index="141" type="table">
+						<entry index="129" type="table">
 							<entry key="guis_id" type="number" value="141"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100376"/>
 						</entry>
-						<entry index="142" type="table">
+						<entry index="130" type="table">
 							<entry key="guis_id" type="number" value="142"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100370"/>
 						</entry>
-						<entry index="143" type="table">
+						<entry index="131" type="table">
 							<entry key="guis_id" type="number" value="143"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100377"/>
 						</entry>
-						<entry index="144" type="table">
+						<entry index="132" type="table">
 							<entry key="guis_id" type="number" value="144"/>
 							<entry key="sequence" type="string" value="destroy_glass"/>
 							<entry key="unit_id" type="number" value="100068"/>
 						</entry>
-						<entry index="145" type="table">
+						<entry index="133" type="table">
 							<entry key="guis_id" type="number" value="145"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103770"/>
 						</entry>
-						<entry index="146" type="table">
+						<entry index="134" type="table">
 							<entry key="guis_id" type="number" value="146"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103773"/>
 						</entry>
-						<entry index="147" type="table">
+						<entry index="135" type="table">
 							<entry key="guis_id" type="number" value="147"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103772"/>
 						</entry>
-						<entry index="148" type="table">
+						<entry index="136" type="table">
 							<entry key="guis_id" type="number" value="148"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103769"/>
 						</entry>
-						<entry index="149" type="table">
+						<entry index="137" type="table">
 							<entry key="guis_id" type="number" value="149"/>
 							<entry key="sequence" type="string" value="destroy_02"/>
 							<entry key="unit_id" type="number" value="103771"/>
 						</entry>
-						<entry index="150" type="table">
+						<entry index="138" type="table">
 							<entry key="guis_id" type="number" value="150"/>
 							<entry key="sequence" type="string" value="done_break"/>
 							<entry key="unit_id" type="number" value="500531"/>
@@ -32312,161 +32187,151 @@
 							<entry key="unit_id" type="number" value="500682"/>
 						</entry>
 						<entry index="11" type="table">
-							<entry key="guis_id" type="number" value="11"/>
-							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
-							<entry key="unit_id" type="number" value="500678"/>
-						</entry>
-						<entry index="12" type="table">
-							<entry key="guis_id" type="number" value="12"/>
-							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
-							<entry key="unit_id" type="number" value="500678"/>
-						</entry>
-						<entry index="13" type="table">
 							<entry key="guis_id" type="number" value="13"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500676"/>
 						</entry>
-						<entry index="14" type="table">
+						<entry index="12" type="table">
 							<entry key="guis_id" type="number" value="14"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500676"/>
 						</entry>
-						<entry index="15" type="table">
+						<entry index="13" type="table">
 							<entry key="guis_id" type="number" value="15"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="501155"/>
 						</entry>
-						<entry index="16" type="table">
+						<entry index="14" type="table">
 							<entry key="guis_id" type="number" value="16"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="501155"/>
 						</entry>
-						<entry index="17" type="table">
+						<entry index="15" type="table">
 							<entry key="guis_id" type="number" value="17"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500672"/>
 						</entry>
-						<entry index="18" type="table">
+						<entry index="16" type="table">
 							<entry key="guis_id" type="number" value="18"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500672"/>
 						</entry>
-						<entry index="19" type="table">
+						<entry index="17" type="table">
 							<entry key="guis_id" type="number" value="19"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500250"/>
 						</entry>
-						<entry index="20" type="table">
+						<entry index="18" type="table">
 							<entry key="guis_id" type="number" value="20"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500250"/>
 						</entry>
-						<entry index="21" type="table">
+						<entry index="19" type="table">
 							<entry key="guis_id" type="number" value="21"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500458"/>
 						</entry>
-						<entry index="22" type="table">
+						<entry index="20" type="table">
 							<entry key="guis_id" type="number" value="22"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500469"/>
 						</entry>
-						<entry index="23" type="table">
+						<entry index="21" type="table">
 							<entry key="guis_id" type="number" value="23"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500469"/>
 						</entry>
-						<entry index="24" type="table">
+						<entry index="22" type="table">
 							<entry key="guis_id" type="number" value="24"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500470"/>
 						</entry>
-						<entry index="25" type="table">
+						<entry index="23" type="table">
 							<entry key="guis_id" type="number" value="25"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500470"/>
 						</entry>
-						<entry index="26" type="table">
+						<entry index="24" type="table">
 							<entry key="guis_id" type="number" value="26"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500049"/>
 						</entry>
-						<entry index="27" type="table">
+						<entry index="25" type="table">
 							<entry key="guis_id" type="number" value="27"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500049"/>
 						</entry>
-						<entry index="28" type="table">
+						<entry index="26" type="table">
 							<entry key="guis_id" type="number" value="28"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500046"/>
 						</entry>
-						<entry index="29" type="table">
+						<entry index="27" type="table">
 							<entry key="guis_id" type="number" value="29"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500046"/>
 						</entry>
-						<entry index="30" type="table">
+						<entry index="28" type="table">
 							<entry key="guis_id" type="number" value="30"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500459"/>
 						</entry>
-						<entry index="31" type="table">
+						<entry index="29" type="table">
 							<entry key="guis_id" type="number" value="31"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500459"/>
 						</entry>
-						<entry index="32" type="table">
+						<entry index="30" type="table">
 							<entry key="guis_id" type="number" value="32"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500474"/>
 						</entry>
-						<entry index="33" type="table">
+						<entry index="31" type="table">
 							<entry key="guis_id" type="number" value="33"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500474"/>
 						</entry>
-						<entry index="34" type="table">
+						<entry index="32" type="table">
 							<entry key="guis_id" type="number" value="34"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="501301"/>
 						</entry>
-						<entry index="35" type="table">
+						<entry index="33" type="table">
 							<entry key="guis_id" type="number" value="35"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="501301"/>
 						</entry>
-						<entry index="36" type="table">
+						<entry index="34" type="table">
 							<entry key="guis_id" type="number" value="36"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500471"/>
 						</entry>
-						<entry index="37" type="table">
+						<entry index="35" type="table">
 							<entry key="guis_id" type="number" value="37"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500471"/>
 						</entry>
-						<entry index="38" type="table">
+						<entry index="36" type="table">
 							<entry key="guis_id" type="number" value="38"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500461"/>
 						</entry>
-						<entry index="39" type="table">
+						<entry index="37" type="table">
 							<entry key="guis_id" type="number" value="39"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500461"/>
 						</entry>
-						<entry index="40" type="table">
+						<entry index="38" type="table">
 							<entry key="guis_id" type="number" value="40"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500458"/>
 						</entry>
-						<entry index="41" type="table">
+						<entry index="39" type="table">
 							<entry key="guis_id" type="number" value="41"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win"/>
 							<entry key="unit_id" type="number" value="500473"/>
 						</entry>
-						<entry index="42" type="table">
+						<entry index="40" type="table">
 							<entry key="guis_id" type="number" value="42"/>
 							<entry key="sequence" type="string" value="int_seq_shatter_win_1"/>
 							<entry key="unit_id" type="number" value="500473"/>
@@ -56120,53 +55985,17 @@
 					<entry key="trigger_list" type="table">
 						<entry index="1" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="500678"/>
-							<entry key="notify_unit_sequence" type="string" value="state_interaction_disabled"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="500678"/>
-							<entry key="notify_unit_sequence" type="string" value="state_shootable_disabled"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="500371"/>
-							<entry key="notify_unit_sequence" type="string" value="state_shootable_disabled"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="4" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="500371"/>
-							<entry key="notify_unit_sequence" type="string" value="state_interaction_disabled"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="5" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="500377"/>
-							<entry key="notify_unit_sequence" type="string" value="state_shootable_disabled"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="6" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="500377"/>
-							<entry key="notify_unit_sequence" type="string" value="state_interaction_disabled"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="7" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="300043"/>
 							<entry key="notify_unit_sequence" type="string" value="state_vis_hide"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="8" type="table">
+						<entry index="2" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="300016"/>
 							<entry key="notify_unit_sequence" type="string" value="state_shootable_disabled"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="9" type="table">
+						<entry index="3" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="300016"/>
 							<entry key="notify_unit_sequence" type="string" value="state_interaction_disabled"/>

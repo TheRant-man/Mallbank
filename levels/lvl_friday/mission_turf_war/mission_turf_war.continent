@@ -201,12 +201,6 @@
 			<unit_data continent="mission_turf_war" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_032" position="-625 -4675 1275" rotation="0 0.707107 0 -0.707107" unit_id="302285"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2581 -732.999 443.873" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall/com_ext_window_big_01" name_id="com_ext_window_big_01_035" position="-2582 -732.999 443.873" rotation="0 0 0.707107 -0.707107" unit_id="300000"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2106 -732.999 443.873" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" local_pos="0 475 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall/com_ext_window_big_01" name_id="com_ext_window_big_01_036" position="-2107 -732.999 443.873" rotation="0 0 0.707107 -0.707107" unit_id="300001"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="609 1110 -325" _prev_rot="0 0 0.809017 -0.587785" continent="mission_turf_war" delayed_load="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show" name="units/payday2/pickups/gen_pku_keycard/gen_pku_keycard" name_id="storage_keycard_1" position="581.848 1104.1 -325" rotation="0 0 0.809017 -0.587785" unit_id="300003"/>
 		</table>
 		<table>
