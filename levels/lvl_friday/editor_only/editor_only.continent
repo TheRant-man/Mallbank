@@ -9530,6 +9530,21 @@
 				</editable_gui>
 			</unit_data>
 		</table>
+		<table>
+			<unit_data _prev_pos="4455 4529 1250" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="black017" position="4455 4529 1250" rotation="0 0 0 -1" unit_id="200895"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3694 4158 1259" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_020" position="4689 4158 1259" rotation="0 0 1 4.37114e-008" unit_id="201929">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="4.61246" render_template="diffuse_vc_decal" text="BIG JACK DIALOGUE" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

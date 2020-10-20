@@ -185,4 +185,8 @@
 		<effect load="true" path="effects/particles/environment/scene_birds_from_trees" unload="true"/>
 	</add>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	
+	<movie path="vo/objectives/bnk_find_1"/>
+	<movie path="vo/objectives/bnk_find_2"/>
+	<movie path="vo/objectives/bnk_find_3"/>
 </table>

@@ -58431,6 +58431,10 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="objective" type="string" value="bnk_find"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302543"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-67.5379 4889.42 1252.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -72571,6 +72575,107 @@
 						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="2544" type="table">
+				<entry key="class" type="string" value="ElementCustomSound"/>
+				<entry key="editor_name" type="string" value="jkl_bnk_find_1"/>
+				<entry key="id" type="number" value="302540"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="override_others" type="boolean" value="true"/>
+					<entry key="position" type="vector3" value="4859.43 4404.88 1252.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="sound_path" type="string" value="vo/objectives/bnk_find_1"/>
+					<entry key="subtitle_id" type="string" value="jkl_bnk_find_1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="use_as_secondary" type="boolean" value="true"/>
+					<entry key="use_subtitles" type="boolean" value="true"/>
+					<entry key="volume_choice" type="string" value="sfx"/>
+					<entry key="volume_override" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="2545" type="table">
+				<entry key="class" type="string" value="ElementCustomSound"/>
+				<entry key="editor_name" type="string" value="jkl_bnk_find_2"/>
+				<entry key="id" type="number" value="302541"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="override_others" type="boolean" value="true"/>
+					<entry key="position" type="vector3" value="4859.39 4333.45 1252.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="sound_path" type="string" value="vo/objectives/bnk_find_2"/>
+					<entry key="subtitle_id" type="string" value="jkl_bnk_find_2"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="use_as_secondary" type="boolean" value="true"/>
+					<entry key="use_subtitles" type="boolean" value="true"/>
+					<entry key="volume_choice" type="string" value="sfx"/>
+					<entry key="volume_override" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="2546" type="table">
+				<entry key="class" type="string" value="ElementCustomSound"/>
+				<entry key="editor_name" type="string" value="jkl_bnk_find_3"/>
+				<entry key="id" type="number" value="302542"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="override_others" type="boolean" value="true"/>
+					<entry key="position" type="vector3" value="4852.39 4279.45 1252.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="sound_path" type="string" value="vo/objectives/bnk_find_3"/>
+					<entry key="subtitle_id" type="string" value="jkl_bnk_find_3"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="use_as_secondary" type="boolean" value="true"/>
+					<entry key="use_subtitles" type="boolean" value="true"/>
+					<entry key="volume_choice" type="string" value="sfx"/>
+					<entry key="volume_override" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="2547" type="table">
+				<entry key="class" type="string" value="ElementRandom"/>
+				<entry key="editor_name" type="string" value="jkl_bnk_find"/>
+				<entry key="id" type="number" value="302543"/>
+				<entry key="module" type="string" value="CoreElementRandom"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="amount" type="number" value="1"/>
+					<entry key="amount_random" type="number" value="0"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="ignore_disabled" type="boolean" value="true"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302540"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302541"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302542"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="4784.03 4344.77 1252.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
 		</entry>
