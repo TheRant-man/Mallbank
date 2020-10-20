@@ -561,6 +561,12 @@
 		<table>
 			<unit_data _prev_pos="1475 -3570 300" _prev_rot="-0 0 -0 -1" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="mall_in_shutter_new002" position="1475 -3570 300" rotation="-0 0 -0 -1" unit_id="300073"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="2225 -3121 60" _prev_rot="0 0 0 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_hide" name="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large" name_id="lectro_lance_door2" position="2225 -3121 60" rotation="-0 0 -0 -1" unit_id="300000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2325 -2320 60" _prev_rot="0 0 1 4.37114e-008" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_hide" name="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large" name_id="lectro_lance_door1" position="2325 -2320 60" rotation="0 0 1 -4.37114e-008" unit_id="300001"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
