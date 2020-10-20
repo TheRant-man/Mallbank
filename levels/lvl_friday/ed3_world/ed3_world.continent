@@ -3234,7 +3234,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/props/com_prop_barista_pastry/com_prop_barista_pastry_cheesecake" name_id="com_prop_barista_pastry_cheesecake_002" position="-0.999695 1917 -253.833" rotation="0 1.77636e-015 0 -1" unit_id="501848"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_030" position="150 700 -301.5" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="501849"/>
+			<unit_data _prev_pos="150 700 -301.5" _prev_rot="-1.77636e-015 -5.29396e-023 1 2.98023e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_030" position="150 700 -301.5" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="501849"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_019" position="-1525 -3500 -399.859" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="501852"/>

@@ -51108,10 +51108,6 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="300481"/>
 						</entry>
-						<entry index="3" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="301575"/>
-						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="289.912 5270.97 1252.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -51141,10 +51137,6 @@
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="300480"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="301574"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="166.169 5296.48 1252.5"/>
@@ -58661,6 +58653,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
+					<entry key="only_for_local_player" type="boolean" value="false"/>
 					<entry key="position" type="vector3" value="-483 -5100 1275"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_list" type="table">
@@ -72533,6 +72526,10 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="301574"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4463.17 567.443 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -72558,6 +72555,10 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="301575"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4513.17 567.443 1230.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -72570,29 +72571,6 @@
 						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
-				</entry>
-			</entry>
-			<entry index="2544" type="table">
-				<entry key="class" type="string" value="ElementToggle"/>
-				<entry key="editor_name" type="string" value="toggle_toggle_toggle_toggle_toggle_toggle_toggle"/>
-				<entry key="id" type="number" value="302540"/>
-				<entry key="module" type="string" value="CoreElementToggle"/>
-				<entry key="script" type="string" value="default"/>
-				<entry key="values" type="table">
-					<entry key="base_delay" type="number" value="0"/>
-					<entry key="elements" type="table">
-						<entry index="1" type="number" value="301574"/>
-						<entry index="2" type="number" value="301575"/>
-					</entry>
-					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="on_executed" type="table">
-					</entry>
-					<entry key="position" type="vector3" value="4309.94 412.439 1231.5"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-					<entry key="set_trigger_times" type="number" value="-1"/>
-					<entry key="toggle" type="string" value="on"/>
-					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
 		</entry>

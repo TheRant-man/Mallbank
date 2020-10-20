@@ -6057,7 +6057,7 @@
 			<unit_data _prev_pos="906.76 -2720.52 95.572" _prev_rot="0 0 -0.573577 -0.819152" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m" name_id="dev_collision_1m_036" only_visible_in_editor="true" position="906.76 -2720.52 95.572" rotation="0 0 -0.573577 -0.819152" unit_id="101326"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1794.37 -770.96 138.288" _prev_rot="0.012341 0.706999 0.706999 -0.0123407" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_010" position="1794.37 -770.96 138.288" rotation="0.0123407 0.706999 0.706999 -0.0123407" unit_id="101327">
+			<unit_data _prev_pos="1794.86 -770.96 152.279" _prev_rot="-0.0123407 0.706999 0.706999 0.0123407" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_010" position="1794.86 -770.96 152.279" rotation="-0.0123407 0.706999 0.706999 0.0123407" unit_id="101327">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0.0392157 0.0392157 0.0392157" font_size="0.95" render_template="diffuse_vc_decal" text="when did we install automatic doors?" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -6424,8 +6424,8 @@
 			<unit_data _prev_pos="2464 -143 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_appliance_computer/off_prop_appliance_computer" name_id="off_prop_appliance_computer_015" position="2464 -351 0" rotation="0 0 0.707107 -0.707107" unit_id="100486"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1729.75 -770.96 121.534" _prev_rot="0.0123407 0.706999 0.706999 -0.012341" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_011" position="1729.75 -770.96 121.534" rotation="0.0123407 0.706999 0.706999 -0.0123407" unit_id="100631">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0 0 1" font_size="0.95" render_template="diffuse_vc_decal" text="We didn't." vertical="center" word_wrap="false" wrap="false">
+			<unit_data _prev_pos="1729.75 -770.96 121.534" _prev_rot="0.0185099 0.706864 0.706864 -0.0185099" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_011" position="1729.75 -770.96 121.534" rotation="0.0185099 0.706864 0.706864 -0.0185099" unit_id="100631">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0 0 1" font_size="0.95" render_template="diffuse_vc_decal" text="uh, we didnt?" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>
