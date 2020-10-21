@@ -4661,7 +4661,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16" name_id="hcm_bdrop_mid_02_corner_16x16_008" position="8325 5475 -400" rotation="0 0 0 -1" unit_id="501282"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/world/architecture/street/ground/asphalt/ground_asphalt_20x20m" name_id="ground_asphalt_20x20m_005" position="10600 5600 -400" rotation="0 0 1 -0" unit_id="501283"/>
+			<unit_data _prev_pos="10600 5600 -400" _prev_rot="0 0 1 -0" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/street/ground/asphalt/ground_asphalt_20x20m" name_id="ground_asphalt_20x20m_005" position="10600 5600 -400" rotation="0 0 1 -0" unit_id="501283"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16" name_id="hcm_bdrop_mid_02_corner_16x16_009" position="-17758 5550 -428" rotation="-5.96046e-008 2.98023e-008 -0.707107 -0.707107" unit_id="501284"/>
@@ -4679,7 +4679,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_01_corner_32x32" name_id="hcm_bdrop_mid_01_corner_32x32_005" position="12825 3375 -425" rotation="0 0 0.707107 -0.707107" unit_id="501289"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_road_straight24x24" name_id="hcm_bdrop_mid_road_straight24x24_005" position="13000 4400 -443" rotation="-5.96046e-008 2.98023e-008 -0.707107 -0.707107" unit_id="501290"/>
+			<unit_data _prev_pos="13000 4400 -443" _prev_rot="-5.96046e-008 2.98023e-008 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_bdrop_mid_road_straight24x24" name_id="hcm_bdrop_mid_road_straight24x24_005" position="13000 4400 -443" rotation="-5.96046e-008 2.98023e-008 -0.707107 -0.707107" unit_id="501290"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_straight16x16" name_id="hcm_bdrop_mid_02_straight16x16_006" position="-20952 5550 -428" rotation="0 0 0 -1" unit_id="501296"/>

@@ -6181,13 +6181,13 @@
 			<unit_data _prev_pos="328 2401 -241" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_equipment_camera_hackingtool/gen_equipment_camera_hackingtool" name_id="gen_equipment_camera_hackingtool_001" position="319 2401 -241" rotation="0 0 -0.707107 -0.707107" unit_id="101369"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="5724 -4675 306" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-898 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/world/architecture/street/marquee/marquee01_red" name_id="marquee01_red_001" position="5724 -4675 306" rotation="0 0 -0.707107 -0.707107" unit_id="101370"/>
+			<unit_data _prev_pos="5724 -4675 306" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="marquee up" name="units/world/architecture/street/marquee/marquee01_red" name_id="marquee01_red_001" position="5724 -4675 306" rotation="0 0 -0.707107 -0.707107" unit_id="101370"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="5724 -4226 306" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-449 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/world/architecture/street/marquee/marquee01_red" name_id="marquee01_red_002" position="5724 -4226 306" rotation="0 0 -0.707107 -0.707107" unit_id="101371"/>
+			<unit_data _prev_pos="5724 -4226 306" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="marquee up" name="units/world/architecture/street/marquee/marquee01_red" name_id="marquee01_red_002" position="5724 -4226 306" rotation="0 0 -0.707107 -0.707107" unit_id="101371"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="5724 -3777 306" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/world/architecture/street/marquee/marquee01_red" name_id="marquee01_red_003" position="5724 -3777 306" rotation="0 0 -0.707107 -0.707107" unit_id="101372"/>
+			<unit_data _prev_pos="5724 -3777 306" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="marquee up" name="units/world/architecture/street/marquee/marquee01_red" name_id="marquee01_red_003" position="5724 -3777 306" rotation="0 0 -0.707107 -0.707107" unit_id="101372"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="5724 -2183 306" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/world/architecture/street/marquee/marquee01_red" name_id="marquee01_red_004" position="5724 -2174 306" rotation="0 0 -0.707107 -0.707107" unit_id="101373"/>

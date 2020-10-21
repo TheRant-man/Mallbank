@@ -210,10 +210,10 @@
 			<unit_data _prev_pos="1899.88 -1114.49 75" _prev_rot="0 0 0 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="notsosafe_001" position="1911.88 -1114.49 75" rotation="0 0 0 -1" unit_id="300005"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2431.85 -373.338 75" _prev_rot="0 0 1 -4.37114e-008" _visibility_counter="0" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="notsosafe_003" position="2431.85 -296.338 75" rotation="0 0 1 -4.37114e-008" unit_id="300006"/>
+			<unit_data _prev_pos="2431.85 -296.338 75" _prev_rot="0 0 1 -4.37114e-008" _visibility_counter="0" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="notsosafe_003" position="2431 -296 75" rotation="0 0 1 -4.37114e-008" unit_id="300006"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2271.48 -1509.57 74.6245" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="notsosafe_004" position="2271.48 -1509.57 75" rotation="0 0 -0.707107 -0.707107" unit_id="300007"/>
+			<unit_data _prev_pos="2271.48 -1507.57 75" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="notsosafe_004" position="2271.48 -1503.57 75" rotation="0 0 -0.707107 -0.707107" unit_id="300007"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1827 -1349 0" _prev_rot="0 0 0 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="vote_blocker" only_visible_in_editor="true" position="1823 -1349 0" rotation="0 0 0 -1" unit_id="300008"/>
