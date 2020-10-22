@@ -6137,55 +6137,13 @@
 			<unit_data _prev_pos="2386 -4038 775" _prev_rot="0 1.77636e-015 0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_053" position="2386 -4824 775" rotation="0 1.77636e-015 0 -1" unit_id="500011"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3650 3175 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_002" position="3650 3175 -400" rotation="0 0 -0.707107 -0.707107" unit_id="502507"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5600 3325 -400" _prev_rot="0 0 0.92388 -0.382683" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_001" position="5600 3325 -400" rotation="0 0 0.92388 -0.382683" unit_id="500434"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="4600 3425 -395" _prev_rot="0 0 0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_none" name_id="str_prop_street_lamppost_none_003" position="4600 3425 -395" rotation="0 0 0 -1" unit_id="500430"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1350 3225 -400" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="true" local_pos="-15 868 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double_il" name_id="str_prop_street_lamppost_double_008" position="1350 3225 -400" rotation="0 0 0.707107 -0.707107" unit_id="502333"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="482 3210 -400" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double_il" name_id="str_prop_street_lamppost_double_007" position="482 3210 -400" rotation="0 0 0.707107 -0.707107" unit_id="502275"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1350 3225 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double_il" name_id="str_prop_street_lamppost_double_004" position="-1350 3225 -400" rotation="0 0 -0.707107 -0.707107" unit_id="502147"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2250 3225 -400" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double_il" name_id="str_prop_street_lamppost_double_003" position="-2250 3225 -400" rotation="0 0 0.707107 -0.707107" unit_id="502121"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="432 2418 -400" _prev_rot="0 0 0 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_none" name_id="str_prop_street_lamppost_double_005" position="432 2418 -400" rotation="0 0 0 -1" unit_id="502167"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2394 1203 206" _prev_rot="-0.300706 1.69414e-015 -5.34162e-016 -0.953717" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_054" position="2394 1203 206" rotation="-0.300706 1.69414e-015 -5.34162e-016 -0.953717" unit_id="500028"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3650 890 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_003" position="3650 890 -400" rotation="0 0 -0.707107 -0.707107" unit_id="500051"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3650 -755 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_004" position="3650 -755 -400" rotation="0 0 -0.707107 -0.707107" unit_id="500151"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3650 -4390 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_005" position="3650 -4390 -400" rotation="0 0 -0.707107 -0.707107" unit_id="500226"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3650 -6140 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_006" position="3650 -6140 -400" rotation="0 0 -0.707107 -0.707107" unit_id="500230"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5550 -6140 -400" _prev_rot="-0 -0 0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_007" position="5550 -6140 -400" rotation="0 0 0.707107 -0.707107" unit_id="500257"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5550 -4695 -400" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_008" position="5550 -4695 -400" rotation="0 0 0.707107 -0.707107" unit_id="500502"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5550 -3200 -400" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_009" position="5550 -3200 -400" rotation="0 0 0.707107 -0.707107" unit_id="500549"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5550 110 -400" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_010" position="5550 110 -400" rotation="0 0 0.707107 -0.707107" unit_id="500551"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2718 800 -82.161" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" delayed_load="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="on" name="units/world/props/apartment/facade_light/facade_light" name_id="facade_light_003" position="2718 800 -82.161" rotation="0 0 -0.707107 -0.707107" unit_id="500553">
@@ -6462,16 +6420,16 @@
 			<unit_data _prev_pos="817 2365 798" _prev_rot="-0.5 0.5 -0.5 -0.5" continent="ed3_world" local_pos="0 486 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="hcm_ext_8x16m_b_012" position="817 2329 798" rotation="-0.5 0.5 -0.5 -0.5" unit_id="501319"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1250 2400 -400" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_001" position="-1250 2400 -404" rotation="0 0 1 4.37114e-008" unit_id="502079"/>
+			<unit_data _prev_pos="-1250 2400 -516" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_001" position="-1250 2400 -404" rotation="0 0 1 4.37114e-008" unit_id="502079"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1250 1480 -404" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_002" position="-1250 1600 -404" rotation="0 0 1 4.37114e-008" unit_id="500488"/>
+			<unit_data _prev_pos="-1250 1600 -516" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="-6.99382e-005 800 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_002" position="-1250 1600 -404" rotation="0 0 1 4.37114e-008" unit_id="500488"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2050 1600 -404" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_003" position="-2050 1600 -404" rotation="0 0 1 4.37114e-008" unit_id="500490"/>
+			<unit_data _prev_pos="-2050 1600 -516" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="800 800 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_003" position="-2050 1600 -404" rotation="0 0 1 4.37114e-008" unit_id="500490"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2050 2400 -404" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_004" position="-2050 2400 -404" rotation="0 0 1 4.37114e-008" unit_id="500491"/>
+			<unit_data _prev_pos="-2050 2400 -516" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="800 6.99382e-005 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_004" position="-2050 2400 -404" rotation="0 0 1 4.37114e-008" unit_id="500491"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-2649 2400 -400" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_floor_a_2x2m_clean" name_id="str_ext_sidewalk_16x16m_a_005" position="-2649 2400 -400" rotation="0 0 1 4.37114e-008" unit_id="500494"/>
@@ -6867,45 +6825,6 @@
 			<unit_data _prev_pos="1277 299.999 400" _prev_rot="0 -0 1 -4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_6x3m_004" position="1275 299.999 400" rotation="0 -0 1 -4.37114e-008" unit_id="501394"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="7301 3450 -400" _prev_rot="0 0 1 -0" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_011" position="7300 3450 -400" rotation="0 0 1 -0" unit_id="501396"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="9526 3450 -400" _prev_rot="0 0 1 -0" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_012" position="9635 3450 -400" rotation="0 -0 1 -4.37114e-008" unit_id="501397"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="8200 5344 -400" _prev_rot="0 0 -8.74228e-008 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_013" position="8200 5350 -400" rotation="0 0 -8.74228e-008 -1" unit_id="501398"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="6103 5350 -400" _prev_rot="0 0 -8.74228e-008 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_014" position="6090 5350 -400" rotation="0 0 -8.74228e-008 -1" unit_id="501399"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="6090 5350 -400" _prev_rot="0 0 -8.74228e-008 -1" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_015" position="4380 5350 -400" rotation="0 0 0 -1" unit_id="501400"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="4380 5350 -400" _prev_rot="0 0 0 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_016" position="1310 5350 -400" rotation="0 0 0 -1" unit_id="501401"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1965 5350 -400" _prev_rot="0 0 0 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_017" position="-2341 5350 -400" rotation="0 0 0 -1" unit_id="501402"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2341 5350 -400" _prev_rot="0 0 0 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_018" position="-5790 5350 -400" rotation="0 0 0 -1" unit_id="501403"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-5790 5350 -400" _prev_rot="0 0 0 -1" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_019" position="-8721 5350 -400" rotation="-0 0 -0 -1" unit_id="501404"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-8721 3446 -400" _prev_rot="0 -0 1 -4.37114e-008" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_020" position="-7632 3446 -400" rotation="0 -0 1 -4.37114e-008" unit_id="501405"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-4664 3446 -400" _prev_rot="0 -0 1 -4.37114e-008" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_021" position="-5588 3446 -400" rotation="0 -0 1 -4.37114e-008" unit_id="501406"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3632.81 -8731.15 -401" _prev_rot="0 0 0.92388 0.382683" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_022" position="3632.81 -8731.15 -401" rotation="0 0 0.92388 0.382683" unit_id="500904"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5576.64 -8835.1 -401" _prev_rot="0 0 0.382683 -0.92388" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-1448 -1301 0" local_rot="0 0 1 2.98023e-008" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner_il" name_id="str_prop_street_lamppost_corner_023" position="5576.64 -8835.1 -401" rotation="0 0 0.382683 -0.92388" unit_id="500223"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="529 719 -400" _prev_rot="-0 0 -0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_door_2x3m" name_id="com_int_basement_wall_2x3m_054" position="529 719 -400" rotation="-0 0 -0 -1" unit_id="501407"/>
 		</table>
 		<table>
@@ -7057,6 +6976,87 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-1823 -1623 600.934" _prev_rot="0 0 0 -1" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp_wall" name_id="com_prop_mall_ceiling_lamp_wall_047" position="-1823 -1604 600.934" rotation="0 0 0 -1" unit_id="500001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5600 3325 -400" _prev_rot="0 0 0.92388 -0.382683" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_001" position="5600 3325 -400" rotation="0 0 0.92388 -0.382683" unit_id="500434"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3650 3175 -400" _prev_rot="0 0 -0.707107 -0.707106" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="1484.93 -1272.79 0" local_rot="0 0 0.923879 -0.382684" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_002" position="3650 3175 -400" rotation="0 0 -0.707107 -0.707106" unit_id="502507"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3650 889.998 -400" _prev_rot="0 0 -0.707107 -0.707106" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="3100.66 342.951 0" local_rot="0 0 0.923879 -0.382684" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_003" position="3650 889.998 -400" rotation="0 0 -0.707107 -0.707106" unit_id="500051"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3650 -755.002 -400" _prev_rot="0 0 -0.707107 -0.707106" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="4263.85 1506.14 0" local_rot="0 0 0.923879 -0.382684" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_004" position="3650 -755.002 -400" rotation="0 0 -0.707107 -0.707106" unit_id="500151"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3650.01 -4390 -400" _prev_rot="0 0 -0.707107 -0.707106" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="6834.18 4076.48 0" local_rot="0 0 0.923879 -0.382684" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_005" position="3650.01 -4390 -400" rotation="0 0 -0.707107 -0.707106" unit_id="500226"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3650.01 -6140 -400" _prev_rot="0 0 -0.707107 -0.707106" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="8071.62 5313.92 0" local_rot="0 0 0.923879 -0.382684" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_006" position="3650.01 -6140 -400" rotation="0 0 -0.707107 -0.707106" unit_id="500230"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5550.01 -6140 -400" _prev_rot="0 0 0.707106 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="6728.11 6657.42 0" local_rot="0 0 0.382684 0.923879" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_007" position="5550.01 -6140 -400" rotation="0 0 0.707106 -0.707107" unit_id="500257"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5550.01 -4695 -400" _prev_rot="0 0 0.707106 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="5706.35 5635.65 0" local_rot="0 0 0.382684 0.923879" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_008" position="5550.01 -4695 -400" rotation="0 0 0.707106 -0.707107" unit_id="500502"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5550.01 -3200 -400" _prev_rot="0 0 0.707106 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="4649.22 4578.52 0" local_rot="0 0 0.382684 0.923879" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_009" position="5550.01 -3200 -400" rotation="0 0 0.707106 -0.707107" unit_id="500549"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5550 110 -400" _prev_rot="0 0 0.707106 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="2308.7 2238 0" local_rot="0 0 0.382684 0.923879" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_010" position="5550 110 -400" rotation="0 0 0.707106 -0.707107" unit_id="500551"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7300 3450 -400" _prev_rot="0 0 1 -5.66244e-007" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="-1290.47 1113.69 0" local_rot="0 0 -0.382683 0.92388" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_011" position="7300 3450 -400" rotation="0 0 1 -5.66244e-007" unit_id="501396"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="9635 3450 -400" _prev_rot="0 0 1 -5.96046e-007" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="-2941.57 2764.78 0" local_rot="0 0 -0.382683 0.92388" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_012" position="9635 3450 -400" rotation="0 0 1 -5.96046e-007" unit_id="501397"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="8200 5350 -400" _prev_rot="0 0 -6.55651e-007 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="-3270.37 406.583 0" local_rot="0 0 0.92388 0.382683" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_013" position="8200 5350 -400" rotation="0 0 -6.55651e-007 -1" unit_id="501398"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6090 5350 -400" _prev_rot="0 0 -6.55651e-007 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="-1778.37 -1085.41 0" local_rot="0 0 0.92388 0.382683" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_014" position="6090 5350 -400" rotation="0 0 -6.55651e-007 -1" unit_id="501399"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4380 5350 -400" _prev_rot="0 0 -5.66244e-007 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="-569.218 -2294.56 0" local_rot="0 0 0.92388 0.382683" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_015" position="4380 5350 -400" rotation="0 0 -5.66244e-007 -1" unit_id="501400"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1310 5350 -400" _prev_rot="0 0 -5.66244e-007 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="1601.6 -4465.38 0" local_rot="0 0 0.92388 0.382683" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_016" position="1310 5350 -400" rotation="0 0 -5.66244e-007 -1" unit_id="501401"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2341 5349.99 -400" _prev_rot="0 0 -5.66244e-007 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="4183.25 -7047.02 0" local_rot="0 0 0.92388 0.382683" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_017" position="-2341 5349.99 -400" rotation="0 0 -5.66244e-007 -1" unit_id="501402"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5790 5349.99 -400" _prev_rot="0 0 -5.66244e-007 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="6622.07 -9485.83 0" local_rot="0 0 0.92388 0.382683" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_018" position="-5790 5349.99 -400" rotation="0 0 -5.66244e-007 -1" unit_id="501403"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-8721 5349.98 -400" _prev_rot="0 0 -5.66244e-007 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="8694.6 -11558.4 0" local_rot="0 0 0.92388 0.382683" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_019" position="-8721 5349.98 -400" rotation="0 0 -5.66244e-007 -1" unit_id="501404"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-7632 3445.98 -400" _prev_rot="0 0 1 -5.96046e-007" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="9270.89 -9441.99 0" local_rot="0 0 -0.382683 0.92388" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_020" position="-7632 3445.98 -400" rotation="0 0 1 -5.96046e-007" unit_id="501405"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-5588 3445.99 -400" _prev_rot="0 0 1 -5.96046e-007" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="7825.56 -7996.66 0" local_rot="0 0 -0.382683 0.92388" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_021" position="-5588 3445.99 -400" rotation="0 0 1 -5.96046e-007" unit_id="501406"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3632.82 -8731.15 -401" _prev_rot="0 0 0.92388 0.382682" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="9915.99 7133.99 -1" local_rot="0 0 -0.707106 0.707107" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_022" position="3632.82 -8731.15 -401" rotation="0 0 0.92388 0.382682" unit_id="500904"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5576.65 -8835.1 -401" _prev_rot="0 0 0.382682 -0.92388" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="false" local_pos="8615 8581.98 -1" local_rot="0 0 0.707108 0.707106" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_023" position="5576.65 -8835.1 -401" rotation="0 0 0.382682 -0.92388" unit_id="500223"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1350 3225 -400" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double" name_id="str_prop_street_lamppost_double_008" position="1350 3225 -400" rotation="0 0 0.707107 -0.707107" unit_id="502333"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="482 3210 -400" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double" name_id="str_prop_street_lamppost_double_007" position="482 3210 -400" rotation="0 0 0.707107 -0.707107" unit_id="502275"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1350 3225 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double" name_id="str_prop_street_lamppost_double_004" position="-1350 3225 -400" rotation="0 0 -0.707107 -0.707107" unit_id="502147"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2250 3225 -400" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" editable_gui="false" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double" name_id="str_prop_street_lamppost_double_003" position="-2250 3225 -400" rotation="0 0 0.707107 -0.707107" unit_id="502121"/>
 		</table>
 	</statics>
 	<values>

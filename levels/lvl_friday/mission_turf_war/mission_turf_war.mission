@@ -72979,7 +72979,7 @@
 					<entry key="position" type="vector3" value="4235.43 4970.88 1252.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="sound_path" type="string" value="vo/objectives/find_hack_7"/>
-					<entry key="subtitle_id" type="string" value="jkl_find_hack_7"/>
+					<entry key="subtitle_id" type="string" value="jkl_find_hack_4"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_as_secondary" type="boolean" value="true"/>
 					<entry key="use_subtitles" type="boolean" value="true"/>
