@@ -72248,6 +72248,12 @@
 							<entry key="notify_unit_sequence" type="string" value="open_door"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="300001"/>
+							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -72273,6 +72279,12 @@
 							<entry key="notify_unit_sequence" type="string" value="open_door"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="300000"/>
+							<entry key="notify_unit_sequence" type="string" value="state_hide"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -72289,13 +72301,14 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
+					<entry key="only_for_local_player" type="boolean" value="false"/>
 					<entry key="position" type="vector3" value="4358.17 645.443 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_list" type="table">
 						<entry index="1" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="300000"/>
-							<entry key="notify_unit_sequence" type="string" value="activate"/>
+							<entry key="notify_unit_sequence" type="string" value="reactivate"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 						<entry index="2" type="table">
@@ -72320,6 +72333,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
+					<entry key="only_for_local_player" type="boolean" value="false"/>
 					<entry key="position" type="vector3" value="4296.17 645.443 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_list" type="table">
@@ -72332,7 +72346,7 @@
 						<entry index="2" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="300001"/>
-							<entry key="notify_unit_sequence" type="string" value="activate"/>
+							<entry key="notify_unit_sequence" type="string" value="reactivate"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
@@ -72971,7 +72985,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
