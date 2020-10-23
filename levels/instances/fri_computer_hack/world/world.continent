@@ -1,7 +1,7 @@
 <table>
 	<statics>
 		<table>
-			<unit_data _prev_pos="31 39 74" _prev_rot="0 0 0.996195 0.0871557" continent="world" delayed_load="true" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="screen_on" name="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish" name_id="hack_monitor_timer" position="31 39 74" rotation="0 0 0.996195 0.0871557" unit_id="100002"/>
+			<unit_data _prev_pos="31 39 74" _prev_rot="0 0 0.996195 0.0871557" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="screen_on" name="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish" name_id="hack_monitor_timer" position="31 39 74" rotation="0 0 0.996195 0.0871557" unit_id="100002"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="40 0 80" _prev_rot="0 0 0.990268 0.139173" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-15.6355 36.8447 0" local_rot="0 0 -0.0523359 0.99863" name="units/payday2/props/off_prop_appliance_mouse/off_prop_appliance_mouse" name_id="off_prop_appliance_mouse_001" position="40 -3.8147e-006 74" rotation="0 0 0.990268 0.139173" unit_id="100003"/>
@@ -13,10 +13,10 @@
 			<unit_data _prev_pos="0 0 80" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="23.7568 43.7906 0" local_rot="0 0 0.996195 -0.0871557" mesh_variation="" name="units/world/architecture/secret_stash/props/secret_stash_hack_keyboard_interaction" name_id="keyboard001" position="-5.72205e-006 -7.62939e-006 74" rotation="0 0 7.45058e-009 -1" unit_id="100007"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1 41 80" _prev_rot="0 0 0.999391 0.0348994" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="31.8612 3.58712 0" local_rot="0 0 0.052336 0.99863" mesh_variation="state_interaction_disabled" name="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish" name_id="nohack_monitor001" position="-1 41 74" rotation="0 0 0.999391 0.0348994" unit_id="100000"/>
+			<unit_data _prev_pos="-1 41 74" _prev_rot="0 0 0.999391 0.0348994" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_show" name="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish" name_id="nohack_monitor001" position="-1 41 74" rotation="0 0 0.999391 0.0348994" unit_id="100000"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-32 38 74" _prev_rot="0 0 0.989016 -0.147809" continent="world" delayed_load="true" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="1_main_screen_on" name="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a" name_id="hack_monitor_left001" position="-32 38 74" rotation="0 0 0.989016 -0.147809" unit_id="100001"/>
+			<unit_data _prev_pos="-32 38 74" _prev_rot="0 0 0.989016 -0.147809" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="1_main_screen_on" name="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a" name_id="hack_monitor_left001" position="-32 38 74" rotation="0 0 0.989016 -0.147809" unit_id="100001"/>
 		</table>
 	</statics>
 	<values>
