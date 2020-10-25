@@ -484,16 +484,16 @@
 			<unit_data _prev_pos="2636.93 -1549.14 75.0002" _prev_rot="0 0 0 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show" name="units/world/architecture/secret_stash/props/secret_stash_equipment_server_rack_pickup" name_id="server_hard_drive003" position="2636.93 -1549.14 75.0002" rotation="0 0 0 -1" unit_id="300109"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2242 -2801 86" _prev_rot="0 0 -0.66262 -0.748956" continent="mission_turf_war" local_pos="-280 232 86" local_rot="0 0 -0.0610487 0.998135" mesh_variation="" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="table_silver_002" position="2242 -2801 86" rotation="0 0 -0.66262 -0.748956" unit_id="300020"/>
+			<unit_data _prev_pos="2242 -2801 86" _prev_rot="0 0 -0.66262 -0.748956" _visibility_counter="0" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="table_gold_002" position="2242 -2801 86" rotation="0 0 -0.66262 -0.748956" unit_id="300020"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2249 -2703 86" _prev_rot="0 0 -0.0784591 -0.996917" continent="mission_turf_war" local_pos="-182 225 86" local_rot="0 0 -0.649448 0.760406" mesh_variation="" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="table_silver_001" position="2249 -2703 86" rotation="0 0 -0.0784591 -0.996917" unit_id="300002"/>
+			<unit_data _prev_pos="2249 -2703 86" _prev_rot="0 0 -0.0784591 -0.996917" _visibility_counter="0" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="table_gold_001" position="2249 -2703 86" rotation="0 0 -0.0784591 -0.996917" unit_id="300002"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2235 -2659 86" _prev_rot="0 0 0.00872654 -0.999962" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-138 239 86" local_rot="0 0 -0.71325 0.700909" mesh_variation="" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="table_silver_003" position="2235 -2659 86" rotation="0 0 0.00872654 -0.999962" unit_id="300021"/>
+			<unit_data _prev_pos="2235 -2659 86" _prev_rot="0 0 0.00872654 -0.999962" _visibility_counter="0" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="table_gold_003" position="2235 -2659 86" rotation="0 0 0.00872654 -0.999962" unit_id="300021"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2280 -2788 86" _prev_rot="0 0 -0.636078 -0.771625" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-267 194 86" local_rot="0 0 -0.0958461 0.995396" mesh_variation="" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="table_silver_004" position="2280 -2788 86" rotation="0 0 -0.636078 -0.771625" unit_id="300022"/>
+			<unit_data _prev_pos="2280 -2788 86" _prev_rot="0 0 -0.636078 -0.771625" _visibility_counter="0" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/pickups/gen_pku_gold/gen_pku_gold" name_id="table_gold_004" position="2280 -2788 86" rotation="0 0 -0.636078 -0.771625" unit_id="300022"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="954 -3120 0" _prev_rot="0.104528 0 0 -0.994522" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_interaction_disabled" name="units/pd2_dlc_jolly/pickups/gen_pku_saw/gen_pku_saw" name_id="lobby_saw_pku" position="954 -3120 0" rotation="0.104528 0 0 -0.994522" unit_id="300110"/>

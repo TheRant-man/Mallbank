@@ -117,6 +117,7 @@
 			<value_node value="levels/narratives/vlad/jewelry_store/world_sounds"/>
 			<value_node value="levels/narratives/h_firestarter/stage_3/world_sounds"/>
 			<value_node value="levels/instances/unique/red/red_gates/world/world"/>
+			<value_node value="levels/narratives/armadillo/arm_cro/pc_only/pc_only"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

@@ -50826,7 +50826,7 @@
 					<entry key="countdown" type="boolean" value="false"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="objective" type="string" value="e_park_secure"/>
+					<entry key="objective" type="string" value="bnk_secure"/>
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="position" type="vector3" value="-293.346 4980.09 1252.5"/>
@@ -50847,7 +50847,7 @@
 					<entry key="countdown" type="boolean" value="false"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="objective" type="string" value="e_park_secure"/>
+					<entry key="objective" type="string" value="bnk_secure"/>
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="position" type="vector3" value="-293.346 5106.09 1252.5"/>
@@ -53348,7 +53348,7 @@
 			</entry>
 			<entry index="1855" type="table">
 				<entry key="class" type="string" value="ElementWaypoint"/>
-				<entry key="editor_name" type="string" value="waypoint_silver"/>
+				<entry key="editor_name" type="string" value="waypoint_gold"/>
 				<entry key="id" type="number" value="300517"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">

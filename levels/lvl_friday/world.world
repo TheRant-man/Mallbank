@@ -3308,6 +3308,7 @@
 					<entry index="100229" type="boolean" value="true"/>
 					<entry index="100231" type="boolean" value="true"/>
 					<entry index="100367" type="boolean" value="true"/>
+					<entry index="100538" type="boolean" value="true"/>
 					<entry index="100650" type="boolean" value="true"/>
 					<entry index="101045" type="boolean" value="true"/>
 					<entry index="101046" type="boolean" value="true"/>
@@ -3369,12 +3370,12 @@
 						<entry key="width" type="number" value="1410"/>
 					</entry>
 					<entry index="3" type="table">
-						<entry key="depth" type="number" value="1267"/>
-						<entry key="height" type="number" value="298"/>
-						<entry key="position" type="vector3" value="967 -4340 0"/>
+						<entry key="depth" type="number" value="469"/>
+						<entry key="height" type="number" value="287"/>
+						<entry key="position" type="vector3" value="841 -3588 0"/>
 						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 						<entry key="type" type="string" value="box"/>
-						<entry key="width" type="number" value="1710"/>
+						<entry key="width" type="number" value="1486"/>
 					</entry>
 				</entry>
 			</entry>
@@ -3422,7 +3423,6 @@
 			</entry>
 			<entry key="secoffice" type="table">
 				<entry key="ids" type="table">
-					<entry index="100215" type="boolean" value="true"/>
 					<entry index="100306" type="boolean" value="true"/>
 					<entry index="100410" type="boolean" value="true"/>
 					<entry index="100649" type="boolean" value="true"/>

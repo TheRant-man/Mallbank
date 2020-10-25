@@ -42,6 +42,9 @@
 	"bnk_pku_drill2":"Get the drill",
 	"bnk_pku_drill2_desc":"The pilot has delivered the drill, go get it!"
 	
+	"bnk_secure":"Secure the gold",
+	"bnk_secure_desc":"Move the cartel gold to the van."
+	
 	"hud_int_keyboard_eday_2":"Hold $BTN_INTERACT to start the override"
 	
 	"hud_cam_access_camera_exit":"Side Exit"
