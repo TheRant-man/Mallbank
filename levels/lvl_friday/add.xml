@@ -203,110 +203,114 @@
 	<movie path="vo/objectives/find_hack_5"/>
 	<movie path="vo/objectives/find_hack_6"/>
 	<movie path="vo/objectives/find_hack_7"/>
-	
 	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" type="unit">
-		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" unload="true"/>
-		<object path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<material_config path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
+		<object path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
+		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" type="unit">
-		<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
-		<object path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
-		<model path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
 		<material_config path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
+		<model path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
+		<object path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
 		<texture path="units/pd2_mod_friday/architecture/shared_textures/bnk_branch_signs_df" unload="true"/>
+		<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge" type="unit">
-		<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge" unload="true"/>
-		<object path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge" unload="true"/>
-		<model path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge" unload="true"/>
 		<material_config path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
+		<model path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge" unload="true"/>
+		<object path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge" unload="true"/>
 		<texture path="units/pd2_mod_friday/architecture/shared_textures/bnk_branch_signs_df" unload="true"/>
+		<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room" type="unit">
-		<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room" unload="true"/>
-		<object path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room" unload="true"/>
-		<model path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room" unload="true"/>
 		<material_config path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
+		<model path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room" unload="true"/>
+		<object path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room" unload="true"/>
 		<texture path="units/pd2_mod_friday/architecture/shared_textures/bnk_branch_signs_df" unload="true"/>
+		<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" type="unit">
 		<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>
-		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
 		<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_husk" unload="true"/>
+		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
+		<model path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>
+		<object path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_husk" type="unit">
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_husk" unload="true"/>
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>
 		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
+		<model path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>
+		<object path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1" unload="true"/>
+		<unit path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_husk" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" type="unit">
 		<unit path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>
-		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
 		<unit path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2_husk" unload="true"/>
+		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
+		<model path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>
+		<object path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2_husk" type="unit">
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2_husk" unload="true"/>
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>
 		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
+		<model path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>
+		<object path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2" unload="true"/>
+		<unit path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2_husk" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" type="unit">
 		<unit path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>
-		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
 		<unit path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3_husk" unload="true"/>
+		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
+		<model path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>
+		<object path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3_husk" type="unit">
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3_husk" unload="true"/>
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>
 		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
+		<model path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>
+		<object path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3" unload="true"/>
+		<unit path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3_husk" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" type="unit">
 		<unit path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>
-		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
 		<unit path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4_husk" unload="true"/>
+		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
+		<model path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>
+		<object path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4_husk" type="unit">
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4_husk" unload="true"/>
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>
 		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
+		<model path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>
+		<object path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4" unload="true"/>
+		<unit path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4_husk" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" type="unit">
 		<unit path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>
-		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
 		<unit path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5_husk" unload="true"/>
+		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
+		<model path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>
+		<object path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5_husk" type="unit">
-		<unit path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5_husk" unload="true"/>
-		<object path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>
-		<model path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>
 		<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870" unload="true"/>
+		<model path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>
+		<object path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5" unload="true"/>
+		<unit path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5_husk" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" type="unit">
-		<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" unload="true"/>
-		<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" unload="true"/>
 		<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" unload="true"/>
+		<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" unload="true"/>
 		<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" unload="true"/>
+		<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" unload="true"/>
 	</add>
 	<add path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" type="unit">
-		<unit path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
-		<object path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
-		<model path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 		<material_config path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
+		<model path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
+		<object path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 		<texture path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag_df" unload="true"/>
+		<unit path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
+	</add>
+	<add path="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" type="unit">
+		<unit path="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" unload="true"/>
+		<object path="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" unload="true"/>
+		<material_config path="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" unload="true"/>
 	</add>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 </table>
