@@ -3489,7 +3489,7 @@
 						<entry key="depth" type="number" value="536"/>
 						<entry key="height" type="number" value="296"/>
 						<entry key="position" type="vector3" value="1257 863 -400"/>
-						<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
+						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 						<entry key="type" type="string" value="box"/>
 						<entry key="width" type="number" value="514"/>
 					</entry>

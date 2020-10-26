@@ -129,14 +129,6 @@
 				<projection_textures l_spot_01="units/lights/spot_light_projection_textures/spotprojection_01_pumpkin_df"/>
 			</unit_data>
 		</table>
-		<table>
-			<unit_data _prev_pos="300.218 214.433 74.2132" _prev_rot="0 0 -0.71934 -0.694658" continent="halloween_props" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chill/props/chl_prop_pumpkin/chl_prop_pumpkin" name_id="chl_prop_pumpkin_008" position="300.218 214.433 74.2132" projection_light="l_spot_01" rotation="0 0 -1 8.9407e-008" unit_id="600031">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="0.941176 0.756863 0.333333" enabled="true" falloff_exponent="1" far_range="200" multiplier="@ID5035addc43a80b74@" name="l_spot_01" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
-				</lights>
-				<projection_textures l_spot_01="units/lights/spot_light_projection_textures/spotprojection_01_pumpkin_df"/>
-			</unit_data>
-		</table>
 	</statics>
 	<values>
 		<workviews/>
