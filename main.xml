@@ -187,4 +187,10 @@
 			<value_node value="120000"/>
 		</payout>
 	</narrative>
+    <HeistMusic directory="assets/sounds/music/mallbank" id="music_mallbank" volume="0.6">
+		<event name="setup" source="stealth.ogg" start_source="stealthintro.ogg"/>
+		<event name="anticipation" source="anticiloop.ogg" start_source="anticipation.ogg"/>
+		<event name="assault" source="assault.ogg" start_source="assaultintro.ogg"/>
+		<event name="control" source="control.ogg" start_source="controlintro.ogg"/>
+	</HeistMusic>
 </table>
