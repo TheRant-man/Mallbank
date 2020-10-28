@@ -568,7 +568,7 @@
 			<unit_data _prev_pos="2325 -2320 60" _prev_rot="0 0 1 4.37114e-008" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_hide" name="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large" name_id="lectro_lance_door1" position="2325 -2320 60" rotation="0 0 1 -4.37114e-008" unit_id="300001"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="19314 1630 -447" _prev_rot="0 0 0 -1" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="__reset_animation__" name="units/payday2/vehicles/anim_vehicle_van_player/anim_vehicle_van_player" name_id="anim_vehicle_van_player_001" position="19162 1630 -447" rotation="0 0 0 -1" unit_id="300069">
+			<unit_data _prev_pos="18942 1641 -447" _prev_rot="0 0 0 -1" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="__reset_animation__" name="units/payday2/vehicles/anim_vehicle_van_player/anim_vehicle_van_player" name_id="anim_vehicle_van_player_001" position="18942 1639 -447" rotation="0 0 0 -1" unit_id="300069">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.858824 0.576471" enabled="true" falloff_exponent="4" far_range="150" multiplier="@IDbca13ba1d306f87b@" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
 					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="true" falloff_exponent="4" far_range="150" multiplier="@IDbca13ba1d306f87b@" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>

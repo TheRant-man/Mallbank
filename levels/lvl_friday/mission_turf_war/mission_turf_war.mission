@@ -53826,7 +53826,7 @@
 							<entry key="id" type="number" value="300532"/>
 						</entry>
 						<entry index="2" type="table">
-							<entry key="delay" type="number" value="10"/>
+							<entry key="delay" type="number" value="15"/>
 							<entry key="id" type="number" value="300517"/>
 						</entry>
 						<entry index="3" type="table">
@@ -53838,7 +53838,7 @@
 							<entry key="id" type="number" value="302645"/>
 						</entry>
 						<entry index="5" type="table">
-							<entry key="delay" type="number" value="10"/>
+							<entry key="delay" type="number" value="15"/>
 							<entry key="id" type="number" value="302527"/>
 						</entry>
 					</entry>
@@ -73215,8 +73215,8 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="18470 4985 0"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="position" type="vector3" value="3038.25 3712.76 -419.999"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_list" type="table">
 						<entry index="1" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
