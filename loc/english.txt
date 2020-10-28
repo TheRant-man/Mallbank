@@ -1,6 +1,6 @@
 {
-    "menu_jukebox_music_mallbank":"Crim Reapers",
-	"menu_jukebox_screen_music_mallbank":"Crim Reapers",
+    "menu_jukebox_music_friday":"Crim Reapers",
+	"menu_jukebox_screen_music_friday":"Crim Reapers",
 
 	"heist_lvl_friday_brief":"You've all been to the Shield Mall for Vlad years back, but the Capitol Savings branch here wasn't open to the public at the time. Its layout is similar to other branches, but its security is notable; rudimentary, but effective. Metal detectors, shutters, well-armed guards, and a rumored boobytrapped bank vault. Otherwise, this is simple:  breach the bank, open the vault, grab the gold, and escape. The usual. You won't be keeping your hands clean on this, so just in case, you'll be carrying a saw on your person. Good luck, and watch for civilians.",
 	

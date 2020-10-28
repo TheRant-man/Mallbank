@@ -2310,7 +2310,7 @@
 			<unit_data _prev_pos="1300 -1594 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk_branch/bnk_branch_wall_clean" name_id="bnk_branch_wall_clean_002" position="1300 -1594 0" rotation="0 0 -0.707107 -0.707107" unit_id="100307"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2475 -2320 0" _prev_rot="-0 0 -0 -1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deactivate_door" name="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_com" name_id="vault_door1" position="2475 -2320 0" rotation="-0 0 -0 -1" unit_id="100308"/>
+			<unit_data _prev_pos="2475 -2320 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deactivate_door" name="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_com" name_id="vault_door1" position="2475 -2320 0" rotation="0 0 0 -1" unit_id="100308"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2300 -2196 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show" name="units/payday2/props/gen_prop_square_drop_marker_2x3/gen_prop_square_drop_marker_2x3" name_id="marker_vault1" position="2275 -2196 0" rotation="0 0 0.707107 -0.707107" unit_id="100309"/>
