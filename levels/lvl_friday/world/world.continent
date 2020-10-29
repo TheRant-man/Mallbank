@@ -6213,12 +6213,6 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="4136 -9924 -420" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_backdrop_vehicles_animated/str_backdrop_vehicles_animated" name_id="str_backdrop_vehicles_animated_001" position="4136 -9906 -420" rotation="0 0 0 -1" unit_id="100538"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="11800 4045 -420" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_backdrop_vehicles_animated/str_backdrop_vehicles_animated" name_id="str_backdrop_vehicles_animated_002" position="11800 4045 -420" rotation="0 0 -0.707107 -0.707107" unit_id="100553"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="567.001 383.462 575" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="new_light_security" only_visible_in_editor="true" position="420 445 575" projection_light="lo_omni" rotation="-0 0 -0 -1" unit_id="100554">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="0.737255 0.909804 0.984314" enabled="true" falloff_exponent="5" far_range="500" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
@@ -6227,9 +6221,6 @@
 					<lo_omni x="128" y="128"/>
 				</projection_lights>
 			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="-10579 4439 -420" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_backdrop_vehicles_animated/str_backdrop_vehicles_animated" name_id="str_backdrop_vehicles_animated_003" position="-10640 4439 -420" rotation="0 0 -0.707107 -0.707107" unit_id="100215"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2112.76 -2577.62 3.72529e-007" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1025" only_exists_in_editor="true" position="2112.76 -2577.62 3.72529e-007" rotation="0 0 0 -1" unit_id="100969"/>
