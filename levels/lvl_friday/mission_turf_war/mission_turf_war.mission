@@ -50759,7 +50759,7 @@
 					<entry key="objective" type="string" value="bnk_pku_drill"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
-							<entry key="delay" type="number" value="120"/>
+							<entry key="delay" type="number" value="90"/>
 							<entry key="id" type="number" value="300318"/>
 						</entry>
 						<entry index="2" type="table">
@@ -73371,7 +73371,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="operation" type="string" value="remove"/>
-					<entry key="position" type="vector3" value="4785.08 3351.86 1252.5"/>
+					<entry key="position" type="vector3" value="4784.08 3351.86 1252.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -73508,6 +73508,7 @@
 			<entry index="12" type="string" value="fri_metal_detector_006"/>
 			<entry index="13" type="string" value="fri_metal_detector_007"/>
 			<entry index="14" type="string" value="fri_metal_detector_008"/>
+			<entry index="15" type="string" value="fri_metal_detector_009"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>

@@ -585,5 +585,6 @@
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_003" position="2448 328 0" rotation="0 0 0.707107 -0.707107" script="default" start_index="500"/>
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_005" position="1389 322 0" rotation="0 0 -0.707107 -0.707107" script="default" start_index="1000"/>
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_004" position="1988 -321 0" rotation="0 0 -0.707107 -0.707107" script="default" start_index="750"/>
+		<table continent="mission_turf_war" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_009" position="915 -3900 0" rotation="0 0 -0.707107 -0.707107" script="default" start_index="2250"/>
 	</instances>
 </table>
