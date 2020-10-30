@@ -1003,7 +1003,6 @@
 				<value_node value="502716"/>
 				<value_node value="502720"/>
 				<value_node value="502721"/>
-				<value_node value="502772"/>
 				<value_node value="502775"/>
 				<value_node value="502776"/>
 				<value_node value="502779"/>
@@ -4052,7 +4051,7 @@
 			<unit_data _prev_pos="3352 -3050 -495" _prev_rot="-0 0 -0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/collision/dev_collision_50m/dev_collision_50m_bag" name_id="dev_collision_50m_bag_005" only_visible_in_editor="true" position="3352 -3050 -495" rotation="-0 0 -0 -1" unit_id="502409"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/vehicles/str_vehicle_car_compact/str_vehicle_car_compact" name_id="str_vehicle_car_compact_002" position="1625 3625 -420" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="502413"/>
+			<unit_data _prev_pos="1625 3625 -420" _prev_rot="1.25608e-015 1.25608e-015 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="orig" name="units/payday2/vehicles/str_vehicle_car_compact/str_vehicle_car_compact" name_id="str_vehicle_car_compact_002" position="1625 3625 -420" rotation="0 0 -0.707107 -0.707107" unit_id="502413"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/str/str_ext_alley_curb_1x2m_a" name_id="str_ext_alley_curb_1x2m_a_001" position="3325 2400 -381" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="502416"/>
@@ -4256,16 +4255,13 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_015" position="5800 3200 -400" rotation="0 1.77636e-015 0 -1" unit_id="502721"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_8x1m_corner_a" name_id="hcm_ext_8x1m_corner_a_002" position="7400 2275 -400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="502772"/>
-		</table>
-		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_road_straight16x16" name_id="hcm_bdrop_mid_road_straight16x16_001" position="-13400 3675 -425" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="502775"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16" name_id="hcm_bdrop_mid_02_corner_16x16_004" position="-7825 8743 -400" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="502776"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm_int_storefront/hcm_int_storefront_lobby_c" name_id="hcm_int_storefront_lobby_c_002" position="7400 3200 -400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707106" unit_id="502779"/>
+			<unit_data _prev_pos="7400 3200 -400" _prev_rot="1.25608e-015 1.25608e-015 -0.707107 -0.707106" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_int_storefront/hcm_int_storefront_lobby_c" name_id="hcm_int_storefront_lobby_c_002" position="7400 3200 -400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707106" unit_id="502779"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_017" position="7400 3200 -400" rotation="0 1.77636e-015 0 -1" unit_id="502780"/>
@@ -4610,7 +4606,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_8x16m_a" name_id="hcm_ext_8x16m_a_014" position="375 8000 -400" rotation="0 0 1 -0" unit_id="501253"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_storefront_8x16m_e" name_id="hcm_ext_storefront_8x16m_e_010" position="3575 6300 -399" rotation="0 0 0.707107 -0.707107" unit_id="501262"/>
+			<unit_data _prev_pos="3575 6300 -399" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_storefront_8x16m_e" name_id="hcm_ext_storefront_8x16m_e_010" position="3575 6300 -399" rotation="0 0 0.707107 -0.707107" unit_id="501262"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/props/str_prop_park_tree_elm/str_prop_park_tree_elm_autumn_a" name_id="str_prop_park_tree_elm_autumn_a_011" position="4375 5700 -390.609" rotation="0 0 0 -1" unit_id="501265"/>
