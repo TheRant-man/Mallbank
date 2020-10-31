@@ -67759,7 +67759,7 @@
 						<entry index="2" type="number" value="302320"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event" type="string" value="complete"/>
+					<entry key="event" type="string" value="anim_act_04"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
@@ -67784,7 +67784,7 @@
 						<entry index="2" type="number" value="302321"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event" type="string" value="complete"/>
+					<entry key="event" type="string" value="anim_act_04"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
@@ -67809,7 +67809,7 @@
 						<entry index="2" type="number" value="302323"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event" type="string" value="complete"/>
+					<entry key="event" type="string" value="anim_act_04"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
@@ -67834,7 +67834,7 @@
 						<entry index="2" type="number" value="302324"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event" type="string" value="complete"/>
+					<entry key="event" type="string" value="anim_act_04"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
@@ -67859,7 +67859,7 @@
 						<entry index="2" type="number" value="302322"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event" type="string" value="complete"/>
+					<entry key="event" type="string" value="anim_act_04"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">

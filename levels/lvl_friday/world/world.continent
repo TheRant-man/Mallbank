@@ -4426,7 +4426,7 @@
 			<unit_data _prev_pos="5368 -2188 -420" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_truck_boxvan/str_vehicle_truck_boxvan" name_id="str_vehicle_truck_boxvan_001" position="5368 -1816 -420" rotation="0 0 0 -1" unit_id="100217"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="5374 392 -420" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="black" name="units/payday2/vehicles/str_vehicle_car_charger/str_vehicle_car_charger" name_id="str_vehicle_car_charger_002" position="5374 392 -420" rotation="-0 0 -0 -1" unit_id="100219"/>
+			<unit_data _prev_pos="5374 392 -420" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="silver" name="units/payday2/vehicles/str_vehicle_car_charger/str_vehicle_car_charger" name_id="str_vehicle_car_charger_002" position="5374 392 -420" rotation="-0 0 -0 -1" unit_id="100219"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="5374 1184 -420" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="grey" name="units/payday2/vehicles/str_vehicle_car_ford/str_vehicle_car_ford" name_id="str_vehicle_car_charger_003" position="5374 1958 -420" rotation="0 0 1 -4.37114e-008" unit_id="100221">
@@ -4527,24 +4527,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="7181 -5436 -400.1" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="1469 -4627 -800.1" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_truck_boxvan/str_vehicle_truck_boxvan" name_id="str_vehicle_truck_boxvan_002" position="7181 -5436 -400.1" rotation="0 0 -0.707107 -0.707107" unit_id="101080"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="4946.38 -11197.7 -400" _prev_rot="0 0 0 -1" continent="world" local_pos="-4292.7 -2392.38 -800" local_rot="0 0 -0.707107 0.707107" name="units/world/architecture/street/ground/asphalt/ground_asphalt_20x20m" name_id="ground_asphalt_20x20m_009" position="4946.38 -11197.7 -400" rotation="0 0 0 -1" unit_id="101069"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="6946.38 -11197.7 -400" _prev_rot="0 0 0 -1" continent="world" local_pos="-4292.7 -4392.38 -800" local_rot="0 0 -0.707107 0.707107" name="units/world/architecture/street/ground/asphalt/ground_asphalt_20x20m" name_id="ground_asphalt_20x20m_010" position="6946.38 -11197.7 -400" rotation="0 0 0 -1" unit_id="101079"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2947.38 -11197 -400" _prev_rot="0 0 0 -1" continent="world" local_pos="-4292 -393.38 -800" local_rot="0 0 -0.707107 0.707107" name="units/world/architecture/street/ground/asphalt/ground_asphalt_20x20m" name_id="ground_asphalt_20x20m_011" position="2947.38 -11197 -400" rotation="0 0 0 -1" unit_id="101084"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1326 -11197 -400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/street/ground/asphalt/ground_asphalt_20x20m" name_id="ground_asphalt_20x20m_012" position="948 -11197 -400" rotation="-0 0 -0 -1" unit_id="101447"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="4946.38 -13197.7 -400" _prev_rot="0 0 0 -1" continent="world" local_pos="-6292.7 -2392.38 -800" local_rot="0 0 -0.707107 0.707107" name="units/world/architecture/street/ground/asphalt/ground_asphalt_20x20m" name_id="ground_asphalt_20x20m_013" position="4946.38 -13197.7 -400" rotation="0 0 0 -1" unit_id="101448"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2947.38 -13197 -400" _prev_rot="0 0 0 -1" continent="world" local_pos="-6292 -393.38 -800" local_rot="0 0 -0.707107 0.707107" name="units/world/architecture/street/ground/asphalt/ground_asphalt_20x20m" name_id="ground_asphalt_20x20m_014" position="2947.38 -13197 -400" rotation="0 0 0 -1" unit_id="101449"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3354 -4980 -101" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 -1600 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_8x16m_d" name_id="hcm_ext_8x8m_corner_e_028" position="3354 -4980 -101" rotation="0 0 0 -1" unit_id="101122"/>
