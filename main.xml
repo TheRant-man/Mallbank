@@ -58,8 +58,7 @@
 		<assets>
 			<asset name="mallcrasher_health"/>
 			<asset name="mallcrasher_ammo"/>
-			<!--<asset name="safe_escape"/>
-			<asset name="camera_access"/>-->
+			<asset name="grenade_crate"/>
 		</assets>
 		<include directory="levels/lvl_friday">
 			<file file="world.world" type="generic_xml"/>
