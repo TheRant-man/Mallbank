@@ -65454,7 +65454,7 @@
 					<entry key="ai_group" type="string" value="enemies"/>
 					<entry key="align_position" type="boolean" value="true"/>
 					<entry key="align_rotation" type="boolean" value="true"/>
-					<entry key="attitude" type="string" value="none"/>
+					<entry key="attitude" type="string" value="avoid"/>
 					<entry key="base_chance" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="chance_inc" type="number" value="0"/>
@@ -65462,8 +65462,9 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="followup_elements" type="table">
 					</entry>
+					<entry key="forced" type="boolean" value="true"/>
 					<entry key="interaction_voice" type="string" value="none"/>
-					<entry key="interrupt_dis" type="number" value="7"/>
+					<entry key="interrupt_dis" type="number" value="15"/>
 					<entry key="interrupt_dmg" type="number" value="0"/>
 					<entry key="interval" type="number" value="-1"/>
 					<entry key="needs_pos_rsrv" type="boolean" value="true"/>
@@ -65471,7 +65472,7 @@
 					</entry>
 					<entry key="path_haste" type="string" value="run"/>
 					<entry key="path_stance" type="string" value="none"/>
-					<entry key="path_style" type="string" value="precise"/>
+					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
 					<entry key="position" type="vector3" value="3057.37 -2342.1 0.000274658"/>
@@ -69246,10 +69247,6 @@
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="interval" type="number" value="20"/>
 					<entry key="on_executed" type="table">
-						<entry index="1" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="302585"/>
-						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
 					<entry key="position" type="vector3" value="48 252 -400"/>
@@ -69262,17 +69259,17 @@
 			</entry>
 			<entry index="2418" type="table">
 				<entry key="class" type="string" value="ElementSpecialObjective"/>
-				<entry key="editor_name" type="string" value="clk_hide_1stfloor"/>
+				<entry key="editor_name" type="string" value="sneaky_1"/>
 				<entry key="id" type="number" value="302585"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="SO_access" type="string" value="1024"/>
-					<entry key="action_duration_max" type="number" value="0"/>
-					<entry key="action_duration_min" type="number" value="0"/>
+					<entry key="action_duration_max" type="number" value="480"/>
+					<entry key="action_duration_min" type="number" value="300"/>
 					<entry key="ai_group" type="string" value="enemies"/>
 					<entry key="align_position" type="boolean" value="true"/>
 					<entry key="align_rotation" type="boolean" value="true"/>
-					<entry key="attitude" type="string" value="avoid"/>
+					<entry key="attitude" type="string" value="engage"/>
 					<entry key="base_chance" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="chance_inc" type="number" value="0"/>
@@ -69282,14 +69279,14 @@
 					</entry>
 					<entry key="forced" type="boolean" value="true"/>
 					<entry key="interaction_voice" type="string" value="none"/>
-					<entry key="interrupt_dis" type="number" value="15"/>
+					<entry key="interrupt_dis" type="number" value="7"/>
 					<entry key="interrupt_dmg" type="number" value="0"/>
-					<entry key="interval" type="number" value="10"/>
+					<entry key="interval" type="number" value="-1"/>
 					<entry key="needs_pos_rsrv" type="boolean" value="true"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="path_haste" type="string" value="none"/>
-					<entry key="path_stance" type="string" value="none"/>
+					<entry key="path_haste" type="string" value="run"/>
+					<entry key="path_stance" type="string" value="hos"/>
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
@@ -74059,6 +74056,178 @@
 					</entry>
 					<entry key="position" type="vector3" value="3231.83 3755.61 1252.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2598" type="table">
+				<entry key="class" type="string" value="ElementSpecialObjective"/>
+				<entry key="editor_name" type="string" value="big_sneaky"/>
+				<entry key="id" type="number" value="302461"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="SO_access" type="string" value="1024"/>
+					<entry key="action_duration_max" type="number" value="480"/>
+					<entry key="action_duration_min" type="number" value="300"/>
+					<entry key="ai_group" type="string" value="enemies"/>
+					<entry key="align_position" type="boolean" value="true"/>
+					<entry key="align_rotation" type="boolean" value="true"/>
+					<entry key="attitude" type="string" value="engage"/>
+					<entry key="base_chance" type="number" value="1"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="chance_inc" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="followup_elements" type="table">
+					</entry>
+					<entry key="interaction_voice" type="string" value="none"/>
+					<entry key="interrupt_dis" type="number" value="7"/>
+					<entry key="interrupt_dmg" type="number" value="0"/>
+					<entry key="interval" type="number" value="-1"/>
+					<entry key="needs_pos_rsrv" type="boolean" value="true"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="path_haste" type="string" value="run"/>
+					<entry key="path_stance" type="string" value="hos"/>
+					<entry key="path_style" type="string" value="destination"/>
+					<entry key="patrol_path" type="string" value="none"/>
+					<entry key="pose" type="string" value="none"/>
+					<entry key="position" type="vector3" value="2820 -4165 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="scan" type="boolean" value="true"/>
+					<entry key="search_distance" type="number" value="0"/>
+					<entry key="search_position" type="vector3" value="2820 -4165 0"/>
+					<entry key="so_action" type="string" value="e_so_sneak_wait_crh_var3"/>
+					<entry key="spawn_instigator_ids" type="table">
+					</entry>
+					<entry key="test_unit" type="string" value="default"/>
+					<entry key="trigger_on" type="string" value="none"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2599" type="table">
+				<entry key="class" type="string" value="ElementSpawnEnemyDummy"/>
+				<entry key="editor_name" type="string" value="do_not_ask_the_purpose_of_this_man"/>
+				<entry key="id" type="number" value="302674"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="accessibility" type="string" value="any"/>
+					<entry key="amount" type="number" value="0"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/ene_spook_1/ene_spook_1"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="force_pickup" type="string" value="none"/>
+					<entry key="interval" type="number" value="5"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302461"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302675"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302585"/>
+						</entry>
+					</entry>
+					<entry key="participate_to_group_ai" type="boolean" value="true"/>
+					<entry key="position" type="vector3" value="3564.19 -2004.38 -400"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="spawn_action" type="string" value="none"/>
+					<entry key="team" type="string" value="default"/>
+					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="voice" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2600" type="table">
+				<entry key="class" type="string" value="ElementSpecialObjective"/>
+				<entry key="editor_name" type="string" value="big_sneaky001"/>
+				<entry key="id" type="number" value="302675"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="SO_access" type="string" value="1024"/>
+					<entry key="action_duration_max" type="number" value="480"/>
+					<entry key="action_duration_min" type="number" value="300"/>
+					<entry key="ai_group" type="string" value="enemies"/>
+					<entry key="align_position" type="boolean" value="true"/>
+					<entry key="align_rotation" type="boolean" value="true"/>
+					<entry key="attitude" type="string" value="engage"/>
+					<entry key="base_chance" type="number" value="1"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="chance_inc" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="followup_elements" type="table">
+					</entry>
+					<entry key="interaction_voice" type="string" value="none"/>
+					<entry key="interrupt_dis" type="number" value="7"/>
+					<entry key="interrupt_dmg" type="number" value="0"/>
+					<entry key="interval" type="number" value="-1"/>
+					<entry key="needs_pos_rsrv" type="boolean" value="true"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="path_haste" type="string" value="run"/>
+					<entry key="path_stance" type="string" value="hos"/>
+					<entry key="path_style" type="string" value="destination"/>
+					<entry key="patrol_path" type="string" value="none"/>
+					<entry key="pose" type="string" value="none"/>
+					<entry key="position" type="vector3" value="3057 -2881 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
+					<entry key="scan" type="boolean" value="true"/>
+					<entry key="search_distance" type="number" value="0"/>
+					<entry key="search_position" type="vector3" value="3057 -2881 0"/>
+					<entry key="so_action" type="string" value="e_so_sneak_wait_stand"/>
+					<entry key="spawn_instigator_ids" type="table">
+					</entry>
+					<entry key="test_unit" type="string" value="default"/>
+					<entry key="trigger_on" type="string" value="none"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2601" type="table">
+				<entry key="class" type="string" value="ElementSpecialObjective"/>
+				<entry key="editor_name" type="string" value="big_sneaky002"/>
+				<entry key="id" type="number" value="302676"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="SO_access" type="string" value="1024"/>
+					<entry key="action_duration_max" type="number" value="480"/>
+					<entry key="action_duration_min" type="number" value="300"/>
+					<entry key="ai_group" type="string" value="enemies"/>
+					<entry key="align_position" type="boolean" value="true"/>
+					<entry key="align_rotation" type="boolean" value="true"/>
+					<entry key="attitude" type="string" value="engage"/>
+					<entry key="base_chance" type="number" value="1"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="chance_inc" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="followup_elements" type="table">
+					</entry>
+					<entry key="interaction_voice" type="string" value="none"/>
+					<entry key="interrupt_dis" type="number" value="7"/>
+					<entry key="interrupt_dmg" type="number" value="0"/>
+					<entry key="interval" type="number" value="-1"/>
+					<entry key="needs_pos_rsrv" type="boolean" value="true"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="path_haste" type="string" value="run"/>
+					<entry key="path_stance" type="string" value="hos"/>
+					<entry key="path_style" type="string" value="destination"/>
+					<entry key="patrol_path" type="string" value="none"/>
+					<entry key="pose" type="string" value="none"/>
+					<entry key="position" type="vector3" value="3051 -2434 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
+					<entry key="scan" type="boolean" value="true"/>
+					<entry key="search_distance" type="number" value="0"/>
+					<entry key="search_position" type="vector3" value="3051 -2434 0"/>
+					<entry key="so_action" type="string" value="e_so_sneak_wait_stand"/>
+					<entry key="spawn_instigator_ids" type="table">
+					</entry>
+					<entry key="test_unit" type="string" value="default"/>
+					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
