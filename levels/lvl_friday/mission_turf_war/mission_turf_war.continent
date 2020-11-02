@@ -120,7 +120,7 @@
 			<unit_data _prev_pos="-2785 -1021 41.5428" _prev_rot="0 0 1 -1.19209e-007" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_hide" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe5" position="-2785 -1021 41.543" rotation="0 0 1 4.37114e-008" unit_id="302180"/>
 		</table>
 		<table>
-			<unit_data continent="mission_turf_war" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="safebundle1" position="-1303 -273 452" rotation="0 0 -0.382683 -0.92388" unit_id="301706"/>
+			<unit_data _prev_pos="-1303 -273 452" _prev_rot="0 0 -0.382683 -0.92388" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="safebundle1" position="-1303 -273 452" rotation="0 0 -0.382683 -0.92388" unit_id="301706"/>
 		</table>
 		<table>
 			<unit_data continent="mission_turf_war" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="safebundle2" position="1182 -2584 446" rotation="0 0 0.92388 0.382683" unit_id="301707"/>
@@ -585,6 +585,21 @@
 				</lights>
 				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
 			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1400 -200 20" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="new_safe_001" position="-1400 -200 20" rotation="0 0 -0.707107 -0.707107" unit_id="300088"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1834 -2244 37" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="new_safe_002" position="-1834 -2244 38" rotation="0 0 0.707107 -0.707107" unit_id="300085"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1667.32 -2906.17 462.247" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="new_safe_003" position="-1666 -2942 440" rotation="0 0 1 4.37114e-008" unit_id="300089"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1642 -2032 440" _prev_rot="0 0 1 -4.37114e-008" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="new_safe_004" position="-1642 -2032 440" rotation="0 0 1 -4.37114e-008" unit_id="300092"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3125.02 -1327.73 453.148" _prev_rot="0 0 1 -4.37114e-008" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="new_safe_005" position="-3109 -1285 450" rotation="0 0 -0.707107 -0.707107" unit_id="300093"/>
 		</table>
 	</statics>
 	<values>

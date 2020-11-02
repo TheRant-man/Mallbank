@@ -6720,7 +6720,7 @@
 			<unit_data _prev_pos="447 -3164 0" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter" name_id="navigation_splitter_337" only_exists_in_editor="true" position="756 -3164 0" rotation="0 0 0 -1" unit_id="201785"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2247 4570 1250" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="black001" position="2247 4570 1250" rotation="0 0 0 -1" unit_id="201786"/>
+			<unit_data _prev_pos="2247 4425 1250" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="black001" position="2247 4425 1250" rotation="0 0 0 -1" unit_id="201786"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1545 4221 1259" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_006" position="2660 4221 1259" rotation="0 0 1 4.37114e-008" unit_id="201787">
