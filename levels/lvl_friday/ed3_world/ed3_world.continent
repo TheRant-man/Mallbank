@@ -5820,13 +5820,7 @@
 			<unit_data _prev_pos="7525 -1698 525" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_balcony_16x16m_a_corner" name_id="hcm_ext_balcony_16x16m_a_corner_002" position="7525 -1698 525" rotation="0 0 -0.707107 -0.707107" unit_id="500235"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="6534.39 -3150.73 449" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_8x8m_a" name_id="hcm_ext_roof_8x8m_a_015" position="6549.39 -3150.73 449" rotation="0 0 0.707107 -0.707107" unit_id="500452"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="6552.39 -3974.73 450" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_8x8m_a" name_id="hcm_ext_roof_8x8m_a_018" position="6552.39 -3974.73 450" rotation="0 0 0.707107 -0.707107" unit_id="500611"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="5783 -2421 392" _prev_rot="-1.77636e-015 6.62551e-023 1 -3.72983e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_16x16m_corner_d" name_id="hcm_ext_roof_16x16m_corner_d_010" position="5783 -2421 400" rotation="-1.77636e-015 6.62551e-023 1 -3.72983e-008" unit_id="500637"/>
+			<unit_data _prev_pos="5783 -2421 399.9" _prev_rot="0 0 1 -4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_16x16m_corner_d" name_id="hcm_ext_roof_16x16m_corner_d_010" position="5783 -2421 399.9" rotation="0 0 1 -4.37114e-008" unit_id="500637"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3608.36 -7639.39 -400" _prev_rot="1.25608e-015 1.25608e-015 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_b" name_id="str_prop_street_planter_b_012" position="3608.36 -7310.39 -400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="500647"/>
