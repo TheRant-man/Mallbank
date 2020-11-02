@@ -3300,7 +3300,7 @@
 			<unit_data _prev_pos="592.004 -3119 227" _prev_rot="0 0 1 -6.55651e-007" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera" name_id="gen_equipment_security_camera_020" position="599.004 -3119 227" rotation="0 0 1 -6.55651e-007" unit_id="100768"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="826 -3066 0.000425145" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/hotel/flower_pot/flower_pot_big" name_id="flower_pot_big_002" position="792 -3066 0.000425145" rotation="0 0 0 -1" unit_id="100769"/>
+			<unit_data _prev_pos="764 -3066 0.000425145" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/hotel/flower_pot/flower_pot_big" name_id="flower_pot_big_002" position="764 -3070 0.000425145" rotation="0 0 0 -1" unit_id="100769"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="951 -3471 -0.000244141" _prev_rot="0 0 1 -1.19209e-007" continent="world" local_pos="500 750 -0.000154255" local_rot="0 0 5.96044e-008 1" name="units/world/props/office/copy_machine/copy_machine_03" name_id="copy_machine_03_001" position="950 -3471 -0.000244141" rotation="0 0 1 -1.19209e-007" unit_id="100771"/>

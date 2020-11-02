@@ -568,7 +568,6 @@
 				<value_node value="200842"/>
 				<value_node value="200843"/>
 				<value_node value="200844"/>
-				<value_node value="200845"/>
 				<value_node value="200846"/>
 				<value_node value="200849"/>
 				<value_node value="200850"/>
@@ -2617,9 +2616,6 @@
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/navigation_blocker" name_id="navigation_blocker_305" position="-4625 5600 -445" rotation="0 0 0 -1" unit_id="200844"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="50 -2019 0" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter" name_id="navigation_splitter_289" only_exists_in_editor="true" position="50 -2019 0" rotation="0 0 0 -1" unit_id="200845"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="25 -1950 0" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter" name_id="navigation_splitter_290" only_exists_in_editor="true" position="25 -1950 0" rotation="0 0 0 -1" unit_id="200846"/>
@@ -6673,9 +6669,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="2746.22 -2579.18 168.489" _prev_rot="0 0 0.104528 -0.994522" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="vault_bundle_10" position="2746.22 -2579.18 168.489" rotation="0 0 0.104528 -0.994522" unit_id="201203"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="50 -2019 0" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter" name_id="navigation_splitter_291" only_exists_in_editor="true" position="50 -1957 0" rotation="0 0 0 -1" unit_id="201207"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="255 -3082 0" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_189" only_exists_in_editor="true" position="147 -3082 0" rotation="0 0 -0.707107 -0.707107" unit_id="201643"/>
