@@ -90,34 +90,34 @@
 			<unit_data _prev_pos="-1023.4 -3209.9 0.000107288" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="capitol" name="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_standing" name_id="gen_prop_bank_atm_standing_007" position="-1023.4 -3202.9 0" rotation="0 0 0.707107 -0.707107" unit_id="301130"/>
 		</table>
 		<table>
-			<unit_data continent="mission_turf_war" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe1" position="-1324 -298 444.543" rotation="0 0 1 -1.19209e-007" unit_id="302171"/>
+			<unit_data _prev_pos="-1324 -298 444.543" _prev_rot="0 0 1 -1.19209e-007" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_hide" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe1" position="-1324 -298 444.543" rotation="0 0 1 4.37114e-008" unit_id="302171"/>
 		</table>
 		<table>
-			<unit_data continent="mission_turf_war" name="units/payday2/pickups/gen_pku_money/gen_pku_money" name_id="cash1" position="-1292 -272 450" rotation="0 0 -0.707107 -0.707107" unit_id="302172"/>
+			<unit_data _prev_pos="-1292 -272 450" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/pickups/gen_pku_money/gen_pku_money" name_id="cash1" position="-1292 -272 450" rotation="0 0 -0.707107 -0.707107" unit_id="302172"/>
 		</table>
 		<table>
 			<unit_data continent="mission_turf_war" name="units/payday2/pickups/gen_pku_money/gen_pku_money" name_id="cash2" position="1175 -2585 444" rotation="0 0 0.707107 -0.707107" unit_id="302173"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1207 -2559 438.543" _prev_rot="0 0 -1.78814e-007 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe2" position="1207 -2559 438.543" rotation="0 0 -1.78814e-007 -1" unit_id="302174"/>
+			<unit_data _prev_pos="1207 -2559 438.543" _prev_rot="0 0 -1.78814e-007 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_hide" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe2" position="1207 -2559 438.543" rotation="0 0 0 -1" unit_id="302174"/>
 		</table>
 		<table>
 			<unit_data continent="mission_turf_war" name="units/payday2/pickups/gen_pku_money/gen_pku_money" name_id="cash3" position="-1524 -3372 455" rotation="0 0 -0.707107 -0.707107" unit_id="302175"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1556 -3398 449.543" _prev_rot="0 0 1 -1.19209e-007" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe3" position="-1556 -3398 449.543" rotation="0 0 1 -1.19209e-007" unit_id="302176"/>
+			<unit_data _prev_pos="-1556 -3398 449.543" _prev_rot="0 0 1 4.37114e-008" continent="mission_turf_war" delayed_load="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_hide" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe3" position="-1556 -3398 449.543" rotation="0 0 1 4.37114e-008" unit_id="302176"/>
 		</table>
 		<table>
 			<unit_data continent="mission_turf_war" name="units/payday2/pickups/gen_pku_money/gen_pku_money" name_id="cash4" position="556 -2283 452.32" rotation="0 0 0.707107 -0.707107" unit_id="302177"/>
 		</table>
 		<table>
-			<unit_data continent="mission_turf_war" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe4" position="588 -2257 446.863" rotation="0 0 -8.9407e-008 -1" unit_id="302178"/>
+			<unit_data _prev_pos="588 -2257 446.863" _prev_rot="0 0 -8.9407e-008 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_hide" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe4" position="588 -2257 446.863" rotation="0 0 0 -1" unit_id="302178"/>
 		</table>
 		<table>
 			<unit_data continent="mission_turf_war" name="units/payday2/pickups/gen_pku_money/gen_pku_money" name_id="cash5" position="-2753 -995 47" rotation="0 0 -0.707107 -0.707107" unit_id="302179"/>
 		</table>
 		<table>
-			<unit_data continent="mission_turf_war" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe5" position="-2785 -1021 41.5428" rotation="0 0 1 -1.19209e-007" unit_id="302180"/>
+			<unit_data _prev_pos="-2785 -1021 41.5428" _prev_rot="0 0 1 -1.19209e-007" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_hide" name="units/payday2/equipment/gen_interactable_sec_safe_05x05/gen_interactable_sec_safe_05x05" name_id="safe5" position="-2785 -1021 41.543" rotation="0 0 1 4.37114e-008" unit_id="302180"/>
 		</table>
 		<table>
 			<unit_data continent="mission_turf_war" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="safebundle1" position="-1303 -273 452" rotation="0 0 -0.382683 -0.92388" unit_id="301706"/>

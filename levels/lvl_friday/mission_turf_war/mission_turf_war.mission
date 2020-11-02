@@ -45396,10 +45396,15 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_list" type="table">
 						<entry index="1" type="table">
-							<entry key="id" type="number" value="1"/>
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="302171"/>
 							<entry key="notify_unit_sequence" type="string" value="state_show"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="302171"/>
+							<entry key="notify_unit_sequence" type="string" value="activate_door"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
@@ -45432,6 +45437,12 @@
 							<entry key="notify_unit_sequence" type="string" value="state_show"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="302174"/>
+							<entry key="notify_unit_sequence" type="string" value="activate_door"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -45460,6 +45471,12 @@
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="302176"/>
 							<entry key="notify_unit_sequence" type="string" value="state_show"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="302176"/>
+							<entry key="notify_unit_sequence" type="string" value="activate_door"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
@@ -45492,6 +45509,12 @@
 							<entry key="notify_unit_sequence" type="string" value="state_show"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="302178"/>
+							<entry key="notify_unit_sequence" type="string" value="activate_door"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
@@ -45520,6 +45543,12 @@
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="302180"/>
 							<entry key="notify_unit_sequence" type="string" value="state_show"/>
+							<entry key="time" type="number" value="0"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="name" type="string" value="run_sequence"/>
+							<entry key="notify_unit_id" type="number" value="302180"/>
+							<entry key="notify_unit_sequence" type="string" value="activate_door"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
