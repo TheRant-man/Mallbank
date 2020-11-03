@@ -3406,10 +3406,10 @@
 					<entry index="2" type="table">
 						<entry key="depth" type="number" value="445"/>
 						<entry key="height" type="number" value="300"/>
-						<entry key="position" type="vector3" value="356.49 -417.824 400"/>
+						<entry key="position" type="vector3" value="252.49 -448.824 400"/>
 						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 						<entry key="type" type="string" value="box"/>
-						<entry key="width" type="number" value="442"/>
+						<entry key="width" type="number" value="600"/>
 					</entry>
 				</entry>
 			</entry>
