@@ -3901,7 +3901,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_floor_a_2x2m_clean" name_id="com_int_basement_floor_a_2x2m_clean_046" position="1275 -500 -500" rotation="2.98023e-008 1 -4.37114e-008 3.55272e-015" unit_id="502231"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="200.002 3055 -400" _prev_rot="0 1.77636e-015 0 -1" continent="ed3_world" local_pos="-2250.39 -1396.94 -1652.5" local_rot="0 -1.77636e-015 0 1" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_005" position="200.002 3055 -400" rotation="0 1.77636e-015 0 -1" unit_id="502238"/>
+			<unit_data _prev_pos="200.002 3200 -400" _prev_rot="-0 0 -0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_005" position="200 3200 -400" rotation="-0 0 -0 -1" unit_id="502238"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_trim_2x1m" name_id="com_int_basement_wall_trim_2x1m_046" position="1275 -300 -500" rotation="1.64113e-021 1.77636e-015 -9.23872e-007 -1" unit_id="502246"/>
@@ -4510,7 +4510,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_8x1m_corner_a" name_id="hcm_ext_8x1m_corner_a_008" position="5225 6475 400" rotation="-5.96046e-008 2.98023e-008 -0.707107 -0.707107" unit_id="501132"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_storefront_8x16m_e" name_id="hcm_ext_storefront_8x16m_e_004" position="-4375 1650 -400" rotation="0 0 0 -1" unit_id="501133"/>
+			<unit_data _prev_pos="-4375 1650 -400" _prev_rot="0 0 0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_storefront_8x16m_e" name_id="hcm_ext_storefront_8x16m_e_004" position="-4375 1650 -400" rotation="0 0 0 -1" unit_id="501133"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_8x1m_corner_a" name_id="hcm_ext_8x1m_corner_a_009" position="-4450 2350 -400" rotation="0 0 0 -1" unit_id="501134"/>
@@ -4648,7 +4648,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_straight16x16" name_id="hcm_bdrop_mid_02_straight16x16_004" position="-3475 11225 -420" rotation="0 0 0 -1" unit_id="501279"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_straight16x16" name_id="hcm_bdrop_mid_02_straight16x16_005" position="-1875 11225 -420" rotation="0 0 0 -1" unit_id="501280"/>
+			<unit_data _prev_pos="-1875 11225 -420" _prev_rot="0 0 0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_straight16x16" name_id="hcm_bdrop_mid_02_straight16x16_005" position="-1875 11225 -420" rotation="0 0 0 -1" unit_id="501280"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_road_straight24x24" name_id="hcm_bdrop_mid_road_straight24x24_003" position="-15400 4400 -445" rotation="-5.96046e-008 2.98023e-008 -0.707107 -0.707107" unit_id="501281"/>
@@ -5478,7 +5478,7 @@
 			<unit_data _prev_pos="175 -2395 774" _prev_rot="1.25607e-015 -1.25608e-015 -0.707107 -0.707106" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm/lcm_int_storefront_8x8_d" name_id="lcm_int_storefront_8x8_d_017" position="175 -2395 774" rotation="1.25607e-015 -1.25608e-015 -0.707107 -0.707106" unit_id="500696"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16" name_id="hcm_bdrop_mid_02_corner_16x16_014" position="-9150 3219 -935" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="500334"/>
+			<unit_data _prev_pos="-9150 3219 -935" _prev_rot="-1.25608e-015 1.25608e-015 0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16" name_id="hcm_bdrop_mid_02_corner_16x16_014" position="-9150 3219 -935" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="500334"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_bdrop_mid_02_corner_16x16" name_id="hcm_bdrop_mid_02_corner_16x16_015" position="7375 3250 -400" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="500130"/>

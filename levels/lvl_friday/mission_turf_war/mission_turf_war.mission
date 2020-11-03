@@ -50440,11 +50440,11 @@
 			</entry>
 			<entry index="1757" type="table">
 				<entry key="class" type="string" value="ElementExperience"/>
-				<entry key="editor_name" type="string" value="exp_5000"/>
+				<entry key="editor_name" type="string" value="exp_6000"/>
 				<entry key="id" type="number" value="301141"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
-					<entry key="amount" type="number" value="5000"/>
+					<entry key="amount" type="number" value="6000"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
@@ -74517,11 +74517,11 @@
 			</entry>
 			<entry index="2606" type="table">
 				<entry key="class" type="string" value="ElementExperience"/>
-				<entry key="editor_name" type="string" value="exp_1000"/>
+				<entry key="editor_name" type="string" value="exp_1500"/>
 				<entry key="id" type="number" value="302682"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
-					<entry key="amount" type="number" value="1000"/>
+					<entry key="amount" type="number" value="1500"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="elements" type="table">
 					</entry>
@@ -75376,6 +75376,33 @@
 					</entry>
 					<entry key="position" type="vector3" value="1733.54 -2743.34 -6.01871e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2629" type="table">
+				<entry key="class" type="string" value="ElementSpawnEnemyGroup"/>
+				<entry key="editor_name" type="string" value="cloaker_1stfloor"/>
+				<entry key="id" type="number" value="302704"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="amount" type="number" value="0"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="elements" type="table">
+						<entry index="1" type="number" value="302584"/>
+					</entry>
+					<entry key="enabled" type="boolean" value="false"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="ignore_disabled" type="boolean" value="true"/>
+					<entry key="interval" type="number" value="0"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-65.945 170.904 -400"/>
+					<entry key="preferred_spawn_groups" type="table">
+						<entry index="1" type="string" value="single_spooc"/>
+					</entry>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="spawn_type" type="string" value="ordered"/>
+					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>

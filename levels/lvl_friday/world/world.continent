@@ -1215,7 +1215,7 @@
 			<unit_data continent="world" disable_on_ai_graph="true" name="units/payday2/architecture/com_ext_mall_facades/com_ext_roof_top_side_2" name_id="com_ext_roof_top_side_2_004" position="24.0005 -4260 1323" rotation="0 0 1 -1.19209e-007" unit_id="100369"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-907 -1058 1314" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/architecture/com_ext_mall_facades/com_ext_roof_top_side_3" name_id="com_ext_roof_top_side_3_001_roof2" position="-907 -1058 1314" rotation="-0 0 -0 -1" unit_id="100376"/>
+			<unit_data _prev_pos="-907 -1058 1314" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/architecture/com_ext_mall_facades/com_ext_roof_top_side_3" name_id="com_ext_roof_top_side_3_001_roof2" position="-907 -1058 1314" rotation="0 0 0 -1" unit_id="100376"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="62.9995 -1072 1310" _prev_rot="0 0 1 -1.19209e-007" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/architecture/com_ext_mall_facades/com_ext_roof_top_side_3" name_id="com_ext_roof_top_side_3_002_roof2" position="63 -1072 1310" rotation="0 0 1 4.37114e-008" unit_id="100377"/>
@@ -2364,7 +2364,7 @@
 			<unit_data _prev_pos="2027.56 -2672.16 122.724" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-244.22 0 -31.626" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_014" position="2027.56 -2672.16 123.724" rotation="0 0 0.707107 -0.707107" unit_id="100325"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2027.56 -2721 122.724" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-195.38 0 -31.626" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_019" position="2027.56 -2721 123.724" rotation="0 0 0.707107 -0.707107" unit_id="100326"/>
+			<unit_data _prev_pos="2027.56 -2721 123.724" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_019" position="2027.56 -2721 123.724" rotation="0 0 0.707107 -0.707107" unit_id="100326"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2027.56 -2769.85 123.724" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_024" position="2027.56 -2769.85 123.724" rotation="0 0 0.707107 -0.707107" unit_id="100327"/>
@@ -2541,10 +2541,10 @@
 			<unit_data _prev_pos="2500 -2347 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_on_ai_graph="true" local_pos="151 200 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk_branch/bnk_branch_wall_clean" name_id="wall_clean2" position="2475 -2347 0" rotation="0 0 0.707107 -0.707107" unit_id="100411"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2500 -2322 3.72529e-007" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_wall2m_backless" name_id="bnk_int_wall2m_backless_001" position="2474 -2322 3.72529e-007" rotation="0 0 -0.707107 -0.707107" unit_id="100412"/>
+			<unit_data _prev_pos="2474 -2322 3.72529e-007" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_wall2m_backless" name_id="bnk_int_wall2m_backless_001" position="2474 -2322 3.72529e-007" rotation="0 0 -0.707107 -0.707107" unit_id="100412"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2500 -2921 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-100 300 -75" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_wall_corner_b" name_id="bnk_int_wall_corner_b_005" position="2474 -2921 0" rotation="0 0 -0.707107 -0.707107" unit_id="100413"/>
+			<unit_data _prev_pos="2474 -2921 0" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_wall_corner_b" name_id="bnk_int_wall_corner_b_005" position="2474 -2921 0" rotation="0 0 -0.707107 -0.707107" unit_id="100413"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2100 -3094 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_on_ai_graph="true" local_pos="2.36042e-006 -27 0" local_rot="0 0 0.707107 -0.707107" name="units/payday2/architecture/bnk_branch/bnk_branch_wall_clean" name_id="wall_clean1" position="2075 -3094 0" rotation="0 0 -0.707107 -0.707107" unit_id="100415"/>
