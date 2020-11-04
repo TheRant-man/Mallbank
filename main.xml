@@ -12,13 +12,7 @@
 			<file file="world/world.mission" type="generic_xml"/>
 			<file file="cover_data.cover_data" type="custom_xml"/>
 		</include>
-		<packages>
-			<value_node value="levels/instances/unique/sub_sewer_sidespawn/world/world"/>
-			<value_node value="levels/instances/unique/tag/tag_computer_hack/world"/>
-			<value_node value="levels/instances/unique/tag/tag_computer_hack/world_sounds"/>
-			<value_node value="levels/instances/unique/tag/tag_computer_hack/world/world"/>
-			<value_node value="levels/instances/unique/red/red_hacking_quick/world/world"/>
-		</packages>
+		<packages/>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
 	<instance id="fri_metal_detector">
@@ -35,9 +29,7 @@
 			<file file="cover_data.cover_data" type="custom_xml"/>
 		</include>
 		<packages>
-			<value_node value="levels/instances/unique/kenaz/metal_detector_01/world"/>
 			<value_node value="levels/instances/unique/kenaz/metal_detector_01/world_sounds"/>
-			<value_node value="levels/instances/unique/kenaz/metal_detector_01/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
@@ -117,7 +109,6 @@
 			<value_node value="levels/narratives/skm/skm_mallcrasher/world"/>
 			<value_node value="levels/instances/unique/are_exfil_puzzle/world/world"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/ed3_world/ed3_world"/>
-			<value_node value="levels/instances/unique/sub_sewer_sidespawn/world/world"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/mission_turf_war/mission_turf_war"/>
 			<value_node value="levels/narratives/h_alex_must_die/stage_3/editor_only/editor_only"/>
 			<value_node value="levels/narratives/e_election_day/stage_3/world"/>
