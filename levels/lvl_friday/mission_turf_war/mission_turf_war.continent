@@ -2,9 +2,6 @@
 	<editor_groups/>
 	<statics>
 		<table>
-			<unit_data continent="mission_turf_war" name="units/world/props/goal_units/goal_apartment" name_id="goal_apartment_001" position="-1550 3000 -420" rotation="0 0 -0.707107 -0.707107" unit_id="300202"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-400 -3300 75" _prev_rot="0 0 0.382683 -0.92388" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="diamondheist" name="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref" name_id="helicopter_cops_001" position="-400 -3300 75" rotation="0 0 0.382683 -0.92388" unit_id="300319">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="false" falloff_exponent="4" far_range="150" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="0" spot_angle_end="0" spot_angle_start="0"/>

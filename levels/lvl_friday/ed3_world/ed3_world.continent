@@ -6396,7 +6396,7 @@
 			<unit_data _prev_pos="-2050 1600 -516" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="800 800 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_003" position="-2050 1600 -404" rotation="0 0 1 4.37114e-008" unit_id="500490"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2050 2400 -516" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="800 6.99382e-005 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_004" position="-2050 2400 -404" rotation="0 0 1 4.37114e-008" unit_id="500491"/>
+			<unit_data _prev_pos="-2050 2400 -404" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/environment/mansion/man_ground_ext/man_ground_ext_grass_8m" name_id="str_ext_sidewalk_16x16m_a_004" position="-2050 2400 -404" rotation="0 0 1 4.37114e-008" unit_id="500491"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-2649 2400 -400" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_floor_a_2x2m_clean" name_id="str_ext_sidewalk_16x16m_a_005" position="-2649 2400 -400" rotation="0 0 1 4.37114e-008" unit_id="500494"/>
