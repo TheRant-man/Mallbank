@@ -6236,6 +6236,12 @@
 		<table>
 			<unit_data _prev_pos="-1468 -411 4" _prev_rot="0 0 0.414693 -0.909961" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_toast" name_id="bnk_prop_vault_loot_toast_001" position="-1474 -411 4" rotation="0 0 0.414693 -0.909961" unit_id="100553"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="842 -198 -400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="storage_door_2_blocker" only_visible_in_editor="true" position="842 -200 -400" rotation="-0 0 -0 -1" unit_id="101039"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="627 694 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="storage_door_1_blocker" only_visible_in_editor="true" position="628 694 -400" rotation="0 0 -0.707107 -0.707107" unit_id="101040"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
