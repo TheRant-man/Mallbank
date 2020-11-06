@@ -958,11 +958,7 @@
 				<value_node value="502474"/>
 				<value_node value="502476"/>
 				<value_node value="502477"/>
-				<value_node value="502480"/>
-				<value_node value="502482"/>
 				<value_node value="502486"/>
-				<value_node value="502492"/>
-				<value_node value="502498"/>
 				<value_node value="502499"/>
 				<value_node value="502506"/>
 				<value_node value="502507"/>
@@ -4121,19 +4117,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_floor_a_2x2m_clean" name_id="com_int_basement_floor_a_2x2m_clean_049" position="-1125 -3500 -799.859" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="502477"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_053" position="-1525 -4100 -799.859" rotation="0 1.77636e-015 0 -1" unit_id="502480"/>
-		</table>
-		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_floor_a_2x2m_clean" name_id="com_int_basement_floor_a_2x2m_clean_050" position="-1325 -3900 -799.859" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="502482"/>
-		</table>
-		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_floor_a_2x2m_clean" name_id="com_int_basement_floor_a_2x2m_clean_051" position="-1125 -3700 -799.859" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="502486"/>
-		</table>
-		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_057" position="-1325 -4100 -799.859" rotation="0 1.77636e-015 0 -1" unit_id="502492"/>
-		</table>
-		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_floor_a_2x2m_clean" name_id="com_int_basement_floor_a_2x2m_clean_053" position="-1125 -3900 -799.859" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="502498"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_059" position="-1125 -3900 -799.859" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="502499"/>
@@ -6321,7 +6305,7 @@
 			<unit_data _prev_pos="354 -327 -150" _prev_rot="4.49207e-022 2.51216e-015 -0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="iluminated" name="units/world/props/gym/stn_lamp_garage/stn_prop_lamp_garage" name_id="stn_prop_lamp_garage_016" position="354 -283 -150" rotation="4.49207e-022 2.51216e-015 -0.707107 -0.707107" unit_id="501174"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="354 53 -150" _prev_rot="4.49207e-022 2.51216e-015 -0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="13 317 250" local_rot="1.25608e-015 1.25608e-015 0.707107 -0.707107" mesh_variation="iluminated" name="units/world/props/gym/stn_lamp_garage/stn_prop_lamp_garage" name_id="stn_prop_lamp_garage_017" position="354 48 -150" rotation="4.49207e-022 2.51216e-015 -0.707107 -0.707107" unit_id="501176"/>
+			<unit_data _prev_pos="354 48 -150" _prev_rot="2.99471e-022 2.51216e-015 -0.707107 -0.707107" continent="ed3_world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="default" name="units/world/props/gym/stn_lamp_garage/stn_prop_lamp_garage" name_id="stn_prop_lamp_garage_017" position="354 48 -150" rotation="0 0 -0.707107 -0.707107" unit_id="501176"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="851 500 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_door_2x3m_012" position="851 500 -400" rotation="0 0 -0.707107 -0.707107" unit_id="501178"/>

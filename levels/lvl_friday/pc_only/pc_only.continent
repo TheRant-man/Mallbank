@@ -621,6 +621,9 @@
 		<table>
 			<unit_data _prev_pos="350 404 -118.779" _prev_rot="0.5 -0.5 0.5 -0.5" continent="pc_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_decal_leak_a_4m" name_id="com_ext_parking_garage_decal_leak_a_4m_004" position="350 404 -129.779" rotation="0.5 -0.5 0.5 -0.5" unit_id="400123"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="350 -18 -129.779" _prev_rot="0.5 -0.5 0.5 -0.5" continent="pc_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_parking_garage/com_ext_parking_garage_decal_leak_a_4m" name_id="com_ext_parking_garage_decal_leak_a_4m_005" position="350 -18 -129.779" rotation="0.5 -0.5 0.5 -0.5" unit_id="400124"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
