@@ -53,10 +53,10 @@
 			<asset name="grenade_crate"/>
 		</assets>
 		<include directory="levels/lvl_friday">
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
 			<file file="world.world" type="generic_xml"/>
 			<file file="continents.continents" type="custom_xml"/>
 			<file file="mission.mission" type="custom_xml"/>
-			<file file="nav_manager_data.nav_data" type="generic_xml"/>
 			<file file="world_sounds.world_sounds" type="generic_xml"/>
 			<file file="world_cameras.world_cameras" type="custom_xml"/>
 			<file file="halloween_props/halloween_props.continent" type="custom_xml"/>
@@ -83,9 +83,7 @@
 			<value_node value="levels/narratives/vlad/mallcrasher/world_sounds"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/pc_only/pc_only"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/world/world"/>
-			<value_node value="levels/narratives/e_election_day/stage_3/world/world"/>
 			<value_node value="levels/instances/unique/moon/crate_shoes/world/world"/>
-			<value_node value="levels/instances/unique/holly_2/safe_van/world/world"/>
 			<value_node value="levels/instances/unique/hox_fbi_windowwall/world"/>
 			<value_node value="levels/instances/unique/chew/chew_swat_van/world/world"/>
 			<value_node value="packages/job_branchbank_cash"/>
@@ -114,6 +112,8 @@
 			<value_node value="levels/narratives/e_election_day/stage_3/world"/>
 			<value_node value="levels/narratives/e_election_day/stage_3/new_mall/new_mall"/>
 			<value_node value="levels/narratives/armadillo/arm_for/editor_only/editor_only"/>
+			<value_node value="levels/narratives/e_election_day/stage_3/world/world"/>
+			<value_node value="levels/instances/unique/holly_2/safe_van/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

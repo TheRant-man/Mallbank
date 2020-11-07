@@ -9149,9 +9149,6 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="1283 -200 -399" _prev_rot="-0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_119" only_exists_in_editor="true" position="1283 -200 -399" rotation="-0 0 -0 -1" unit_id="202052"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="1050 254 -599" _prev_rot="-0 0 -0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_053" only_exists_in_editor="true" position="1050 254 -599" rotation="-0 0 -0 -1" unit_id="200943"/>
 		</table>
 		<table>
@@ -9387,60 +9384,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="481.491 5267.94 -415.008" _prev_rot="0 0 0.707106 -0.707108" continent="editor_only" local_pos="-156.989 29.7999 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_287" only_exists_in_editor="true" position="1912.69 5267.94 -415.008" rotation="0 0 0.707106 -0.707108" unit_id="202772"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2606.66 1902.43 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="48.8543 -99.7564 0" local_rot="0 0 -0.707107 0.707107" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_288" only_exists_in_editor="true" position="2606.66 1956.23 -414.706" rotation="0 0 1 -1.10269e-006" unit_id="200445"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2763.66 1902.43 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="48.8553 57.2475 0" local_rot="0 0 -0.707107 0.707107" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_289" only_exists_in_editor="true" position="2763.66 1956.23 -414.706" rotation="0 0 1 -1.10269e-006" unit_id="200480"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2706.41 1951.29 -414.706" _prev_rot="0 0 0.707106 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_290" only_exists_in_editor="true" position="2706.41 2005.09 -414.706" rotation="0 0 0.707106 -0.707107" unit_id="200481"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2656.41 1951.29 -414.706" _prev_rot="0 0 0.707106 -0.707107" continent="editor_only" local_pos="-0.00203956 -50.0034 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_291" only_exists_in_editor="true" position="2656.41 2005.09 -414.706" rotation="0 0 0.707106 -0.707107" unit_id="200526"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2606.65 2016.74 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="0.00592508 29.7949 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_292" only_exists_in_editor="true" position="2606.65 1872.64 -414.706" rotation="0 0 1 -1.10269e-006" unit_id="200568"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2606.66 1916.73 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="0.000774535 129.798 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_293" only_exists_in_editor="true" position="2606.66 1772.63 -414.706" rotation="0 0 1 -1.10269e-006" unit_id="200573"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2606.66 1816.74 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="-0.000958066 229.793 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_294" only_exists_in_editor="true" position="2606.66 1672.64 -414.706" rotation="0 0 1 -1.10269e-006" unit_id="200583"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2606.66 1622.64 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_295" only_exists_in_editor="true" position="2606.66 1622.64 -414.706" rotation="0 0 1 -1.10269e-006" unit_id="200592"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2656.41 1694.88 -414.706" _prev_rot="0 0 0.707106 -0.707107" continent="editor_only" local_pos="-49.7546 351.649 0" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_297" only_exists_in_editor="true" position="2656.41 1550.78 -414.706" rotation="0 0 0.707106 -0.707107" unit_id="200598"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2706.41 1694.89 -414.706" _prev_rot="0 0 0.707106 -0.707107" continent="editor_only" local_pos="-99.7541 351.642 0" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_298" only_exists_in_editor="true" position="2706.41 1550.79 -414.706" rotation="0 0 0.707106 -0.707107" unit_id="200612"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2763.66 1766.73 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="-157.003 279.797 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_299" only_exists_in_editor="true" position="2763.66 1622.63 -414.706" rotation="0 0 1 -1.10269e-006" unit_id="200778"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2763.65 1719.53 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="-156.994 326.998 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_300" only_exists_in_editor="true" position="2763.65 1575.43 -414.706" rotation="0 0 1 -1.10269e-006" unit_id="200800"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2763.65 1816.73 -414.706" _prev_rot="0 0 1 -2.08616e-007" continent="editor_only" local_pos="-156.996 229.798 0" local_rot="0 0 -8.9407e-007 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_301" only_exists_in_editor="true" position="2763.65 1672.63 -414.706" rotation="0 0 1 -2.08616e-007" unit_id="200804"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2763.66 1916.73 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="-157.004 129.799 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_302" only_exists_in_editor="true" position="2763.66 1772.63 -414.706" rotation="0 0 1 -1.10269e-006" unit_id="200848"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2763.65 2016.73 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="-156.989 29.7999 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_303" only_exists_in_editor="true" position="2763.65 1872.63 -414.706" rotation="0 0 1 -1.10269e-006" unit_id="200942"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2606.66 1477.64 -414.706" _prev_rot="0 0 1 -1.10269e-006" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_304" only_exists_in_editor="true" position="2606.66 1477.64 -414.706" rotation="0 0 0.945519 0.325567" unit_id="200952"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2760.04 1480.51 -414.706" _prev_rot="0 0 0.913545 -0.406738" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_305" only_exists_in_editor="true" position="2760.27 1503.18 -414.706" rotation="0 0 0.913545 -0.406738" unit_id="200966"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="2606.66 1477.64 -414.706" _prev_rot="0 0 0.945519 0.325567" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_306" only_exists_in_editor="true" position="2606.66 1477.64 -414.706" rotation="0 0 0.945519 0.325567" unit_id="200978"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3313 4529 1250" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="black016" position="3313 4529 1250" rotation="0 0 0 -1" unit_id="200979"/>
