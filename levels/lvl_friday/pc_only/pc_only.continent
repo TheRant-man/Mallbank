@@ -627,7 +627,7 @@
 		<table>
 			<unit_data _prev_pos="-425 -4250 188" _prev_rot="0 0 -0.707107 -0.707107" continent="pc_only" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="boxlight_045" only_visible_in_editor="true" position="-425 -4250 188" rotation="0 0 -0.707107 -0.707107" unit_id="400125">
 				<lights>
-					<table clipping_values="10000 -10000 0" color="0.803922 0.729412 0.431373" enabled="true" falloff_exponent="1" far_range="425" multiplier="identity" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="0.803922 0.729412 0.431373" enabled="true" falloff_exponent="1" far_range="425" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
 				</lights>
 			</unit_data>
 		</table>

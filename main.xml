@@ -53,10 +53,10 @@
 			<asset name="grenade_crate"/>
 		</assets>
 		<include directory="levels/lvl_friday">
-			<file file="nav_manager_data.nav_data" type="generic_xml"/>
 			<file file="world.world" type="generic_xml"/>
 			<file file="continents.continents" type="custom_xml"/>
 			<file file="mission.mission" type="custom_xml"/>
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
 			<file file="world_sounds.world_sounds" type="generic_xml"/>
 			<file file="world_cameras.world_cameras" type="custom_xml"/>
 			<file file="halloween_props/halloween_props.continent" type="custom_xml"/>

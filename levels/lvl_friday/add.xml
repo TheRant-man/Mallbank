@@ -193,9 +193,14 @@
 	<movie path="vo/objectives/bnk_sec_off_4"/>
 	<movie path="vo/objectives/bnk_sec_off_5_initial"/>
 	<movie path="vo/objectives/bnk_sec_off_6"/>
+	
 	<movie path="vo/extras/lectro_1"/>
 	<movie path="vo/extras/lectro_2"/>
 	<movie path="vo/extras/lectro_3"/>
+	
+	<movie path="vo/extras/hack_finish_1"/>
+	<movie path="vo/extras/hack_finish_2"/>
+	
 	<movie path="vo/objectives/find_hack_1"/>
 	<movie path="vo/objectives/find_hack_2"/>
 	<movie path="vo/objectives/find_hack_3"/>

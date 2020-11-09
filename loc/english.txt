@@ -94,5 +94,7 @@
 	
 	"jkl_find_hack_4":"We need to wire the server to a computer in order to override its security systems."
 	
+	"jkl_hack_finish_1":"The systems are downed. Now return to the vault door and get the lance up."
 	
+	"jkl_hack_finish_2":"The vault door shouldn't be a problem anymore. Get back to it and mount the lance."
 }
