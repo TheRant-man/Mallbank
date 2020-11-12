@@ -2,7 +2,7 @@
     "menu_jukebox_music_friday":"Crim Reapers",
 	"menu_jukebox_screen_music_friday":"Crim Reapers",
 
-	"heist_lvl_friday_brief":"You've all been to the Shield Mall for Vlad years back, but the Capitol Savings branch here wasn't open to the public at the time. Its layout is similar to other branches, but its security is notable; rudimentary, but effective. Metal detectors, shutters, well-armed guards, and a rumored boobytrapped bank vault. Otherwise, this is simple:  breach the bank, open the vault, grab the gold, and escape. The usual. You won't be keeping your hands clean on this, so just in case, you'll be carrying a saw on your person. Good luck, and watch for civilians.",
+	"heist_lvl_friday_brief":"You've all been to the Shield Mall for Vlad years back, but the Capitol Savings branch here wasn't open to the public at the time. Its layout is similar to other branches, but its security is notable; rudimentary, but effective. Metal detectors, shutters, well-armed guards, and a rumored boobytrapped bank vault. Otherwise, this is simple:  breach the bank, open the vault, grab the gold, and escape. The usual. You won't be keeping your hands clean on this. Good luck, and watch for civilians.",
 	
 	"heist_narr_friday_brief":"Jackal wants you to hit a bank that's holding cartel-owned gold.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal the cash\n»Escape",
 	
@@ -12,8 +12,8 @@
 	"heist_narr_friday_name":"Crashing Capitol",
 	"heist_lvl_friday_name":"Crashing Capitol",
 	
-	"bnk_open_shut":"Saw the shutter",
-	"bnk_open_shut_desc":"Saw the shutter open, remember to defend your saw!",
+	"bnk_open_shut":"Drill the shutter",
+	"bnk_open_shut_desc":"Drill a way into the bank through the shutter.",
 	
 	"bnk_sec_off":"Disable the bank's security",
 	"bnk_sec_off_desc":"Locate a keypad inside the bank to disable its security.",
