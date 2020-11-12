@@ -11,4 +11,5 @@
 	<objective description="bnk_mac_attack_drive_desc" id="bnk_mac_attack_drive" text="bnk_mac_attack_drive"/>
 	<objective description="bnk_pku_drill2_desc" id="bnk_pku_drill2" text="bnk_pku_drill2"/>
 	<objective description="bnk_secure_desc" id="bnk_secure" text="bnk_secure"/>
+	<objective description="bnk_flare_desc" id="bnk_flare" text="bnk_flare"/>
 </table>

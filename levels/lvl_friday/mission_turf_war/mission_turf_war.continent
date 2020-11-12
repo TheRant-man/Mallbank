@@ -225,13 +225,13 @@
 			<unit_data _prev_pos="1272 -200 0" _prev_rot="0 0 0 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_blocker_1" name_id="dev_door_blocker_1x2x3_005" only_exists_in_editor="true" position="1292 -200 0" rotation="0 0 0 -1" unit_id="300011"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1574.12 -3607.69 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="mall_to_prevault_blocker" only_visible_in_editor="true" position="1574.12 -3607.69 0" rotation="0 0 -0.707107 -0.707107" unit_id="300012"/>
+			<unit_data _prev_pos="1574.12 -3597.69 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="mall_to_prevault_blocker" only_visible_in_editor="true" position="1574.12 -3597.69 0" rotation="0 0 -0.707107 -0.707107" unit_id="300012"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1828 -1295 0" _prev_rot="0 0 1 4.37114e-008" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard" name_id="lounge_to_office_1" position="1828 -1295 0" rotation="0 0 1 4.37114e-008" unit_id="300013"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="945.122 -3143.69 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="lobby_blocker" only_visible_in_editor="true" position="950.122 -3143.69 0" rotation="0 0 -0.707107 -0.707107" unit_id="300018"/>
+			<unit_data _prev_pos="962.122 -3143.69 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="lobby_blocker" only_visible_in_editor="true" position="962.122 -3143.69 0" rotation="0 0 -0.707107 -0.707107" unit_id="300018"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2748 -2572 83.74" _prev_rot="-0 0 -0 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/pickups/gen_pku_money/gen_pku_money" name_id="vault_money_1" position="2748 -2572 83.74" rotation="-0 0 -0 -1" unit_id="300019"/>
@@ -588,6 +588,21 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="935 -3125 32" _prev_rot="0 0 1 4.37114e-008" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_hide" name="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" name_id="lobby_to_prevault_drill001" position="935 -3125 32" rotation="0 0 1 4.37114e-008" unit_id="300102"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="872 -255 -400" _prev_rot="-0 0 -0 -1" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_close" name="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" name_id="storage_door_2_dw" position="872 -255 -400" rotation="-0 0 -0 -1" unit_id="300057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="854 -145 -400" _prev_rot="0 0 1 4.37114e-008" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_close" name="units/payday2/equipment/gen_interactable_door_reinforced/gen_interactable_door_reinforced" name_id="storage_door_2" position="854 -145 -400" rotation="0 0 1 -4.37114e-008" unit_id="300089"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="683 717 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_close" name="units/payday2/equipment/gen_interactable_door_reinforced/gen_interactable_door_reinforced" name_id="storage_door_1" position="683 717 -400" rotation="0 0 -0.707107 -0.707107" unit_id="300094"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="683 717 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_close" name="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" name_id="storage_door_1_dw" position="683 717 -400" rotation="0 0 -0.707107 -0.707107" unit_id="300095"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="920.122 -3143.69 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="lobby_blocker001" only_visible_in_editor="true" position="920.122 -3143.69 0" rotation="0 0 -0.707107 -0.707107" unit_id="300096"/>
 		</table>
 	</statics>
 	<values>

@@ -3099,9 +3099,9 @@
 			<unit_data continent="ed3_world" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_020" position="-525 25 -304.5" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="501799"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1550 1375 -162.161" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="flickering" name="units/world/props/apartment/facade_light/facade_light" name_id="facade_light_002" position="1550 1375 -162.161" rotation="0 0 0.707107 -0.707107" unit_id="501802">
+			<unit_data _prev_pos="1500 1375 -162.161" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="flickering" name="units/world/props/apartment/facade_light/facade_light" name_id="facade_light_002" position="1525 1375 -162.161" rotation="0 0 0.707107 -0.707107" unit_id="501802">
 				<lights>
-					<table clipping_values="10000 -10000 0" color="0.780392 0.701961 0.458824" enabled="true" falloff_exponent="1" far_range="200" multiplier="@IDccbbe27c7fdc0fd9@" name="lo_omni" near_range="50" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="0.776471 0.701961 0.458824" enabled="true" falloff_exponent="1" far_range="200" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="50" spot_angle_end="1" spot_angle_start="1"/>
 				</lights>
 			</unit_data>
 		</table>
@@ -4335,7 +4335,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_8x8m_corner_b" name_id="hcm_ext_8x8m_corner_b_002" position="2775 6400 2000" rotation="0 0 0.707107 -0.707107" unit_id="500769"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_roof_8x8m_a" name_id="hcm_ext_roof_8x8m_a_007" position="3575 5577 1976" rotation="0 0 0 -1" unit_id="500785"/>
+			<unit_data _prev_pos="3575 5577 1976" _prev_rot="0 0 0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_8x8m_a" name_id="hcm_ext_roof_8x8m_a_007" position="3575 5577 1976" rotation="0 0 0 -1" unit_id="500785"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_roof_8x8m_a" name_id="hcm_ext_roof_8x8m_a_008" position="2775 6400 1976" rotation="0 0 0.707107 -0.707107" unit_id="500839"/>
@@ -6697,12 +6697,6 @@
 			<unit_data _prev_pos="2090 -3500 102" _prev_rot="0 0 0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_barista_coffegrinder/com_prop_barista_coffegrinder" name_id="com_prop_barista_coffegrinder_003" position="2070 -3500 102" rotation="0 0 0.707107 -0.707107" unit_id="500095"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="854 -145 -400" _prev_rot="0 0 1 4.37114e-008" continent="ed3_world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_close" name="units/payday2/equipment/gen_interactable_door_reinforced/gen_interactable_door_reinforced" name_id="storage_door_2" position="854 -145 -400" rotation="0 0 1 4.37114e-008" unit_id="500984"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="683 717 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_close" name="units/payday2/equipment/gen_interactable_door_reinforced/gen_interactable_door_reinforced" name_id="storage_door_1" position="683 717 -400" rotation="0 0 -0.707107 -0.707107" unit_id="501410"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="1275 -300 403" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_door_2x3m_011" position="1275 -300 400" rotation="0 0 -0.707107 -0.707107" unit_id="501393"/>
 		</table>
 		<table>
@@ -6878,12 +6872,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="5800 -4000 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_023" position="5800 -4000 -400" rotation="0 0 -0.707107 -0.707107" unit_id="502557"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="683 717 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_close" name="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" name_id="storage_door_1_dw" position="683 717 -400" rotation="0 0 -0.707107 -0.707107" unit_id="500230"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="872 -255 -400" _prev_rot="0 0 0 -1" continent="ed3_world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_close" name="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" name_id="storage_door_2_dw" position="872 -255 -400" rotation="0 0 0 -1" unit_id="500377"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1275 -300 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_door_2x3m_006" position="1275 -300 -400" rotation="0 0 -0.707107 -0.707107" unit_id="502071"/>

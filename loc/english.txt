@@ -48,6 +48,9 @@
 	"bnk_secure":"Secure the gold",
 	"bnk_secure_desc":"Move the cartel gold to the van."
 	
+	"bnk_secure":"Signal Bile with a flare",
+	"bnk_secure_desc":"Place down a flare so Bile can drop off the thermal lance."
+	
 	"hud_int_keyboard_eday_2":"Hold $BTN_INTERACT to start the override"
 	
 	"hud_cam_access_camera_exit":"Side Exit"
