@@ -3431,7 +3431,6 @@
 			</entry>
 			<entry key="storage_room" type="table">
 				<entry key="ids" type="table">
-					<entry index="101036" type="boolean" value="true"/>
 					<entry index="101152" type="boolean" value="true"/>
 					<entry index="101153" type="boolean" value="true"/>
 					<entry index="101154" type="boolean" value="true"/>
