@@ -508,7 +508,7 @@
 			<unit_data _prev_pos="3359.1 -2325.86 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_001" position="3353 -2325 310" rotation="0 0 0.707107 -0.707107" unit_id="300112"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3359.1 -2522.16 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="196.3 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_002" position="3353 -2521.3 310" rotation="0 0 0.707107 -0.707107" unit_id="300113"/>
+			<unit_data _prev_pos="3353 -2521.3 310" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_002" position="3353 -2521.3 310" rotation="0 0 0.707107 -0.707107" unit_id="300113"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3359.1 -2730.86 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="405 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_003" position="3353 -2730 310" rotation="0 0 0.707107 -0.707107" unit_id="300114"/>
@@ -614,5 +614,7 @@
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_003" position="2448 328 0" rotation="0 0 0.707107 -0.707107" script="default" start_index="500"/>
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_005" position="1389 322 0" rotation="0 0 -0.707107 -0.707107" script="default" start_index="1000"/>
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_004" position="1988 -321 0" rotation="0 0 -0.707107 -0.707107" script="default" start_index="750"/>
+		<table continent="mission_turf_war" folder="levels/instances/unique/rvd/rvd_hackbox/world" index_size="250" name="rvd_hackbox_001" position="-1643 -3035 0" rotation="0 0 -0.707107 -0.707107" script="default" start_index="2750"/>
+		<table continent="mission_turf_war" folder="levels/instances/unique/rvd/rvd_hackbox/world" index_size="250" name="rvd_hackbox_003" position="-1425 -1624 0" rotation="0 0 1 4.37114e-008" script="default" start_index="3750"/>
 	</instances>
 </table>

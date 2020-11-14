@@ -1,4 +1,24 @@
 <table name="Mallbank">
+	<instance id="keypad_hackable">
+		<add file="levels/instances/keypad_hackable/add.xml"/>
+		<include directory="levels/instances/keypad_hackable">
+			<file file="world.world" type="generic_xml"/>
+			<file file="continents.continents" type="custom_xml"/>
+			<file file="mission.mission" type="custom_xml"/>
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
+			<file file="world_sounds.world_sounds" type="generic_xml"/>
+			<file file="world_cameras.world_cameras" type="custom_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="cover_data.cover_data" type="custom_xml"/>
+		</include>
+		<packages>
+			<value_node value="levels/instances/unique/mex/mex_keypad/world_sounds"/>
+			<value_node value="levels/instances/unique/bex/bex_keypad/world/world"/>
+			<value_node value="levels/instances/unique/vit/vit_wire_box/world/world"/>
+		</packages>
+		<script_data_mods directory="scriptdata"/>
+	</instance>
 	<instance id="fri_computer_hack">
 		<add file="levels/instances/fri_computer_hack/add.xml"/>
 		<include directory="levels/instances/fri_computer_hack">
@@ -108,6 +128,8 @@
 			<value_node value="levels/instances/unique/pbr/pbr_gas_station/world/world"/>
 			<value_node value="levels/instances/unique/are_exfil_puzzle/world/world"/>
 			<value_node value="levels/instances/unique/pet_shutter/world/world"/>
+			<value_node value="levels/instances/unique/mus_security_barrier/world/world"/>
+			<value_node value="levels/instances/unique/hvh/hvh_chance/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

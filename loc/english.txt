@@ -48,8 +48,11 @@
 	"bnk_secure":"Secure the gold",
 	"bnk_secure_desc":"Move the cartel gold to the van."
 	
-	"bnk_secure":"Signal Bile with a flare",
-	"bnk_secure_desc":"Place down a flare so Bile can drop off the thermal lance."
+	"bnk_flare":"Signal Bile with a flare",
+	"bnk_flare_desc":"Place down a flare so Bile can drop off the thermal lance."
+	
+	"bnk_wirebox_find":"Find and hack a security box",
+	"bnk_wirebox_find_desc":"The alarm has disabled the keypad, find an access point so Jackal can re-enable it."
 	
 	"hud_int_keyboard_eday_2":"Hold $BTN_INTERACT to start the override"
 	

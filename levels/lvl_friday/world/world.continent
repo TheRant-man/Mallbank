@@ -581,6 +581,7 @@
 				<value_node value="100308"/>
 				<value_node value="100357"/>
 				<value_node value="100411"/>
+				<value_node value="100477"/>
 			</units>
 		</table>
 		<table continent="world" name="vault2" reference="100405" visible="true">
@@ -589,6 +590,7 @@
 				<value_node value="100418"/>
 				<value_node value="100415"/>
 				<value_node value="100310"/>
+				<value_node value="100538"/>
 			</units>
 		</table>
 		<table continent="world" name="lobby_props" reference="100754" visible="true">
@@ -2484,7 +2486,7 @@
 			<unit_data _prev_pos="2482 -2525 0" _prev_rot="0 0 1 -1.19209e-007" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_wall2m_backless" name_id="bnk_int_wall2m_backless_002" position="2482 -2525 0" rotation="0 0 1 -1.19209e-007" unit_id="100391"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2298 -2722 300" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_ceiling2x2_a" name_id="bnk_int_ceiling2x2_a_001" position="2298 -2722 300" rotation="0 0 -0.707107 -0.707107" unit_id="100392"/>
+			<unit_data _prev_pos="2298 -2722 300" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_ceiling2x2_a" name_id="bnk_int_ceiling2x2_a_001" position="2298 -2722 300" rotation="0 0 -0.707107 -0.707107" unit_id="100392"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2374 -3121 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_floor4x4_a" name_id="bnk_int_floor4x4_a_001" position="2374 -3121 0" rotation="0 0 0 -1" unit_id="100393"/>
@@ -6164,6 +6166,12 @@
 		<table>
 			<unit_data _prev_pos="433.757 520.87 -295.554" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_filebox/off_prop_officehigh_filebox_short_whole_b" name_id="off_prop_officehigh_filebox_short_whole_b_035" position="433 520 -295" rotation="0 0 -0.707107 -0.707107" unit_id="100197"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="2275 -2320 255" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="124 0 255" local_rot="0 0 -0.707107 0.707107" mesh_variation="light_blue_on_black" name="units/payday2/props/gen_prop_security_timelock/gen_prop_security_timelock" name_id="timelock_vault1" position="2275 -2320 255" rotation="0 0 1 -4.37114e-008" unit_id="100477"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2275 -3121 255" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="light_blue_on_black" name="units/payday2/props/gen_prop_security_timelock/gen_prop_security_timelock" name_id="timelock_vault2" position="2275 -3121 255" rotation="-0 0 -0 -1" unit_id="100538"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
@@ -6180,5 +6188,7 @@
 		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_008" position="-1525 -1743 400" rotation="-0 0 -0 -1" script="default" start_index="2000"/>
 		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_010" position="75 -1100 -0" rotation="0 0 0.707107 -0.707107" script="default" start_index="2250"/>
 		<table continent="world" folder="levels/instances/unique/mus_flare/world" index_size="250" name="mus_flare_001" position="-425 -2300 400" rotation="0 0 0.422618 -0.906308" script="default" start_index="2500"/>
+		<table continent="world" folder="levels/instances/mods/keypad_hackable/world" index_size="250" name="keypad_hackable_001" position="2150 -2320 125" rotation="0 0 -0.707107 -0.707107" script="default" start_index="3000"/>
+		<table continent="world" folder="levels/instances/mods/keypad_hackable/world" index_size="250" name="keypad_hackable_002" position="2400 -3120 125" rotation="0 0 0.707107 -0.707107" script="default" start_index="3250"/>
 	</instances>
 </table>

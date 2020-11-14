@@ -9490,6 +9490,9 @@
 		<table>
 			<unit_data _prev_pos="950 -3122 0" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_blocker" name_id="navigation_blocker_1_041" only_exists_in_editor="true" position="1022 -3122 0" rotation="-0 0 -0 -1" unit_id="200481"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="4510 -4273 1229" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="black019" position="4510 -4273 1229" rotation="0 0 0 -1" unit_id="200526"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

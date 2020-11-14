@@ -1,0 +1,620 @@
+<table>
+	<editor_groups>
+		<table continent="world" name="KeyCodes" reference="100120">
+			<units>
+				<value_node value="100120"/>
+				<value_node value="100124"/>
+				<value_node value="100127"/>
+				<value_node value="100130"/>
+				<value_node value="100131"/>
+				<value_node value="100132"/>
+				<value_node value="100133"/>
+				<value_node value="100134"/>
+				<value_node value="100137"/>
+				<value_node value="100139"/>
+				<value_node value="100140"/>
+				<value_node value="100141"/>
+				<value_node value="100142"/>
+				<value_node value="100143"/>
+				<value_node value="100145"/>
+				<value_node value="100147"/>
+				<value_node value="100148"/>
+				<value_node value="100149"/>
+				<value_node value="100150"/>
+				<value_node value="100151"/>
+				<value_node value="100153"/>
+				<value_node value="100154"/>
+				<value_node value="100155"/>
+				<value_node value="100156"/>
+				<value_node value="100157"/>
+				<value_node value="100158"/>
+				<value_node value="100159"/>
+				<value_node value="100160"/>
+				<value_node value="100161"/>
+				<value_node value="100162"/>
+				<value_node value="100163"/>
+				<value_node value="100164"/>
+				<value_node value="100165"/>
+			</units>
+		</table>
+	</editor_groups>
+	<statics>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_01" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_001" position="6 -3 0" rotation="0 -0.707107 0 -0.707107" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_02" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_002" position="6 2 0" rotation="0 -0.707107 0 -0.707107" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_03" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_003" position="6 7 0" rotation="0 -0.707107 0 -0.707107" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_06" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_004" position="6 7 -5" rotation="0 -0.707107 0 -0.707107" unit_id="100004"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_04" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_005" position="6 -3 -5" rotation="0 -0.707107 0 -0.707107" unit_id="100005"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_05" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_006" position="6 2 -5" rotation="0 -0.707107 0 -0.707107" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_09" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_007" position="6 7 -10" rotation="0 -0.707107 0 -0.707107" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_07" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_008" position="6 -3 -10" rotation="0 -0.707107 0 -0.707107" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_08" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_009" position="6 2 -10" rotation="0 -0.707107 0 -0.707107" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 7 -14" _prev_rot="0 -0.707107 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="set_button_enter" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_enter" position="6 7 -14" rotation="0 -0.707107 0 -0.707107" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_clear" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_clear" position="6 -3 -14" rotation="0 -0.707107 0 -0.707107" unit_id="100011"/>
+		</table>
+		<table>
+			<unit_data continent="world" mesh_variation="set_button_0" name="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" name_id="cas_prop_button_000" position="6 2 -14" rotation="0 -0.707107 0 -0.707107" unit_id="100012"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="Available" position="6 -98 8" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100183">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="Available" vertical="center" word_wrap="false" wrap="false">
+					<shape _id="1">
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -98 8" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="Correct_Code" position="6 -98 8" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100184">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="Correct Code" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="Wrong_Code" position="6 -98 8" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100185">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="Wrong Code" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="Rebooting" position="6 -98 8" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100186">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0.501961 0" font_size="0.1" render_template="diffuse_vc_decal" text="Rebooting" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="Jammed" position="6 -98 8" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100187">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="Jammed" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="Shut_down" position="6 -98 8" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100188">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0.501961 0" font_size="0.1" render_template="diffuse_vc_decal" text="Shut down" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="0 0 0" _prev_rot="2.40183e-006 -0.707107 -2.40183e-006 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_tag/props/tag_prop_keypad/tag_prop_keypad" name_id="tag_prop_keypad_001" position="0 0 0" rotation="2.40183e-006 -0.707107 -2.40183e-006 -0.707107" unit_id="100279"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="26 0 0" _prev_rot="0 -0.707107 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="light_omni_001" only_visible_in_editor="true" position="26 0 0" rotation="0 -0.707107 0 -0.707107" unit_id="100239">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="30" multiplier="identity" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_000" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100223">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="0" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_001" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100224">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="1" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_002" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100229">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="2" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_003" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100230">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="3" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_004" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100231">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="4" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_005" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100232">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="5" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_006" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100233">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="6" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_007" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100234">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="7" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_008" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100235">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="8" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_009" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100236">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="9" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_000" position="6 -99 6" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100237">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="0" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_001" position="6 -99 6" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100238">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="1" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_002" position="6 -99 6" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100240">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="2" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_003" position="6 -99 6" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100242">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="3" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_004" position="6 -99 6" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100244">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="4" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_005" position="6 -99 6" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100251">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="5" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_006" position="6 -99 6" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100252">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="6" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_007" position="6 -99 6" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100253">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="7" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_008" position="6 -99 6" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100254">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="8" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_009" position="6 -99 6" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="100255">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="9" vertical="center" word_wrap="false" wrap="false">
+					<shape _ref="1"/>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_000" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100256">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0980392 1" font_size="0.1" render_template="diffuse_vc_decal" text="0" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_001" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100257">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0980392 1" font_size="0.1" render_template="diffuse_vc_decal" text="1" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_002" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100258">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0980392 1" font_size="0.1" render_template="diffuse_vc_decal" text="2" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_003" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100259">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0980392 1" font_size="0.1" render_template="diffuse_vc_decal" text="3" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_004" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100260">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0980392 1" font_size="0.1" render_template="diffuse_vc_decal" text="4" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_005" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100261">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0980392 1" font_size="0.1" render_template="diffuse_vc_decal" text="5" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_006" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100262">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0980392 1" font_size="0.1" render_template="diffuse_vc_decal" text="6" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_007" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100263">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0980392 1" font_size="0.1" render_template="diffuse_vc_decal" text="7" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_008" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100264">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0980392 1" font_size="0.1" render_template="diffuse_vc_decal" text="8" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_009" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100265">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0980392 1" font_size="0.1" render_template="diffuse_vc_decal" text="9" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_000" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100266">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="0" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_001" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100267">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="1" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_002" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100268">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="2" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_003" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100269">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="3" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_004" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100270">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="4" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_005" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100324">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="5" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_006" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100325">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="6" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_007" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100326">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="7" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_008" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100327">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="8" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_009" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100328">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="9" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -95 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="fourth_number_text_underscore" position="6 -95 6" rotation="0.5 0.5 0.5 0.5" unit_id="100014">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="_" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -97 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="third_number_text_underscore" position="6 -97 6" rotation="0.5 0.5 0.5 0.5" unit_id="100015">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 0.0941176 1" font_size="0.1" render_template="diffuse_vc_decal" text="_" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -99 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="second_number_text_underscore" position="6 -99 6" rotation="0.5 0.5 0.5 0.5" unit_id="100016">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="0 1 0" font_size="0.1" render_template="diffuse_vc_decal" text="_" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="6 -101 6" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" name_id="first_number_text_underscore" position="6 -101 6" rotation="0.5 0.5 0.5 0.5" unit_id="100017">
+				<editable_gui align="center" alpha="1" blend_mode="normal" font="core/fonts/diesel" font_color="1 0 0" font_size="0.1" render_template="diffuse_vc_decal" text="_" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="4.54747e-013 28 -2" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/pd2_dlc_vit/props/vit_prop_hacking_device/vit_prop_hacking_device" name_id="vit_prop_hacking_device_001" position="0 25.6 -2" rotation="0 0 1 4.37114e-008" unit_id="100000"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

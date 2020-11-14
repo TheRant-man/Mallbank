@@ -1994,9 +1994,6 @@
 			<unit_data continent="ed3_world" name="units/payday2/props/str_prop_street_planter_c/str_prop_street_planter_c_1x2m_a" name_id="str_prop_street_planter_c_1x2m_a_017" position="2500 4450 -395" rotation="0 1.77636e-015 0 -1" unit_id="500408"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/props/str_prop_park_tree_elm/str_prop_park_tree_elm_autumn_a" name_id="str_prop_park_tree_elm_autumn_a_007" position="4600 1975 -385.609" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="500409"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="4600 1975 -395" _prev_rot="1.25608e-015 1.25608e-015 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_b" name_id="str_prop_street_planter_b_006" position="4600 1975 -395" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="500410"/>
 		</table>
 		<table>
@@ -2111,7 +2108,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_16x16m_corner_e" name_id="hcm_ext_16x16m_corner_e_004" position="-2850 850 1200" rotation="0 1.77636e-015 0 -1" unit_id="500484"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1215 900 404" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_009" position="-1215 900 404" rotation="0 0 -0.707107 -0.707107" unit_id="500485"/>
+			<unit_data _prev_pos="-1215 900 404" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_009" position="-1215 900 400" rotation="0 0 -0.707107 -0.707107" unit_id="500485"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_16x16m_corner_e" name_id="hcm_ext_16x16m_corner_e_005" position="-4400 1650 1200" rotation="0 1.77636e-015 0 -1" unit_id="500486"/>
@@ -3307,7 +3304,7 @@
 			<unit_data continent="ed3_world" name="units/world/props/cup/cup1" name_id="cup1_003" position="-8.9996 2029 -287.616" rotation="1.64114e-015 6.79783e-016 0.382684 -0.923879" unit_id="501886"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/hcm/hcm_ext_storefront_8x16m_e" name_id="hcm_ext_storefront_8x16m_e_001" position="-2849 849 -400" rotation="0 1.77636e-015 0 -1" unit_id="501888"/>
+			<unit_data _prev_pos="-2849 849 -400" _prev_rot="0 1.77636e-015 0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_storefront_8x16m_e" name_id="hcm_ext_storefront_8x16m_e_001" position="-2849 849 -400" rotation="0 1.77636e-015 0 -1" unit_id="501888"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" hide_on_projection_light="true" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_palm_a" name_id="com_veg_indoor_plants_palm_a_006" position="-425 1600 -322.5" rotation="0 1.77636e-015 0 -1" unit_id="501889"/>
@@ -6884,6 +6881,9 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-424 -4400 182.334" _prev_rot="-0 0 -0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp_wall" name_id="com_prop_mall_ceiling_lamp_wall_048" position="-424 -4400 212" rotation="-0 0 -0 -1" unit_id="500611"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4600 1975 -385.609" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_park_tree_elm/str_prop_park_tree_elm_autumn_a" name_id="str_prop_park_tree_elm_autumn_a_008" position="4600 1975 -385.609" rotation="0 0 -0.707107 -0.707107" unit_id="500409"/>
 		</table>
 	</statics>
 	<values>
