@@ -15,7 +15,7 @@
 					<entry key="depth" type="number" value="40"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="height" type="number" value="200"/>
+					<entry key="height" type="number" value="215"/>
 					<entry key="instigator" type="string" value="player"/>
 					<entry key="interval" type="number" value="0.1"/>
 					<entry key="on_executed" type="table">
@@ -24,7 +24,7 @@
 							<entry key="id" type="number" value="100003"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="100 25 87"/>
+					<entry key="position" type="vector3" value="100 25 108"/>
 					<entry key="radius" type="number" value="250"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 					<entry key="rules_element_ids" type="table">
@@ -189,7 +189,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="height" type="number" value="200"/>
 					<entry key="instigator" type="string" value="enemies"/>
-					<entry key="interval" type="number" value="0.1"/>
+					<entry key="interval" type="number" value="0.2"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
 							<entry key="delay" type="number" value="0"/>
