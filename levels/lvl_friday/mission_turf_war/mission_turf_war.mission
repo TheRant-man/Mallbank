@@ -43,7 +43,7 @@
 							<entry key="id" type="number" value="301129"/>
 						</entry>
 						<entry index="8" type="table">
-							<entry key="delay" type="number" value="0"/>
+							<entry key="delay" type="number" value="0.1"/>
 							<entry key="id" type="number" value="300355"/>
 						</entry>
 						<entry index="9" type="table">
@@ -75448,16 +75448,8 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="event_list" type="table">
-						<entry index="1" type="table">
-							<entry key="event" type="string" value="text_shutdown"/>
-							<entry key="instance" type="string" value="keypad_hackable_001"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="event" type="string" value="hide_keypad"/>
-							<entry key="instance" type="string" value="keypad_hackable_002"/>
-						</entry>
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
@@ -75475,16 +75467,8 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="event_list" type="table">
-						<entry index="1" type="table">
-							<entry key="event" type="string" value="hide_keypad"/>
-							<entry key="instance" type="string" value="keypad_hackable_001"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="event" type="string" value="text_shutdown"/>
-							<entry key="instance" type="string" value="keypad_hackable_002"/>
-						</entry>
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
@@ -75633,17 +75617,20 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="elements" type="table">
+						<entry index="1" type="number" value="302327"/>
+						<entry index="2" type="number" value="302311"/>
+						<entry index="3" type="number" value="302312"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="302327"/>
+							<entry key="id" type="number" value="302719"/>
 						</entry>
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="302719"/>
+							<entry key="id" type="number" value="302634"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4143.2 -4465.27 1231.5"/>
@@ -75667,6 +75654,14 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="ignore_disabled" type="boolean" value="true"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302716"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302332"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4315.06 -4462.44 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -75729,14 +75724,6 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="event_list" type="table">
-						<entry index="1" type="table">
-							<entry key="event" type="string" value="hide_keypad"/>
-							<entry key="instance" type="string" value="keypad_hackable_001"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="event" type="string" value="hide_keypad"/>
-							<entry key="instance" type="string" value="keypad_hackable_002"/>
-						</entry>
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
@@ -75805,9 +75792,7 @@
 			<entry index="15" type="string" value="fri_metal_detector_010"/>
 			<entry index="16" type="string" value="mus_flare_001"/>
 			<entry index="17" type="string" value="rvd_hackbox_001"/>
-			<entry index="18" type="string" value="keypad_hackable_001"/>
-			<entry index="19" type="string" value="keypad_hackable_002"/>
-			<entry index="20" type="string" value="rvd_hackbox_003"/>
+			<entry index="18" type="string" value="rvd_hackbox_003"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>

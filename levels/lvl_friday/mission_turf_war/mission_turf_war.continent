@@ -604,6 +604,9 @@
 		<table>
 			<unit_data _prev_pos="920.122 -3143.69 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="lobby_blocker001" only_visible_in_editor="true" position="920.122 -3143.69 0" rotation="0 0 -0.707107 -0.707107" unit_id="300096"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1275 -4128 -26" _prev_rot="0 -0.707107 0 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker" name_id="dev_ai_vis_blocker_004" only_visible_in_editor="true" position="1275 -4128 -26" rotation="0 -0.707107 0 -0.707107" unit_id="300110"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
