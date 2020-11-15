@@ -130,6 +130,7 @@
 			<value_node value="levels/instances/unique/pet_shutter/world/world"/>
 			<value_node value="levels/instances/unique/mus_security_barrier/world/world"/>
 			<value_node value="levels/instances/unique/hvh/hvh_chance/world/world"/>
+			<value_node value="packages/job_branchbank_cash"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

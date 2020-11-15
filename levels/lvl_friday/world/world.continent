@@ -6187,6 +6187,6 @@
 		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_007" position="-1118 -2100 400" rotation="0 0 -0.707107 -0.707107" script="default" start_index="1750"/>
 		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_008" position="-1525 -1743 400" rotation="-0 0 -0 -1" script="default" start_index="2000"/>
 		<table continent="world" folder="levels/instances/mods/fri_metal_detector/world" index_size="250" name="fri_metal_detector_010" position="75 -1100 -0" rotation="0 0 0.707107 -0.707107" script="default" start_index="2250"/>
-		<table continent="world" folder="levels/instances/unique/mus_flare/world" index_size="250" name="mus_flare_001" position="-425 -2300 400" rotation="0 0 0.422618 -0.906308" script="default" start_index="2500"/>
+		<table continent="world" folder="levels/instances/unique/mus_flare/world" index_size="250" name="heli_flare" position="-425 -2300 400" rotation="0 0 0.422618 -0.906308" script="default" start_index="2500"/>
 	</instances>
 </table>

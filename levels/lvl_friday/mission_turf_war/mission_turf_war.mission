@@ -98,6 +98,14 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="300369"/>
 						</entry>
+						<entry index="22" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302634"/>
+						</entry>
+						<entry index="23" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302332"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="9368 3247 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -36855,7 +36863,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
@@ -75189,7 +75197,7 @@
 					<entry key="event_list" type="table">
 						<entry index="1" type="table">
 							<entry key="event" type="string" value="enable_flare"/>
-							<entry key="instance" type="string" value="mus_flare_001"/>
+							<entry key="instance" type="string" value="heli_flare"/>
 						</entry>
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
@@ -75212,7 +75220,7 @@
 					<entry key="event_list" type="table">
 						<entry index="1" type="table">
 							<entry key="event" type="string" value="flare_is_lit"/>
-							<entry key="instance" type="string" value="mus_flare_001"/>
+							<entry key="instance" type="string" value="heli_flare"/>
 						</entry>
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
@@ -75357,7 +75365,7 @@
 					<entry key="event_list" type="table">
 						<entry index="1" type="table">
 							<entry key="event" type="string" value="kill_flare"/>
-							<entry key="instance" type="string" value="mus_flare_001"/>
+							<entry key="instance" type="string" value="heli_flare"/>
 						</entry>
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
@@ -75628,10 +75636,6 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="302719"/>
 						</entry>
-						<entry index="2" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="302634"/>
-						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4143.2 -4465.27 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -75642,7 +75646,7 @@
 			</entry>
 			<entry index="2639" type="table">
 				<entry key="class" type="string" value="ElementRandom"/>
-				<entry key="editor_name" type="string" value="show_hackbox"/>
+				<entry key="editor_name" type="string" value="random_hackbox_location"/>
 				<entry key="id" type="number" value="302634"/>
 				<entry key="module" type="string" value="CoreElementRandom"/>
 				<entry key="script" type="string" value="default"/>
@@ -75656,11 +75660,23 @@
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="302716"/>
+							<entry key="id" type="number" value="302721"/>
 						</entry>
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="302332"/>
+							<entry key="id" type="number" value="302720"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302722"/>
+						</entry>
+						<entry index="4" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302723"/>
+						</entry>
+						<entry index="5" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302724"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4315.06 -4462.44 1231.5"/>
@@ -75670,53 +75686,7 @@
 			</entry>
 			<entry index="2640" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
-				<entry key="editor_name" type="string" value="hackbox_001"/>
-				<entry key="id" type="number" value="302716"/>
-				<entry key="module" type="string" value="CoreElementInstance"/>
-				<entry key="script" type="string" value="default"/>
-				<entry key="values" type="table">
-					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event_list" type="table">
-						<entry index="1" type="table">
-							<entry key="event" type="string" value="show"/>
-							<entry key="instance" type="string" value="rvd_hackbox_001"/>
-						</entry>
-					</entry>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="on_executed" type="table">
-					</entry>
-					<entry key="position" type="vector3" value="4372.9 -4433.62 1231.5"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-					<entry key="trigger_times" type="number" value="0"/>
-				</entry>
-			</entry>
-			<entry index="2641" type="table">
-				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
-				<entry key="editor_name" type="string" value="hackbox_002"/>
-				<entry key="id" type="number" value="302332"/>
-				<entry key="module" type="string" value="CoreElementInstance"/>
-				<entry key="script" type="string" value="default"/>
-				<entry key="values" type="table">
-					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event_list" type="table">
-						<entry index="1" type="table">
-							<entry key="event" type="string" value="show"/>
-							<entry key="instance" type="string" value="rvd_hackbox_003"/>
-						</entry>
-					</entry>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="on_executed" type="table">
-					</entry>
-					<entry key="position" type="vector3" value="4372.9 -4554.62 1231.5"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-					<entry key="trigger_times" type="number" value="0"/>
-				</entry>
-			</entry>
-			<entry index="2642" type="table">
-				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
-				<entry key="editor_name" type="string" value="hide_keypads"/>
+				<entry key="editor_name" type="string" value="hide_vault_keypad"/>
 				<entry key="id" type="number" value="302717"/>
 				<entry key="module" type="string" value="CoreElementInstance"/>
 				<entry key="script" type="string" value="default"/>
@@ -75733,7 +75703,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2643" type="table">
+			<entry index="2641" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="debug_vaultcrack_lance"/>
 				<entry key="id" type="number" value="302718"/>
@@ -75753,7 +75723,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2644" type="table">
+			<entry index="2642" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="debug_vaultcrack_hack"/>
 				<entry key="id" type="number" value="302719"/>
@@ -75770,6 +75740,119 @@
 					<entry key="position" type="vector3" value="4103.69 -4324.34 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="show_instigator" type="boolean" value="false"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2643" type="table">
+				<entry key="class" type="string" value="ElementInstancePoint"/>
+				<entry key="editor_name" type="string" value="hackbox_location_002"/>
+				<entry key="id" type="number" value="302720"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="instance" type="string" value="hackbox"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-848 -4200 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2644" type="table">
+				<entry key="class" type="string" value="ElementInstancePoint"/>
+				<entry key="editor_name" type="string" value="hackbox_location_001"/>
+				<entry key="id" type="number" value="302721"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="instance" type="string" value="hackbox"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-1643 -3000 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2645" type="table">
+				<entry key="class" type="string" value="ElementInstancePoint"/>
+				<entry key="editor_name" type="string" value="hackbox_location_003"/>
+				<entry key="id" type="number" value="302722"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="instance" type="string" value="hackbox"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="175 -4023 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 1 -4.37114e-008"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2646" type="table">
+				<entry key="class" type="string" value="ElementInstancePoint"/>
+				<entry key="editor_name" type="string" value="hackbox_location_004"/>
+				<entry key="id" type="number" value="302723"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="instance" type="string" value="hackbox"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="100 -423 -0"/>
+					<entry key="rotation" type="quaternion" value="0 0 1 -4.37114e-008"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2647" type="table">
+				<entry key="class" type="string" value="ElementInstancePoint"/>
+				<entry key="editor_name" type="string" value="hackbox_location_005"/>
+				<entry key="id" type="number" value="302724"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="instance" type="string" value="hackbox"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-1088 -4200 400"/>
+					<entry key="rotation" type="quaternion" value="0 0 1 4.37114e-008"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2648" type="table">
+				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
+				<entry key="editor_name" type="string" value="show_hackbox"/>
+				<entry key="id" type="number" value="302332"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="event_list" type="table">
+						<entry index="1" type="table">
+							<entry key="event" type="string" value="show"/>
+							<entry key="instance" type="string" value="hackbox"/>
+						</entry>
+					</entry>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="4324.92 -4616.96 1231.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
@@ -75790,9 +75873,8 @@
 			<entry index="13" type="string" value="fri_metal_detector_007"/>
 			<entry index="14" type="string" value="fri_metal_detector_008"/>
 			<entry index="15" type="string" value="fri_metal_detector_010"/>
-			<entry index="16" type="string" value="mus_flare_001"/>
-			<entry index="17" type="string" value="rvd_hackbox_001"/>
-			<entry index="18" type="string" value="rvd_hackbox_003"/>
+			<entry index="16" type="string" value="heli_flare"/>
+			<entry index="17" type="string" value="hackbox"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>

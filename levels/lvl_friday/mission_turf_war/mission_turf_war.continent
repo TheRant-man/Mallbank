@@ -617,7 +617,6 @@
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_003" position="2448 328 0" rotation="0 0 0.707107 -0.707107" script="default" start_index="500"/>
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_005" position="1389 322 0" rotation="0 0 -0.707107 -0.707107" script="default" start_index="1000"/>
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="fri_computer_hack_004" position="1988 -321 0" rotation="0 0 -0.707107 -0.707107" script="default" start_index="750"/>
-		<table continent="mission_turf_war" folder="levels/instances/unique/rvd/rvd_hackbox/world" index_size="250" name="rvd_hackbox_001" position="-1643 -3035 0" rotation="0 0 -0.707107 -0.707107" script="default" start_index="2750"/>
-		<table continent="mission_turf_war" folder="levels/instances/unique/rvd/rvd_hackbox/world" index_size="250" name="rvd_hackbox_003" position="-1425 -1624 0" rotation="0 0 1 4.37114e-008" script="default" start_index="3750"/>
+		<table continent="mission_turf_war" folder="levels/instances/unique/rvd/rvd_hackbox/world" index_size="250" mission_placed="true" name="hackbox" position="-1128 -3600 0" rotation="0 0 0.707107 -0.707107" script="default" start_index="2750"/>
 	</instances>
 </table>
