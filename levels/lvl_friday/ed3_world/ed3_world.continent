@@ -988,7 +988,6 @@
 				<value_node value="502650"/>
 				<value_node value="502654"/>
 				<value_node value="502656"/>
-				<value_node value="502658"/>
 				<value_node value="502667"/>
 				<value_node value="502671"/>
 				<value_node value="502672"/>
@@ -4167,7 +4166,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_floor_a_2x2m_clean" name_id="com_int_basement_floor_a_2x2m_clean_058" position="1075 -100 -799.823" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="502616"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_6x3m" name_id="com_int_basement_wall_6x3m_009" position="1275 -400 -800" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707106" unit_id="502629"/>
+			<unit_data _prev_pos="1275 -400 -800" _prev_rot="1.25608e-015 1.25608e-015 -0.707107 -0.707106" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_6x3m" name_id="com_int_basement_wall_6x3m_009" position="1275 -299 -800" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707106" unit_id="502629"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/dev_tools/level_tools/collision/dev_collision_50m/dev_collision_50m_bag" name_id="dev_collision_50m_bag_007" position="325 4375 -615" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="502636"/>
@@ -4195,9 +4194,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="5761.99 1600 -400" _prev_rot="-1.77636e-015 1.79995e-021 1 -8.9407e-007" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm_int_storefront/hcm_int_storefront_lobby_c" name_id="hcm_int_storefront_lobby_c_001" position="5761.99 1600 -400" rotation="-1.77636e-015 1.79995e-021 1 -8.9407e-007" unit_id="502656"/>
-		</table>
-		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_6x3m" name_id="com_int_basement_wall_6x3m_011" position="1275 200 -800" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707106" unit_id="502658"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_6x3m" name_id="com_int_basement_wall_6x3m_012" position="1475 299.999 -800" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="502667"/>
@@ -6875,9 +6871,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="969 -176 -13.864" _prev_rot="0 0 0 -1" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-109 -139 131.136" local_rot="-0 0 0 1" mesh_variation="iluminated" name="units/world/props/gym/stn_lamp_garage/stn_prop_lamp_garage" name_id="stn_prop_lamp_garage_018" position="969 -176 -23.864" rotation="0 0 -0 -1" unit_id="500425"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="843 -330 -400" _prev_rot="0 0 1 -4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_pillar" name_id="com_int_basement_garage_pillar_020" position="843 -40 -400" rotation="0 0 1 4.37114e-008" unit_id="500452"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-424 -4400 182.334" _prev_rot="-0 0 -0 -1" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp_wall" name_id="com_prop_mall_ceiling_lamp_wall_048" position="-424 -4400 212" rotation="-0 0 -0 -1" unit_id="500611"/>
