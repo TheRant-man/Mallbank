@@ -6180,6 +6180,84 @@
 		<table>
 			<unit_data _prev_pos="825 1591 -400" _prev_rot="0 0 1 4.37114e-008" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show" name="units/payday2/props/com_prop_mall_bathroom_door/com_prop_mall_bathroom_door" name_id="bank_door_toilet_006" position="875 1591 -400" rotation="0 0 1 -4.37114e-008" unit_id="101089"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="6537.28 -1810.35 525" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_036" only_visible_in_editor="true" position="6537.28 -1810.35 525" rotation="-0 0 -0 -1" unit_id="101090"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6948.28 -2008.35 525" _prev_rot="0 0 0 -1" continent="world" local_pos="0 357 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_037" only_visible_in_editor="true" position="6537.28 -2008.35 525" rotation="0 0 0 -1" unit_id="101098"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6948.28 -2192.35 525" _prev_rot="0 0 0 -1" continent="world" local_pos="0 173 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_038" only_visible_in_editor="true" position="6537.28 -2192.35 525" rotation="0 0 0 -1" unit_id="101115"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6948.28 -2365.35 525" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_039" only_visible_in_editor="true" position="6537.28 -2365.35 525" rotation="0 0 0 -1" unit_id="101127"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6537.28 -3811.35 525" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_040" only_visible_in_editor="true" position="6537.28 -4770.35 525" rotation="0 0 0 -1" unit_id="101128"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6537.28 -3638.35 525" _prev_rot="0 0 0 -1" continent="world" local_pos="0 173 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_041" only_visible_in_editor="true" position="6537.28 -4597.35 525" rotation="0 0 0 -1" unit_id="101150"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6537.28 -3454.35 525" _prev_rot="0 0 0 -1" continent="world" local_pos="0 357 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_042" only_visible_in_editor="true" position="6537.28 -4413.35 525" rotation="0 0 0 -1" unit_id="101160"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6537.28 -3256.35 525" _prev_rot="0 0 0 -1" continent="world" local_pos="0 555 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_043" only_visible_in_editor="true" position="6537.28 -4215.35 525" rotation="0 0 0 -1" unit_id="101163"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="7135.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_044" only_visible_in_editor="true" position="7135.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101173"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6935.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_045" only_visible_in_editor="true" position="6935.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101174"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6746.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_046" only_visible_in_editor="true" position="6737.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101175"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6737.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_047" only_visible_in_editor="true" position="6540.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101176"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6341.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -198 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_048" only_visible_in_editor="true" position="6341.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101177"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6143.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -553 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_049" only_visible_in_editor="true" position="6143.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101178"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5985.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -395 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_050" only_visible_in_editor="true" position="5985.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101179"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5788.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -198 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_051" only_visible_in_editor="true" position="5788.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101192"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5590.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_052" only_visible_in_editor="true" position="5590.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101214"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5590.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_053" only_visible_in_editor="true" position="4888.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101217"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5788.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -198 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_054" only_visible_in_editor="true" position="5086.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101230"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5985.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -395 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_055" only_visible_in_editor="true" position="5283.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101244"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="6143.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -553 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_056" only_visible_in_editor="true" position="5441.28 -1631.35 525" rotation="0 0 -0.707107 -0.707107" unit_id="101245"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4888.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_057" only_visible_in_editor="true" position="4888.28 -1631.35 328" rotation="0 0 -0.707107 -0.707107" unit_id="101250"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5086.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -198 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_058" only_visible_in_editor="true" position="5086.28 -1631.35 328" rotation="0 0 -0.707107 -0.707107" unit_id="101257"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5283.28 -1631.35 525" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 -395 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_059" only_visible_in_editor="true" position="5283.28 -1631.35 328" rotation="0 0 -0.707107 -0.707107" unit_id="101267"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5441.28 -1631.35 328" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_060" only_visible_in_editor="true" position="5485.28 -1631.35 328" rotation="0 0 -0.707107 -0.707107" unit_id="101271"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5441.28 -1631.35 328" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_061" only_visible_in_editor="true" position="5662.28 -1631.35 328" rotation="0 0 -0.707107 -0.707107" unit_id="101272"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
