@@ -1801,7 +1801,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/props/com_prop_barista_fence/com_prop_barista_fence_2m" name_id="com_prop_barista_fence_2m_003" position="-1325 3200 -400" rotation="-1.77636e-015 6.62551e-023 1 -3.72983e-008" unit_id="500299"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="176 2400 -400" _prev_rot="-0 0 -0 -1" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall_facades/com_mall_big_piece_back" name_id="com_mall_big_piece_back_001" position="176 2400 -400" rotation="-0 0 -0 -1" unit_id="500300"/>
+			<unit_data _prev_pos="176 2400 -400" _prev_rot="0 0 0 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall_facades/com_mall_big_piece_back" name_id="com_mall_big_piece_back_001" position="176 2400 -400" rotation="0 0 0 -1" unit_id="500300"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="176 2400 -400" _prev_rot="0 0 0 -1" continent="ed3_world" disable_shadows="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall_facades/com_mall_big_piece_front" name_id="com_mall_big_piece_front_001" position="176 2400 -400" rotation="0 0 0 -1" unit_id="500301"/>
@@ -4181,7 +4181,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_6x3m" name_id="com_int_basement_wall_6x3m_010" position="875 500 -800" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="502643"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_014" position="5800 -5600 -400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="502645"/>
+			<unit_data _prev_pos="5800 -5600 -400" _prev_rot="1.25608e-015 1.25608e-015 -0.707107 -0.707107" continent="ed3_world" local_pos="997.497 -1051.04 -1631.5" local_rot="-1.25608e-015 -1.25608e-015 0.707107 0.707107" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_014" position="5800 -5600 -400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="502645"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_stairs_a" name_id="com_int_basement_stairs_a_010" position="1275 -125 -799.823" rotation="0 1.77636e-015 0 -1" unit_id="502647"/>
@@ -6864,7 +6864,7 @@
 			<unit_data _prev_pos="5800 -7200 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_road_16x24m_c" name_id="str_ext_road_16x24m_a_016" position="5800 -7200 -400" rotation="0 0 -0.707107 -0.707107" unit_id="500062"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="5800 -4000 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_023" position="5800 -4000 -400" rotation="0 0 -0.707107 -0.707107" unit_id="502557"/>
+			<unit_data _prev_pos="5800 -4000 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" local_pos="1021.06 695.13 -1631.5" local_rot="0 0 0.707107 0.707107" name="units/payday2/architecture/str/str_ext_road_16x24m_a" name_id="str_ext_road_16x24m_a_023" position="5800 -4000 -400" rotation="0 0 -0.707107 -0.707107" unit_id="502557"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1275 -300 -400" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_door_2x3m_006" position="1275 -300 -400" rotation="0 0 -0.707107 -0.707107" unit_id="502071"/>
