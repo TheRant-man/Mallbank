@@ -4497,7 +4497,7 @@
 			<unit_data _prev_pos="3338 -697 -497" _prev_rot="-0.707107 0 0 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_8x16m_d" name_id="hcm_ext_8x8m_corner_e_036" position="3338 -697 -497" rotation="-0.707107 0 0 -0.707107" unit_id="101455"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3339 -4325 -497" _prev_rot="-0.707107 0 0 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_8x16m_d" name_id="hcm_ext_8x8m_corner_e_037" position="3338 -4325 -497" rotation="-0.707107 0 0 -0.707107" unit_id="101456"/>
+			<unit_data _prev_pos="3338 -4325 -497" _prev_rot="-0.707107 0 0 -0.707107" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-715.04 158.15 -1728.5" local_rot="0.707107 0 0 0.707107" name="units/payday2/architecture/hcm/hcm_ext_roof_8x16m_d" name_id="hcm_ext_8x8m_corner_e_037" position="3338 -4325 -497" rotation="-0.707107 0 0 -0.707107" unit_id="101456"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3325 -4325 300" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_blinders/off_prop_officehigh_blinders_2_open" name_id="off_prop_officehigh_blinders_2_021" position="3325 -4325 300" rotation="0 0 -0.707107 -0.707107" unit_id="101113"/>
