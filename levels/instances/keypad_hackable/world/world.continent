@@ -611,7 +611,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="4.54747e-013 28 -2" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/pd2_dlc_vit/props/vit_prop_hacking_device/vit_prop_hacking_device" name_id="vit_prop_hacking_device_001" position="0 25.6 -2" rotation="0 0 1 4.37114e-008" unit_id="100000"/>
+			<unit_data _prev_pos="0 25.6 -2" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/pd2_dlc_vit/props/vit_prop_hacking_device/vit_prop_hacking_device" name_id="vit_prop_hacking_device_001" position="0 25.6 -2" rotation="0 0 1 -4.37114e-008" unit_id="100000"/>
 		</table>
 	</statics>
 	<values>
