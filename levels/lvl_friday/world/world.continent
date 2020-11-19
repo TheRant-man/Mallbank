@@ -2821,13 +2821,13 @@
 			<unit_data _prev_pos="1925 49.9998 0.000136971" _prev_rot="0 0 0 -1" continent="world" local_pos="636 -1031 0.000182072" local_rot="0 0 -0.707107 0.707107" name="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_zebra_corner" name_id="off_prop_officehigh_desk_zebra_corner_006" position="1925 49.9998 0.000136971" rotation="0 0 0 -1" unit_id="100575"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2002.59 97.6566 74.5001" _prev_rot="0 0 0.923879 -0.382684" continent="world" local_pos="683.657 -1108.59 74.5001" local_rot="0 0 -0.92388 -0.382683" name="units/payday2/props/off_prop_appliance_mouse/off_prop_appliance_mouse" name_id="off_prop_appliance_mouse_009" position="2002.59 97.6566 74.5001" rotation="0 0 0.923879 -0.382684" unit_id="100576"/>
+			<unit_data _prev_pos="2002.59 97.6566 74.5001" _prev_rot="0 0 0.923879 -0.382684" continent="world" local_pos="34.2187 0.227981 -1" local_rot="0 0 -0.988191 -0.15323" name="units/payday2/props/off_prop_appliance_mouse/off_prop_appliance_mouse" name_id="off_prop_appliance_mouse_009" position="2002.59 97.6566 74.5001" rotation="0 0 0.923879 -0.382684" unit_id="100576"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1987.06 67.1641 75.5001" _prev_rot="0 0 -0.519731 -0.85433" continent="world" local_pos="653.164 -1093.06 75.5001" local_rot="0 0 -0.236597 0.971608" name="units/payday2/props/off_prop_appliance_keyboard/off_prop_appliance_keyboard" name_id="off_prop_appliance_keyboard_007" position="1987.06 67.1641 75.5001" rotation="0 0 -0.519731 -0.85433" unit_id="100577"/>
+			<unit_data _prev_pos="1987.06 67.1641 75.5001" _prev_rot="0 0 -0.519731 -0.85433" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_appliance_keyboard/off_prop_appliance_keyboard" name_id="off_prop_appliance_keyboard_007" position="1987.06 67.1641 75.5001" rotation="0 0 -0.519731 -0.85433" unit_id="100577"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1954.71 109.678 74.5001" _prev_rot="0 0 0.92388 -0.382683" continent="world" local_pos="695.678 -1060.71 74.5001" local_rot="0 0 -0.923879 -0.382684" name="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a" name_id="gen_interactable_hack_computer_a_007" position="1954.71 109.678 74.5001" rotation="0 0 0.92388 -0.382683" unit_id="100578"/>
+			<unit_data _prev_pos="1954.71 109.678 74.5001" _prev_rot="0 0 0.92388 -0.382683" continent="world" local_pos="22.8809 48.2745 -1" local_rot="0 0 -0.98819 -0.153231" name="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a" name_id="gen_interactable_hack_computer_a_007" position="1954.71 109.678 74.5001" rotation="0 0 0.92388 -0.382683" unit_id="100578"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1925 -50.0001 0.000136971" _prev_rot="0 0 0 -1" continent="world" local_pos="536 -1031 0.000182072" local_rot="0 0 -0.707107 0.707107" name="units/payday2/props/off_prop_officehigh_desk/off_prop_officehigh_desk_zebra_straight_10" name_id="off_prop_officehigh_desk_zebra_straight_10_007" position="1925 -50.0001 0.000136971" rotation="0 0 0 -1" unit_id="100579"/>
@@ -6257,6 +6257,18 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="5441.28 -1631.35 328" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_061" only_visible_in_editor="true" position="5662.28 -1631.35 328" rotation="0 0 -0.707107 -0.707107" unit_id="101272"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2445 -370 74" _prev_rot="0 0 0.92388 -0.382683" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_appliance_keyboard/off_prop_appliance_keyboard" name_id="off_prop_appliance_keyboard_010" position="2445 -370 75" rotation="0 0 0.92388 -0.382683" unit_id="101281"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2420.96 -394.357 73" _prev_rot="0 -0 -0.236598 -0.971608" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_appliance_mouse/off_prop_appliance_mouse" name_id="off_prop_appliance_mouse_011" position="2420.96 -394.357 74" rotation="0 -0 -0.236598 -0.971608" unit_id="101282"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2428 -420 73" _prev_rot="0 -0 -0.233445 -0.97237" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a" name_id="gen_interactable_hack_computer_a_013" position="2428 -420 73" rotation="0 -0 -0.233445 -0.97237" unit_id="101297"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2428 -420 73" _prev_rot="0 0 -0.233445 -0.97237" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a" name_id="gen_interactable_hack_computer_a_014" position="2475 -382 73" rotation="0 0 -0.430511 -0.902585" unit_id="101298"/>
 		</table>
 	</statics>
 	<values>
