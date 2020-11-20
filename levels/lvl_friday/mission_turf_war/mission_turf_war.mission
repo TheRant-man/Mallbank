@@ -69881,7 +69881,7 @@
 							<entry key="id" type="number" value="301570"/>
 						</entry>
 						<entry index="4" type="table">
-							<entry key="delay" type="number" value="0"/>
+							<entry key="delay" type="number" value="0.1"/>
 							<entry key="id" type="number" value="301626"/>
 						</entry>
 						<entry index="5" type="table">

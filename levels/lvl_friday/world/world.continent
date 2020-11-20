@@ -2314,7 +2314,7 @@
 			<unit_data _prev_pos="2075 -2446 -1" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_on_ai_graph="true" local_pos="75 399 -1" local_rot="0 0 -0.707107 -0.707107" name="units/payday2/architecture/bnk/bnk_int_panel_wall4m_a" name_id="enable_if_vault2" position="2075 -2446 -1" rotation="0 0 1 -4.37114e-008" unit_id="100310"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2024 -2921 -1" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_panel_wall4m_deposit_a1" name_id="bnk_int_panel_wall4m_deposit_a1_001" position="2024 -2921 1" rotation="0 0 0.707107 -0.707107" unit_id="100311"/>
+			<unit_data _prev_pos="2024 -2921 1" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_panel_wall4m_deposit_a1" name_id="bnk_int_panel_wall4m_deposit_a1_001" position="2024 -2921 1" rotation="0 0 0.707107 -0.707107" unit_id="100311"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2100 -2525 3.72529e-007" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="296 700 -75" local_rot="0 0 -1 0" name="units/payday2/architecture/bnk/bnk_int_wall2m_backless" name_id="bnk_int_wall2m_backless_004" position="2074 -2525 0" rotation="0 0 0.707107 -0.707107" unit_id="100312"/>
@@ -2356,7 +2356,7 @@
 			<unit_data _prev_pos="2027.56 -2623.31 122.724" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-293.07 0 -31.626" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_009" position="2027.56 -2623.31 123.724" rotation="0 0 0.707107 -0.707107" unit_id="100324"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2027.56 -2672.16 122.724" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-244.22 0 -31.626" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_014" position="2027.56 -2672.16 123.724" rotation="0 0 0.707107 -0.707107" unit_id="100325"/>
+			<unit_data _prev_pos="2027.56 -2672.16 123.724" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 31.6253" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_014" position="2027.56 -2672.16 123.724" rotation="0 0 0.707107 -0.707107" unit_id="100325"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2027.56 -2721 123.724" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_019" position="2027.56 -2721 123.724" rotation="0 0 0.707107 -0.707107" unit_id="100326"/>
@@ -2389,7 +2389,7 @@
 			<unit_data _prev_pos="2027.56 -2721 91.0987" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-195.38 0 -63.2513" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_018" position="2027.56 -2721 92.0987" rotation="0 0 0.707107 -0.707107" unit_id="100335"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2027.56 -2672.16 91.0987" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-244.22 0 -63.2513" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_013" position="2027.56 -2672.16 92.0987" rotation="0 0 0.707107 -0.707107" unit_id="100336"/>
+			<unit_data _prev_pos="2027.56 -2672.16 92.0987" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_013" position="2027.56 -2672.16 92.0987" rotation="0 0 0.707107 -0.707107" unit_id="100336"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2027.56 -2623.31 91.0987" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-293.07 0 -63.2513" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_008" position="2027.56 -2623.31 92.0987" rotation="0 0 0.707107 -0.707107" unit_id="100337"/>
@@ -2419,10 +2419,10 @@
 			<unit_data _prev_pos="2027.56 -2867.53 59.4731" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-48.8499 0 -94.8769" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_032" position="2027.56 -2867.53 60.4731" rotation="0 0 0.707107 -0.707107" unit_id="100346"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2027.56 -2916.38 59.4731" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 -94.8769" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_037" position="2027.56 -2916.38 60.4731" rotation="0 0 0.707107 -0.707107" unit_id="100348"/>
+			<unit_data _prev_pos="2027.56 -2916.38 60.4731" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" delayed_load="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_037" position="2027.56 -2916.38 60.473" rotation="0 0 0.707107 -0.707107" unit_id="100348"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2027.56 -2916.38 27.8474" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 -126.503" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_036" position="2027.56 -2916.38 28.8474" rotation="0 0 0.707107 -0.707107" unit_id="100349"/>
+			<unit_data _prev_pos="2027.56 -2916.38 28.8474" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_036" position="2027.56 -2916.38 28.8474" rotation="0 0 0.707107 -0.707107" unit_id="100349"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2027.56 -2867.53 27.8474" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="-48.8499 0 -126.503" local_rot="0 0 0 1" name="units/pd2_dlc2/props/deposit_box/csgo_deposit_box" name_id="csgo_deposit_box_031" position="2027.56 -2867.53 28.8474" rotation="0 0 0.707107 -0.707107" unit_id="100350"/>
