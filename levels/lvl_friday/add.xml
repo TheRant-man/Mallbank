@@ -193,14 +193,11 @@
 	<movie path="vo/objectives/bnk_sec_off_4"/>
 	<movie path="vo/objectives/bnk_sec_off_5_initial"/>
 	<movie path="vo/objectives/bnk_sec_off_6"/>
-	
 	<movie path="vo/extras/lectro_1"/>
 	<movie path="vo/extras/lectro_2"/>
 	<movie path="vo/extras/lectro_3"/>
-	
 	<movie path="vo/extras/hack_finish_1"/>
 	<movie path="vo/extras/hack_finish_2"/>
-	
 	<movie path="vo/objectives/find_hack_1"/>
 	<movie path="vo/objectives/find_hack_2"/>
 	<movie path="vo/objectives/find_hack_3"/>
@@ -313,9 +310,24 @@
 		<unit path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 	</add>
 	<add path="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" type="unit">
-		<unit path="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" unload="true"/>
-		<object path="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" unload="true"/>
 		<material_config path="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" unload="true"/>
+		<object path="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" unload="true"/>
+		<unit path="units/payday2/props/gen_prop_security_signs/gen_prop_security_sign_3" unload="true"/>
+	</add>
+	<add path="units/payday2/architecture/com_ext_mall/com_ext_floor_a" type="unit">
+		<material_config path="units/payday2/architecture/com_ext_mall/com_ext_mall" unload="true"/>
+		<object path="units/payday2/architecture/com_ext_mall/com_ext_floor_a" unload="true"/>
+		<unit path="units/payday2/architecture/com_ext_mall/com_ext_floor_a" unload="true"/>
+	</add>
+	<add path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_fallen" type="unit">
+		<unit path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_fallen" unload="true"/>
+		<object path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_fallen" unload="true"/>
+		<material_config path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider" unload="true"/>
+	</add>
+	<add path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_1m50cm" type="unit">
+		<unit path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_1m50cm" unload="true"/>
+		<object path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_1m50cm" unload="true"/>
+		<material_config path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider" unload="true"/>
 	</add>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 </table>

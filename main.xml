@@ -130,7 +130,6 @@
 			<value_node value="levels/instances/unique/pet_shutter/world/world"/>
 			<value_node value="levels/instances/unique/mus_security_barrier/world/world"/>
 			<value_node value="packages/job_branchbank_cash"/>
-			<value_node value="levels/instances/unique/des/des_room/world/world"/>
 			<value_node value="levels/narratives/locke/sah/editor_only/editor_only"/>
 			<value_node value="levels/narratives/dentist/mia/stage2/editor_only/editor_only"/>
 		</packages>

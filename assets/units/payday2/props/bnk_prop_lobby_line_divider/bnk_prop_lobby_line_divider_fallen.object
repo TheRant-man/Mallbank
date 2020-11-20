@@ -1,0 +1,21 @@
+<dynamic_object>
+    <diesel orientation_object="rp_divider_fallen" materials="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider" />
+    <bodies>
+        <body enabled="true" template="static" name="body0" >
+            <object collision_type="box" name="c_box_01" padding="-2.5" />
+            <object collision_type="box" name="c_box_02" padding="-2.5" />
+            <object collision_type="box" name="c_box_03" padding="-2.5" />
+            <object collision_type="box" name="c_box_04" padding="-2.5" />
+            <object collision_type="box" name="c_box_05" padding="-2.5" />
+            <object collision_type="box" name="c_box_06" padding="-2.5" />
+            <object collision_type="box" name="c_box_07" padding="-2.5" />
+            <object collision_type="box" name="c_box_08" padding="-2.5" />
+        </body>
+    </bodies>
+    <decal_surfaces>
+        <decal_mesh enabled="true" name="dm_metal" material="thin_layer" />
+    </decal_surfaces>
+    <graphics>
+        <object enabled="true" name="g_mesh" />
+    </graphics>
+</dynamic_object>

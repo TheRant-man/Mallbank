@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<dynamic_object>
+	<diesel materials="units/payday2/architecture/com_ext_mall/com_ext_mall" orientation_object="rp_com_ext_floor_a" />
+ <bodies>
+        <body name="static_body" template="static" enabled="true" >
+            <object name="rp_com_ext_floor_a"/>
+			<object name="c_box_01" collision_type="box" padding="-2.5"/>
+        </body>
+    </bodies>
+	
+	<decal_surfaces default_material="marble" static="true">
+		<decal_mesh name="g_com_ext_floor_a" material="marble" enabled="true"/>
+	</decal_surfaces> 
+	
+    <graphics>
+        <object enabled="true" name="g_com_ext_floor_a" />
+		<object enabled="true" name="s_s" shadow_caster="true"/>
+
+
+    </graphics>
+</dynamic_object> 
