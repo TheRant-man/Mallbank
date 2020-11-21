@@ -666,6 +666,13 @@
 		<table>
 			<unit_data _prev_pos="-350 -2815 373.619" _prev_rot="1.32944e-021 -2.35469e-021 0.382682 -0.92388" continent="pc_only" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_store_spotlight/com_prop_store_spot_light_b_2" name_id="com_prop_store_spot_light_b_2_044" position="-350 -2815 373.619" rotation="0 0 0.382683 -0.92388" unit_id="400134"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="-114 -3148 148" _prev_rot="0 0 -0.707107 -0.707107" continent="pc_only" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="2 93 -89.996" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="boxlight_048" only_visible_in_editor="true" position="-114 -3158 148" rotation="0 0 -0.707107 -0.707107" unit_id="400135">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.729412 0.431373" enabled="true" falloff_exponent="1" far_range="280" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

@@ -1,6 +1,0 @@
-<unit type="bnk" slot="1" >
-    <object file="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_fallen" />
-    <extensions>
-        <extension class="ScriptUnitData" name="unit_data" />
-    </extensions>
-</unit>

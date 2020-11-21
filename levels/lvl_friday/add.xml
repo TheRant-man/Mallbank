@@ -181,9 +181,6 @@
 		<object path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" unload="true"/>
 		<unit path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" unload="true"/>
 	</add>
-	<add path="effects/particles/environment/scene_birds_from_trees" type="effect">
-		<effect load="true" path="effects/particles/environment/scene_birds_from_trees" unload="true"/>
-	</add>
 	<movie path="vo/objectives/bnk_find_1"/>
 	<movie path="vo/objectives/bnk_find_2"/>
 	<movie path="vo/objectives/bnk_find_3"/>
@@ -319,22 +316,12 @@
 		<object path="units/payday2/architecture/com_ext_mall/com_ext_floor_a" unload="true"/>
 		<unit path="units/payday2/architecture/com_ext_mall/com_ext_floor_a" unload="true"/>
 	</add>
-	<add path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_fallen" type="unit">
-		<material_config path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider" unload="true"/>
-		<object path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_fallen" unload="true"/>
-		<unit path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_fallen" unload="true"/>
-	</add>
-	<add path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_1m50cm" type="unit">
-		<material_config path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider" unload="true"/>
-		<object path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_1m50cm" unload="true"/>
-		<unit path="units/payday2/props/bnk_prop_lobby_line_divider/bnk_prop_lobby_line_divider_1m50cm" unload="true"/>
-	</add>
+	
 	<add path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" type="unit">
 		<unit path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
 		<object path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
 		<material_config path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
 		<sequence_manager path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
-		<effect load="true" path="effects/payday2/particles/explosions/sparks/sparks" unload="true"/>
 	</add>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<unit path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
