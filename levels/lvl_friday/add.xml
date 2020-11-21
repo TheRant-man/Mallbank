@@ -337,6 +337,9 @@
 		<effect load="true" path="effects/payday2/particles/explosions/sparks/sparks" unload="true"/>
 	</add>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	<unit path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
+	<model path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
+	<object path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/100042"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101782"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101781"/>

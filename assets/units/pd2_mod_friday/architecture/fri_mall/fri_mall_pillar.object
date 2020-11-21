@@ -1,0 +1,20 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_mall_big_piece_back" materials="units/payday2/architecture/com_ext_mall_facades/com_ext_facades" />
+	
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+			<object name="rp_com_mall_big_piece_back" />
+			<object name="dm_plaster" collision_type="box"/>
+        </body>
+    </bodies>
+
+	<decal_surfaces default_material="plaster" static="true">
+		<decal_mesh name="dm_plaster" material="plaster" enabled="true"/>
+	</decal_surfaces> 
+	
+    <graphics>
+        <object enabled="true" name="g_g" />
+    </graphics>
+</dynamic_object>
+
+
