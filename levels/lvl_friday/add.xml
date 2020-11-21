@@ -334,7 +334,6 @@
 		<object path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
 		<material_config path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
 		<sequence_manager path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
-		<bnk path="soundbanks/regular_sfx" unload="true"/>
 		<effect load="true" path="effects/payday2/particles/explosions/sparks/sparks" unload="true"/>
 	</add>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
