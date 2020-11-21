@@ -1,0 +1,37 @@
+<dynamic_object>
+	<diesel materials="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" orientation_object="rp_ind_prop_cardealership_info_display" />
+	<sequence_manager file="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_ind_prop_cardealership_info_display" />
+			<object name="c_box_02" collision_type="box" padding="-2.5" />
+			<object name="c_box_03" collision_type="box" padding="-2.5" />
+			<object name="c_box_04" collision_type="box" padding="-2.5" />
+			<object name="c_box_05" collision_type="box" padding="-2.5" />
+			<object name="c_box_06" collision_type="box" padding="-2.5" />
+		</body>
+		<body name="body_dmg" enabled="true" template="static">
+			<object name="rp_ind_prop_cardealership_info_display" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="metal">
+		<decal_mesh name="dm_glass_breakable" enabled="true" material="glass_breakable" />
+		<decal_mesh name="dm_metal" enabled="true" material="metal" />
+	</decal_surfaces>
+	<graphics>
+		<graphic_group name="grp_dmg" enabled="false" >
+			<lod_object name="lod_g_dmg">
+				<object name="g_dmg_lod0" enabled="true" max_distance="1500" />
+				<object name="g_dmg_lod1" enabled="true" />
+			</lod_object>
+		</graphic_group>
+		<graphic_group name="grp_clean" enabled="true" >
+			<lod_object name="lod_g_m">
+				<object name="g_m_lod0" enabled="true" max_distance="1500" />
+				<object name="g_m_lod1" enabled="true" />
+			</lod_object>
+		</graphic_group>
+		<object name="g_glow" enabled="true" />
+	</graphics>
+</dynamic_object>
