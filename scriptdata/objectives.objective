@@ -14,4 +14,7 @@
 	<objective description="bnk_flare_desc" id="bnk_flare" text="bnk_flare"/>
 	<objective description="bnk_wirebox_find_desc" id="bnk_wirebox_find" text="bnk_wirebox_find"/>
 	<objective description="bnk_keypad_hack_desc" id="bnk_keypad_hack" text="bnk_keypad_hack"/>
+	<objective description="bnk_wirebox_hack_desc" id="bnk_wirebox_hack" text="bnk_wirebox_hack"/>
+	<objective description="bnk_timelock_desc" id="bnk_timelock" text="bnk_timelock"/>
+	<objective description="bnk_return_desc" id="bnk_return" text="bnk_return"/>
 </table>

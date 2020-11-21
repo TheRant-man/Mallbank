@@ -2704,7 +2704,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/props/com_prop_mall_planter_modular/com_prop_mall_planter_modular_corner_outer_50cm" name_id="com_prop_mall_planter_modular_corner_outer_50cm_018" position="-475 -2350 -1.68754e-012" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="501222"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/props/com_prop_mall_planter_modular/com_prop_mall_planter_modular_edge_50x100cm" name_id="com_prop_mall_planter_modular_edge_50x100cm_022" position="-475 -2350 -1.68754e-012" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="501223"/>
+			<unit_data _prev_pos="-475 -2350 -1.68754e-012" _prev_rot="-1.77636e-015 -5.29396e-023 1 2.98023e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_mall_planter_modular/com_prop_mall_planter_modular_edge_50x100cm" name_id="com_prop_mall_planter_modular_edge_50x100cm_022" position="-475 -2350 -1.68754e-012" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="501223"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/dev_tools/level_tools/collision/dev_collision_50m/dev_collision_50m_bag" name_id="dev_collision_50m_bag_004" position="2225 4375 385" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="501224"/>

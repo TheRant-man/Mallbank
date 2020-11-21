@@ -51,11 +51,20 @@
 	"bnk_flare":"Signal Bile with a flare",
 	"bnk_flare_desc":"Place down a flare so Bile can drop off the thermal lance."
 	
-	"bnk_wirebox_find":"Hack the wirebox",
-	"bnk_wirebox_find_desc":"The alarm has disabled the keypad, hack the marked access point so Jackal can re-enable it."
+	"bnk_wirebox_find":"Find the security box",
+	"bnk_wirebox_find_desc":"The alarm has disabled the keypad, the first step of getting it back up is finding the security box."
+	
+	"bnk_wirebox_hack":"Open and rewire the security box",
+	"bnk_wirebox_hack_desc":"The alarm has disabled the keypad, hack the marked access point so Jackal can re-enable it."
 	
 	"bnk_keypad_hack":"Scramble the keypad",
 	"bnk_keypad_hack_desc":"Looking for a code would take too long, place the scrambler on the keypad to force the correct code."
+	
+	"bnk_return":"Return to the vault door",
+	"bnk_return_desc":"Get back to the vault door and resume opening it."
+	
+	"bnk_timelock":"Wait for the timelock",
+	"bnk_timelock_desc":"The vault will open once the timelock's finished."
 	
 	"hud_int_keyboard_eday_2":"Hold $BTN_INTERACT to start the override"
 	
