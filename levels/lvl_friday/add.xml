@@ -184,12 +184,7 @@
 	<movie path="vo/objectives/bnk_find_1"/>
 	<movie path="vo/objectives/bnk_find_2"/>
 	<movie path="vo/objectives/bnk_find_3"/>
-	<movie path="vo/objectives/bnk_sec_off_1"/>
-	<movie path="vo/objectives/bnk_sec_off_2"/>
-	<movie path="vo/objectives/bnk_sec_off_3"/>
-	<movie path="vo/objectives/bnk_sec_off_4"/>
-	<movie path="vo/objectives/bnk_sec_off_5_initial"/>
-	<movie path="vo/objectives/bnk_sec_off_6"/>
+
 	<movie path="vo/extras/lectro_1"/>
 	<movie path="vo/extras/lectro_2"/>
 	<movie path="vo/extras/lectro_3"/>
