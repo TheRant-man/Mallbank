@@ -2491,7 +2491,7 @@
 			<unit_data continent="ed3_world" name="units/world/props/office/magazinerack/office_magazinerack_wall_02" name_id="office_magazinerack_wall_02_001" position="-1662 -2053 95.8992" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="501027"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_stairs_a" name_id="com_int_basement_stairs_a_001" position="875 125 200.177" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="501050"/>
+			<unit_data _prev_pos="875 125 200.177" _prev_rot="-1.77636e-015 -5.29396e-023 1 2.98023e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_stairs_a" name_id="com_int_basement_stairs_a_001" position="875 125 200.177" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="501050"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/dev_tools/level_tools/collision/dev_collision_50m/dev_collision_50m_bag" name_id="dev_collision_50m_bag_002" position="325 4375 385" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="501057"/>

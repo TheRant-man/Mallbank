@@ -75356,6 +75356,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="302732"/>
 						</entry>
+						<entry index="9" type="table">
+							<entry key="delay" type="number" value="0.2"/>
+							<entry key="id" type="number" value="302768"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="5320.92 -3099.41 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -77029,6 +77033,123 @@
 						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="1"/>
+				</entry>
+			</entry>
+			<entry index="2693" type="table">
+				<entry key="class" type="string" value="ElementWaypoint"/>
+				<entry key="editor_name" type="string" value="wp_hackbox"/>
+				<entry key="id" type="number" value="302768"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="icon" type="string" value="pd2_question"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="only_in_civilian" type="boolean" value="false"/>
+					<entry key="only_on_instigator" type="boolean" value="false"/>
+					<entry key="position" type="vector3" value="-425 -2000 300"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
+					<entry key="text_id" type="string" value="debug_none"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2694" type="table">
+				<entry key="class" type="string" value="ElementOperator"/>
+				<entry key="editor_name" type="string" value="remove_wp_hackbox"/>
+				<entry key="id" type="number" value="302769"/>
+				<entry key="module" type="string" value="CoreElementOperator"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="elements" type="table">
+						<entry index="1" type="number" value="302768"/>
+					</entry>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="operation" type="string" value="remove"/>
+					<entry key="position" type="vector3" value="4406.53 -4193.3 1231.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2695" type="table">
+				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
+				<entry key="editor_name" type="string" value="output_hackbox_found"/>
+				<entry key="id" type="number" value="302770"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="event_list" type="table">
+						<entry index="1" type="table">
+							<entry key="event" type="string" value="player_found_box"/>
+							<entry key="instance" type="string" value="rvd_hackbox_001"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="event" type="string" value="player_found_box"/>
+							<entry key="instance" type="string" value="rvd_hackbox_002"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="event" type="string" value="player_found_box"/>
+							<entry key="instance" type="string" value="rvd_hackbox_003"/>
+						</entry>
+						<entry index="4" type="table">
+							<entry key="event" type="string" value="player_found_box"/>
+							<entry key="instance" type="string" value="rvd_hackbox_004"/>
+						</entry>
+						<entry index="5" type="table">
+							<entry key="event" type="string" value="player_found_box"/>
+							<entry key="instance" type="string" value="rvd_hackbox_005"/>
+						</entry>
+						<entry index="6" type="table">
+							<entry key="event" type="string" value="player_found_box"/>
+							<entry key="instance" type="string" value="rvd_hackbox_006"/>
+						</entry>
+						<entry index="7" type="table">
+							<entry key="event" type="string" value="player_found_box"/>
+							<entry key="instance" type="string" value="rvd_hackbox_007"/>
+						</entry>
+					</entry>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302769"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302771"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="4536.66 -4440.57 1231.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2696" type="table">
+				<entry key="class" type="string" value="ElementObjective"/>
+				<entry key="editor_name" type="string" value="objective_wirebox"/>
+				<entry key="id" type="number" value="302771"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="amount" type="number" value="0"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="countdown" type="boolean" value="false"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="objective" type="string" value="bnk_wirebox_hack"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="4488.13 -4370.97 1231.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="state" type="string" value="complete_and_activate"/>
+					<entry key="sub_objective" type="string" value="none"/>
+					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
 		</entry>

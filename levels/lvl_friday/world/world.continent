@@ -6231,7 +6231,7 @@
 			<unit_data _prev_pos="-25 -2400 393" _prev_rot="-3.09086e-008 0.707107 -0.707107 3.09086e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_thirdfloor_2" only_visible_in_editor="true" position="-25 -2400 396" rotation="-3.09086e-008 0.707107 -0.707107 3.09086e-008" unit_id="100208"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-25 -3200 400" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" editable_gui="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall/com_ext_floor_a" name_id="com_ext_floor_a_002" position="-25 -3200 400" rotation="0 0 0 -1" unit_id="101299"/>
+			<unit_data _prev_pos="-25 -3200 400" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall/com_ext_floor_a" name_id="com_ext_floor_a_002" position="-25 -3200 400" rotation="0 0 0 -1" unit_id="101299"/>
 		</table>
 	</statics>
 	<values>
