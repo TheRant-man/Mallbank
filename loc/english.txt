@@ -15,8 +15,8 @@
 	"bnk_open_shut":"Drill the shutter",
 	"bnk_open_shut_desc":"Drill a way into the bank through the shutter.",
 	
-	"bnk_sec_off":"Disable the bank's security",
-	"bnk_sec_off_desc":"Locate a keypad inside the bank to disable its security.",
+	"bnk_sec_off":"Inspect the vault door",
+	"bnk_sec_off_desc":"Take a look at the vault door so Jackal knows what you're dealing with.",
 	
 	"bnk_enter":"Enter the back of the bank",
 	"bnk_enter_desc":"Find your way into the bank's employee-only area.",

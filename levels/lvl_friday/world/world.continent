@@ -2359,7 +2359,7 @@
 			<unit_data _prev_pos="2500 -2996 -1" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="true" local_pos="800 200 -1" local_rot="0 0 0.707107 0.707107" name="units/payday2/architecture/bnk/bnk_int_panel_wall4m_a" name_id="enable_if_vault1" position="2475 -2996 -1" rotation="0 0 0 -1" unit_id="100357"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2474 -2521 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_fence_wall" name_id="bnk_int_fence_wall_002" position="2474 -2521 0" rotation="0 0 -0.707107 -0.707107" unit_id="100358"/>
+			<unit_data _prev_pos="2474 -2545 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_fence_wall" name_id="bnk_int_fence_wall_002" position="2474 -2521 0" rotation="0 0 -0.707107 -0.707107" unit_id="100358"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2474 -2721 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="100 300 -75" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_fence_gate" name_id="bnk_int_fence_gate_001" position="2474 -2721 0" rotation="0 0 -0.707107 -0.707107" unit_id="100359"/>
@@ -2386,7 +2386,7 @@
 			<unit_data _prev_pos="2708 -2525 3.72529e-007" _prev_rot="0 0 1 -1.19209e-007" continent="world" local_pos="296 92 -75" local_rot="0 0 -0.707107 -0.707107" name="units/payday2/architecture/bnk/bnk_int_wall2m_backless" name_id="bnk_int_wall2m_backless_003" position="2682 -2525 0" rotation="0 0 1 -1.19209e-007" unit_id="100390"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2482 -2525 0" _prev_rot="0 0 1 -1.19209e-007" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_wall2m_backless" name_id="bnk_int_wall2m_backless_002" position="2482 -2525 0" rotation="0 0 1 -1.19209e-007" unit_id="100391"/>
+			<unit_data _prev_pos="2482 -2525 0" _prev_rot="0 0 1 -1.19209e-007" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_wall2m_backless" name_id="bnk_int_wall2m_backless_002" position="2482 -2525 0" rotation="0 0 1 -1.19209e-007" unit_id="100391"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2298 -2722 300" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_ceiling2x2_a" name_id="bnk_int_ceiling2x2_a_001" position="2298 -2722 300" rotation="0 0 -0.707107 -0.707107" unit_id="100392"/>
@@ -6232,6 +6232,9 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-25 -3200 400" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall/com_ext_floor_a" name_id="com_ext_floor_a_002" position="-25 -3200 400" rotation="0 0 0 -1" unit_id="101299"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="157 -4040 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="capitol" name="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_standing" name_id="gen_prop_bank_atm_standing_003" position="157 -4040 400" rotation="-0 0 -0 -1" unit_id="100209"/>
 		</table>
 	</statics>
 	<values>

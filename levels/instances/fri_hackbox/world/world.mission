@@ -246,7 +246,7 @@
 						<entry index="2" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100000"/>
-							<entry key="notify_unit_sequence" type="string" value=""/>
+							<entry key="notify_unit_sequence" type="string" value="state_show_outline_only"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>

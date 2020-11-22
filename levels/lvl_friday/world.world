@@ -3364,6 +3364,7 @@
 			</entry>
 			<entry key="printer_keypad" type="table">
 				<entry key="ids" type="table">
+					<entry index="100419" type="boolean" value="true"/>
 					<entry index="100909" type="boolean" value="true"/>
 					<entry index="100910" type="boolean" value="true"/>
 					<entry index="100911" type="boolean" value="true"/>
@@ -3390,6 +3391,7 @@
 					<entry index="100933" type="boolean" value="true"/>
 					<entry index="100934" type="boolean" value="true"/>
 					<entry index="100935" type="boolean" value="true"/>
+					<entry index="100950" type="boolean" value="true"/>
 					<entry index="101170" type="boolean" value="true"/>
 					<entry index="101233" type="boolean" value="true"/>
 				</entry>
@@ -3397,10 +3399,10 @@
 					<entry index="1" type="table">
 						<entry key="depth" type="number" value="1700"/>
 						<entry key="height" type="number" value="500"/>
-						<entry key="position" type="vector3" value="1576.78 -4323.22 4.55878"/>
-						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+						<entry key="position" type="vector3" value="1524 -4323 0"/>
+						<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 						<entry key="type" type="string" value="box"/>
-						<entry key="width" type="number" value="1800"/>
+						<entry key="width" type="number" value="1826"/>
 					</entry>
 				</entry>
 			</entry>

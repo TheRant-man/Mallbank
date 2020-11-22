@@ -351,9 +351,6 @@
 			<unit_data _prev_pos="0 -2239 0" _prev_rot="0 0 0 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x2x3" name_id="small_window_blocker_1" only_visible_in_editor="true" position="0 -2239 0" rotation="-0 0 -0 -1" unit_id="300056"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2450 -3755 143.4" _prev_rot="0 -0.707107 0 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disabled" name="units/payday2/props/str_prop_com_barrier_keypad/str_prop_com_barrier_keypad" name_id="keypad1" position="2450 -3755 143.4" rotation="0 -0.707107 0 -0.707107" unit_id="300058"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="1525 -1596 126" _prev_rot="0.707107 0 0 -0.707107" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_interactive" name="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single" name_id="player_kablooey" position="1515 -1596 126" rotation="0.707107 0 0 -0.707107" unit_id="300060"/>
 		</table>
 		<table>
@@ -385,9 +382,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="1479 -1596 131" _prev_rot="0.707107 0 0 -0.707107" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-46 -5 0" local_rot="0 0 0 1" mesh_variation="show_interactive" name="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single" name_id="player_kablooey002" position="1469 -1596 131" rotation="0.707107 0 0 -0.707107" unit_id="300072"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="593.154 -2034.97 150.563" _prev_rot="-0.5 -0.5 0.5 -0.5" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disabled" name="units/payday2/props/str_prop_com_barrier_keypad/str_prop_com_barrier_keypad" name_id="keypad2" position="593.154 -2034.97 150.563" rotation="0.5 0.5 -0.5 0.5" unit_id="300015"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-455.556 -1090.02 65.9998" _prev_rot="0 0 0.382683 -0.92388" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="diamondheist" name="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref" name_id="helicopter_cops_002" position="-455.556 -1090.02 65.9998" rotation="0 0 0.382683 -0.92388" unit_id="300041">
@@ -497,42 +491,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="1151 -2680 506" _prev_rot="0 0.34202 0 -0.939693" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_intaction_enabled" name="units/pd2_dlc_moon/props/moo_interactable_prop_iphone/moo_interactable_prop_iphone" name_id="gen_interactable_prop_iphone_005" position="1151 -2680 506" rotation="0 0.34202 0 -0.939693" unit_id="300080"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3353 -1921 310" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_1" position="3353 -1921 310" rotation="0 0 0.707107 -0.707107" unit_id="300048"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3359.1 -2118.16 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="-207.7 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_2" position="3353 -2117.3 310" rotation="0 0 0.707107 -0.707107" unit_id="300111"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3359.1 -2325.86 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_001" position="3353 -2325 310" rotation="0 0 0.707107 -0.707107" unit_id="300112"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3353 -2521.3 310" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_002" position="3353 -2521.3 310" rotation="0 0 0.707107 -0.707107" unit_id="300113"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3359.1 -2730.86 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="405 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_003" position="3353 -2730 310" rotation="0 0 0.707107 -0.707107" unit_id="300114"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3359.1 -2927.16 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="601.3 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_004" position="3353 -2926.3 310" rotation="0 0 0.707107 -0.707107" unit_id="300115"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3353 -3129 310" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_005" position="3353 -3129 310" rotation="0 0 0.707107 -0.707107" unit_id="300116"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3353 -3325.3 310" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="196.3 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_006" position="3353 -3325.3 310" rotation="0 0 0.707107 -0.707107" unit_id="300117"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3359.1 -3530.86 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="1205 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_007" position="3353 -3530 310" rotation="0 0 0.707107 -0.707107" unit_id="300118"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3359.1 -3727.16 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="1401.3 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_008" position="3353 -3726.3 310" rotation="0 0 0.707107 -0.707107" unit_id="300119"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3359.1 -3926.86 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="1601 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_009" position="3353 -3926 310" rotation="0 0 0.707107 -0.707107" unit_id="300120"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="3359.1 -4123.16 300.771" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" delayed_load="false" disable_collision="false" disable_on_ai_graph="true" disable_shadows="false" hide_on_projection_light="false" local_pos="1797.3 0 0" local_rot="0 0 0 1" mesh_variation="close_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="exterior_shutter_010" position="3353 -4122.3 310" rotation="0 0 0.707107 -0.707107" unit_id="300121"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-4450 5600 -400" _prev_rot="0 0 0 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x1m_corner_a" name_id="hcm_ext_8x1m_corner_a_025" position="-4450 5600 396" rotation="0 0 0 -1" unit_id="300122"/>
