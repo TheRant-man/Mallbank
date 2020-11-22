@@ -955,6 +955,10 @@
 				</entry>
 			</entry>
 			<entry key="unit_data" type="table">
+				<entry key="_prev_pos" type="vector3" value="-297 -3048 1"/>
+				<entry key="_prev_rot" type="quaternion" value="0 0 0 -1"/>
+				<entry key="local_pos" type="vector3" value="-222 -598 -399"/>
+				<entry key="local_rot" type="quaternion" value="0 0 8.74228e-008 1"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_069"/>
 				<entry key="position" type="vector3" value="-297 -3048 1"/>
@@ -3506,6 +3510,69 @@
 						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 						<entry key="type" type="string" value="box"/>
 						<entry key="width" type="number" value="514"/>
+					</entry>
+				</entry>
+			</entry>
+			<entry key="thirdfloor_1" type="table">
+				<entry key="ids" type="table">
+					<entry index="101299" type="boolean" value="true"/>
+					<entry index="101312" type="boolean" value="true"/>
+					<entry index="101313" type="boolean" value="true"/>
+					<entry index="101315" type="boolean" value="true"/>
+					<entry index="400126" type="boolean" value="true"/>
+					<entry index="500876" type="boolean" value="true"/>
+					<entry index="500882" type="boolean" value="true"/>
+					<entry index="500887" type="boolean" value="true"/>
+					<entry index="500903" type="boolean" value="true"/>
+					<entry index="500976" type="boolean" value="true"/>
+					<entry index="500980" type="boolean" value="true"/>
+					<entry index="500984" type="boolean" value="true"/>
+					<entry index="501076" type="boolean" value="true"/>
+					<entry index="501080" type="boolean" value="true"/>
+					<entry index="501082" type="boolean" value="true"/>
+					<entry index="501163" type="boolean" value="true"/>
+					<entry index="501177" type="boolean" value="true"/>
+					<entry index="501199" type="boolean" value="true"/>
+					<entry index="501203" type="boolean" value="true"/>
+					<entry index="501228" type="boolean" value="true"/>
+					<entry index="501229" type="boolean" value="true"/>
+					<entry index="501230" type="boolean" value="true"/>
+					<entry index="501248" type="boolean" value="true"/>
+					<entry index="501249" type="boolean" value="true"/>
+					<entry index="501250" type="boolean" value="true"/>
+				</entry>
+				<entry key="shapes" type="table">
+					<entry index="1" type="table">
+						<entry key="depth" type="number" value="4083"/>
+						<entry key="height" type="number" value="796"/>
+						<entry key="position" type="vector3" value="-2213 -4507 400"/>
+						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+						<entry key="type" type="string" value="box"/>
+						<entry key="width" type="number" value="3648"/>
+					</entry>
+					<entry index="2" type="table">
+						<entry key="depth" type="number" value="404"/>
+						<entry key="height" type="number" value="1000"/>
+						<entry key="position" type="vector3" value="-1806 -379 400"/>
+						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+						<entry key="type" type="string" value="box"/>
+						<entry key="width" type="number" value="2236"/>
+					</entry>
+					<entry index="3" type="table">
+						<entry key="depth" type="number" value="2179"/>
+						<entry key="height" type="number" value="1000"/>
+						<entry key="position" type="vector3" value="-1075 -2182 0"/>
+						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+						<entry key="type" type="string" value="box"/>
+						<entry key="width" type="number" value="1475"/>
+					</entry>
+					<entry index="4" type="table">
+						<entry key="depth" type="number" value="1039"/>
+						<entry key="height" type="number" value="441"/>
+						<entry key="position" type="vector3" value="-856.699 -4425 0"/>
+						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+						<entry key="type" type="string" value="box"/>
+						<entry key="width" type="number" value="1278"/>
 					</entry>
 				</entry>
 			</entry>
