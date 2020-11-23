@@ -565,6 +565,12 @@
 		<table>
 			<unit_data _prev_pos="1275 -4128 -26" _prev_rot="0 -0.707107 0 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker" name_id="dev_ai_vis_blocker_004" only_visible_in_editor="true" position="1275 -4128 -26" rotation="0 -0.707107 0 -0.707107" unit_id="300110"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="-453.161 -3011.51 467.813" _prev_rot="0 0 0 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="hide" name="units/payday2/pickups/gen_pku_toolbag_static/gen_pku_toolbag_static" name_id="gen_pku_toolbag_static_001" position="-420 -3015 482" rotation="0.000456851 0.026173 0.0174464 -0.999505" unit_id="300015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="157 -4040 400" _prev_rot="0 0 0 -1" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="capitol" name="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_standing" name_id="gen_prop_bank_atm_standing_003" position="217 -3982 400" rotation="0 0 0.707107 -0.707107" unit_id="300048"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

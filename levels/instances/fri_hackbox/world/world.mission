@@ -18,6 +18,10 @@
 							<entry key="delay" type="number" value="1"/>
 							<entry key="id" type="number" value="100001"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100028"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="2585 4732 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -172,6 +176,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100010"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100028"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="3967 8873 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -241,12 +249,6 @@
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100000"/>
 							<entry key="notify_unit_sequence" type="string" value="activate"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="100000"/>
-							<entry key="notify_unit_sequence" type="string" value="state_show_outline_only"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
@@ -716,6 +718,28 @@
 					</entry>
 					<entry key="position" type="vector3" value="-145 -314 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="29" type="table">
+				<entry key="class" type="string" value="ElementToggle"/>
+				<entry key="editor_name" type="string" value="toggle_enable_area"/>
+				<entry key="id" type="number" value="100028"/>
+				<entry key="module" type="string" value="CoreElementToggle"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="elements" type="table">
+						<entry index="1" type="number" value="100021"/>
+					</entry>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-425 -352 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="set_trigger_times" type="number" value="-1"/>
+					<entry key="toggle" type="string" value="toggle"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>

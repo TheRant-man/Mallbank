@@ -6233,9 +6233,6 @@
 		<table>
 			<unit_data _prev_pos="-25 -3200 400" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall/com_ext_floor_a" name_id="com_ext_floor_a_002" position="-25 -3200 400" rotation="0 0 0 -1" unit_id="101299"/>
 		</table>
-		<table>
-			<unit_data _prev_pos="157 -4040 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="capitol" name="units/payday2/props/gen_prop_bank_atm_standing/gen_prop_bank_atm_standing" name_id="gen_prop_bank_atm_standing_003" position="157 -4040 400" rotation="-0 0 -0 -1" unit_id="100209"/>
-		</table>
 	</statics>
 	<values>
 		<workviews/>
