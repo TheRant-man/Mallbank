@@ -76348,7 +76348,7 @@
 					</entry>
 					<entry key="position" type="vector3" value="-605.039 8411 -400"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
-					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
 		</entry>

@@ -6233,9 +6233,6 @@
 		<table>
 			<unit_data _prev_pos="-25 -3200 400" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall/com_ext_floor_a" name_id="com_ext_floor_a_002" position="-25 -3200 400" rotation="0 0 0 -1" unit_id="101299"/>
 		</table>
-		<table>
-			<unit_data _prev_pos="3352 -2329 0" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_construction_floor/com_int_construction_wall_covered_3m" name_id="com_int_construction_wall_covered_3m_002" position="3352 -2554 0" rotation="0 0 0.707107 -0.707107" unit_id="100209"/>
-		</table>
 	</statics>
 	<values>
 		<workviews/>
