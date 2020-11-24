@@ -53181,7 +53181,7 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
-					<entry key="position" type="vector3" value="880.569 -2979.8 -0.000561153"/>
+					<entry key="position" type="vector3" value="889.204 -2815.03 -0.000561153"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0.688355 -0.725374"/>
 					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -62699,7 +62699,7 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="955.746 -3109.16 72.3305"/>
+					<entry key="position" type="vector3" value="955.746 -3101.16 72.3305"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="text_id" type="string" value="debug_none"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -63751,11 +63751,11 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="993.386 -2986.43 -0.001"/>
-					<entry key="rotation" type="quaternion" value="-0 0 -0.594823 -0.803857"/>
+					<entry key="position" type="vector3" value="948 -2793 -0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.878817 0.477159"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
-					<entry key="search_position" type="vector3" value="971.391 -2979.7 -0.000525302"/>
+					<entry key="search_position" type="vector3" value="948 -2793 -0"/>
 					<entry key="so_action" type="string" value="e_so_guard_arms_crossed"/>
 					<entry key="spawn_instigator_ids" type="table">
 						<entry index="1" type="number" value="300520"/>
@@ -72518,7 +72518,7 @@
 					<entry key="base_chance" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="chance_inc" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="false"/>
+					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="followup_elements" type="table">
 					</entry>
@@ -72534,7 +72534,7 @@
 					<entry key="path_style" type="string" value="destination"/>
 					<entry key="patrol_path" type="string" value="none"/>
 					<entry key="pose" type="string" value="none"/>
-					<entry key="position" type="vector3" value="1606 -3809 0"/>
+					<entry key="position" type="vector3" value="1610 -3828 0"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
@@ -75815,7 +75815,7 @@
 					<entry key="trigger_on" type="string" value="on_enter"/>
 					<entry key="trigger_times" type="number" value="1"/>
 					<entry key="use_disabled_shapes" type="boolean" value="false"/>
-					<entry key="width" type="number" value="1400"/>
+					<entry key="width" type="number" value="800"/>
 				</entry>
 			</entry>
 			<entry index="2650" type="table">
@@ -75849,7 +75849,7 @@
 					<entry key="trigger_on" type="string" value="on_enter"/>
 					<entry key="trigger_times" type="number" value="1"/>
 					<entry key="use_disabled_shapes" type="boolean" value="false"/>
-					<entry key="width" type="number" value="1400"/>
+					<entry key="width" type="number" value="800"/>
 				</entry>
 			</entry>
 			<entry index="2651" type="table">

@@ -2866,7 +2866,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_013" position="875 -300 3.10863e-012" rotation="0 1.77636e-015 0 -1" unit_id="501429"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/lcm/lcm_int_storefront_8x8_d" name_id="lcm_int_storefront_8x8_d_013" position="175 800 6.21727e-013" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="501431"/>
+			<unit_data _prev_pos="175 800 6.21727e-013" _prev_rot="1.25608e-015 1.25608e-015 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/lcm/lcm_int_storefront_8x8_d" name_id="lcm_int_storefront_8x8_d_013" position="175 800 6.21727e-013" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="501431"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/props/gen_prop_door_metal/gen_prop_door_metal_openable" name_id="gen_prop_door_metal_openable_003" position="850 -200 3.01981e-012" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="501435"/>
