@@ -9790,6 +9790,20 @@
 		<table>
 			<unit_data _prev_pos="-26 -2419 400" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_8x3m" name_id="navigation_blocker_340" only_exists_in_editor="true" position="-26 -2411 400" rotation="0 0 -0.707107 -0.707107" unit_id="202052"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="4156.16 2126.88 -424.602" _prev_rot="0.000215754 -0.0031174 0.990471 0.137688" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_bor_arrive_1" name="units/payday2/vehicles/anim_vehicle_van_swat/anim_vehicle_van_swat" name_id="frontal_van_bor001" position="11907 1738.22 -419.999" rotation="-0 0 -0 -1" unit_id="201920">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="1000" multiplier="@IDbca13ba1d306f87b@" name="ls_t_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="1000" multiplier="@IDbca13ba1d306f87b@" name="ls_t_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
+				</lights>
+				<projection_textures ls_left="units/lights/spot_light_projection_textures/default_df"/>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="4154 2150 -419" _prev_rot="0 0 0.130526 -0.991445" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker_vehicle_sedan" name_id="dev_nav_blocker_vehicle_sedan_001" only_exists_in_editor="true" position="4154 2150 -419" rotation="0 0 0.130526 -0.991445" unit_id="202270"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

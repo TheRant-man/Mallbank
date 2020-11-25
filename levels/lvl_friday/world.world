@@ -3408,7 +3408,6 @@
 			</entry>
 			<entry key="secoffice" type="table">
 				<entry key="ids" type="table">
-					<entry index="100306" type="boolean" value="true"/>
 					<entry index="100410" type="boolean" value="true"/>
 					<entry index="100649" type="boolean" value="true"/>
 					<entry index="100958" type="boolean" value="true"/>
@@ -3421,6 +3420,8 @@
 					<entry index="101008" type="boolean" value="true"/>
 					<entry index="101010" type="boolean" value="true"/>
 					<entry index="101021" type="boolean" value="true"/>
+					<entry index="101314" type="boolean" value="true"/>
+					<entry index="300092" type="boolean" value="true"/>
 					<entry index="500025" type="boolean" value="true"/>
 				</entry>
 				<entry key="shapes" type="table">
@@ -3433,12 +3434,12 @@
 						<entry key="width" type="number" value="612"/>
 					</entry>
 					<entry index="2" type="table">
-						<entry key="depth" type="number" value="445"/>
+						<entry key="depth" type="number" value="472"/>
 						<entry key="height" type="number" value="300"/>
 						<entry key="position" type="vector3" value="252.49 -448.824 400"/>
 						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 						<entry key="type" type="string" value="box"/>
-						<entry key="width" type="number" value="600"/>
+						<entry key="width" type="number" value="612"/>
 					</entry>
 				</entry>
 			</entry>
