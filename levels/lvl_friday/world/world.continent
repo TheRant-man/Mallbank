@@ -5435,9 +5435,6 @@
 			<unit_data _prev_pos="2039.95 -3507.69 101.86" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" name_id="fri_prop_coffee_bag_001" position="2039 -3507 102" rotation="0 0 0.95882 0.284015" unit_id="101291"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3365.73 -988.433 355.7" _prev_rot="0 0.707107 0 -0.707107" continent="world" local_pos="3464.07 2205.8 355.7" local_rot="0 -0.707107 0 0.707107" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker" name_id="dev_ai_vis_blocker_003" only_visible_in_editor="true" position="3365.73 -988.433 355.7" rotation="0 0.707107 0 -0.707107" unit_id="101292"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="303 718.999 -100" _prev_rot="1.64113e-021 1.77636e-015 -9.23872e-007 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_garage_beam_8m" name_id="com_int_basement_garage_beam_8m_001" position="897 719 -100" rotation="1.64113e-021 1.77636e-015 -9.23872e-007 -1" unit_id="101293"/>
 		</table>
 		<table>
