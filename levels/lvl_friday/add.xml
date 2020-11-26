@@ -184,7 +184,6 @@
 	<movie path="vo/objectives/bnk_find_1"/>
 	<movie path="vo/objectives/bnk_find_2"/>
 	<movie path="vo/objectives/bnk_find_3"/>
-
 	<movie path="vo/extras/lectro_1"/>
 	<movie path="vo/extras/lectro_2"/>
 	<movie path="vo/extras/lectro_3"/>
@@ -311,7 +310,6 @@
 		<object path="units/payday2/architecture/com_ext_mall/com_ext_floor_a" unload="true"/>
 		<unit path="units/payday2/architecture/com_ext_mall/com_ext_floor_a" unload="true"/>
 	</add>
-	
 	<add path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" type="unit">
 		<unit path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
 		<object path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
@@ -325,4 +323,9 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/100042"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101782"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101781"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100193"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100191"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100209"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100210"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100211"/>
 </table>
