@@ -1,20 +1,21 @@
 <dynamic_object>
-    <diesel orientation_object="rp_com_mall_big_piece_back" materials="units/payday2/architecture/com_ext_mall_facades/com_ext_facades" />
+    <diesel materials="units/payday2/architecture/com_ext_mall_facades/com_ext_facades" orientation_object="rp_com_mall_big_chungus" />
 	
     <bodies>
-        <body enabled="true" template="static" name="static_body" >
-			<object name="rp_com_mall_big_piece_back" />
-			<!--<object name="dm_plaster" collision_type="box"/>-->
+        <body  name="static_body"  template="static" enabled="true">
+			<object name="rp_com_mall_big_chungus" />		
+			<object name="c_plaster" collision_type="convex"/>
         </body>
     </bodies>
 
-	<decal_surfaces default_material="plaster" static="true">
-		<decal_mesh name="dm_plaster" material="plaster" enabled="true"/>
-	</decal_surfaces> 
+	<decal_surfaces default_material="plaster">
+		<decal_mesh name="dm_plaster" enabled="true" material="plaster" />
+	</decal_surfaces>
 	
     <graphics>
-        <object enabled="true" name="g_g" />
+        <object name="g_g"  enabled="true" />
     </graphics>
+	
 </dynamic_object>
 
 
