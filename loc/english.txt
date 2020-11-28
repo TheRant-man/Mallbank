@@ -49,7 +49,7 @@
 	"bnk_secure_desc":"Move the cartel gold to the van.",
 	
 	"bnk_escape":"Extraction available",
-	"bnk_secure_desc":"Get to the escape vehicle or secure more loot.",
+	"bnk_escape_desc":"Get to the escape vehicle or secure more loot.",
 	
 	"bnk_flare":"Signal Bile with a flare",
 	"bnk_flare_desc":"Place down a flare so Bile can drop off the thermal lance.",
