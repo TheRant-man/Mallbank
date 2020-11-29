@@ -32,9 +32,7 @@
 			<file file="world/world.mission" type="binary"/>
 			<file file="cover_data.cover_data" type="binary"/>
 		</include>
-		<packages>
-			<value_node value="levels/narratives/bain/revenge/lights/lights"/>
-		</packages>
+		<packages/>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
 	<instance id="fri_metal_detector">
