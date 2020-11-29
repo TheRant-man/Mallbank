@@ -75,6 +75,96 @@
 		</packages>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
+	<AddFiles directory="assets">
+		<texture load="true" path="guis/friday"/>
+	</AddFiles>
+	<HeistMusic directory="assets/sounds/music/friday" id="music_friday" volume="0.6">
+		<event name="setup" source="stealth.ogg" start_source="stealthintro.ogg"/>
+		<event name="anticipation" source="anticiloop.ogg" start_source="anticipation.ogg"/>
+		<event name="assault" source="assault.ogg" start_source="assaultintro.ogg"/>
+		<event name="control" source="control.ogg" start_source="controlintro.ogg"/>
+	</HeistMusic>
+	<Hooks directory="hooks">
+		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>
+	</Hooks>
+	<Localization default="english.txt" directory="loc">
+		<loc file="english.txt" language="english"/>
+	</Localization>
+	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" ghost_bonus="0" id="lvl_friday" intro_event="friday_intro" max_bags="20" music="heist" orig_id="lvl_friday" repossess_bags="true">
+		<add file="levels/lvl_friday/add.xml"/>
+		<assets>
+			<asset name="mallcrasher_health"/>
+			<asset name="mallcrasher_ammo"/>
+			<asset name="grenade_crate"/>
+			<asset name="election_day_2_keycard"/>
+		</assets>
+		<include directory="levels/lvl_friday">
+			<file file="nav_manager_data.nav_data" type="binary"/>
+			<file file="world.world" type="binary"/>
+			<file file="continents.continents" type="binary"/>
+			<file file="mission.mission" type="binary"/>
+			<file file="world_sounds.world_sounds" type="binary"/>
+			<file file="world_cameras.world_cameras" type="binary"/>
+			<file file="halloween_props/halloween_props.continent" type="binary"/>
+			<file file="halloween_props/halloween_props.mission" type="binary"/>
+			<file file="ed3_world/ed3_world.continent" type="binary"/>
+			<file file="ed3_world/ed3_world.mission" type="binary"/>
+			<file file="pc_only/pc_only.continent" type="binary"/>
+			<file file="pc_only/pc_only.mission" type="binary"/>
+			<file file="world/world.continent" type="binary"/>
+			<file file="world/world.mission" type="binary"/>
+			<file file="mission_turf_war/mission_turf_war.continent" type="binary"/>
+			<file file="mission_turf_war/mission_turf_war.mission" type="binary"/>
+			<file file="editor_only/editor_only.continent" type="binary"/>
+			<file file="editor_only/editor_only.mission" type="binary"/>
+			<file file="cover_data.cover_data" type="binary"/>
+			<file file="environments/friday.environment" type="custom_xml"/>
+		</include>
+		<outro_event>
+			<value_node value="friday_escape_a"/>
+			<value_node value="friday_escape_b"/>
+		</outro_event>
+		<packages>
+			<value_node value="packages/vlad_mallcrasher"/>
+			<value_node value="levels/narratives/vlad/mallcrasher/world_sounds"/>
+			<value_node value="levels/narratives/vlad/mallcrasher/pc_only/pc_only"/>
+			<value_node value="levels/narratives/vlad/mallcrasher/world/world"/>
+			<value_node value="levels/instances/unique/moon/crate_shoes/world/world"/>
+			<value_node value="levels/instances/unique/chew/chew_swat_van/world/world"/>
+			<value_node value="levels/instances/unique/train_cam_computer/world/world"/>
+			<value_node value="levels/instances/unique/dark/equipment_board/world/world"/>
+			<value_node value="levels/narratives/chill/editor_only/editor_only"/>
+			<value_node value="levels/instances/unique/red/red_hacking_quick/world/world"/>
+			<value_node value="levels/narratives/butcher/thebomb/stage_2/occluders/occluders"/>
+			<value_node value="levels/narratives/vlad/ukrainian_job/world_sounds"/>
+			<value_node value="levels/narratives/h_firestarter/stage_3/world_sounds"/>
+			<value_node value="levels/instances/unique/red/red_gates/world/world"/>
+			<value_node value="levels/narratives/skm/skm_mallcrasher/world"/>
+			<value_node value="levels/narratives/vlad/mallcrasher/ed3_world/ed3_world"/>
+			<value_node value="levels/narratives/h_alex_must_die/stage_3/editor_only/editor_only"/>
+			<value_node value="levels/narratives/e_election_day/stage_3/new_mall/new_mall"/>
+			<value_node value="levels/narratives/armadillo/arm_for/editor_only/editor_only"/>
+			<value_node value="levels/narratives/e_election_day/stage_3/world/world"/>
+			<value_node value="levels/narratives/classics/dah/lights/lights"/>
+			<value_node value="levels/narratives/e_election_day/stage_3/world"/>
+			<value_node value="levels/narratives/locke/vit/props1/props1"/>
+			<value_node value="levels/narratives/vlad/mallcrasher/mission_turf_war/mission_turf_war"/>
+			<value_node value="levels/instances/unique/crojob/random_loot/world/world"/>
+			<value_node value="levels/instances/unique/pbr/pbr_gas_station/world/world"/>
+			<value_node value="levels/instances/unique/are_exfil_puzzle/world/world"/>
+			<value_node value="levels/instances/unique/pet_shutter/world/world"/>
+			<value_node value="levels/instances/unique/mus_security_barrier/world/world"/>
+			<value_node value="packages/job_branchbank_cash"/>
+			<value_node value="levels/narratives/locke/sah/editor_only/editor_only"/>
+			<value_node value="levels/narratives/dentist/mia/stage2/editor_only/editor_only"/>
+			<value_node value="levels/narratives/dentist/mia/stage1/world/world"/>
+		</packages>
+		<script_data_mods directory="scriptdata">
+			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+		</script_data_mods>
+	</level>
 	<narrative briefing_event="friday_brf" contact="custom" icon="guis/friday" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
@@ -140,94 +230,4 @@
 			<value_node value="1e+006"/>
 		</payout>
 	</narrative>
-	<AddFiles directory="assets">
-		<texture load="true" path="guis/friday"/>
-	</AddFiles>
-	<HeistMusic directory="assets/sounds/music/friday" id="music_friday" volume="0.6">
-		<event name="setup" source="stealth.ogg" start_source="stealthintro.ogg"/>
-		<event name="anticipation" source="anticiloop.ogg" start_source="anticipation.ogg"/>
-		<event name="assault" source="assault.ogg" start_source="assaultintro.ogg"/>
-		<event name="control" source="control.ogg" start_source="controlintro.ogg"/>
-	</HeistMusic>
-	<Hooks directory="hooks">
-		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>
-	</Hooks>
-	<Localization default="english.txt" directory="loc">
-		<loc file="english.txt" language="english"/>
-	</Localization>
-	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" ghost_bonus="0" id="lvl_friday" intro_event="friday_intro" max_bags="20" music="heist" orig_id="lvl_friday" repossess_bags="true">
-		<add file="levels/lvl_friday/add.xml"/>
-		<assets>
-			<asset name="mallcrasher_health"/>
-			<asset name="mallcrasher_ammo"/>
-			<asset name="grenade_crate"/>
-			<asset name="election_day_2_keycard"/>
-		</assets>
-		<include directory="levels/lvl_friday">
-			<file file="world.world" type="binary"/>
-			<file file="continents.continents" type="binary"/>
-			<file file="mission.mission" type="binary"/>
-			<file file="nav_manager_data.nav_data" type="binary"/>
-			<file file="world_sounds.world_sounds" type="binary"/>
-			<file file="world_cameras.world_cameras" type="binary"/>
-			<file file="halloween_props/halloween_props.continent" type="binary"/>
-			<file file="halloween_props/halloween_props.mission" type="binary"/>
-			<file file="ed3_world/ed3_world.continent" type="binary"/>
-			<file file="ed3_world/ed3_world.mission" type="binary"/>
-			<file file="pc_only/pc_only.continent" type="binary"/>
-			<file file="pc_only/pc_only.mission" type="binary"/>
-			<file file="world/world.continent" type="binary"/>
-			<file file="world/world.mission" type="binary"/>
-			<file file="mission_turf_war/mission_turf_war.continent" type="binary"/>
-			<file file="mission_turf_war/mission_turf_war.mission" type="binary"/>
-			<file file="editor_only/editor_only.continent" type="binary"/>
-			<file file="editor_only/editor_only.mission" type="binary"/>
-			<file file="cover_data.cover_data" type="binary"/>
-			<file file="environments/friday.environment" type="custom_xml"/>
-		</include>
-		<outro_event>
-			<value_node value="friday_escape_a"/>
-			<value_node value="friday_escape_b"/>
-		</outro_event>
-		<packages>
-			<value_node value="packages/vlad_mallcrasher"/>
-			<value_node value="levels/narratives/vlad/mallcrasher/world_sounds"/>
-			<value_node value="levels/narratives/vlad/mallcrasher/pc_only/pc_only"/>
-			<value_node value="levels/narratives/vlad/mallcrasher/world/world"/>
-			<value_node value="levels/instances/unique/moon/crate_shoes/world/world"/>
-			<value_node value="levels/instances/unique/chew/chew_swat_van/world/world"/>
-			<value_node value="levels/instances/unique/train_cam_computer/world/world"/>
-			<value_node value="levels/instances/unique/dark/equipment_board/world/world"/>
-			<value_node value="levels/narratives/chill/editor_only/editor_only"/>
-			<value_node value="levels/instances/unique/red/red_hacking_quick/world/world"/>
-			<value_node value="levels/narratives/butcher/thebomb/stage_2/occluders/occluders"/>
-			<value_node value="levels/narratives/vlad/ukrainian_job/world_sounds"/>
-			<value_node value="levels/narratives/h_firestarter/stage_3/world_sounds"/>
-			<value_node value="levels/instances/unique/red/red_gates/world/world"/>
-			<value_node value="levels/narratives/skm/skm_mallcrasher/world"/>
-			<value_node value="levels/narratives/vlad/mallcrasher/ed3_world/ed3_world"/>
-			<value_node value="levels/narratives/h_alex_must_die/stage_3/editor_only/editor_only"/>
-			<value_node value="levels/narratives/e_election_day/stage_3/new_mall/new_mall"/>
-			<value_node value="levels/narratives/armadillo/arm_for/editor_only/editor_only"/>
-			<value_node value="levels/narratives/e_election_day/stage_3/world/world"/>
-			<value_node value="levels/narratives/classics/dah/lights/lights"/>
-			<value_node value="levels/narratives/e_election_day/stage_3/world"/>
-			<value_node value="levels/narratives/locke/vit/props1/props1"/>
-			<value_node value="levels/narratives/vlad/mallcrasher/mission_turf_war/mission_turf_war"/>
-			<value_node value="levels/instances/unique/crojob/random_loot/world/world"/>
-			<value_node value="levels/instances/unique/pbr/pbr_gas_station/world/world"/>
-			<value_node value="levels/instances/unique/are_exfil_puzzle/world/world"/>
-			<value_node value="levels/instances/unique/pet_shutter/world/world"/>
-			<value_node value="levels/instances/unique/mus_security_barrier/world/world"/>
-			<value_node value="packages/job_branchbank_cash"/>
-			<value_node value="levels/narratives/locke/sah/editor_only/editor_only"/>
-			<value_node value="levels/narratives/dentist/mia/stage2/editor_only/editor_only"/>
-			<value_node value="levels/narratives/dentist/mia/stage1/world/world"/>
-		</packages>
-		<script_data_mods directory="scriptdata">
-			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
-				<options merge_mode="add" mode="add"/>
-			</mod>
-		</script_data_mods>
-	</level>
 </table>
