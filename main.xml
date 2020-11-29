@@ -75,6 +75,71 @@
 		</packages>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
+	<narrative briefing_event="friday_brf" contact="custom" icon="guis/friday" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
+		<chain>
+			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
+				<mission_filter>
+					<value_node value="1"/>
+				</mission_filter>
+			</table>
+		</chain>
+		<contract_cost>
+			<value_node value="60000"/>
+			<value_node value="100000"/>
+			<value_node value="300000"/>
+			<value_node value="750000"/>
+			<value_node value="900000"/>
+			<value_node value="900000"/>
+			<value_node value="900000"/>
+		</contract_cost>
+		<crimenet_callouts>
+			<value_node value="rze_friday_cnc_01"/>
+		</crimenet_callouts>
+		<crimenet_videos>
+			<value_node value="cn_branchbank1"/>
+			<value_node value="cn_branchbank2"/>
+			<value_node value="cn_branchbank3"/>
+		</crimenet_videos>
+		<debrief_event>
+			<value_node value="rze_friday_debrief"/>
+		</debrief_event>
+		<experience_mul>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="3"/>
+			<value_node value="3"/>
+			<value_node value="3"/>
+		</experience_mul>
+		<max_mission_xp>
+			<value_node value="32000"/>
+			<value_node value="32000"/>
+			<value_node value="32000"/>
+			<value_node value="32000"/>
+			<value_node value="32000"/>
+			<value_node value="32000"/>
+			<value_node value="32000"/>
+		</max_mission_xp>
+		<min_mission_xp>
+			<value_node value="15000"/>
+			<value_node value="15000"/>
+			<value_node value="15000"/>
+			<value_node value="15000"/>
+			<value_node value="15000"/>
+			<value_node value="15000"/>
+			<value_node value="15000"/>
+		</min_mission_xp>
+		<payout>
+			<value_node value="75000"/>
+			<value_node value="150000"/>
+			<value_node value="450000"/>
+			<value_node value="850000"/>
+			<value_node value="1e+006"/>
+			<value_node value="1e+006"/>
+			<value_node value="1e+006"/>
+		</payout>
+	</narrative>
 	<AddFiles directory="assets">
 		<texture load="true" path="guis/friday"/>
 	</AddFiles>
@@ -165,65 +230,4 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="friday_brf" contact="custom" icon="guis/friday" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
-		<chain>
-			<table level_id="lvl_friday" type="d" type_id="heist_type_assault"/>
-		</chain>
-		<contract_cost>
-			<value_node value="8000"/>
-			<value_node value="16000"/>
-			<value_node value="40000"/>
-			<value_node value="80000"/>
-			<value_node value="100000"/>
-			<value_node value="100000"/>
-			<value_node value="100000"/>
-		</contract_cost>
-		<crimenet_callouts>
-			<value_node value="rze_friday_cnc_01"/>
-		</crimenet_callouts>
-		<crimenet_videos>
-			<value_node value="cn_branchbank1"/>
-			<value_node value="cn_branchbank2"/>
-			<value_node value="cn_branchbank3"/>
-		</crimenet_videos>
-		<debrief_event>
-			<value_node value="rze_friday_debrief"/>
-		</debrief_event>
-		<experience_mul>
-			<value_node value="1"/>
-			<value_node value="1"/>
-			<value_node value="1"/>
-			<value_node value="1"/>
-			<value_node value="3"/>
-			<value_node value="3"/>
-			<value_node value="3"/>
-		</experience_mul>
-		<max_mission_xp>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-		</max_mission_xp>
-		<min_mission_xp>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-			<value_node value="6000"/>
-		</min_mission_xp>
-		<payout>
-			<value_node value="9000"/>
-			<value_node value="18000"/>
-			<value_node value="45000"/>
-			<value_node value="90000"/>
-			<value_node value="120000"/>
-			<value_node value="120000"/>
-			<value_node value="120000"/>
-		</payout>
-	</narrative>
 </table>
