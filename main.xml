@@ -107,7 +107,6 @@
 			<value_node value="friday_escape_b"/>
 		</outro_event>
 		<packages>
-			<value_node value="packages/vlad_mallcrasher"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/world_sounds"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/pc_only/pc_only"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/world/world"/>
@@ -140,6 +139,7 @@
 			<value_node value="levels/narratives/locke/sah/editor_only/editor_only"/>
 			<value_node value="levels/narratives/dentist/mia/stage2/editor_only/editor_only"/>
 			<value_node value="levels/narratives/dentist/mia/stage1/world/world"/>
+			<value_node value="packages/narr_election3"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
