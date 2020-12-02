@@ -6,7 +6,7 @@
 	
 	"heist_narr_friday_brief":"Jackal wants you to hit a bank that's holding cartel-owned gold.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal the cash\n»Escape",
 	
-	"bnk_pku_drill":"Wait for the drill",
+	"bnk_pku_drill":"Wait for the lance",
 	"bnk_pku_drill_desc":"Wait for the pilot to arrive with the lance.",
 	
 	"heist_narr_friday_name":"Crashing Capitol",
@@ -42,8 +42,8 @@
 	"bnk_mac_attack_drive":"Get to the Pear Store",
 	"bnk_mac_attack_drive_desc":"The Pear Store might have a viable computer to use, take the hard drive there.",
 	
-	"bnk_pku_drill2":"Get the drill",
-	"bnk_pku_drill2_desc":"The pilot has delivered the drill, go get it!",
+	"bnk_pku_drill2":"Get the lance",
+	"bnk_pku_drill2_desc":"The pilot has delivered the lance, go get it!",
 	
 	"bnk_secure":"Secure the gold",
 	"bnk_secure_desc":"Move the cartel gold to the van.",
