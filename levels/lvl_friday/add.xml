@@ -320,6 +320,14 @@
 	<unit path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
 	<model path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
 	<object path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
+	
+	<unit path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
+	<model path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
+	<cooked_physics path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
+	<object path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
+	<material_config path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
+	<sequence_manager path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
+	
 	<texture path="levels/mods/lvl_friday/cube_lights/100042"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101782"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101781"/>
