@@ -72,7 +72,7 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" ghost_bonus="0" id="lvl_friday" intro_event="friday_intro" max_bags="20" music="heist" orig_id="lvl_friday" repossess_bags="true">
+	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" ghost_bonus="0" id="lvl_friday" intro_event="friday_intro" max_bags="20" music="heist" orig_id="lvl_friday" repossess_bags="true" drop_pickups_to_ground="true">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
