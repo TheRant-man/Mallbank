@@ -1,5 +1,5 @@
 <table name="Mallbank">
-	<instance id="keypad_hackable">
+	<instance id="keypad_hackable" orig_id="keypad_hackable">
 		<add file="levels/instances/keypad_hackable/add.xml"/>
 		<include directory="levels/instances/keypad_hackable">
 			<file file="world.world" type="generic_xml"/>
@@ -19,7 +19,7 @@
 		</packages>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
-	<instance id="fri_computer_hack">
+	<instance id="fri_computer_hack" orig_id="fri_computer_hack">
 		<add file="levels/instances/fri_computer_hack/add.xml"/>
 		<include directory="levels/instances/fri_computer_hack">
 			<file file="world.world" type="binary"/>
@@ -54,6 +54,29 @@
 			<value_node value="levels/instances/unique/rvd/rvd_wire_box/world_sounds"/>
 			<value_node value="levels/instances/unique/rvd/rvd_wire_box/world/world"/>
 			<value_node value="levels/instances/unique/pet_shutter/world/world"/>
+		</packages>
+		<script_data_mods directory="scriptdata"/>
+	</instance>
+	<instance id="fri_vault">
+		<add directory="assets"/>
+		<include directory="levels/instances/fri_vault">
+			<file file="world.world" type="binary"/>
+			<file file="continents.continents" type="binary"/>
+			<file file="mission.mission" type="binary"/>
+			<file file="nav_manager_data.nav_data" type="binary"/>
+			<file file="world_sounds.world_sounds" type="binary"/>
+			<file file="world_cameras.world_cameras" type="binary"/>
+			<file file="world/world.continent" type="binary"/>
+			<file file="world/world.mission" type="binary"/>
+			<file file="cover_data.cover_data" type="binary"/>
+			<file file="environments/default.environment" type="custom_xml"/>
+		</include>
+		<packages>
+			<value_node value="levels/instances/unique/sub_sewer_sidespawn/world/world"/>
+			<value_node value="levels/narratives/e_election_day/stage_3/world"/>
+			<value_node value="levels/instances/unique/red/red_gates/world/world"/>
+			<value_node value="levels/instances/unique/mus_security_barrier/world/world"/>
+			<value_node value="levels/narratives/e_election_day/stage_3/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
