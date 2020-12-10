@@ -53179,7 +53179,7 @@
 			</entry>
 			<entry index="1853" type="table">
 				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
-				<entry key="editor_name" type="string" value="unit_sequence_trigger_c4"/>
+				<entry key="editor_name" type="string" value="seq_trigger_c4"/>
 				<entry key="id" type="number" value="300576"/>
 				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
 				<entry key="script" type="string" value="default"/>
@@ -55715,10 +55715,6 @@
 							<entry key="id" type="number" value="300473"/>
 						</entry>
 						<entry index="7" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="302651"/>
-						</entry>
-						<entry index="8" type="table">
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="302682"/>
 						</entry>
@@ -78229,6 +78225,37 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="position" type="vector3" value="-386.673 746.186 2562.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2764" type="table">
+				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
+				<entry key="editor_name" type="string" value="output_vault_opened"/>
+				<entry key="id" type="number" value="300485"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="event_list" type="table">
+						<entry index="1" type="table">
+							<entry key="event" type="string" value="vault_opened"/>
+							<entry key="instance" type="string" value="vault1"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="event" type="string" value="vault_opened"/>
+							<entry key="instance" type="string" value="vault2"/>
+						</entry>
+					</entry>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="301183"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="1223.61 3316.72 1252.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>

@@ -18,10 +18,10 @@
 			<unit_data _prev_pos="-75 0 125" _prev_rot="0.5 -0.5 -0.5 -0.5" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disabled" name="units/payday2/props/str_prop_com_barrier_keypad/str_prop_com_barrier_keypad" name_id="str_prop_com_barrier_keypad_001" position="-75 0 125" rotation="0.5 -0.5 -0.5 -0.5" unit_id="100006"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-300 80 0" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_vault_door" only_visible_in_editor="true" position="-300 80 0" rotation="-0 0 -0 -1" unit_id="100007"/>
+			<unit_data _prev_pos="-300 80 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_vault_door" only_visible_in_editor="true" position="-300 80 0" rotation="0 0 0 -1" unit_id="100007"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_closed" name="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_com" name_id="bnk_prop_vault_door_light_branch_com_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100000"/>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_closed" name="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_com" name_id="bnk_prop_vault_door_light_branch_com_001" position="0 0 0" rotation="0 0 0 -1" unit_id="100000"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-175 -49 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_entrance" only_visible_in_editor="true" position="-175 -49 0" rotation="-0 0 -0 -1" unit_id="100003"/>

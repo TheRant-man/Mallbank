@@ -6142,6 +6142,9 @@
 		<table>
 			<unit_data _prev_pos="1767 -4330 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_023" only_visible_in_editor="true" position="1702 -4330 0" rotation="0 0 -0.707107 -0.707107" unit_id="101378"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="1500 -1620 150" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/off_prop_hallway_pictures/off_prop_hallway_picture_01" name_id="off_prop_hallway_picture_04_006" position="1500 -1620 150" rotation="0 0 0 -1" unit_id="100308"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

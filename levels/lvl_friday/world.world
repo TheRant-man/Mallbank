@@ -4317,20 +4317,20 @@
 				</entry>
 				<entry key="shapes" type="table">
 					<entry index="1" type="table">
-						<entry key="depth" type="number" value="1225"/>
+						<entry key="depth" type="number" value="1249"/>
 						<entry key="height" type="number" value="500"/>
-						<entry key="position" type="vector3" value="2491 -4323 0"/>
+						<entry key="position" type="vector3" value="2449 -4323 0"/>
 						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 						<entry key="type" type="string" value="box"/>
 						<entry key="width" type="number" value="945"/>
 					</entry>
 					<entry index="2" type="table">
-						<entry key="depth" type="number" value="810"/>
+						<entry key="depth" type="number" value="806"/>
 						<entry key="height" type="number" value="417"/>
 						<entry key="position" type="vector3" value="2488 -2767 0"/>
 						<entry key="rotation" type="quaternion" value="0 0 1 -4.37114e-008"/>
 						<entry key="type" type="string" value="box"/>
-						<entry key="width" type="number" value="1304"/>
+						<entry key="width" type="number" value="1435"/>
 					</entry>
 					<entry index="3" type="table">
 						<entry key="depth" type="number" value="670"/>
