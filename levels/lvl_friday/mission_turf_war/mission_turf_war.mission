@@ -67522,11 +67522,7 @@
 						</entry>
 						<entry index="11" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="302331"/>
-						</entry>
-						<entry index="12" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="302717"/>
+							<entry key="id" type="number" value="300551"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4910.24 -2801.81 1231.5"/>
@@ -78256,6 +78252,64 @@
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="1223.61 3316.72 1252.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2765" type="table">
+				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
+				<entry key="editor_name" type="string" value="output_tased"/>
+				<entry key="id" type="number" value="300525"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="event_list" type="table">
+						<entry index="1" type="table">
+							<entry key="event" type="string" value="tased"/>
+							<entry key="instance" type="string" value="vault1"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="event" type="string" value="tased"/>
+							<entry key="instance" type="string" value="vault2"/>
+						</entry>
+					</entry>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="301551"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="4235.33 3610.77 1252.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2766" type="table">
+				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
+				<entry key="editor_name" type="string" value="input_deactivate_shock"/>
+				<entry key="id" type="number" value="300551"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="event_list" type="table">
+						<entry index="1" type="table">
+							<entry key="event" type="string" value="lance_deactivate_shock"/>
+							<entry key="instance" type="string" value="vault1"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="event" type="string" value="lance_deactivate_shock"/>
+							<entry key="instance" type="string" value="vault2"/>
+						</entry>
+					</entry>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="4898.86 -3030.32 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>

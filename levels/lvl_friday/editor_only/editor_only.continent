@@ -9532,18 +9532,6 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="4571 -3603 1252.5" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_018" position="4571 -3603 1252.5" rotation="0 0 -0.707107 -0.707107" unit_id="200598">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="4.49822" render_template="diffuse_vc_decal" text="keypad" vertical="center" word_wrap="true" wrap="true">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
 			<unit_data _prev_pos="275 -4017 201" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="hackbox 1 text" position="275 -4017 201" rotation="3.09086e-008 0.707107 0.707107 3.09086e-008" unit_id="200612">
 				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="hackbox 1" vertical="center" word_wrap="false" wrap="false">
 					<shape>
