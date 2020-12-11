@@ -4091,7 +4091,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="6298 -4971 -400.1" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_truck_boxvan/str_vehicle_truck_boxvan" name_id="str_vehicle_truck_boxvan_002" position="6298 -5495 -400.1" rotation="0 0 -0.707107 -0.707107" unit_id="101080"/>
+			<unit_data _prev_pos="6298 -5495 -400.1" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/vehicles/str_vehicle_truck_boxvan/str_vehicle_truck_boxvan" name_id="str_vehicle_truck_boxvan_002" position="6298 -5495 -400.1" rotation="0 0 -0.707107 -0.707107" unit_id="101080"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3354 -4980 -101" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 -1600 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_8x16m_d" name_id="hcm_ext_8x8m_corner_e_028" position="3354 -4980 -101" rotation="0 0 0 -1" unit_id="101122"/>
@@ -6144,6 +6144,15 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="118 1018 400" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk_branch/bnk_branch_wall_clean" name_id="bnk_branch_wall_clean_003" position="118 1018 400" rotation="0 0 0.707107 -0.707107" unit_id="100415"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5412 -14018 -419" _prev_rot="-0 0.0261769 -0 -0.999657" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/bdrop_vehicles_cars/bdrop_vehicles_cars" name_id="bdrop_vehicles_cars_001" position="5412 -14018 -419" rotation="-0 0.0261769 -0 -0.999657" unit_id="100418"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="5412 -19796 -419" _prev_rot="0 0.0261769 0 -0.999657" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/bdrop_vehicles_cars/bdrop_vehicles_cars" name_id="bdrop_vehicles_cars_003" position="5412 -19796 -419" rotation="0 0.0261769 0 -0.999657" unit_id="100538"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="13274 -7637 -420" _prev_rot="0.0185099 0.0185099 0.706864 -0.706864" continent="world" local_pos="7851.17 6381 -412.463" local_rot="-0.0370071 -2.98023e-008 -0.706138 0.707107" name="units/payday2/vehicles/bdrop_vehicles_cars/bdrop_vehicles_cars" name_id="bdrop_vehicles_cars_004" position="13274 -7637 -420" rotation="0.0185099 0.0185099 0.706864 -0.706864" unit_id="100477"/>
 		</table>
 	</statics>
 	<values>
