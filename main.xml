@@ -49,7 +49,6 @@
 			<file file="world/world.continent" type="custom_xml"/>
 			<file file="world/world.mission" type="generic_xml"/>
 			<file file="cover_data.cover_data" type="custom_xml"/>
-			<file file="environments/default.environment" type="custom_xml"/>
 		</include>
 		<packages>
 			<value_node value="levels/instances/unique/sub_sewer_sidespawn/world/world"/>
