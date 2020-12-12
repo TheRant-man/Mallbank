@@ -1698,7 +1698,7 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="sequence_list" type="table">
 						<entry index="1" type="table">
-							<entry key="sequence" type="string" value="set_jammed"/>
+							<entry key="sequence" type="string" value="jammed_trigger"/>
 							<entry key="unit_id" type="number" value="100001"/>
 						</entry>
 					</entry>
