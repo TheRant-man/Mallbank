@@ -52617,11 +52617,15 @@
 							<entry key="delay" type="number" value="3"/>
 							<entry key="id" type="number" value="300542"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="2"/>
+							<entry key="id" type="number" value="302314"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-422.493 -3171.83 1834.76"/>
 					<entry key="push_multiplier" type="number" value="0.8"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-					<entry key="spawn_dir" type="vector3" value="0.103126 0.976972 0.186794"/>
+					<entry key="spawn_dir" type="vector3" value="0.02023 0.982192 0.186794"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
@@ -52789,7 +52793,7 @@
 			</entry>
 			<entry index="1838" type="table">
 				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
-				<entry key="editor_name" type="string" value="unit_sequence_trigger_heli1_flyaway"/>
+				<entry key="editor_name" type="string" value="trigger_heli1_flyaway"/>
 				<entry key="id" type="number" value="300546"/>
 				<entry key="module" type="string" value="CoreElementUnitSequenceTrigger"/>
 				<entry key="script" type="string" value="default"/>
@@ -52820,7 +52824,7 @@
 			</entry>
 			<entry index="1839" type="table">
 				<entry key="class" type="string" value="ElementOperator"/>
-				<entry key="editor_name" type="string" value="operator_003"/>
+				<entry key="editor_name" type="string" value="remove_wp_heli1"/>
 				<entry key="id" type="number" value="300547"/>
 				<entry key="module" type="string" value="CoreElementOperator"/>
 				<entry key="script" type="string" value="default"/>
@@ -57354,11 +57358,15 @@
 							<entry key="delay" type="number" value="3"/>
 							<entry key="id" type="number" value="301241"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="2"/>
+							<entry key="id" type="number" value="302315"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-325.493 -1148.83 1834.76"/>
 					<entry key="push_multiplier" type="number" value="0.8"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-					<entry key="spawn_dir" type="vector3" value="-0.0527823 -0.972652 0.226189"/>
+					<entry key="spawn_dir" type="vector3" value="0.328292 -0.917095 0.226189"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
@@ -61065,7 +61073,7 @@
 			</entry>
 			<entry index="2124" type="table">
 				<entry key="class" type="string" value="ElementWaypoint"/>
-				<entry key="editor_name" type="string" value="point_waypoint_007"/>
+				<entry key="editor_name" type="string" value="wp_lance_drop2"/>
 				<entry key="id" type="number" value="302314"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
@@ -61085,7 +61093,7 @@
 			</entry>
 			<entry index="2125" type="table">
 				<entry key="class" type="string" value="ElementWaypoint"/>
-				<entry key="editor_name" type="string" value="point_waypoint_008"/>
+				<entry key="editor_name" type="string" value="wp_lance_drop1"/>
 				<entry key="id" type="number" value="302315"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
