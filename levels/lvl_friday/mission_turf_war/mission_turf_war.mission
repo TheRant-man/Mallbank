@@ -57366,7 +57366,7 @@
 					<entry key="position" type="vector3" value="-325.493 -1148.83 1834.76"/>
 					<entry key="push_multiplier" type="number" value="0.8"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-					<entry key="spawn_dir" type="vector3" value="0.328292 -0.917095 0.226189"/>
+					<entry key="spawn_dir" type="vector3" value="-0.0481366 -0.990429 0.129358"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
