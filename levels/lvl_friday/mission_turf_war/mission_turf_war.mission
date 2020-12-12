@@ -68569,7 +68569,7 @@
 			</entry>
 			<entry index="2400" type="table">
 				<entry key="class" type="string" value="ElementRandom"/>
-				<entry key="editor_name" type="string" value="jkl_lectro"/>
+				<entry key="editor_name" type="string" value="jkl_lectro_lance"/>
 				<entry key="id" type="number" value="302635"/>
 				<entry key="module" type="string" value="CoreElementRandom"/>
 				<entry key="script" type="string" value="default"/>

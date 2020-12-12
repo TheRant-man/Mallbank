@@ -2,17 +2,19 @@
 	<instance id="fri_computer_hack" orig_id="fri_computer_hack">
 		<add file="levels/instances/fri_computer_hack/add.xml"/>
 		<include directory="levels/instances/fri_computer_hack">
-			<file file="world.world" type="binary"/>
-			<file file="continents.continents" type="binary"/>
-			<file file="mission.mission" type="binary"/>
-			<file file="nav_manager_data.nav_data" type="binary"/>
-			<file file="world_sounds.world_sounds" type="binary"/>
-			<file file="world_cameras.world_cameras" type="binary"/>
-			<file file="world/world.continent" type="binary"/>
-			<file file="world/world.mission" type="binary"/>
-			<file file="cover_data.cover_data" type="binary"/>
+			<file file="world.world" type="generic_xml"/>
+			<file file="continents.continents" type="custom_xml"/>
+			<file file="mission.mission" type="custom_xml"/>
+			<file file="nav_manager_data.nav_data" type="generic_xml"/>
+			<file file="world_sounds.world_sounds" type="generic_xml"/>
+			<file file="world_cameras.world_cameras" type="custom_xml"/>
+			<file file="world/world.continent" type="custom_xml"/>
+			<file file="world/world.mission" type="generic_xml"/>
+			<file file="cover_data.cover_data" type="custom_xml"/>
 		</include>
-		<packages/>
+		<packages>
+			<value_node value="levels/instances/unique/red/red_hacking_quick/world/world"/>
+		</packages>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
 	<instance id="fri_hackbox">
