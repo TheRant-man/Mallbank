@@ -72466,6 +72466,14 @@
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="300481"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="300486"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4283.62 -4695.51 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -77575,29 +77583,6 @@
 				</entry>
 			</entry>
 			<entry index="2737" type="table">
-				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
-				<entry key="editor_name" type="string" value="instance_input_event_001"/>
-				<entry key="id" type="number" value="302883"/>
-				<entry key="module" type="string" value="CoreElementInstance"/>
-				<entry key="script" type="string" value="default"/>
-				<entry key="values" type="table">
-					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event_list" type="table">
-						<entry index="1" type="table">
-							<entry key="event" type="string" value="unchosen"/>
-							<entry key="instance" type="string" value="vault1"/>
-						</entry>
-					</entry>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="on_executed" type="table">
-					</entry>
-					<entry key="position" type="vector3" value="4607.57 -2437.94 -419.999"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
-					<entry key="trigger_times" type="number" value="0"/>
-				</entry>
-			</entry>
-			<entry index="2738" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="pc_hack_delay"/>
 				<entry key="id" type="number" value="301551"/>
@@ -77634,9 +77619,9 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2739" type="table">
+			<entry index="2738" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
-				<entry key="editor_name" type="string" value="vault1"/>
+				<entry key="editor_name" type="string" value="input_vault1"/>
 				<entry key="id" type="number" value="300351"/>
 				<entry key="module" type="string" value="CoreElementInstance"/>
 				<entry key="script" type="string" value="default"/>
@@ -77661,9 +77646,9 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2740" type="table">
+			<entry index="2739" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
-				<entry key="editor_name" type="string" value="vault2"/>
+				<entry key="editor_name" type="string" value="input_vault2"/>
 				<entry key="id" type="number" value="300352"/>
 				<entry key="module" type="string" value="CoreElementInstance"/>
 				<entry key="script" type="string" value="default"/>
@@ -77688,15 +77673,15 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2741" type="table">
+			<entry index="2740" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
-				<entry key="editor_name" type="string" value="vaultcrack_lance"/>
+				<entry key="editor_name" type="string" value="input_vaultcrack_lance"/>
 				<entry key="id" type="number" value="300356"/>
 				<entry key="module" type="string" value="CoreElementInstance"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="event_list" type="table">
 						<entry index="1" type="table">
 							<entry key="event" type="string" value="crack_lance"/>
@@ -77719,7 +77704,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2742" type="table">
+			<entry index="2741" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="vaultcrack_timelock"/>
 				<entry key="id" type="number" value="300357"/>
@@ -77727,7 +77712,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="false"/>
+					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="event_list" type="table">
 						<entry index="1" type="table">
 							<entry key="event" type="string" value="crack_timelock"/>
@@ -77750,7 +77735,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2743" type="table">
+			<entry index="2742" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="output_player_seen_vault"/>
 				<entry key="id" type="number" value="300375"/>
@@ -77781,7 +77766,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2744" type="table">
+			<entry index="2743" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="output_player_seen_vault_lance"/>
 				<entry key="id" type="number" value="300478"/>
@@ -77812,7 +77797,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2745" type="table">
+			<entry index="2744" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="output_player_seen_vault_timelock"/>
 				<entry key="id" type="number" value="300480"/>
@@ -77843,7 +77828,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2746" type="table">
+			<entry index="2745" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="input_enable_lance_area"/>
 				<entry key="id" type="number" value="300481"/>
@@ -77870,7 +77855,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2747" type="table">
+			<entry index="2746" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="output_vault_opened"/>
 				<entry key="id" type="number" value="300485"/>
@@ -77901,7 +77886,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2748" type="table">
+			<entry index="2747" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="output_tased"/>
 				<entry key="id" type="number" value="300525"/>
@@ -77932,9 +77917,9 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2749" type="table">
+			<entry index="2748" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
-				<entry key="editor_name" type="string" value="input_deactivate_shock"/>
+				<entry key="editor_name" type="string" value="input_deactivate_malicious"/>
 				<entry key="id" type="number" value="300551"/>
 				<entry key="module" type="string" value="CoreElementInstance"/>
 				<entry key="script" type="string" value="default"/>
@@ -77943,11 +77928,11 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="event_list" type="table">
 						<entry index="1" type="table">
-							<entry key="event" type="string" value="lance_deactivate_shock"/>
+							<entry key="event" type="string" value="deactivate_malicious"/>
 							<entry key="instance" type="string" value="vault1"/>
 						</entry>
 						<entry index="2" type="table">
-							<entry key="event" type="string" value="lance_deactivate_shock"/>
+							<entry key="event" type="string" value="deactivate_malicious"/>
 							<entry key="instance" type="string" value="vault2"/>
 						</entry>
 					</entry>
@@ -77956,6 +77941,27 @@
 					</entry>
 					<entry key="position" type="vector3" value="4898.86 -3030.32 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2749" type="table">
+				<entry key="class" type="string" value="ElementObjective"/>
+				<entry key="editor_name" type="string" value="objective_bnk_timelock"/>
+				<entry key="id" type="number" value="300486"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="amount" type="number" value="0"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="countdown" type="boolean" value="false"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="objective" type="string" value="bnk_timelock"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="2142.54 3495.93 1252.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="state" type="string" value="complete_and_activate"/>
+					<entry key="sub_objective" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>

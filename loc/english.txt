@@ -60,12 +60,6 @@
 	"bnk_wirebox_hack":"Open and rewire the security box",
 	"bnk_wirebox_hack_desc":"The alarm has disabled the keypad, hack the marked access point so Jackal can re-enable it.",
 	
-	"bnk_keypad_hack":"Scramble the keypad",
-	"bnk_keypad_hack_desc":"Looking for a code would take too long, place the scrambler on the keypad to force the correct code.",
-	
-	"bnk_return":"Return to the vault door",
-	"bnk_return_desc":"Get back to the vault door and resume opening it.",
-	
 	"bnk_timelock":"Wait for the timelock",
 	"bnk_timelock_desc":"The vault will open once the timelock's finished.",
 	
