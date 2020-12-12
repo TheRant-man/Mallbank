@@ -67269,7 +67269,7 @@
 			</entry>
 			<entry index="2350" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
-				<entry key="editor_name" type="string" value="instance_output_hack_done"/>
+				<entry key="editor_name" type="string" value="output_hack_done"/>
 				<entry key="id" type="number" value="301319"/>
 				<entry key="module" type="string" value="CoreElementInstance"/>
 				<entry key="script" type="string" value="default"/>
@@ -72472,7 +72472,7 @@
 						</entry>
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="300497"/>
+							<entry key="id" type="number" value="300202"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4283.62 -4695.51 1231.5"/>
@@ -78027,9 +78027,7 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="elements" type="table">
 						<entry index="1" type="number" value="302635"/>
-						<entry index="2" type="number" value="300202"/>
-						<entry index="3" type="number" value="300347"/>
-						<entry index="4" type="number" value="302633"/>
+						<entry index="2" type="number" value="302633"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>

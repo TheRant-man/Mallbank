@@ -21,7 +21,7 @@
 			<unit_data _prev_pos="-300 80 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_vault_door" only_visible_in_editor="true" position="-300 80 0" rotation="0 0 0 -1" unit_id="100007"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_closed" name="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_com" name_id="bnk_prop_vault_door_light_branch_com_001" position="0 0 0" rotation="0 0 0 -1" unit_id="100000"/>
+			<unit_data _prev_pos="0 0 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_closed" name="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_com" name_id="bnk_prop_vault_door_light_branch_com_001" position="0 0 0" rotation="-0 0 -0 -1" unit_id="100000"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-175 -49 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_entrance" only_visible_in_editor="true" position="-175 -49 0" rotation="-0 0 -0 -1" unit_id="100003"/>
@@ -39,7 +39,7 @@
 			<unit_data _prev_pos="-186 75 0" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_lance" only_visible_in_editor="true" position="-186 75 0" rotation="-0 0 -0 -1" unit_id="100011"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-400 -101 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_panel_wall4m_a" name_id="bnk_int_panel_wall4m_a_001" position="-400 -101 0" rotation="0 0 1 -4.37114e-008" unit_id="100012"/>
+			<unit_data _prev_pos="-400 -105 0" _prev_rot="0 0 1 4.37114e-008" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk/bnk_int_panel_wall4m_a" name_id="bnk_int_panel_wall4m_a_001" position="-400 -114 0" rotation="0 0 1 4.37114e-008" unit_id="100012"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-400 0 0" _prev_rot="0 0 0 -1" continent="world" delayed_load="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" name_id="mkp_int_floor_4x4m_a_001" position="-400 0 -0.1" rotation="-0 0 -0 -1" unit_id="100013"/>

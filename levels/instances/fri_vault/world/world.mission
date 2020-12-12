@@ -1420,7 +1420,7 @@
 							<entry key="unit_id" type="number" value="100006"/>
 						</entry>
 					</entry>
-					<entry key="trigger_times" type="number" value="1"/>
+					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
 			<entry index="56" type="table">
@@ -1441,6 +1441,10 @@
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="1"/>
 							<entry key="id" type="number" value="100051"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100082"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-672 -144 0"/>
