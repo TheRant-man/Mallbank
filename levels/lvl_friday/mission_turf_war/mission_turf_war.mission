@@ -63317,7 +63317,7 @@
 					<entry key="participate_to_group_ai" type="boolean" value="true"/>
 					<entry key="position" type="vector3" value="1564.86 -2537.16 3.89912e-005"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.700909 -0.71325"/>
-					<entry key="spawn_action" type="string" value="e_sp_aim_rifle_crh"/>
+					<entry key="spawn_action" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="voice" type="number" value="0"/>
@@ -77978,27 +77978,6 @@
 				</entry>
 			</entry>
 			<entry index="2750" type="table">
-				<entry key="class" type="string" value="ElementObjective"/>
-				<entry key="editor_name" type="string" value="obj_bnk_timelock_start"/>
-				<entry key="id" type="number" value="300497"/>
-				<entry key="script" type="string" value="default"/>
-				<entry key="values" type="table">
-					<entry key="amount" type="number" value="0"/>
-					<entry key="base_delay" type="number" value="0"/>
-					<entry key="countdown" type="boolean" value="false"/>
-					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="objective" type="string" value="bnk_timelock_start"/>
-					<entry key="on_executed" type="table">
-					</entry>
-					<entry key="position" type="vector3" value="2070.54 3495.93 1252.5"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-					<entry key="state" type="string" value="complete_and_activate"/>
-					<entry key="sub_objective" type="string" value="none"/>
-					<entry key="trigger_times" type="number" value="1"/>
-				</entry>
-			</entry>
-			<entry index="2751" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="output_timelock_started"/>
 				<entry key="id" type="number" value="300502"/>
@@ -78021,11 +78000,11 @@
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="300497"/>
+							<entry key="id" type="number" value="300552"/>
 						</entry>
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="300552"/>
+							<entry key="id" type="number" value="300486"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="2142.61 3426.02 1252.5"/>
@@ -78033,7 +78012,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2752" type="table">
+			<entry index="2751" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_timelock_obj_dialogue"/>
 				<entry key="id" type="number" value="300504"/>
@@ -78056,7 +78035,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2753" type="table">
+			<entry index="2752" type="table">
 				<entry key="class" type="string" value="ElementInstancePoint"/>
 				<entry key="editor_name" type="string" value="powerbox_location"/>
 				<entry key="id" type="number" value="300509"/>
@@ -78074,7 +78053,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2754" type="table">
+			<entry index="2753" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="input_enable_powerbox"/>
 				<entry key="id" type="number" value="300552"/>
@@ -78097,7 +78076,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2755" type="table">
+			<entry index="2754" type="table">
 				<entry key="class" type="string" value="ElementInstancePoint"/>
 				<entry key="editor_name" type="string" value="powerbox_location001"/>
 				<entry key="id" type="number" value="300571"/>
@@ -78111,11 +78090,11 @@
 					<entry key="on_executed" type="table">
 					</entry>
 					<entry key="position" type="vector3" value="1850 -1800 0"/>
-					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
+					<entry key="rotation" type="quaternion" value="0 0 0.707107 -0.707107"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2756" type="table">
+			<entry index="2755" type="table">
 				<entry key="class" type="string" value="ElementInstancePoint"/>
 				<entry key="editor_name" type="string" value="powerbox_location_vault2"/>
 				<entry key="id" type="number" value="300724"/>
@@ -78133,7 +78112,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2757" type="table">
+			<entry index="2756" type="table">
 				<entry key="class" type="string" value="ElementInstancePoint"/>
 				<entry key="editor_name" type="string" value="powerbox_location_vault1"/>
 				<entry key="id" type="number" value="301180"/>
@@ -78151,7 +78130,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2758" type="table">
+			<entry index="2757" type="table">
 				<entry key="class" type="string" value="ElementInstancePoint"/>
 				<entry key="editor_name" type="string" value="powerbox_location003"/>
 				<entry key="id" type="number" value="301181"/>
@@ -78169,7 +78148,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2759" type="table">
+			<entry index="2758" type="table">
 				<entry key="class" type="string" value="ElementInstancePoint"/>
 				<entry key="editor_name" type="string" value="powerbox_location004"/>
 				<entry key="id" type="number" value="301182"/>
@@ -78187,7 +78166,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2760" type="table">
+			<entry index="2759" type="table">
 				<entry key="class" type="string" value="ElementRandom"/>
 				<entry key="editor_name" type="string" value="random_powerbox_location"/>
 				<entry key="id" type="number" value="301229"/>
@@ -78231,7 +78210,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2761" type="table">
+			<entry index="2760" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_powerbox_location_vault"/>
 				<entry key="id" type="number" value="301245"/>
@@ -78254,7 +78233,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2762" type="table">
+			<entry index="2761" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="output_powerbox_interrupted"/>
 				<entry key="id" type="number" value="301557"/>
@@ -78281,7 +78260,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2763" type="table">
+			<entry index="2762" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="input_timelock_jammed"/>
 				<entry key="id" type="number" value="301560"/>
@@ -78308,7 +78287,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2764" type="table">
+			<entry index="2763" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="output_powerbox_interacted"/>
 				<entry key="id" type="number" value="301564"/>
@@ -78331,7 +78310,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="2765" type="table">
+			<entry index="2764" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="input_disable_powerbox"/>
 				<entry key="id" type="number" value="301573"/>
