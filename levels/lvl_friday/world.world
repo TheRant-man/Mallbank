@@ -3493,12 +3493,12 @@
 						<entry key="width" type="number" value="616"/>
 					</entry>
 					<entry index="2" type="table">
-						<entry key="depth" type="number" value="2768"/>
-						<entry key="height" type="number" value="259"/>
-						<entry key="position" type="vector3" value="1243.43 -1402.1 0"/>
+						<entry key="depth" type="number" value="2926"/>
+						<entry key="height" type="number" value="263"/>
+						<entry key="position" type="vector3" value="1243.43 -1496.1 0"/>
 						<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 						<entry key="type" type="string" value="box"/>
-						<entry key="width" type="number" value="301"/>
+						<entry key="width" type="number" value="394"/>
 					</entry>
 					<entry index="3" type="table">
 						<entry key="depth" type="number" value="810"/>
@@ -3515,6 +3515,14 @@
 						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 						<entry key="type" type="string" value="box"/>
 						<entry key="width" type="number" value="1431"/>
+					</entry>
+					<entry index="5" type="table">
+						<entry key="depth" type="number" value="1000"/>
+						<entry key="height" type="number" value="308"/>
+						<entry key="position" type="vector3" value="1792.93 -1611.91 0"/>
+						<entry key="rotation" type="quaternion" value="0 0 0.92388 0.382683"/>
+						<entry key="type" type="string" value="box"/>
+						<entry key="width" type="number" value="337"/>
 					</entry>
 				</entry>
 			</entry>
@@ -3605,6 +3613,7 @@
 					<entry index="100623" type="boolean" value="true"/>
 					<entry index="100624" type="boolean" value="true"/>
 					<entry index="100625" type="boolean" value="true"/>
+					<entry index="100626" type="boolean" value="true"/>
 					<entry index="100627" type="boolean" value="true"/>
 					<entry index="100628" type="boolean" value="true"/>
 					<entry index="100633" type="boolean" value="true"/>
