@@ -20,8 +20,8 @@
 		<material_config path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<object path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 	</add>
-	<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870"/>
-	<material_config path="units/pd2_dlc_bex/characters/ene_swat_policia_federale_city_fbi_r870/ene_swat_policia_federale_city_fbi_r870_contour"/>
+	<material_config path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
+	<material_config path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_contour"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
 	<object path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
 	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>

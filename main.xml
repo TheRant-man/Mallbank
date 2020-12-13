@@ -72,6 +72,7 @@
 	</HeistMusic>
 	<Hooks directory="hooks">
 		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>
+		<hook file="contours.lua" source_file="lib/units/enemies/cop/copbase"/>
 	</Hooks>
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
