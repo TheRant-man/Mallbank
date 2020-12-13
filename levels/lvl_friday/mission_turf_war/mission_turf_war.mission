@@ -78040,6 +78040,24 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
+			<entry index="2753" type="table">
+				<entry key="class" type="string" value="ElementInstancePoint"/>
+				<entry key="editor_name" type="string" value="powerbox_location"/>
+				<entry key="id" type="number" value="300509"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="instance" type="string" value="fex_powerswitch_001"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="2479.57 -3742.4 -0.000258285"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
 		</entry>
 		<entry key="instances" type="table">
 			<entry index="1" type="string" value="fri_computer_hack_001"/>
@@ -78061,6 +78079,7 @@
 			<entry index="17" type="string" value="security_room_hack"/>
 			<entry index="18" type="string" value="vault1"/>
 			<entry index="19" type="string" value="vault2"/>
+			<entry index="20" type="string" value="fex_powerswitch_001"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>

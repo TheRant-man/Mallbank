@@ -660,5 +660,6 @@
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_computer_hack/world" index_size="250" name="security_room_hack" position="136 187 400.5" rotation="0 0 -0.748956 -0.66262" script="default" start_index="3250"/>
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_vault/world" index_size="250" name="vault2" position="2075 -3121 0" rotation="0 0 1 4.37114e-008" script="default" start_index="9500"/>
 		<table continent="mission_turf_war" folder="levels/instances/mods/fri_vault/world" index_size="250" name="vault1" position="2475 -2320 0" rotation="-0 0 -0 -1" script="default" start_index="9250"/>
+		<table continent="mission_turf_war" folder="levels/instances/unique/fex/fex_powerswitch/world" index_size="250" mission_placed="true" name="fex_powerswitch_001" position="-998.538 -5062.97 400" rotation="0 0 -0.707107 -0.707107" script="default" start_index="3250"/>
 	</instances>
 </table>
