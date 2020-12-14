@@ -6170,27 +6170,6 @@
 			<unit_data _prev_pos="-349.211 286.507 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/air_prop_hangar_toolbox/air_prop_hangar_toolbox" name_id="air_prop_hangar_toolbox_001" position="-349 286 400" rotation="-0 0 -0 -1" unit_id="101048"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-519.776 154.999 580.313" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox" name_id="des_prop_cardboardbox_001" position="-519 148 580" rotation="-0 0 -0 -1" unit_id="101049"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-519 148 539" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox" name_id="des_prop_cardboardbox_002" position="-514 148 539" rotation="0 0 0 -1" unit_id="101054"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-562 148 554" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox" name_id="des_prop_cardboardbox_003" position="-562 148 572" rotation="0 0 0 -1" unit_id="101055"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-556 148 514" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox" name_id="des_prop_cardboardbox_007" position="-556 148 532" rotation="0 0 0 -1" unit_id="101064"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-603 148 572" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox" name_id="des_prop_cardboardbox_008" position="-603 148 570" rotation="0 0 0 -1" unit_id="101065"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-603 148 521" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox" name_id="des_prop_cardboardbox_009" position="-603 148 529" rotation="0 0 0 -1" unit_id="101216"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-603 148 488" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/desert/des_prop_cardboardbox/des_prop_cardboardbox" name_id="des_prop_cardboardbox_010" position="-591 148 488" rotation="0 0 0 -1" unit_id="101243"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="1175 -1620 150" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/off_prop_hallway_pictures/off_prop_hallway_picture_12" name_id="off_prop_hallway_picture_12_003" position="1225 -1620 150" rotation="0 0 0 -1" unit_id="101314"/>
 		</table>
 		<table>
@@ -6204,6 +6183,12 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="2960.93 -800.681 0.000253202" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_065" only_visible_in_editor="true" position="2765.93 -800.681 0.000253202" rotation="0 0 -0.707107 -0.707107" unit_id="101331"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="327 -2414 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_024" only_visible_in_editor="true" position="327 -2403 400" rotation="-0 0 -0 -1" unit_id="101332"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-537 141 400" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/off_prop_generic_filecabinet/off_prop_generic_filecabinet_h" name_id="off_prop_generic_filecabinet_h_001" position="-543 141 400" rotation="0 0 1 4.37114e-008" unit_id="101049"/>
 		</table>
 	</statics>
 	<values>

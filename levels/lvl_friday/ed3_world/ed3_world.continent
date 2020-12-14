@@ -1762,7 +1762,7 @@
 			<unit_data _prev_pos="176 2400 -400" _prev_rot="0 0 0 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall_facades/com_mall_big_piece_back" name_id="com_mall_big_piece_back_001" position="176 2400 -400" rotation="0 0 0 -1" unit_id="500300"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="176 2400 -400" _prev_rot="0 0 0 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="-424 2425 -700" local_rot="-0 0 0 1" name="units/payday2/architecture/com_ext_mall_facades/com_mall_big_piece_front" name_id="com_mall_big_piece_front_001" position="176 2400 -400" rotation="0 0 0 -1" unit_id="500301"/>
+			<unit_data _prev_pos="176 2400 -400" _prev_rot="0 0 0 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_ext_mall_facades/com_mall_big_piece_front" name_id="com_mall_big_piece_front_001" position="176 2400 -400" rotation="0 0 0 -1" unit_id="500301"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/architecture/str/str_ext_sidewalk_8x8m_a" name_id="str_ext_sidewalk_8x8m_a_006" position="200 2400 -400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="500303"/>
