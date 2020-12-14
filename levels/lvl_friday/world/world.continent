@@ -6193,6 +6193,18 @@
 		<table>
 			<unit_data _prev_pos="1175 -1620 150" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/off_prop_hallway_pictures/off_prop_hallway_picture_12" name_id="off_prop_hallway_picture_12_003" position="1225 -1620 150" rotation="0 0 0 -1" unit_id="101314"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="3330.93 -800.681 0.000253202" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_062" only_visible_in_editor="true" position="3350.93 -800.681 0.000253202" rotation="0 0 -0.707107 -0.707107" unit_id="101328"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3350.93 -800.681 0.000253202" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_063" only_visible_in_editor="true" position="3153.93 -800.681 0.000253202" rotation="0 0 -0.707107 -0.707107" unit_id="101329"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="3153.93 -800.681 0.000253202" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_064" only_visible_in_editor="true" position="2960.93 -800.681 0.000253202" rotation="0 0 -0.707107 -0.707107" unit_id="101330"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2960.93 -800.681 0.000253202" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker_2x2/dev_ai_vis_blocker_2x2" name_id="dev_ai_vis_blocker_2x2_065" only_visible_in_editor="true" position="2765.93 -800.681 0.000253202" rotation="0 0 -0.707107 -0.707107" unit_id="101331"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
