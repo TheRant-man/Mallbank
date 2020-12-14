@@ -1116,9 +1116,9 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="close_to_element" type="boolean" value="false"/>
+					<entry key="close_to_element" type="boolean" value="true"/>
 					<entry key="comment" type="string" value="p10"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
@@ -1141,6 +1141,7 @@
 					<entry key="elements" type="table">
 						<entry index="1" type="number" value="100040"/>
 						<entry index="2" type="number" value="100042"/>
+						<entry index="3" type="number" value="100043"/>
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
