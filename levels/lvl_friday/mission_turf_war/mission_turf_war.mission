@@ -52602,7 +52602,7 @@
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
-					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
 			<entry index="1831" type="table">
@@ -61077,7 +61077,7 @@
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
-					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
 			<entry index="2124" type="table">
@@ -78296,7 +78296,7 @@
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
-					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
 			<entry index="2763" type="table">
@@ -78321,7 +78321,7 @@
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
-					<entry key="trigger_times" type="number" value="0"/>
+					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
 			<entry index="2764" type="table">
