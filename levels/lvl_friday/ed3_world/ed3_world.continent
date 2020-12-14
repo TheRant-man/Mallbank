@@ -2062,7 +2062,7 @@
 			<unit_data _prev_pos="-2850 850 1200" _prev_rot="0 1.77636e-015 0 -1" continent="ed3_world" local_pos="-6250 49.999 -800" local_rot="0 -1.77636e-015 0 1" name="units/payday2/architecture/hcm/hcm_ext_16x16m_corner_e" name_id="hcm_ext_16x16m_corner_e_004" position="-2850 850 1200" rotation="0 1.77636e-015 0 -1" unit_id="500484"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1215 900 404" _prev_rot="0 0 -0.707107 -0.707107" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_009" position="-1215 900 400" rotation="0 0 -0.707107 -0.707107" unit_id="500485"/>
+			<unit_data _prev_pos="-1215 900 400" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x16m_b" name_id="hcm_ext_8x16m_b_009" position="-1215 900 400" rotation="0 0 -0.707107 -0.707107" unit_id="500485"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-4400 1650 1200" _prev_rot="0 1.77636e-015 0 -1" continent="ed3_world" local_pos="-7800 849.999 -800" local_rot="0 -1.77636e-015 0 1" name="units/payday2/architecture/hcm/hcm_ext_16x16m_corner_e" name_id="hcm_ext_16x16m_corner_e_005" position="-4400 1650 1200" rotation="0 1.77636e-015 0 -1" unit_id="500486"/>

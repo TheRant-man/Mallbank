@@ -5108,8 +5108,8 @@
 			<unit_data _prev_pos="906.76 -2720.52 95.572" _prev_rot="0 0 -0.573577 -0.819152" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/collision/dev_collision_1m/dev_collision_1m" name_id="dev_collision_1m_036" only_visible_in_editor="true" position="906.76 -2720.52 95.572" rotation="0 0 -0.573577 -0.819152" unit_id="101326"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1794.86 -770.96 152.279" _prev_rot="-0.0123407 0.706999 0.706999 0.0123407" _visibility_counter="0" continent="world" local_pos="-188.177 -920.714 151.279" local_rot="-0.492188 -0.507692 -0.490205 -0.509606" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_010" position="1794.86 -770.96 152.279" rotation="-0.0123407 0.706999 0.706999 0.0123407" unit_id="101327">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0.0392157 0.0392157 0.0392157" font_size="0.95" render_template="diffuse_vc_decal" text="when did we install automatic doors?" vertical="center" word_wrap="false" wrap="false">
+			<unit_data _prev_pos="1794.86 -770.96 152.279" _prev_rot="-0.0123407 0.706999 0.706999 0.0123407" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_010" position="1794.86 -770.96 152.279" rotation="-0.0123407 0.706999 0.706999 0.0123407" unit_id="101327">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0 0 1" font_size="0.95" render_template="diffuse_vc_decal" text="It used to be so simple you know" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>
@@ -5407,7 +5407,7 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="1729.75 -770.96 121.534" _prev_rot="0.0185099 0.706864 0.706864 -0.0185099" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dark/props/editable_text_dunton/editable_text_dunton" name_id="editable_text_dunton_011" position="1729.75 -770.96 121.534" rotation="0.0185099 0.706864 0.706864 -0.0185099" unit_id="100631">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0 0 1" font_size="0.95" render_template="diffuse_vc_decal" text="uh, we didnt?" vertical="center" word_wrap="false" wrap="false">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_dunton_writing" font_color="0 0 1" font_size="0.95" render_template="diffuse_vc_decal" text="but it ain't no more." vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>
@@ -6068,7 +6068,7 @@
 			<unit_data _prev_pos="-831 -3200 386" _prev_rot="-0 0 -0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_ceiling_4x4m_a" name_id="mkp_int_ceiling_4x4m_a_001" position="-825 -3200 386" rotation="-0 0 -0 -1" unit_id="100227"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-431 -3200 386" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="400 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_ceiling_4x4m_a" name_id="mkp_int_ceiling_4x4m_a_002" position="-425 -3200 386" rotation="0 0 -0 -1" unit_id="100761"/>
+			<unit_data _prev_pos="-425 -3200 386" _prev_rot="0 0 0 -1" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_ceiling_4x4m_a" name_id="mkp_int_ceiling_4x4m_a_002" position="-425 -3200 386" rotation="0 0 0 -1" unit_id="100761"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-831 -2800 386" _prev_rot="0 0 0 -1" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 400 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_ceiling_4x4m_a" name_id="mkp_int_ceiling_4x4m_a_003" position="-825 -2800 386" rotation="0 0 -0 -1" unit_id="100762"/>

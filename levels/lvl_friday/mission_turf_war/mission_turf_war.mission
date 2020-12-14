@@ -77989,7 +77989,7 @@
 					<entry key="instance" type="string" value="fex_powerswitch_001"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="2479.57 -3742.4 -0.000258285"/>
+					<entry key="position" type="vector3" value="2464.57 -3742.4 -0.000258285"/>
 					<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
