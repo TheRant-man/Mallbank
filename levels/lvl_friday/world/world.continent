@@ -495,7 +495,6 @@
 				<value_node value="88"/>
 				<value_node value="92"/>
 				<value_node value="95"/>
-				<value_node value="97"/>
 				<value_node value="100"/>
 				<value_node value="102"/>
 				<value_node value="105"/>
@@ -6189,6 +6188,21 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-537 141 400" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/off_prop_generic_filecabinet/off_prop_generic_filecabinet_h" name_id="off_prop_generic_filecabinet_h_001" position="-543 141 400" rotation="0 0 1 4.37114e-008" unit_id="101049"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-379 519 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_dividers/off_prop_officehigh_dividers_100_high" name_id="off_prop_officehigh_dividers_100_high_020" position="-254 519 400" rotation="0 0 0 -1" unit_id="101054"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-379 718 400" _prev_rot="0 0 1 -0" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 199 0" local_rot="0 0 -1 0" name="units/payday2/props/off_prop_officehigh_dividers/off_prop_officehigh_dividers_100_high" name_id="off_prop_officehigh_dividers_100_high_012" position="-254 718 400" rotation="0 0 1 -0" unit_id="101055"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-273 518 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_dividers/off_prop_officehigh_dividers_100_high_shelf" name_id="off_prop_officehigh_dividers_100_high_shelf_034" position="-273 518 400" rotation="0 0 0 -1" unit_id="101064"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-273 518 400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_dividers/off_prop_officehigh_dividers_100_high_shelf" name_id="off_prop_officehigh_dividers_100_high_shelf_035" position="-273 617 400" rotation="0 0 0 -1" unit_id="101065"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="45 622 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="door_blocker_escortroom" only_visible_in_editor="true" position="45 621 400" rotation="-0 0 -0 -1" unit_id="101216"/>
 		</table>
 	</statics>
 	<values>
