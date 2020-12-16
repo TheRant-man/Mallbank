@@ -832,11 +832,6 @@
 				<value_node value="100422"/>
 			</units>
 		</table>
-		<table continent="world" name="BlackDoor" reference="100957" visible="true">
-			<units>
-				<value_node value="100195"/>
-			</units>
-		</table>
 		<table continent="world" name="light_omni_shadow_projection" reference="101134" visible="true">
 			<units>
 				<value_node value="101134"/>
@@ -4592,9 +4587,9 @@
 			<unit_data _prev_pos="1190.53 1267.78 -400" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_mall_trashbin/com_prop_mall_trashbin" name_id="com_prop_mall_trashbin_013" position="1190.53 1267.78 -400" rotation="0 0 0 -1" unit_id="101256"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="722.852 -742.308 90.441" _prev_rot="-0 0 -0 -1" continent="world" local_pos="-1513.15 -2399.31 55.441" local_rot="0 0 0 1" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="light_omni_shadow_projection_01_013" only_visible_in_editor="true" position="722.852 -742.308 90.441" projection_light="lo_omni" rotation="-0 0 -0 -1" unit_id="101258">
+			<unit_data _prev_pos="722.852 -742.308 90.441" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="light_omni_shadow_projection_01_013" only_visible_in_editor="true" position="722.852 -742.308 90.441" projection_light="lo_omni" rotation="-0 0 -0 -1" unit_id="101258">
 				<lights>
-					<table clipping_values="10000 -10000 0" color="1 0.0705882 0" enabled="true" falloff_exponent="1" far_range="150" multiplier="@ID8badd0cc6ca7cc05@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.0666667 0" enabled="true" falloff_exponent="1" far_range="150" multiplier="@ID8badd0cc6ca7cc05@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
 				</lights>
 				<projection_lights>
 					<lo_omni x="256" y="256"/>
@@ -5315,10 +5310,10 @@
 			<unit_data _prev_pos="555.988 -1209.73 80" _prev_rot="0 0 -0.0871558 -0.996195" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="true" local_pos="0 0 -25" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/com_prop_store_shelf_items/com_prop_store_items_chipsbox" name_id="com_prop_store_items_chipsbox_009" position="555.988 -1209.73 80" rotation="0 0 -0.0871558 -0.996195" unit_id="100751"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="545.205 -1079.47 80" _prev_rot="0 0 0.642788 -0.766044" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="true" local_pos="12.0003 130.154 -25" local_rot="0 0 -0.707107 0.707106" name="units/pd2_dlc1/props/res_prop_store/res_prop_store_candy_a" name_id="res_prop_store_candy_a_005" position="545.205 -1079.47 80" rotation="0 0 0.642788 -0.766044" unit_id="100752"/>
+			<unit_data _prev_pos="545.205 -1079.47 80" _prev_rot="0 0 0.642788 -0.766044" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc1/props/res_prop_store/res_prop_store_candy_a" name_id="res_prop_store_candy_a_005" position="545.205 -1079.47 80" rotation="0 0 0.642788 -0.766044" unit_id="100752"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="511.809 -1134.15 80" _prev_rot="0 0 0.642788 -0.766044" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="true" local_pos="-30.3835 82.1033 -25" local_rot="0 0 -0.707107 0.707106" name="units/pd2_dlc1/props/res_prop_store/res_prop_store_candy_c" name_id="res_prop_store_candy_c_005" position="511.809 -1134.15 80" rotation="0 0 0.642788 -0.766044" unit_id="100753"/>
+			<unit_data _prev_pos="511.809 -1134.15 80" _prev_rot="0 0 0.642788 -0.766044" continent="world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc1/props/res_prop_store/res_prop_store_candy_c" name_id="res_prop_store_candy_c_005" position="511.809 -1134.15 80" rotation="0 0 0.642788 -0.766044" unit_id="100753"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="480.919 -1083.22 80" _prev_rot="0 0 0.642788 -0.766044" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="true" local_pos="-51.9603 137.624 -25" local_rot="0 0 -0.707107 0.707106" name="units/pd2_dlc1/props/res_prop_store/res_prop_store_candy_c" name_id="res_prop_store_candy_c_006" position="480.919 -1083.22 80" rotation="0 0 0.642788 -0.766044" unit_id="100766"/>
@@ -5340,9 +5335,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="471.361 -1161.69 80" _prev_rot="0 0 0.642788 -0.766044" continent="world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="true" hide_on_projection_light="true" local_pos="-74.9992 62.0055 -25" local_rot="0 0 -0.707107 0.707106" name="units/pd2_dlc1/props/res_prop_store/res_prop_store_candy_e" name_id="res_prop_store_candy_e_003" position="471.361 -1161.69 80" rotation="0 0 0.642788 -0.766044" unit_id="100871"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="550.214 36.862 402.766" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="security_blocker" only_visible_in_editor="true" position="551.214 36.862 402.766" rotation="0 0 0 -1" unit_id="100963"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1785.01 5111.85 -415.008" _prev_rot="0 0 0.707106 -0.707108" continent="world" local_pos="-0.00416144 327.1 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_1m" name_id="navigation_splitter_1m_128" only_exists_in_editor="true" position="-1785.01 5111.85 -415.008" rotation="0 0 0.707106 -0.707108" unit_id="100964"/>
@@ -5481,7 +5473,7 @@
 			<unit_data _prev_pos="6117.15 2349.05 116.906" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_8x1m_corner_a" name_id="hcm_ext_8x1m_corner_a_002" position="7400 2275 -400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="100215"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="362.65 646.693 460" _prev_rot="0 0 0.414693 -0.909961" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_toast" name_id="bnk_prop_vault_loot_toast_001" position="359 679 459" rotation="0 0 0.414693 -0.909961" unit_id="100553"/>
+			<unit_data _prev_pos="180.55 2215.16 50" _prev_rot="0 0 0.414693 -0.909961" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/bnk_prop_vault_loot/bnk_prop_vault_loot_toast" name_id="bnk_prop_vault_loot_toast_001" position="191 2219 41" rotation="0 0 0.414693 -0.909961" unit_id="100553"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="842 -198 -400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="storage_door_2_blocker" only_visible_in_editor="true" position="842 -200 -400" rotation="-0 0 -0 -1" unit_id="101039"/>
@@ -6203,6 +6195,9 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="45 622 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="door_blocker_escortroom" only_visible_in_editor="true" position="45 621 400" rotation="-0 0 -0 -1" unit_id="101216"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="551 -5 400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="door_blocker_security" only_visible_in_editor="true" position="551 -5 400" rotation="0 0 -0.707107 -0.707107" unit_id="100963"/>
 		</table>
 	</statics>
 	<values>

@@ -60,6 +60,12 @@
 	"bnk_wirebox_hack":"Open and rewire the security box",
 	"bnk_wirebox_hack_desc":"The alarm has disabled the keypad, hack the marked access point so Jackal can re-enable it.",
 	
+	"bnk_escort_find":"Find the manager",
+	"bnk_escort_find_desc":"The vault can be opened with the manager's input, find him and get him to the vault.",
+	
+	"bnk_escort":"Escort the manager to the vault",
+	"bnk_escort_desc":"Protect the manager as you take him to the vault, so he can start the timelock for you.",
+	
 	"bnk_timelock":"Wait for the timelock",
 	"bnk_timelock_desc":"The vault will open once the timelock's finished.",
 	

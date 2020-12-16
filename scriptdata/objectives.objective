@@ -16,4 +16,6 @@
 	<objective description="bnk_wirebox_hack_desc" id="bnk_wirebox_hack" text="bnk_wirebox_hack"/>
 	<objective description="bnk_timelock_desc" id="bnk_timelock" text="bnk_timelock"/>
 	<objective description="bnk_escape_desc" id="bnk_escape" text="bnk_escape"/>
+	<objective description="bnk_escort_find_desc" id="bnk_escort_find" text="bnk_escort_find"/>
+	<objective description="bnk_escort_desc" id="bnk_escort" text="bnk_escort"/>
 </table>

@@ -899,6 +899,10 @@
 				</entry>
 			</entry>
 			<entry key="unit_data" type="table">
+				<entry key="_prev_pos" type="vector3" value="-375 -4300 401"/>
+				<entry key="_prev_rot" type="quaternion" value="0 0 0 -1"/>
+				<entry key="local_pos" type="vector3" value="0 0 0"/>
+				<entry key="local_rot" type="quaternion" value="0 0 0 1"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_064"/>
 				<entry key="position" type="vector3" value="-375 -4300 401"/>
