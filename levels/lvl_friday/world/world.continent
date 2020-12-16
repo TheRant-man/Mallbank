@@ -6020,10 +6020,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="2621.13 -1729.4 -1" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_016" only_visible_in_editor="true" position="2621 -1633 0" rotation="-0 0 -0 -1" unit_id="100233"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1828 -1729 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_017" only_visible_in_editor="true" position="1865 -1729 0" rotation="0 0 0 -1" unit_id="100307"/>
+			<unit_data _prev_pos="1672 -1633 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_016" only_visible_in_editor="true" position="1703 -1633 0" rotation="0 0 0 -1" unit_id="100233"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3345 -1818 0" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_018" only_visible_in_editor="true" position="3361 -1818 0" rotation="0 0 1 -4.37114e-008" unit_id="100364"/>
@@ -6198,6 +6195,9 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="551 -5 400" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="door_blocker_security" only_visible_in_editor="true" position="551 -5 400" rotation="0 0 -0.707107 -0.707107" unit_id="100963"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2476 -1633 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_017" only_visible_in_editor="true" position="2503 -1633 0" rotation="0 0 0 -1" unit_id="100307"/>
 		</table>
 	</statics>
 	<values>

@@ -72185,7 +72185,7 @@
 					</entry>
 					<entry key="only_in_civilian" type="boolean" value="false"/>
 					<entry key="only_on_instigator" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="-425 -2000 300"/>
+					<entry key="position" type="vector3" value="-425 -2000 700"/>
 					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 					<entry key="text_id" type="string" value="debug_none"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -77725,8 +77725,6 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="followup_elements" type="table">
-						<entry index="1" type="number" value="302413"/>
-						<entry index="2" type="number" value="302317"/>
 					</entry>
 					<entry key="forced" type="boolean" value="true"/>
 					<entry key="interaction_voice" type="string" value="escort_go"/>
@@ -77925,6 +77923,7 @@
 					<entry key="search_position" type="vector3" value="-322 -4132 401"/>
 					<entry key="so_action" type="string" value="cm_so_drunk_it"/>
 					<entry key="spawn_instigator_ids" type="table">
+						<entry index="1" type="number" value="300368"/>
 					</entry>
 					<entry key="test_unit" type="string" value="default"/>
 					<entry key="trigger_on" type="string" value="interact"/>
@@ -78073,6 +78072,7 @@
 					<entry key="search_position" type="vector3" value="-322 -4132 401"/>
 					<entry key="so_action" type="string" value="cm_so_drunk_it"/>
 					<entry key="spawn_instigator_ids" type="table">
+						<entry index="1" type="number" value="300368"/>
 					</entry>
 					<entry key="test_unit" type="string" value="default"/>
 					<entry key="trigger_on" type="string" value="interact"/>
@@ -78201,6 +78201,97 @@
 					</entry>
 					<entry key="position" type="vector3" value="5785.58 -3029.78 1231.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2756" type="table">
+				<entry key="class" type="string" value="ElementAreaTrigger"/>
+				<entry key="editor_name" type="string" value="area_escort_banklobby"/>
+				<entry key="id" type="number" value="300723"/>
+				<entry key="module" type="string" value="CoreElementArea"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="amount" type="string" value="1"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="depth" type="number" value="149"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="height" type="number" value="500"/>
+					<entry key="instigator" type="string" value="civilians"/>
+					<entry key="interval" type="number" value="0.1"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302317"/>
+						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="302413"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="301175"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="598 -3391 0"/>
+					<entry key="radius" type="number" value="250"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
+					<entry key="rules_element_ids" type="table">
+						<entry index="1" type="number" value="302327"/>
+					</entry>
+					<entry key="shape_type" type="string" value="box"/>
+					<entry key="spawn_unit_elements" type="table">
+					</entry>
+					<entry key="trigger_on" type="string" value="on_enter"/>
+					<entry key="trigger_times" type="number" value="1"/>
+					<entry key="use_disabled_shapes" type="boolean" value="false"/>
+					<entry key="width" type="number" value="184"/>
+				</entry>
+			</entry>
+			<entry index="2757" type="table">
+				<entry key="class" type="string" value="ElementDebug"/>
+				<entry key="editor_name" type="string" value="debug_escort_complete"/>
+				<entry key="id" type="number" value="301175"/>
+				<entry key="module" type="string" value="CoreElementDebug"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="as_subtitle" type="boolean" value="false"/>
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="debug_string" type="string" value="manager walk complete"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="4462.8 -3970.52 1231.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="show_instigator" type="boolean" value="false"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="2758" type="table">
+				<entry key="class" type="string" value="ElementInstigatorRule"/>
+				<entry key="editor_name" type="string" value="only_escort"/>
+				<entry key="id" type="number" value="302327"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="instigator" type="string" value="civilians"/>
+					<entry key="invert" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="4391.4 -4035.24 1231.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="rules" type="table">
+						<entry key="civilians" type="table">
+							<entry key="civilian_names" type="table">
+								<entry index="1" type="string" value="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
+							</entry>
+						</entry>
+						<entry key="none" type="table">
+						</entry>
+					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
