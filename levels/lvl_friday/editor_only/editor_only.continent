@@ -9469,8 +9469,8 @@
 			<unit_data _prev_pos="4510 -4273 1229" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="black019" position="4510 -4273 1229" rotation="0 0 0 -1" unit_id="200526"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="4433 -4728 1231.5" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_long_015" position="4433 -4728 1231.5" rotation="0 0 -0.707107 -0.707107" unit_id="200545">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="4.04126" render_template="diffuse_vc_decal" text="hackbox" vertical="center" word_wrap="false" wrap="false">
+			<unit_data _prev_pos="4433 -4728 1231.5" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_long_015" position="4167 -4728 1231.5" rotation="0 0 -0.707107 -0.707107" unit_id="200545">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="4.04126" render_template="diffuse_vc_decal" text="ford escort" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>
@@ -9498,102 +9498,6 @@
 		<table>
 			<unit_data _prev_pos="6058 -3587 1252.5" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="whydothesetextunitshavesuchshitcollision003" position="6058 -3587 1252.5" rotation="0 0 -0.707107 -0.707107" unit_id="200573">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.67039" render_template="diffuse_vc_decal" text="when the lance procs, the timelock and keypad will no longer be visible." vertical="center" word_wrap="false" wrap="true">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="4126 -4728 1231.5" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_long_016" position="4126 -4728 1231.5" rotation="0 0 -0.707107 -0.707107" unit_id="200592">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="4.04126" render_template="diffuse_vc_decal" text="  hackbox       done" vertical="top" word_wrap="false" wrap="true">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="275 -4017 201" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="hackbox 1 text" position="275 -4017 201" rotation="3.09086e-008 0.707107 0.707107 3.09086e-008" unit_id="200612">
-				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="hackbox 1" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="-840 -3802 200" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="hackbox 2 text" position="-840 -3898 200" rotation="0.5 0.5 0.5 0.5" unit_id="200778">
-				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="hackbox 2" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1637 -3105 200" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="hackbox 3 text" position="-1637 -2905 200" rotation="0.5 0.5 0.5 0.5" unit_id="200800">
-				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="hackbox 3" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1086.98 -4290.47 580.708" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="hackbox 4 text" position="-1086.98 -4290.47 476.708" rotation="0.5 0.5 0.5 0.5" unit_id="200804">
-				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="hackbox 4" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="196 -417 212" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="hackbox 5 text" position="196 -417 201" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="200848">
-				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="hackbox 5" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1356.04 -1597.77 202.437" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="hackbox 6 text" position="-1318 -1597 202" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="200942">
-				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="hackbox 6" vertical="center" word_wrap="false" wrap="false">
-					<shape>
-						<value_node value="0"/>
-						<value_node value="0"/>
-						<value_node value="1"/>
-						<value_node value="1"/>
-					</shape>
-				</editable_gui>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="187 -512 576" _prev_rot="-0.5 0.5 0.5 -0.5" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="hackbox 7 text" position="187 -512 580" rotation="-0.5 0.5 0.5 -0.5" unit_id="200952">
-				<editable_gui align="center" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="2.58824" render_template="diffuse_vc_decal" text="hackbox 7" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>

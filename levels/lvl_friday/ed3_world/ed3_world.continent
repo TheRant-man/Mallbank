@@ -1639,7 +1639,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/props/com_prop_store_shoes/com_prop_store_shoes_05" name_id="com_prop_store_shoes_05_002" position="-907.001 -146 99.8506" rotation="-1.64114e-015 -6.79782e-016 0.92388 0.382683" unit_id="500208"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="5925 -3101 525" _prev_rot="-1.77636e-015 6.62551e-023 1 -3.72983e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_balcony_16x16m_a_corner" name_id="hcm_ext_balcony_16x16m_a_corner_001" position="5925 -3101 525" rotation="-1.77636e-015 6.62551e-023 1 -3.72983e-008" unit_id="500211"/>
+			<unit_data _prev_pos="5925 -3101 525" _prev_rot="-1.77636e-015 6.62551e-023 1 -3.72983e-008" _visibility_counter="0" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_balcony_16x16m_a_corner" name_id="hcm_ext_balcony_16x16m_a_corner_001" position="5925 -3101 525" rotation="-1.77636e-015 6.62551e-023 1 -3.72983e-008" unit_id="500211"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/props/com_prop_store_shoes/com_prop_store_shoes_03" name_id="com_prop_store_shoes_03_003" position="-1022 -669 66.3809" rotation="6.79785e-016 1.64114e-015 -0.382684 -0.923879" unit_id="500213"/>
@@ -5564,7 +5564,7 @@
 			<unit_data _prev_pos="7525 -1698 525" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="ed3_world" local_pos="476 -1801 219" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_balcony_16x16m_a_corner" name_id="hcm_ext_balcony_16x16m_a_corner_002" position="7525 -1698 525" rotation="0 0 -0.707107 -0.707107" unit_id="500235"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="5783 -2421 399.9" _prev_rot="0 0 1 -4.37114e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_16x16m_corner_d" name_id="hcm_ext_roof_16x16m_corner_d_010" position="5783 -2421 399.9" rotation="0 0 1 -4.37114e-008" unit_id="500637"/>
+			<unit_data _prev_pos="5783 -2421 399.9" _prev_rot="0 0 1 -4.37114e-008" _visibility_counter="0" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/hcm/hcm_ext_roof_16x16m_corner_d" name_id="hcm_ext_roof_16x16m_corner_d_010" position="5783 -2421 399.9" rotation="0 0 1 -4.37114e-008" unit_id="500637"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3608.36 -7639.39 -400" _prev_rot="1.25608e-015 1.25608e-015 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_planter/str_prop_street_planter_b" name_id="str_prop_street_planter_b_012" position="3608.36 -7310.39 -400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="500647"/>
