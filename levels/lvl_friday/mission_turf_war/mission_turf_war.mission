@@ -53841,7 +53841,7 @@
 					<entry key="amount" type="number" value="1"/>
 					<entry key="amount_random" type="number" value="0"/>
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="ignore_disabled" type="boolean" value="true"/>
 					<entry key="on_executed" type="table">
@@ -63449,7 +63449,7 @@
 				<entry key="id" type="number" value="302421"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
-					<entry key="SO_access" type="string" value="24"/>
+					<entry key="SO_access" type="string" value="152"/>
 					<entry key="action_duration_max" type="number" value="0"/>
 					<entry key="action_duration_min" type="number" value="0"/>
 					<entry key="ai_group" type="string" value="enemies"/>
@@ -63481,7 +63481,7 @@
 					<entry key="scan" type="boolean" value="true"/>
 					<entry key="search_distance" type="number" value="0"/>
 					<entry key="search_position" type="vector3" value="485 1024 -400"/>
-					<entry key="so_action" type="string" value="AI_idle"/>
+					<entry key="so_action" type="string" value="e_so_guard_idle"/>
 					<entry key="spawn_instigator_ids" type="table">
 						<entry index="1" type="number" value="302420"/>
 					</entry>
@@ -78141,7 +78141,7 @@
 			</entry>
 			<entry index="2753" type="table">
 				<entry key="class" type="string" value="ElementSpecialObjectiveTrigger"/>
-				<entry key="editor_name" type="string" value="manager_done"/>
+				<entry key="editor_name" type="string" value="escort_done"/>
 				<entry key="id" type="number" value="302510"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">

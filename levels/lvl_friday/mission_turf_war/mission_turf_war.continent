@@ -228,9 +228,6 @@
 			<unit_data _prev_pos="1574.12 -3597.69 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="mall_to_prevault_blocker" only_visible_in_editor="true" position="1574.12 -3597.69 0" rotation="0 0 -0.707107 -0.707107" unit_id="300012"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1828 -1295 0" _prev_rot="0 0 1 4.37114e-008" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard" name_id="lounge_to_office_1" position="1828 -1295 0" rotation="0 0 1 4.37114e-008" unit_id="300013"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="962.122 -3143.69 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker_1m" name_id="lobby_blocker" only_visible_in_editor="true" position="962.122 -3143.69 0" rotation="0 0 -0.707107 -0.707107" unit_id="300018"/>
 		</table>
 		<table>
@@ -429,12 +426,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="988.695 -3070.94 496" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear_keyboard" name_id="hack_keyboard_pear" position="988.695 -3070.94 496" rotation="0 0 -0.707107 -0.707107" unit_id="300099"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="920 -797 0" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/payday2/equipment/gen_interactable_door_keycard/gen_interactable_door_keycard" name_id="lounge_to_office_2" position="920 -797 0" rotation="0 0 0.707107 -0.707107" unit_id="300100"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1277 -145 0" _prev_rot="0 0 1 -4.37114e-008" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill" name_id="staircase_to_office002" position="1277 -145 0" rotation="0 0 1 4.37114e-008" unit_id="300101"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="391.53 -2040.37 299.79" _prev_rot="0 0 0.62932 -0.777146" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="open_shutters" name="units/payday2/props/bnk_prop_branch1/bnk_prop_branch1_security_shutter_b" name_id="counter_shutter_1" position="391.53 -2040.37 299.79" rotation="0 0 0.62932 -0.777146" unit_id="300103"/>
@@ -638,6 +629,15 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="905 -4050 400" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_close_door" name="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter" name_id="fri_prop_mall_shutter_006" position="905 -4050 400" rotation="0 0 0.707107 -0.707107" unit_id="300132"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1828 -1295 0" _prev_rot="0 0 1 -4.37114e-008" continent="mission_turf_war" disable_on_ai_graph="true" editable_gui="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/payday2/equipment/gen_interactable_door_reinforced/gen_interactable_door_reinforced" name_id="lounge_to_office_001" position="1828 -1295 0" rotation="0 0 1 -4.37114e-008" unit_id="300013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="920 -797 0" _prev_rot="0 0 0.707107 -0.707107" continent="mission_turf_war" disable_on_ai_graph="true" editable_gui="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/payday2/equipment/gen_interactable_door_reinforced/gen_interactable_door_reinforced" name_id="lounge_to_office_002" position="920 -797 0" rotation="0 0 0.707107 -0.707107" unit_id="300100"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1277 -145 0" _prev_rot="0 0 1 -4.37114e-008" continent="mission_turf_war" disable_on_ai_graph="true" editable_gui="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="activate_door" name="units/payday2/equipment/gen_interactable_door_reinforced/gen_interactable_door_reinforced" name_id="staircase_to_office002" position="1277 -145 0" rotation="0 0 1 -4.37114e-008" unit_id="300101"/>
 		</table>
 	</statics>
 	<values>
