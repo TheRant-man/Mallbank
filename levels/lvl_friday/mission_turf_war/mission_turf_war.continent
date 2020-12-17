@@ -572,7 +572,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="1300 -1594 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk_branch/bnk_branch_wall_clean" name_id="bnk_branch_wall_clean_001" position="1300 -1594 0" rotation="0 0 -0.707107 -0.707107" unit_id="300111"/>
+			<unit_data _prev_pos="1300 -1594 0" _prev_rot="0 0 -0.707107 -0.707107" continent="mission_turf_war" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/bnk_branch/bnk_branch_wall_clean" name_id="bnk_branch_wall_clean_001" position="1300 -1594 0" rotation="0 0 -0.707107 -0.707107" unit_id="300111"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2843 -1582 0" _prev_rot="0 0 1 4.37114e-008" _visibility_counter="0" continent="mission_turf_war" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/off_prop_generic_filecabinet/off_prop_generic_filecabinet_d" name_id="pc1_cabinet" position="2843 -1582 0" rotation="0 0 1 4.37114e-008" unit_id="300112"/>

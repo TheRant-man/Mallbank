@@ -4760,13 +4760,10 @@
 			<unit_data continent="ed3_world" name="units/payday2/props/com_prop_mall_trashbin/com_prop_mall_trashbin" name_id="com_prop_mall_trashbin_006" position="195 -3624 4.47035e-005" rotation="0 0 1 -1.19209e-007" unit_id="500604"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/vegetation/com_veg_plant_fanpalm/com_veg_plant_fanpalm_a" name_id="com_veg_plant_fanpalm_a_010" position="323 -3574 102.5" rotation="0 0 -0.707107 -0.707107" unit_id="500605"/>
+			<unit_data _prev_pos="217 -3609 98.127" _prev_rot="0 0 -0.00872654 -0.999962" continent="ed3_world" local_pos="50.6539 -58.6104 0" local_rot="0 0 0.446198 0.894934" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_037" position="217 -3609 98.127" rotation="0 0 -0.00872654 -0.999962" unit_id="500606"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_037" position="244 -3616 98.127" rotation="0 0 -0.382683 -0.92388" unit_id="500606"/>
-		</table>
-		<table>
-			<unit_data continent="ed3_world" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_palm_b" name_id="com_veg_indoor_plants_palm_b_010" position="272 -3661 97.5" rotation="0 0 -0.382683 -0.92388" unit_id="500607"/>
+			<unit_data _prev_pos="246 -3678 97.5" _prev_rot="0 0 -0.422618 -0.906308" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_palm_b" name_id="com_veg_indoor_plants_palm_b_010" position="246 -3678 97.5" rotation="0 0 -0.422618 -0.906308" unit_id="500607"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/props/com_prop_mall_trashbin/com_prop_mall_trashbin" name_id="com_prop_mall_trashbin_007" position="-409 1792 -400" rotation="0 0 0.707107 -0.707107" unit_id="500608"/>
@@ -6980,6 +6977,30 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="3600 -5800 -400" _prev_rot="0 0 0.92388 0.382683" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 -450" local_rot="-0 0 -0.382684 -0.923879" name="units/payday2/props/str_prop_street_lamppost_corner/str_prop_street_lamppost_corner" name_id="str_prop_street_lamppost_corner_007" position="3600 -5800 -400" rotation="0 0 0.92388 0.382683" unit_id="501442"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="232 -3533 98.127" _prev_rot="0 0 0.438371 -0.898794" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_042" position="232 -3533 98.127" rotation="0 0 0.438371 -0.898794" unit_id="500605"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="305 -3520 98.127" _prev_rot="0 0 0.725374 -0.688355" continent="ed3_world" local_pos="34.6991 65.5284 0" local_rot="0 0 -0.350207 0.936672" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_043" position="305 -3520 98.127" rotation="0 0 0.725374 -0.688355" unit_id="501443"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="246 -3678 97.5" _prev_rot="0 0 -0.422618 -0.906308" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_palm_b" name_id="com_veg_indoor_plants_palm_b_015" position="368 -3528 97.5" rotation="0 0 0.878817 -0.477159" unit_id="501445"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="232 -3533 98.127" _prev_rot="0 0 0.438371 -0.898794" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_044" position="371 -3672 98.127" rotation="0 0 0.906308 0.422618" unit_id="501446"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="217 -3609 98.127" _prev_rot="0 0 -0.00872654 -0.999962" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="50.654 -58.6105 0" local_rot="0 0 0.446198 0.894934" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_045" position="383.339 -3595.52 98.127" rotation="0 0 0.999657 -0.026177" unit_id="501447"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="305 -3520 98.127" _prev_rot="0 0 0.725374 -0.688355" continent="ed3_world" delayed_load="false" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="34.6991 65.5284 0" local_rot="0 0 0.350207 -0.936672" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_046" position="298.498 -3687.54 98.127" rotation="0 0 0.700909 0.71325" unit_id="501449"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="304 -3548 237.996" _prev_rot="0 0 0 -1" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp_wall" name_id="com_prop_mall_ceiling_lamp_wall_053" position="304 -3548 237.996" rotation="0 0 0 -1" unit_id="501450"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="304 -3626 237.996" _prev_rot="0 0 1 1.49012e-007" continent="ed3_world" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 -108 0" local_rot="0 0 -1 -1.49012e-007" name="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp_wall" name_id="com_prop_mall_ceiling_lamp_wall_054" position="304 -3656 237.996" rotation="0 0 1 1.49012e-007" unit_id="501451"/>
 		</table>
 	</statics>
 	<values>

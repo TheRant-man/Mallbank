@@ -4338,16 +4338,6 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="625 -3597 191" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="new_light_6" only_visible_in_editor="true" position="625 -3597 191" projection_light="lo_omni" rotation="0 0 0.707107 -0.707107" unit_id="101800">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="0.984314 0.909804 0.584314" enabled="true" falloff_exponent="1" far_range="800" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
-				</lights>
-				<projection_lights>
-					<lo_omni x="128" y="128"/>
-				</projection_lights>
-			</unit_data>
-		</table>
-		<table>
 			<unit_data _prev_pos="-1250 -2000 220" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="new_light_cosmetics" only_visible_in_editor="true" position="-1250 -2000 220" projection_light="lo_omni" rotation="-0 0 -0 -1" unit_id="101801">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="0.831373 0.858824 0.992157" enabled="true" falloff_exponent="1" far_range="550" multiplier="@IDc1749c1433ffb099@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
@@ -6198,6 +6188,19 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="2476 -1633 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_017" only_visible_in_editor="true" position="2503 -1633 0" rotation="0 0 0 -1" unit_id="100307"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="300 -3600 5" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar" name_id="fri_mall_pillar_002" position="300 -3600 5" rotation="-0 0 -0 -1" unit_id="101243"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="540 -3597 191" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="core/units/light_omni/light_omni" name_id="new_light_006" only_visible_in_editor="true" position="402 -3597 191" projection_light="lo_omni" rotation="0 0 0.707107 -0.707107" unit_id="101333">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.984314 0.909804 0.584314" enabled="true" falloff_exponent="1" far_range="600" multiplier="@ID18ceffa252d5a43d@" name="lo_omni" near_range="80" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+				<projection_lights>
+					<lo_omni x="128" y="128"/>
+				</projection_lights>
+			</unit_data>
 		</table>
 	</statics>
 	<values>
