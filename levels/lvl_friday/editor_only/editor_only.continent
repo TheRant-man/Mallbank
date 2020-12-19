@@ -38,7 +38,6 @@
 				<value_node value="200058"/>
 				<value_node value="200059"/>
 				<value_node value="200060"/>
-				<value_node value="200061"/>
 				<value_node value="200062"/>
 				<value_node value="200063"/>
 				<value_node value="200064"/>
@@ -114,7 +113,6 @@
 				<value_node value="200147"/>
 				<value_node value="200148"/>
 				<value_node value="200149"/>
-				<value_node value="200152"/>
 				<value_node value="200153"/>
 				<value_node value="200155"/>
 				<value_node value="200156"/>
@@ -1027,9 +1025,6 @@
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/navigation_splitter" name_id="navigation_splitter_008" position="308 4450 -420" rotation="0 0 0 -1" unit_id="200060"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/navigation_blocker" name_id="navigation_blocker_036" position="-2126 -1592 403.75" rotation="0 0 0.707107 -0.707107" unit_id="200061"/>
-		</table>
-		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/navigation_blocker" name_id="navigation_blocker_037" position="575 5300 -425" rotation="0 0 -0.707107 -0.707107" unit_id="200062"/>
 		</table>
 		<table>
@@ -1253,9 +1248,6 @@
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/navigation_splitter" name_id="navigation_splitter_052" position="1434 4450 -420" rotation="0 0 0 -1" unit_id="200149"/>
-		</table>
-		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/level_tools/navigation_blocker" name_id="navigation_blocker_052" position="-2126 -1717 403.75" rotation="0 0 0.707107 -0.707107" unit_id="200152"/>
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/navigation_splitter" name_id="navigation_splitter_053" position="-1119 4350 -420" rotation="0 0 0 -1" unit_id="200153"/>

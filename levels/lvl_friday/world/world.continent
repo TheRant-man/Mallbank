@@ -4596,7 +4596,7 @@
 			<unit_data _prev_pos="1184 -3605 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_mall_trashbin/com_prop_mall_trashbin" name_id="com_prop_mall_bench_019" position="1185 -3605 0" rotation="0 0 0 -1" unit_id="101260"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="580 -3600 1256" _prev_rot="0 0 0 -1" continent="world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp" name_id="com_prop_mall_ceiling_lamp_002" position="580 -3600 1256" rotation="-0 0 -0 -1" unit_id="101265"/>
+			<unit_data _prev_pos="580 -3600 1256" _prev_rot="0 0 0 -1" continent="world" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/com_prop_mall_ceiling_lamp/com_prop_mall_ceiling_lamp" name_id="com_prop_mall_ceiling_lamp_002" position="580 -3600 1256" rotation="0 0 0 -1" unit_id="101265"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1504.15 -2568.31 90.441" _prev_rot="-0 0 -0 -1" continent="world" local_pos="-3740.15 -4225.31 55.441" local_rot="0 0 0 1" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="light_omni_shadow_projection_01_014" only_visible_in_editor="true" position="-1504.15 -2568.31 90.441" projection_light="lo_omni" rotation="-0 0 -0 -1" unit_id="101269">
@@ -6201,6 +6201,21 @@
 					<lo_omni x="128" y="128"/>
 				</projection_lights>
 			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1223 -5308 820" _prev_rot="-0.45452 0.45452 -0.541675 -0.541675" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v2" name_id="gen_prop_plywood_v2_001" position="-1223 -5295 817" rotation="-0.45452 0.454519 -0.541675 -0.541675" unit_id="101334"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1220 -5606 721" _prev_rot="0.529592 0.529592 0.468543 -0.468543" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v2" name_id="gen_prop_plywood_v2_002" position="-1220 -5606 700" rotation="0.529592 0.529592 0.468543 -0.468543" unit_id="101335"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1218 -5307 579" _prev_rot="-0.491198 0.491198 -0.50865 -0.50865" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v2" name_id="gen_prop_plywood_v2_003" position="-1218 -5307 578" rotation="-0.504344 0.504344 -0.495618 -0.495618" unit_id="101336"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1219 -5309 743" _prev_rot="-0.491198 0.491198 -0.50865 -0.50865" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_004" position="-1219 -5309 726" rotation="-0.491198 0.491198 -0.50865 -0.50865" unit_id="101379"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1854.12 -1592.35 399" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_2x3m_001" only_exists_in_editor="true" position="-1854.12 -1612.35 399" rotation="0 0 0 -1" unit_id="101399"/>
 		</table>
 	</statics>
 	<values>

@@ -1477,7 +1477,7 @@
 			<unit_data _prev_pos="414 -2708 399.892" _prev_rot="-1.25608e-015 1.25608e-015 0.707107 -0.707107" continent="ed3_world" disable_shadows="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_table_04" name_id="com_prop_store_shelves_table_04_001" position="414 -2708 399.892" rotation="0 0 0.707107 -0.707107" unit_id="500122"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/props/com_prop_tall_ad_display/com_prop_tall_ad_display" name_id="com_prop_tall_ad_display_004" position="300 -925 400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="500124"/>
+			<unit_data _prev_pos="300 -925 400" _prev_rot="1.25608e-015 1.25608e-015 -0.707107 -0.707107" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_tall_ad_display/com_prop_tall_ad_display" name_id="com_prop_tall_ad_display_004" position="300 -925 400" rotation="1.25608e-015 1.25608e-015 -0.707107 -0.707107" unit_id="500124"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_table_04" name_id="com_prop_store_shelves_table_04_002" position="664 -2708 399.892" rotation="-1.25608e-015 1.25608e-015 0.707107 -0.707107" unit_id="500128"/>
@@ -2890,7 +2890,7 @@
 			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_wall_2x3m" name_id="com_int_basement_wall_2x3m_018" position="1275 300 4.52972e-012" rotation="-1.77636e-015 1.58819e-021 1 -8.9407e-007" unit_id="501560"/>
 		</table>
 		<table>
-			<unit_data continent="ed3_world" name="units/payday2/architecture/com_int_basement/com_int_basement_stairs_a_rail_turn" name_id="com_int_basement_stairs_a_rail_turn_003" position="-1334 -3913 -122.823" rotation="-1.77636e-015 1.58819e-021 1 -8.9407e-007" unit_id="501567"/>
+			<unit_data _prev_pos="-1334 -3913 -122.823" _prev_rot="-1.77636e-015 1.58819e-021 1 -8.9407e-007" _visibility_counter="0" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_stairs_a_rail_turn" name_id="com_int_basement_stairs_a_rail_turn_003" position="-1334 -3913 -122.823" rotation="-1.77636e-015 1.58819e-021 1 -8.9407e-007" unit_id="501567"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" mesh_variation="iluminated" name="units/world/props/gym/stn_lamp_garage/stn_prop_lamp_garage" name_id="stn_prop_lamp_garage_002" position="2625 750 48.979" rotation="0 1.77636e-015 0 -1" unit_id="501653"/>
@@ -3147,7 +3147,7 @@
 			<unit_data _prev_pos="150 700 -301.5" _prev_rot="-1.77636e-015 -5.29396e-023 1 2.98023e-008" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_030" position="150 700 -301.5" rotation="-1.77636e-015 -5.29396e-023 1 2.98023e-008" unit_id="501849"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1525 -3675 -399.823" _prev_rot="-1.77636e-015 1.58819e-021 1 -8.9407e-007" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_stairs_a" name_id="com_int_basement_stairs_a_005" position="-1525 -3675 -399.823" rotation="-1.77636e-015 1.58819e-021 1 -8.9407e-007" unit_id="501853"/>
+			<unit_data _prev_pos="-1525 -3675 -399.823" _prev_rot="-1.77636e-015 1.58819e-021 1 -8.9407e-007" _visibility_counter="0" continent="ed3_world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/com_int_basement/com_int_basement_stairs_a" name_id="com_int_basement_stairs_a_005" position="-1525 -3675 -399.823" rotation="-1.77636e-015 1.58819e-021 1 -8.9407e-007" unit_id="501853"/>
 		</table>
 		<table>
 			<unit_data continent="ed3_world" name="units/payday2/vegetation/com_veg_indoor_plants/com_veg_indoor_plants_smallgreen_a" name_id="com_veg_indoor_plants_smallgreen_a_031" position="-494 1509 -303.5" rotation="0 1.77636e-015 0 -1" unit_id="501854"/>
