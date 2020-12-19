@@ -1,0 +1,17 @@
+<table>
+	<statics>
+		<table>
+			<unit_data _prev_pos="300 0 -1760" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="diamondheist" name="units/payday2/vehicles/air_vehicle_blackhawk/helicopter_cops_ref" name_id="helicopter_cops_ref_001" position="300 0 -1760" rotation="-0 0 -0 -1" unit_id="100000">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.580392" enabled="true" falloff_exponent="4" far_range="150" multiplier="@IDbca13ba1d306f87b@" name="lo_omni" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="25 0 0" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15" name_id="escape_marker" position="25 250 0" rotation="0 0 -0.707107 -0.707107" unit_id="100020"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
