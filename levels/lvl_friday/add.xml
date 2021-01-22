@@ -15,8 +15,8 @@
 	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" type="unit">
-		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" load="true"/>
-		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" load="true"/>
+		<unit load="true" path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1"/>
+		<unit load="true" path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk"/>
 		<material_config path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<object path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 	</add>
@@ -320,21 +320,18 @@
 	<unit path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
 	<model path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
 	<object path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
-	
 	<unit path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<model path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<cooked_physics path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<object path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<material_config path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
-	
-	<unit path="units/pd2_mod_friday/characters/npc_manager/npc_manager" load="true"/>
-	<unit path="units/pd2_mod_friday/characters/npc_manager/npc_manager_husk" load="true"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
+	<unit load="true" path="units/pd2_mod_friday/characters/npc_manager/npc_manager_husk"/>
 	<object path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
 	<model path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
 	<material_config path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
 	<material_config path="units/pd2_mod_friday/characters/npc_manager/npc_manager_contour"/>
-	
 	<texture path="levels/mods/lvl_friday/cube_lights/100042"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101782"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101781"/>
@@ -357,4 +354,9 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/100216"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/100220"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/100214"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/100044"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101213"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101211"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101212"/>
+	<texture path="levels/mods/lvl_friday/cube_lights/101797"/>
 </table>
