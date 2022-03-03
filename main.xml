@@ -1,5 +1,5 @@
 <table name="Mallbank">
-	<instance id="fri_computer_hack" orig_id="fri_computer_hack">
+	<instance id="fri_computer_hack">
 		<add file="levels/instances/fri_computer_hack/add.xml"/>
 		<include directory="levels/instances/fri_computer_hack">
 			<file file="world.world" type="generic_xml"/>
@@ -76,35 +76,13 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" ghost_bonus="0" id="lvl_friday" intro_event="friday_intro" max_bags="20" music="heist" orig_id="lvl_friday" repossess_bags="true">
+	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" ghost_bonus="0" id="lvl_friday" intro_event="friday_intro" max_bags="20" music="heist" repossess_bags="true">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
 			<asset name="mallcrasher_ammo"/>
 			<asset name="grenade_crate"/>
 		</assets>
-		<include directory="levels/lvl_friday">
-			<file file="world.world" type="binary"/>
-			<file file="continents.continents" type="binary"/>
-			<file file="mission.mission" type="binary"/>
-			<file file="nav_manager_data.nav_data" type="binary"/>
-			<file file="world_sounds.world_sounds" type="binary"/>
-			<file file="world_cameras.world_cameras" type="binary"/>
-			<file file="halloween_props/halloween_props.continent" type="binary"/>
-			<file file="halloween_props/halloween_props.mission" type="binary"/>
-			<file file="ed3_world/ed3_world.continent" type="binary"/>
-			<file file="ed3_world/ed3_world.mission" type="binary"/>
-			<file file="pc_only/pc_only.continent" type="binary"/>
-			<file file="pc_only/pc_only.mission" type="binary"/>
-			<file file="world/world.continent" type="binary"/>
-			<file file="world/world.mission" type="binary"/>
-			<file file="mission_turf_war/mission_turf_war.continent" type="binary"/>
-			<file file="mission_turf_war/mission_turf_war.mission" type="binary"/>
-			<file file="editor_only/editor_only.continent" type="binary"/>
-			<file file="editor_only/editor_only.mission" type="binary"/>
-			<file file="cover_data.cover_data" type="binary"/>
-			<file file="environments/friday.environment" type="custom_xml"/>
-		</include>
 		<outro_event>
 			<value_node value="friday_escape_a"/>
 			<value_node value="friday_escape_b"/>

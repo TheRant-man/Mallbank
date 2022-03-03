@@ -311,10 +311,10 @@
 		<unit path="units/payday2/architecture/com_ext_mall/com_ext_floor_a" unload="true"/>
 	</add>
 	<add path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" type="unit">
-		<unit path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
-		<object path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
 		<material_config path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
+		<object path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
 		<sequence_manager path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
+		<unit path="units/pd2_dlc_cage/props/ind_prop_cardealership_info_display/ind_prop_cardealership_info_display" unload="true"/>
 	</add>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<unit path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
@@ -322,7 +322,6 @@
 	<object path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
 	<unit path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<model path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
-	<cooked_physics path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<object path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<material_config path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
@@ -359,4 +358,11 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/101211"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101212"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101797"/>
+	<add from_db="true" path="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15" type="unit">
+		<unit path="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15"/>
+		<object path="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15"/>
+		<material_config path="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15"/>
+		<sequence_manager path="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15"/>
+	</add>
+	<cooked_physics path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 </table>
