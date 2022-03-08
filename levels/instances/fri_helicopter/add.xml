@@ -1,0 +1,5 @@
+<table>
+	<add from_db="true" path="effects/particles/dest/circle_puffs" type="effect">
+		<effect load="true" path="effects/particles/dest/circle_puffs"/>
+	</add>
+</table>
