@@ -25,7 +25,7 @@
 	"bnk_open_shut":"Drill the shutter",
 	"jkl_find_office_2":"The halloween store adjacent to the bank is the way to the mall's office space. From there, we can access a server.",
 	"bnk_escort_desc":"Protect the manager as you take him to the vault, so he can start the timelock for you.",
-	"bnk_timelock_desc":"The vault will open once the timelock's finished.",
+	"bnk_timelock_desc":"The vault will open once the timelock's finished. Cops will try to cut its power, don't let them! It will slow everything down!",
 	"bnk_find_hack":"Find the server",
 	"bnk_hack_resume":"Resume the override",
 	"bnk_enter_offices":"Get into the offices",
