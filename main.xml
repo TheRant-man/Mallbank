@@ -74,7 +74,6 @@
 			<value_node value="levels/narratives/e_election_day/stage_3/world/world"/>
 			<value_node value="levels/narratives/classics/dah/lights/lights"/>
 			<value_node value="levels/narratives/e_election_day/stage_3/world"/>
-			<value_node value="levels/narratives/locke/vit/props1/props1"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/mission_turf_war/mission_turf_war"/>
 			<value_node value="levels/instances/unique/crojob/random_loot/world/world"/>
 			<value_node value="levels/instances/unique/pbr/pbr_gas_station/world/world"/>
@@ -84,6 +83,15 @@
 			<value_node value="levels/narratives/locke/sah/editor_only/editor_only"/>
 			<value_node value="levels/narratives/dentist/mia/stage2/editor_only/editor_only"/>
 			<value_node value="packages/narr_election3"/>
+			<value_node value="levels/instances/unique/sand/sand_extension_number/world/world"/>
+			<value_node value="levels/instances/unique/sand/sand_dumpster/world/world"/>
+			<value_node value="levels/instances/unique/stash_c4_wall/world/world"/>
+			<value_node value="levels/narratives/e_framing_frame/stage_2/editor_only/editor_only"/>
+			<value_node value="levels/instances/unique/sand/sand_truck_escort_blocker/world/world"/>
+			<value_node value="levels/narratives/locke/vit/props1/props1"/>
+			<value_node value="levels/instances/unique/kenaz/small_storage/world/world"/>
+			<value_node value="levels/instances/unique/are_exfil_puzzle/world/world"/>
+			<value_node value="levels/narratives/vlad/peta/stage2/road_section/road_section"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
