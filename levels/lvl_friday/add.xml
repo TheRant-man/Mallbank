@@ -404,11 +404,11 @@
 		<unit path="units/payday2/props/gen_prop_door_protection/gen_prop_door_protection"/>
 	</add>
 	<add from_db="true" path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single" type="unit">
-		<effect load="true" path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
-		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
-		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
 		<unit path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<object path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge_single"/>
+		<material_config path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<sequence_manager path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
+		<effect load="true" path="units/payday2/equipment/gen_equipment_shape_charge/gen_equipment_shape_charge"/>
 	</add>
 	<cooked_physics path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 </table>
