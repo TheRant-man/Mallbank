@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<unit type="gen" slot="1">
+<network sync="spawn"/>
+  <object file="units/payday2/equipment/gen_interactable_objective_server/gen_interactable_objective_server" />
+  <extensions>
+    <extension name="unit_data" class="ScriptUnitData" />
+	<extension name="damage" class="UnitDamage" />
+	 <extension name="interaction" class="UseInteractionExt">
+      <var name="tweak_data" value="use_server_device" />
+	  <var name="_interact_object" value="int_object" />
+    </extension>
+  </extensions>
+</unit> 
