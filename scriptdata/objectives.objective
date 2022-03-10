@@ -7,9 +7,13 @@
 	<objective description="bnk_hack_desc" id="bnk_hack" text="bnk_hack"/>
 	<objective description="bnk_hack_resume_desc" id="bnk_hack_resume" text="bnk_hack_resume"/>
 	<objective description="bnk_enter_offices_desc" id="bnk_enter_offices" text="bnk_enter_offices"/>
+	<objective description="bnk_find_hack_desc" id="bnk_find_hack" text="bnk_find_hack"/>
+	<objective description="bnk_mac_attack_drive_desc" id="bnk_mac_attack_drive" text="bnk_mac_attack_drive"/>
 	<objective description="bnk_pku_drill2_desc" id="bnk_pku_drill2" text="bnk_pku_drill2"/>
 	<objective description="bnk_secure_desc" id="bnk_secure" text="bnk_secure"/>
 	<objective description="bnk_flare_desc" id="bnk_flare" text="bnk_flare"/>
+	<objective description="bnk_wirebox_find_desc" id="bnk_wirebox_find" text="bnk_wirebox_find"/>
+	<objective description="bnk_wirebox_hack_desc" id="bnk_wirebox_hack" text="bnk_wirebox_hack"/>
 	<objective description="bnk_timelock_desc" id="bnk_timelock" text="bnk_timelock"/>
 	<objective description="bnk_escape_desc" id="bnk_escape" text="bnk_escape"/>
 	<objective description="bnk_escort_find_desc" id="bnk_escort_find" text="bnk_escort_find"/>

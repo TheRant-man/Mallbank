@@ -61,6 +61,7 @@
 			<value_node value="levels/instances/unique/moon/crate_shoes/world/world"/>
 			<value_node value="levels/instances/unique/chew/chew_swat_van/world/world"/>
 			<value_node value="levels/instances/unique/train_cam_computer/world/world"/>
+			<value_node value="levels/instances/unique/dark/equipment_board/world/world"/>
 			<value_node value="levels/narratives/chill/editor_only/editor_only"/>
 			<value_node value="levels/instances/unique/red/red_hacking_quick/world/world"/>
 			<value_node value="levels/narratives/butcher/thebomb/stage_2/occluders/occluders"/>
@@ -78,6 +79,7 @@
 			<value_node value="levels/narratives/vlad/mallcrasher/mission_turf_war/mission_turf_war"/>
 			<value_node value="levels/instances/unique/crojob/random_loot/world/world"/>
 			<value_node value="levels/instances/unique/pbr/pbr_gas_station/world/world"/>
+			<value_node value="levels/instances/unique/are_exfil_puzzle/world/world"/>
 			<value_node value="levels/instances/unique/pet_shutter/world/world"/>
 			<value_node value="levels/instances/unique/mus_security_barrier/world/world"/>
 			<value_node value="packages/job_branchbank_cash"/>
