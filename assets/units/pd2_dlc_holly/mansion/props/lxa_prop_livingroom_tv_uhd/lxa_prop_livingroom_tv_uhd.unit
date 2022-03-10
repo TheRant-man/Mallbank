@@ -1,6 +1,0 @@
-<unit type="lxa" slot="1">
-	<object file="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" />
-	<extensions>
-		<extension name="unit_data" class="ScriptUnitData" />
-	</extensions>
-</unit>

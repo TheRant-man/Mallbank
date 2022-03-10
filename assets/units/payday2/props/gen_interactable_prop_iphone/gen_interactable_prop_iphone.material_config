@@ -1,9 +1,0 @@
-<materials version="3" group="gen_interactable_prop_iphone" >
-    <material name="iphone" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:SELF_ILLUMINATION" version="2">
-        <diffuse_texture file="units/world/props/iphone/iphone_df"/>
-        <self_illumination_texture file="units/world/props/iphone/iphone_il"/>
-        <variable value="sun" type="scalar" name="il_multiplier"/>
-        <reflection_texture type="cubemap" global_texture="current_global_texture"/>
-        <variable value="2.7000000476837 0.34500002861023 2.9000000953674" type="vector3" name="environment_settings"/>
-    </material>
-</materials>

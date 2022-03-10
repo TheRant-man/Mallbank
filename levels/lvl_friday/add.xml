@@ -14,12 +14,6 @@
 	<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
 	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
-	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" type="unit">
-		<unit load="true" path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1"/>
-		<unit load="true" path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk"/>
-		<material_config path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
-		<object path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
-	</add>
 	<material_config path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
 	<material_config path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1_contour"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_1/ene_security_fri_1"/>
@@ -32,16 +26,13 @@
 	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_2/ene_security_fri_2_husk"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3"/>
 	<object path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3"/>
-	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3"/>
 	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_3/ene_security_fri_3_husk"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4"/>
 	<object path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4"/>
-	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4"/>
 	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_4/ene_security_fri_4_husk"/>
 	<model path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5"/>
 	<object path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5"/>
 	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5"/>
-	<unit load="true" path="units/pd2_mod_friday/characters/ene_security_fri_5/ene_security_fri_5_husk"/>
 	<add path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" type="unit">
 		<cooked_physics path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" unload="true"/>
 		<material_config path="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" unload="true"/>
@@ -99,12 +90,6 @@
 		<material_config path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
 		<scene load="true" path="core/environments/skies/sky_1846_low_sun_nice_clouds/sky_1846_low_sun_nice_clouds" unload="true"/>
 	</add>
-	<add path="units/pd2_dlc_moon/props/moo_interactable_prop_ipad/moo_interactable_prop_ipad" type="unit">
-		<material_config path="units/payday2/props/gen_interactable_prop_ipad/gen_interactable_prop_ipad" unload="true"/>
-		<object path="units/payday2/props/gen_interactable_prop_ipad/gen_interactable_prop_ipad" unload="true"/>
-		<sequence_manager path="units/payday2/props/gen_interactable_prop_ipad/gen_interactable_prop_ipad" unload="true"/>
-		<unit path="units/pd2_dlc_moon/props/moo_interactable_prop_ipad/moo_interactable_prop_ipad" unload="true"/>
-	</add>
 	<add path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear" type="unit">
 		<material_config path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear" unload="true"/>
 		<object path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear" unload="true"/>
@@ -127,11 +112,6 @@
 		<sequence_manager path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear_keyboard" unload="true"/>
 		<unit path="units/payday2/equipment/gen_interactable_hack_computer_pear/gen_interactable_hack_computer_pear_keyboard" unload="true"/>
 	</add>
-	<add path="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" type="unit">
-		<material_config path="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" unload="true"/>
-		<object path="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" unload="true"/>
-		<unit path="units/pd2_dlc_holly/mansion/props/lxa_prop_livingroom_tv_uhd/lxa_prop_livingroom_tv_uhd" unload="true"/>
-	</add>
 	<add path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" type="unit">
 		<material_config path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic" unload="true"/>
 		<object path="units/payday2/props/com_prop_store_shelves/com_prop_store_shelves_generic_07" unload="true"/>
@@ -142,23 +122,11 @@
 	<model path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 	<material_config path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag" unload="true"/>
 	<texture path="units/pd2_mod_friday/props/fri_prop_coffee_bag/fri_prop_coffee_bag_df" unload="true"/>
-	<add path="units/pd2_dlc_moon/props/moo_interactable_prop_iphone/moo_interactable_prop_iphone" type="unit">
-		<material_config path="units/payday2/props/gen_interactable_prop_iphone/gen_interactable_prop_iphone" unload="true"/>
-		<object path="units/payday2/props/gen_interactable_prop_iphone/gen_interactable_prop_iphone" unload="true"/>
-		<sequence_manager path="units/payday2/props/gen_interactable_prop_iphone/gen_interactable_prop_iphone" unload="true"/>
-		<unit path="units/pd2_dlc_moon/props/moo_interactable_prop_iphone/moo_interactable_prop_iphone" unload="true"/>
-	</add>
 	<add path="units/world/architecture/secret_stash/props/secret_stash_equipment_server_rack_pickup" type="unit">
 		<material_config path="units/world/architecture/secret_stash/props/secret_stash_equipment_server_rack_interaction" unload="true"/>
 		<object path="units/world/architecture/secret_stash/props/secret_stash_equipment_server_rack_pickup" unload="true"/>
 		<sequence_manager path="units/world/architecture/secret_stash/props/secret_stash_equipment_server_rack_pickup" unload="true"/>
 		<unit path="units/world/architecture/secret_stash/props/secret_stash_equipment_server_rack_pickup" unload="true"/>
-	</add>
-	<add path="units/payday2/equipment/gen_interactable_objective_server/gen_interactable_objective_server" type="unit">
-		<material_config path="units/payday2/equipment/gen_interactable_objective_server/gen_interactable_objective_server" unload="true"/>
-		<object path="units/payday2/equipment/gen_interactable_objective_server/gen_interactable_objective_server" unload="true"/>
-		<sequence_manager path="units/payday2/equipment/gen_interactable_objective_server/gen_interactable_objective_server" unload="true"/>
-		<unit path="units/payday2/equipment/gen_interactable_objective_server/gen_interactable_objective_server" unload="true"/>
 	</add>
 	<add path="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_8x2m_il" type="unit">
 		<material_config path="units/payday2/props/com_prop_sign_kranich/com_prop_sign_kranich_8x2m_il" unload="true"/>
@@ -196,11 +164,6 @@
 	<movie path="vo/objectives/find_hack_5"/>
 	<movie path="vo/objectives/find_hack_6"/>
 	<movie path="vo/objectives/find_hack_7"/>
-	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" type="unit">
-		<material_config path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
-		<object path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
-		<unit path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" unload="true"/>
-	</add>
 	<add path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" type="unit">
 		<material_config path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
 		<model path="units/pd2_mod_friday/architecture/fri_bank/fri_bank" unload="true"/>
@@ -325,8 +288,6 @@
 	<object path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<material_config path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	<sequence_manager path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
-	<unit load="true" path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
-	<unit load="true" path="units/pd2_mod_friday/characters/npc_manager/npc_manager_husk"/>
 	<object path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
 	<model path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
 	<material_config path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
@@ -365,15 +326,15 @@
 		<unit path="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15"/>
 	</add>
 	<add from_db="true" path="units/equipment/apartment_saw/apartment_saw" type="unit">
-		<unit path="units/equipment/apartment_saw/apartment_saw"/>
-		<object path="units/equipment/apartment_saw/apartment_saw"/>
-		<material_config path="units/equipment/apartment_saw/apartment_saw"/>
-		<sequence_manager path="units/equipment/apartment_saw/apartment_saw"/>
-		<gui path="guis/timer_gui"/>
-		<bnk path="soundbanks/regular_sfx"/>
 		<effect load="true" path="effects/particles/equipment/vault_drill/drill_active"/>
 		<effect load="true" path="effects/particles/equipment/apartment_saw/saw_active"/>
 		<effect load="true" path="effects/payday2/environment/drill_jammed"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/equipment/apartment_saw/apartment_saw"/>
+		<object path="units/equipment/apartment_saw/apartment_saw"/>
+		<sequence_manager path="units/equipment/apartment_saw/apartment_saw"/>
+		<unit path="units/equipment/apartment_saw/apartment_saw"/>
 	</add>
 	<cooked_physics path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 </table>
