@@ -95,7 +95,7 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="friday_brf" contact="custom" icon="guis/friday" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
+	<narrative briefing_event="friday_brf" contact="custom" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
 				<mission_filter>
@@ -124,13 +124,13 @@
 			<value_node value="rze_friday_debrief"/>
 		</debrief_event>
 		<experience_mul>
-			<value_node value="1"/>
-			<value_node value="1"/>
-			<value_node value="1"/>
-			<value_node value="1"/>
-			<value_node value="3"/>
-			<value_node value="3"/>
-			<value_node value="3"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
+			<value_node value="0"/>
 		</experience_mul>
 		<max_mission_xp>
 			<value_node value="32000"/>
