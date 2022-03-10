@@ -88,9 +88,6 @@
 			<value_node value="levels/narratives/dentist/mia/stage2/editor_only/editor_only"/>
 			<value_node value="packages/narr_election3"/>
 			<value_node value="levels/narratives/dentist/mia/stage1/world/world"/>
-			<value_node value="levels/instances/unique/mus_flare/world/world"/>
-			<value_node value="levels/instances/unique/hox_estate_heli_spawn/world/world"/>
-			<value_node value="levels/instances/unique/sub_circuit_breaker/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
