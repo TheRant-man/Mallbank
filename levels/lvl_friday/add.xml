@@ -355,7 +355,6 @@
 	<texture path="levels/mods/lvl_friday/cube_lights/100214"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/100044"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101213"/>
-	<texture path="levels/mods/lvl_friday/cube_lights/101211"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101212"/>
 	<texture path="levels/mods/lvl_friday/cube_lights/101797"/>
 	<add from_db="true" path="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15" type="unit">
