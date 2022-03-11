@@ -375,15 +375,5 @@
 		<sequence_manager path="units/equipment/apartment_saw/apartment_saw"/>
 		<unit path="units/equipment/apartment_saw/apartment_saw"/>
 	</add>
-	<add from_db="true" path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_floor_tiles_black_2x2m" type="unit">
-		<material_config path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_floor_tiles"/>
-		<object path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_floor_tiles_black_2x2m"/>
-		<unit path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_floor_tiles_black_2x2m"/>
-	</add>
-	<add from_db="true" path="units/dev_tools/blackbox/dev_blackbox_2x2m" type="unit">
-		<unit path="units/dev_tools/blackbox/dev_blackbox_2x2m"/>
-		<object path="units/dev_tools/blackbox/dev_blackbox_2x2m"/>
-		<material_config path="units/dev_tools/blackbox/dev_blackbox"/>
-	</add>
 	<cooked_physics path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 </table>
