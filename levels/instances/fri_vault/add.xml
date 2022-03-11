@@ -1,1 +1,75 @@
-<table directory="assets"/>
+<table directory="assets">
+	<add from_db="true" path="units/payday2/props/gen_prop_security_timelock/gen_prop_security_timelock" type="unit">
+		<font path="fonts/font_digital"/>
+		<material_config path="units/payday2/props/gen_prop_security_timelock/gen_prop_security_timelock"/>
+		<object path="units/payday2/props/gen_prop_security_timelock/gen_prop_security_timelock"/>
+		<sequence_manager path="units/payday2/props/gen_prop_security_timelock/gen_prop_security_timelock"/>
+		<unit path="units/payday2/props/gen_prop_security_timelock/gen_prop_security_timelock"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large" type="unit">
+		<effect load="true" path="effects/payday2/environment/drill"/>
+		<effect load="true" path="effects/payday2/environment/parts/drill_sparks_particles"/>
+		<effect load="true" path="effects/payday2/environment/parts/drill_sparks"/>
+		<effect load="true" path="effects/payday2/environment/drill_jammed"/>
+		<effect load="true" path="effects/payday2/environment/thermal_lance"/>
+		<effect load="true" path="effects/payday2/environment/parts/thermal_fire"/>
+		<effect load="true" path="effects/payday2/environment/parts/thermal_spark"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
+		<object path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
+		<unit path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_square_drop_marker_2x3/gen_prop_square_drop_marker_2x3" type="unit">
+		<material_config path="units/payday2/props/gen_prop_square_drop_marker_2x3/gen_prop_square_drop_marker_2x3"/>
+		<object path="units/payday2/props/gen_prop_square_drop_marker_2x3/gen_prop_square_drop_marker_2x3"/>
+		<sequence_manager path="units/payday2/props/gen_prop_square_drop_marker_2x3/gen_prop_square_drop_marker_2x3"/>
+		<unit path="units/payday2/props/gen_prop_square_drop_marker_2x3/gen_prop_square_drop_marker_2x3"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/bnk_branch/bnk_branch_wall_clean" type="unit">
+		<material_config path="units/payday2/architecture/bnk_branch/bnk_branch"/>
+		<object path="units/payday2/architecture/bnk_branch/bnk_branch_wall_clean"/>
+		<unit path="units/payday2/architecture/bnk_branch/bnk_branch_wall_clean"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/str_prop_com_barrier_keypad/str_prop_com_barrier_keypad" type="unit">
+		<material_config path="units/payday2/props/str_prop_com_barrier_keypad/str_prop_com_barrier_keypad"/>
+		<object path="units/payday2/props/str_prop_com_barrier_keypad/str_prop_com_barrier_keypad"/>
+		<sequence_manager path="units/payday2/props/str_prop_com_barrier_keypad/str_prop_com_barrier_keypad"/>
+		<unit path="units/payday2/props/str_prop_com_barrier_keypad/str_prop_com_barrier_keypad"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/door_blocker/door_blocker" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/door_blocker/door_blocker"/>
+		<unit path="units/dev_tools/level_tools/door_blocker/door_blocker"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_com" type="unit">
+		<unit path="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_com"/>
+		<object path="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_com"/>
+		<material_config path="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light_branch_com"/>
+		<sequence_manager path="units/payday2/props/bnk_prop_vault_door_light/bnk_prop_vault_door_light"/>
+		<unit path="units/payday2/equipment/gen_interactable_drill_large_thermic/gen_interactable_drill_large_thermic"/>
+		<object path="units/payday2/equipment/gen_interactable_drill_large_thermic/gen_interactable_drill_large_thermic"/>
+		<material_config path="units/payday2/equipment/gen_interactable_drill_large_thermic/gen_interactable_drill_large_thermic"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_drill_large_thermic/gen_interactable_drill_large_thermic"/>
+		<effect load="true" path="effects/payday2/environment/thermal_lance"/>
+		<effect load="true" path="effects/payday2/environment/parts/thermal_fire"/>
+		<effect load="true" path="effects/payday2/environment/parts/thermal_spark"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/navigation_splitter_1m" type="unit">
+		<material_config path="core/material_configs/hub_elements"/>
+		<object path="units/dev_tools/level_tools/navigation_splitter_1m"/>
+		<unit path="units/dev_tools/level_tools/navigation_splitter_1m"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/bnk/bnk_int_panel_wall4m_a" type="unit">
+		<material_config path="units/payday2/architecture/bnk/bnk_int"/>
+		<object path="units/payday2/architecture/bnk/bnk_int_panel_wall4m_a"/>
+		<unit path="units/payday2/architecture/bnk/bnk_int_panel_wall4m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" type="unit">
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a"/>
+		<material_config path="units/payday2/architecture/mkp/mkp"/>
+	</add>
+</table>
