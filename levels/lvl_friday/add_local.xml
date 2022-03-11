@@ -18,5 +18,6 @@
 	<continent path="editor_only/editor_only" script_data_type="binary"/>
 	<mission path="editor_only/editor_only" script_data_type="binary"/>
 	<cover_data path="cover_data" script_data_type="binary"/>
+	<texture path="cube_lights/101211"/>
 	<environment path="environments/friday" script_data_type="custom_xml"/>
 </table>

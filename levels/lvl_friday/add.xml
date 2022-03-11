@@ -365,15 +365,25 @@
 		<unit path="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15"/>
 	</add>
 	<add from_db="true" path="units/equipment/apartment_saw/apartment_saw" type="unit">
-		<unit path="units/equipment/apartment_saw/apartment_saw"/>
-		<object path="units/equipment/apartment_saw/apartment_saw"/>
-		<material_config path="units/equipment/apartment_saw/apartment_saw"/>
-		<sequence_manager path="units/equipment/apartment_saw/apartment_saw"/>
-		<gui path="guis/timer_gui"/>
-		<bnk path="soundbanks/regular_sfx"/>
 		<effect load="true" path="effects/particles/equipment/vault_drill/drill_active"/>
 		<effect load="true" path="effects/particles/equipment/apartment_saw/saw_active"/>
 		<effect load="true" path="effects/payday2/environment/drill_jammed"/>
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/equipment/apartment_saw/apartment_saw"/>
+		<object path="units/equipment/apartment_saw/apartment_saw"/>
+		<sequence_manager path="units/equipment/apartment_saw/apartment_saw"/>
+		<unit path="units/equipment/apartment_saw/apartment_saw"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_floor_tiles_black_2x2m" type="unit">
+		<material_config path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_floor_tiles"/>
+		<object path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_floor_tiles_black_2x2m"/>
+		<unit path="units/payday2/architecture/com_int_nightclub/com_int_nightclub_floor_tiles_black_2x2m"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/blackbox/dev_blackbox_2x2m" type="unit">
+		<unit path="units/dev_tools/blackbox/dev_blackbox_2x2m"/>
+		<object path="units/dev_tools/blackbox/dev_blackbox_2x2m"/>
+		<material_config path="units/dev_tools/blackbox/dev_blackbox"/>
 	</add>
 	<cooked_physics path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 </table>
