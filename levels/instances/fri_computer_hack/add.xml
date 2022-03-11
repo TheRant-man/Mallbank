@@ -1,0 +1,28 @@
+<table>
+	<add from_db="true" path="units/payday2/props/off_prop_appliance_mouse/off_prop_appliance_mouse" type="unit">
+		<material_config path="units/payday2/props/off_prop_appliance_mouse/off_prop_appliance_mouse"/>
+		<object path="units/payday2/props/off_prop_appliance_mouse/off_prop_appliance_mouse"/>
+		<unit path="units/payday2/props/off_prop_appliance_mouse/off_prop_appliance_mouse"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish"/>
+		<object path="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish"/>
+		<sequence_manager path="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish"/>
+		<unit path="units/pd2_dlc_cro/gen_interactable_hack_computer/gen_interactable_hack_computer_finish"/>
+	</add>
+	<add from_db="true" path="units/world/architecture/secret_stash/props/secret_stash_hack_keyboard_interaction" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/world/architecture/secret_stash/props/secret_stash_hack_computer_interaction_contour"/>
+		<object path="units/world/architecture/secret_stash/props/secret_stash_hack_keyboard_interaction"/>
+		<sequence_manager path="units/world/architecture/secret_stash/props/secret_stash_hack_keyboard_interaction"/>
+		<unit path="units/world/architecture/secret_stash/props/secret_stash_hack_keyboard_interaction"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a" type="unit">
+		<unit path="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a"/>
+		<object path="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a"/>
+		<material_config path="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_hack_computer/gen_interactable_hack_computer_a"/>
+	</add>
+</table>
