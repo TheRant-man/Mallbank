@@ -97,7 +97,7 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="friday_brf" contact="custom" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
+	<narrative briefing_event="friday_brf" contact="shatter" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
 				<mission_filter>
