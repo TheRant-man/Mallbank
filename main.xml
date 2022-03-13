@@ -102,12 +102,12 @@
 			<sound id="friday_escape" path="friday_escape.ogg" volume="1"/>
 			<sound id="friday_escape_a" path="friday_escape_a.ogg" volume="1"/>
 			<sound id="friday_escape_b" path="friday_escape_b.ogg" volume="1"/>
-			<sound id="" path="jkl_heist_intro_1.ogg" volume="1"/>
-			<sound id="" path="jkl_heist_intro_2.ogg" volume="1"/>
-			<sound id="" path="jkl_heist_intro_3.ogg" volume="1"/>
+			<sound id="friday_intro_a" path="jkl_heist_intro_1.ogg" volume="1"/>
+			<sound id="friday_intro_b" path="jkl_heist_intro_2.ogg" volume="1"/>
+			<sound id="friday_intro_c" path="jkl_heist_intro_3.ogg" volume="1"/>
 		</sounds>
 	</level>
-	<narrative briefing_event="friday_brief" contact="custom" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
+	<narrative briefing_event="friday_brief" contact="custom" id="narr_friday" jc="40" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
 				<mission_filter>
