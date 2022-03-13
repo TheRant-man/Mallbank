@@ -71,7 +71,7 @@
 	"bnk_hack_cop_2":"Police have stopped the override, I need you to resume it."
 	"bnk_hack_cop_1":"Swat have interfered with the override."
 	"jkl_find_hack_1":"We likely need to find a server on the mall's office space. You can find one through the halloween store neighbouring the bank."
-	"jkl_find_hack_2":"Halloween store adjacent to the bank is the way to the mall's office space, from there we cna access the server."
+	"jkl_find_hack_2":"Halloween store adjacent to the bank is the way to the mall's office space, from there we can access the server."
 	"jkl_find_hack_3":"Looks like the mall's office space can be accessed through the halloween store next door. We can get to the server from there."
 	"jkl_find_hack_4":"Now to find a viable computer to connect to the server, just launch an override."
 	"jkl_vault_open_1":"The vault is open. Bag the gold and haul it out."
