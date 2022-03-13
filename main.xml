@@ -44,7 +44,7 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" id="lvl_friday" intro_event="friday_intro_a,friday_intro_b,friday_intro_c" max_bags="20" music="heist" repossess_bags="true">
+	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" id="lvl_friday" intro_event="friday_intro_a,friday_intro_b,friday_intro_c" max_bags="25" music="heist" repossess_bags="true">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
@@ -107,7 +107,7 @@
 			<sound id="friday_intro_c" path="jkl_heist_intro_3.ogg" volume="1"/>
 		</sounds>
 	</level>
-	<narrative briefing_event="friday_brief" contact="custom" id="narr_friday" jc="40" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
+	<narrative briefing_event="friday_brief" contact="custom" icon="guis/textures/mods/icons/narr_narr_friday.texture" id="narr_friday" jc="40" load_screen="guis/textures/friday_loading.texture" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
 				<mission_filter>
