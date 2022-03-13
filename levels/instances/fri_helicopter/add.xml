@@ -21,4 +21,9 @@
 		<sequence_manager path="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15"/>
 		<unit path="units/payday2/props/gen_prop_square_goal_marker_8x15/gen_prop_square_goal_marker_8x15"/>
 	</add>
+	<add from_db="true" path="units/test/jocke/plane_black_temp" type="unit">
+		<unit path="units/test/jocke/plane_black_temp"/>
+		<object path="units/test/jocke/plane_black_temp"/>
+		<material_config path="units/test/jocke/plane_black_temp"/>
+	</add>
 </table>
