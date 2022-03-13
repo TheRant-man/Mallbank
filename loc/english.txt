@@ -10,7 +10,7 @@
 	"jkl_hack_finish_2":"The vault door shouldn't be a problem anymore. Get back to it and mount the lance.",
 	"bnk_wirebox_find":"Find the security box",
 	"bnk_pku_drill2":"Get the lance",
-	"jkl_find_hack_1":"Now to find a viable computer to connect to the server. Just launch an override.",
+	"jkl_find_hack_4":"Now to find a viable computer to connect to the server. Just launch an override.",
 	"heist_lvl_friday_name":"Crashing Capitol",
 	"jkl_bnk_sec_off_3":"Through the gates of Troy, now there's the issue of security.",
 	"jkl_find_office_1":"We likely need to find a server in the mall's office space. You can find one through the halloween store neighboring the bank.",
@@ -32,7 +32,7 @@
 	"bnk_find":"Inspect the bank",
 	"bnk_pku_drill_desc":"Wait for the pilot to arrive with the lance.",
 	"jkl_bnk_find_3":"You're here; to the second floor, gentlemen. I'm sure I don't need to remind you what a bank looks like.",
-	"jkl_find_hack_3":"There should be a server in here. Connect me to its computer so we can override the security.",
+	"jkl_find_hack_6":"There should be a server in here. Connect me to its computer so we can override the security.",
 	"heist_lvl_friday_brief":"I have a new contact. An upcoming cartel leader, who I believe would be in Crime.net's best interest to be allied with. He believes that a rival of his is using a branch of the Capitol Savings bank to hold their valuables, such as gold and he wants it out of the picture. All you have to do, is rob a bank.",
 	"hud_cam_access_camera_floor3":"Mall Floor 3",
 	"bnk_wirebox_hack":"Open and rewire the security box",
@@ -42,8 +42,8 @@
 	"bnk_hack_resume_desc":"The PC has stopped, get the override going again!",
 	"jkl_bnk_find_2":"If intel serves us, then the entrance of the bank should be on your left, second floor.",
 	"bnk_flare_desc":"Place down a flare so Bile can drop off the thermal lance.",
-	"jkl_find_hack_4":"We need to wire the server to a computer in order to override its security systems.",
-	"jkl_hack_finish_1":"The systems are downed. Now return to the vault door and get the lance up.",
+	"jkl_find_hack_7":"We need to wire the server to a computer in order to override its security systems.",
+	"jkl_hack_finish_4":"The systems are downed. Now return to the vault door and get the lance up.",
 	"jkl_lectro_1":"Crafty bastards, the vault is electrified... I've seen this before. The vault's on GenSec's systems, we can request to shut them off through one of the mall's servers.",
 	"bnk_escape":"Extraction available",
 	"bnk_escort":"Escort the manager to the vault",
@@ -53,7 +53,7 @@
 	"jkl_find_office_2":"The halloween store adjacent to the bank is the way to the mall's office space. From there, we can access a server.",
 	"heist_narr_friday_name":"Crashing Capitol",
 	"bnk_escort_find":"Find the manager",
-	"jkl_find_hack_2":"Now to find a viable computer connected to the server, and launch an override.",
+	"jkl_find_hack_5":"Now to find a viable computer connected to the server, and launch an override.",
 	"jkl_find_office_3":"Looks like the mall's office space can be accessed through the halloween store next door. We can get into the server from there.",
 	"bnk_enter_offices_desc":"Make your way into the bank's offices, through the halloween store.",
 	"bnk_secure":"Secure the gold",
@@ -66,4 +66,18 @@
 	"bnk_find_hard_drive":"Grab the hard drive",
 	"jkl_lectro_3":"Electricity..? So the rumors were true. No doubt this is the work of GenSec. I'm going to need to find a backdoor into their system. Perhaps a local server?",
 	"bnk_escape_desc":"Get to the escape vehicle or secure more loot."
+	"jkl_hack_finish_3":"The vault door is free of Zeus's wrath. Now get Hephaestus working on it, the lance I mean."
+	"bnk_hack_cop_3":"Law enforcement has halted our hack."
+	"bnk_hack_cop_2":"Police have stopped the override, I need you to resume it."
+	"bnk_hack_cop_1":"Swat have interfered with the override."
+	"jkl_find_hack_1":"We likely need to find a server on the mall's office space. You can find one through the halloween store neighbouring the bank."
+	"jkl_find_hack_2":"Halloween store adjacent to the bank is the way to the mall's office space, from there we cna access the server."
+	"jkl_find_hack_3":"Looks like the mall's office space can be accessed through the halloween store next door. We can get to the server from there."
+	"jkl_find_hack_4":"Now to find a viable computer to connect to the server, just launch an override."
+	"jkl_vault_open_1":"The vault is open. Bag the gold and haul it out."
+	"jkl_vault_open_2":"The lance is finished, you know what to do from here."
+	"jkl_vault_open_3":"The vault door is open, [I don't understand what he's saying] gentlemen."
+	"bnk_hack_crash_1":"Excuse me? The override has run into an access violation and there is a script stack. Get it back up."
+	"bnk_hack_crash_2":"The mall's firewall is stopping the override, you need to keep it running."
+	"bnk_hack_crash_3":"A firewall? On public wifi..? Absurd! Gentlemen, can you wire me back in?"
 }
