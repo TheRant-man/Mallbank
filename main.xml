@@ -27,7 +27,8 @@
 		</packages>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
-	<AddFiles directory="assets">
+	<AddFiles>
+		<texture path="guis/textures/friday_loading" unload="true"/>
 		<texture load="true" path="guis/friday"/>
 	</AddFiles>
 	<HeistMusic directory="assets/sounds/music/friday" id="music_friday" volume="0.6">
