@@ -44,7 +44,7 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" id="lvl_friday" intro_event="friday_intro_a,friday_intro_b,friday_intro_c" max_bags="20" music="heist" player_style="generic" repossess_bags="true">
+	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" id="lvl_friday" intro_event="friday_intro_a,friday_intro_b,friday_intro_c" max_bags="20" music="heist" repossess_bags="true">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
@@ -122,9 +122,12 @@
 			<value_node value="friday_brief"/>
 		</crimenet_callouts>
 		<crimenet_videos>
-			<value_node value="cn_branchbank1"/>
-			<value_node value="cn_branchbank2"/>
-			<value_node value="cn_branchbank3"/>
+			<value_node value="cn_mallcrash1"/>
+			<value_node value="cn_mallcrash2"/>
+			<value_node value="cn_mallcrash3"/>
+			<value_node value="cn_elcday1"/>
+			<value_node value="cn_elcday2"/>
+			<value_node value="cn_elcday3"/>
 		</crimenet_videos>
 		<debrief_event>
 			<value_node value="friday_brief"/>
