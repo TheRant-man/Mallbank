@@ -1,5 +1,6 @@
 {
 	"bnk_find_hack_desc":"Locate the server in the offices and hack its PC.",
+	"bnk_secure_desc":"Move the gold to the extraction zone."
 	"bnk_escort_find_desc":"The vault can be opened with the manager's input, find him and get him to the vault.",
 	"menu_jukebox_music_friday":"Crim Reapers",
 	"hud_cam_access_camera_exit":"Side Exit",
