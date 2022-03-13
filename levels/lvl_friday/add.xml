@@ -181,14 +181,16 @@
 		<object path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" unload="true"/>
 		<unit path="units/pd2_dlc_born/props/bor_prop_neonlight/bor_prop_neonlight_skull" unload="true"/>
 	</add>
-	<movie path="vo/objectives/bnk_find_1"/>
-	<movie path="vo/objectives/bnk_find_2"/>
-	<movie path="vo/objectives/bnk_find_3"/>
 	<movie path="vo/extras/lectro_1"/>
 	<movie path="vo/extras/lectro_2"/>
 	<movie path="vo/extras/lectro_3"/>
 	<movie path="vo/extras/hack_finish_1"/>
 	<movie path="vo/extras/hack_finish_2"/>
+	<movie path="vo/extras/hack_finish_3"/>
+	<movie path="vo/extras/"/>
+	<movie path="vo/objectives/bnk_find_1"/>
+	<movie path="vo/objectives/bnk_find_2"/>
+	<movie path="vo/objectives/bnk_find_3"/>
 	<movie path="vo/objectives/find_hack_1"/>
 	<movie path="vo/objectives/find_hack_2"/>
 	<movie path="vo/objectives/find_hack_3"/>
@@ -196,6 +198,10 @@
 	<movie path="vo/objectives/find_hack_5"/>
 	<movie path="vo/objectives/find_hack_6"/>
 	<movie path="vo/objectives/find_hack_7"/>
+	<movie path="vo/objectives/"/>
+	<sound path="vo/narrative/jkl_heist_intro_1.ogg" volume="1"/>
+	<sound path="vo/narrative/jkl_heist_intro_2.ogg" volume="1"/>
+	<sound path="vo/narrative/jkl_heist_intro_3.ogg" volume="1"/>
 	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk" type="unit">
 		<material_config path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
 		<object path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" unload="true"/>
