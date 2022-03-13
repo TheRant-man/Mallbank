@@ -101,7 +101,7 @@
 			<sound id="friday_brief" path="friday.ogg" volume="1"/>
 		</sounds>
 	</level>
-	<narrative briefing_event="friday_brf" contact="custom" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
+	<narrative briefing_event="friday_brief" contact="custom" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
 				<mission_filter>
@@ -119,7 +119,7 @@
 			<value_node value="900000"/>
 		</contract_cost>
 		<crimenet_callouts>
-			<value_node value="rze_friday_cnc_01"/>
+			<value_node value="friday_brief"/>
 		</crimenet_callouts>
 		<crimenet_videos>
 			<value_node value="cn_branchbank1"/>
@@ -127,7 +127,7 @@
 			<value_node value="cn_branchbank3"/>
 		</crimenet_videos>
 		<debrief_event>
-			<value_node value="rze_friday_debrief"/>
+			<value_node value="friday_brief"/>
 		</debrief_event>
 		<experience_mul>
 			<value_node value="0"/>
