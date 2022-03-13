@@ -96,6 +96,9 @@
 				<options merge_mode="add" mode="add"/>
 			</mod>
 		</script_data_mods>
+		<sounds directory="assets/vo/narrative">
+			<sound id="friday_brief" path="friday.ogg" volume="1"/>
+		</sounds>
 	</level>
 	<narrative briefing_event="friday_brf" contact="custom" id="narr_friday" jc="20" load_screen="guis/dlcs/pic/textures/loading/job_mallcrasher" region="street">
 		<chain>
