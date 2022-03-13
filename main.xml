@@ -128,9 +128,6 @@
 			<value_node value="friday_brief"/>
 		</crimenet_callouts>
 		<crimenet_videos>
-			<value_node value="cn_mallcrash1"/>
-			<value_node value="cn_mallcrash2"/>
-			<value_node value="cn_mallcrash3"/>
 			<value_node value="cn_elcday1"/>
 			<value_node value="cn_elcday2"/>
 			<value_node value="cn_elcday3"/>
