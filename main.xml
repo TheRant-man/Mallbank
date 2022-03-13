@@ -107,7 +107,7 @@
 			<sound id="friday_intro_c" path="jkl_heist_intro_3.ogg" volume="1"/>
 		</sounds>
 	</level>
-	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" icon="guis/textures/mods/icons/narr_friday" id="narr_friday" jc="20" load_screen="guis/textures/friday_loading" region="street">
+	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" id="narr_friday" jc="20" load_screen="guis/textures/friday_loading" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
 				<mission_filter>
@@ -167,7 +167,7 @@
 			<value_node value="150000"/>
 			<value_node value="450000"/>
 			<value_node value="850000"/>
-			<value_node value="1e+006"/>
+			<value_node value="900000"/>
 			<value_node value="1e+006"/>
 			<value_node value="1e+006"/>
 		</payout>
