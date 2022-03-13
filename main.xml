@@ -27,9 +27,9 @@
 		</packages>
 		<script_data_mods directory="scriptdata"/>
 	</instance>
-	<AddFiles>
+	<AddFiles directory="assets">
 		<texture path="guis/textures/friday_loading" unload="true"/>
-		<texture path="guis/textures/mods/icons/narr_friday" unload="true"/>
+		<texture path="guis/textures/narr_friday" load="true"/>
 	</AddFiles>
 	<HeistMusic directory="assets/sounds/music/friday" id="music_friday" volume="0.6">
 		<event name="setup" source="stealth.ogg" start_source="stealthintro.ogg"/>
@@ -44,7 +44,7 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" icon="guis/textures/mods/icons/narr_friday" id="lvl_friday" intro_event="friday_intro_a,friday_intro_b,friday_intro_c" max_bags="25" music="heist" repossess_bags="true">
+	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" icon="guis/textures/narr_friday" id="lvl_friday" intro_event="friday_intro_a,friday_intro_b,friday_intro_c" max_bags="25" music="heist" repossess_bags="true">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
@@ -107,7 +107,7 @@
 			<sound id="friday_intro_c" path="jkl_heist_intro_3.ogg" volume="1"/>
 		</sounds>
 	</level>
-	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" id="narr_friday" jc="20" load_screen="guis/textures/friday_loading" region="street">
+	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" icon="guis/textures/narr_friday" id="narr_friday" jc="20" load_screen="guis/textures/friday_loading" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
 				<mission_filter>
