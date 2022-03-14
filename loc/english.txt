@@ -81,4 +81,5 @@
 	"bnk_hack_crash_2":"The mall's firewall is stopping the override, you need to keep it running."
 	"bnk_hack_crash_3":"A firewall? On public wifi..? Absurd! Gentlemen, can you wire me back in?"
 	"jkl_verify_1":"Timelock activation authorized. Now return to the keypad and open her up."
+	"jkl_need_verify_1":"Requires verification..? The alarm must have activated a two-step verification system.. We need to get local access."
 }
