@@ -104,4 +104,7 @@
 	"jkl_extra_1":"There's another opportunity for theft behind those gates, but stay focussed."
 	"jkl_extra_2":"If you have the time drill the gates for more valuables."
 	"jkl_extra_3":"If you're not feeling humble today I suggest drilling those gates."
+	"jkl_c4_1":"Well. You got in quickly, but you just gave police another flank."
+	"jkl_c4_2":"The effiency is appreciated, but you were given the saw for a reason."
+	"jkl_c4_3":"You're in, but watchout for the police through your	new ''entrance''."
 }
