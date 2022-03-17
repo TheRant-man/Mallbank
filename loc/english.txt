@@ -107,4 +107,8 @@
 	"jkl_c4_1":"Well. You got in quickly, but you just gave police another flank."
 	"jkl_c4_2":"The effiency is appreciated, but you were given the saw for a reason."
 	"jkl_c4_3":"You're in, but watchout for the police through your	new ''entrance''."
+	"Mallbank_name":"Crashing Capitol"
+	"Mallbank1":""
+	"Mallbank1_obj":""
+	"Mallbank_desc":""
 }

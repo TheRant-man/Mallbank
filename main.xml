@@ -108,10 +108,7 @@
 		</sounds>
 	</level>
 	<Achievements id="Mallbank" icon="">
-        <achievement id="crack" rank="2" name_id="Mallbank1" desc_id="Mallbank1_desc" objective_id="Mallbank1_obj" icon=""/>
-        <achievement id="l4d_guns" rank="3" name_id="Mallbank2" desc_id="Mallbank2_desc" objective_id="Mallbank2_obj" icon=""/>
-        <achievement id="shadows" rank="2" name_id="Mallbank3" desc_id="Mallbank3_desc" objective_id="Mallbank3_obj" icon=""/>
-		<achievement id="lastman" rank="4" name_id="Mallbank4" desc_id="Mallbank4_desc" objective_id="Mallbank4_obj" icon=""/>
+        <achievement id="shopper" rank="2" name_id="Mallbank1" desc_id="Mallbank1_desc" objective_id="Mallbank1_obj" icon=""/>
 	</Achievements>
 	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" icon="guis/textures/narr_friday" id="narr_friday" jc="20" load_screen="guis/textures/friday_loading" region="street">
 		<chain>
