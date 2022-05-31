@@ -1,6 +1,0 @@
-<unit type="mkp" slot="1">
-	<object file="units/payday2/architecture/mkp/mkp_int_ceiling_4x4m_a" />
-	<extensions>
-		<extension name="unit_data" class="ScriptUnitData" />
-	</extensions>
-</unit>
