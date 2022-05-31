@@ -1,14 +1,18 @@
 <table directory="assets">
-	<texture path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1_df"/>
-	<unit path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
-	<object path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
-	<model path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
-	<material_config path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
-	<texture path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2_df"/>
-	<unit path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
-	<object path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
-	<model path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
-	<material_config path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
+	<add>
+		<texture path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1_df"/>
+		<unit path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
+		<object path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
+		<model path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
+		<material_config path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
+	</add>
+	<add>
+		<texture path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2_df"/>
+		<unit path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
+		<object path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
+		<model path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
+		<material_config path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
+	</add>	
 	<texture path="levels/mods/lvl_friday/cube_lights/dome_occlusion"/>
 	<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
 	<object path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
