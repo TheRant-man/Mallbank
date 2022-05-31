@@ -1,0 +1,15 @@
+<dynamic_object>
+    <diesel orientation_object="rp_com_prop_barista_coffee_bag_b" materials="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1" />
+    <bodies>
+        <body enabled="true" template="static" name="body0" >
+			<object name="rp_com_prop_barista_coffee_bag_b" />
+
+            <object collision_type="box" name="c_box" padding="-2"/>
+        </body>
+    </bodies>
+    <decal_surfaces default_material="thin_layer">
+    </decal_surfaces>
+    <graphics>
+        <object enabled="true" name="g_g" instance_struct="world_tm" />
+    </graphics>
+</dynamic_object>
