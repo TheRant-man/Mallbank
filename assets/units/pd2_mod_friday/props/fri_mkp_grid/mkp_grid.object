@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <dynamic_object>
 	<diesel materials="units/payday2/architecture/mkp/mkp" orientation_object="rp_mkp_int_ceiling_4x4m_a" />
 	<bodies>

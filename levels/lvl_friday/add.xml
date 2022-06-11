@@ -14,10 +14,6 @@
 		<unit path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
 	</add>
 	<add>
-		<unit_mat path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
-		<dds path="units/pd2_mod_friday/props/unit_mat/ceiling_4m_df"/>
-	</add>
-	<add>
 		<model path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid"/>
 		<object path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid"/>
 		<texture path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid_df"/>
