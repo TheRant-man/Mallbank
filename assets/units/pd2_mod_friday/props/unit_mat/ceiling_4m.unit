@@ -1,0 +1,7 @@
+<unit type="gen" slot="1">
+	<object file="units/ceiling_4m" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>
+

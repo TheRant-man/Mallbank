@@ -1,0 +1,11 @@
+<dynamic_object>
+	<diesel materials="units/ceiling_4m" orientation_object="rp_root" />
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="c_c" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<graphics>
+		<object name="g_g" enabled="true" />
+	</graphics>
+</dynamic_object>
