@@ -1,0 +1,5 @@
+<materials version="3">
+	<material name="mat_mat" decal_material="plaster" render_template="generic:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/pd2_mod_friday/props/unit_mat/ceiling_4m_df"/>
+    </material>
+</materials>
