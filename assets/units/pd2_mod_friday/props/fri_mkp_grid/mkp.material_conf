@@ -1,0 +1,9 @@
+<materials version="3">
+    <material name="mat_mkp" render_template="generic:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/payday2/architecture/mkp/mkp_grid_df"/>
+    </material>
+     <material name="mat_mkp_vertex" render_template="generic:DIFFUSE_TEXTURE:VERTEX_COLOR" version="2">
+        <diffuse_texture file="units/payday2/architecture/mkp/mkp_grid_df"/>
+    </material>
+    <material name="shadow_caster" render_template="shadow_caster_only" version="2"/>
+</materials>
