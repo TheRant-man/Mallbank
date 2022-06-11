@@ -15,19 +15,12 @@
 	</add>
 	<add>
 		<unit_mat path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
-		<dds path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
+		<dds path="units/pd2_mod_friday/props/unit_mat/ceiling_4m_df"/>
 		<model path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
 		<object path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
 		<texture path="units/pd2_mod_friday/props/unit_mat/ceiling_4m_df"/>
 		<unit path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
 		<material_config path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
-	</add>	
-	<add>
-		<model path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid"/>
-		<object path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid"/>
-		<texture path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid_df"/>
-		<unit path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid"/>
-		<material_config path="units/pd2_mod_friday/props/fri_mkp_grid/mkp"/>
 	</add>	
 	<texture path="levels/mods/lvl_friday/cube_lights/dome_occlusion"/>
 	<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
