@@ -14,14 +14,14 @@
 		<unit path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
 	</add>
 	<add>
-		<unit_mat path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
 		<dds path="units/pd2_mod_friday/props/unit_mat/ceiling_4m_df"/>
+		<material_config path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
 		<model path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
 		<object path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
 		<texture path="units/pd2_mod_friday/props/unit_mat/ceiling_4m_df"/>
 		<unit path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
-		<material_config path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
-	</add>	
+		<unit_mat path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
+	</add>
 	<texture path="levels/mods/lvl_friday/cube_lights/dome_occlusion"/>
 	<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
 	<object path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
@@ -459,45 +459,50 @@
 		<unit path="units/payday2/architecture/bnk/bnk_int_vault_big_bank"/>
 	</add>
 	<add path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar" type="unit">
-		<unit path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
 		<object path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
+		<unit path="units/pd2_mod_friday/architecture/fri_mall/fri_mall_pillar"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/npc_manager/npc_manager" type="unit">
 		<unit path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
-		<object path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
-		<material_config path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
 		<unit load="true" path="units/pd2_mod_friday/characters/npc_manager/npc_manager_husk"/>
+		<material_config path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
+		<object path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
 	</add>
 	<add path="units/pd2_mod_friday/characters/npc_manager/npc_manager_husk" type="unit">
-		<unit path="units/pd2_mod_friday/characters/npc_manager/npc_manager_husk"/>
-		<object path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
 		<material_config path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
+		<object path="units/pd2_mod_friday/characters/npc_manager/npc_manager"/>
+		<unit path="units/pd2_mod_friday/characters/npc_manager/npc_manager_husk"/>
 	</add>
 	<add path="units/pd2_mod_friday/props/com_prop_mall_manikin_civ_bank_2" type="unit">
 		<unit path="units/pd2_mod_friday/props/com_prop_mall_manikin_civ_bank_2"/>
 	</add>
 	<add path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1" type="unit">
-		<unit path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
-		<object path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
 		<material_config path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
+		<object path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
+		<unit path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
 	</add>
 	<add path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2" type="unit">
-		<unit path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
-		<object path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
 		<material_config path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
+		<object path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
+		<unit path="units/pd2_mod_friday/props/fri_civ_mall_2/civ_mall_2"/>
 	</add>
 	<add path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid" type="unit">
-		<unit path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid"/>
 		<object path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid"/>
+		<unit path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_grid"/>
 	</add>
 	<add path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_int_ceiling_4x4m_a" type="unit">
 		<unit path="units/pd2_mod_friday/props/fri_mkp_grid/mkp_int_ceiling_4x4m_a"/>
 	</add>
 	<add path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter" type="unit">
-		<unit path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
-		<object path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 		<material_config path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
+		<object path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 		<sequence_manager path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
+		<unit path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/lux/lux_int_pillar_050m_a" type="unit">
+		<unit path="units/payday2/architecture/lux/lux_int_pillar_050m_a"/>
+		<object path="units/payday2/architecture/lux/lux_int_pillar_050m_a"/>
+		<material_config path="units/payday2/architecture/lux/lux"/>
 	</add>
 	<cooked_physics path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 </table>
