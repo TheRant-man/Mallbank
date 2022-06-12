@@ -18,19 +18,6 @@
 	<continent path="editor_only/editor_only" script_data_type="binary"/>
 	<mission path="editor_only/editor_only" script_data_type="binary"/>
 	<cover_data path="cover_data" script_data_type="binary"/>
-	<texture path="cube_lights/100795"/>
-	<texture path="cube_lights/101269"/>
-	<texture path="cube_lights/101258"/>
-	<texture path="cube_lights/100214"/>
-	<texture path="cube_lights/101119"/>
-	<texture path="cube_lights/100223"/>
-	<texture path="cube_lights/100220"/>
-	<texture path="cube_lights/100216"/>
-	<texture path="cube_lights/100222"/>
-	<texture path="cube_lights/101186"/>
-	<texture path="cube_lights/100200"/>
-	<texture path="cube_lights/101135"/>
-	<texture path="cube_lights/101134"/>
 	<texture path="cube_lights/101211"/>
 	<environment path="environments/friday" script_data_type="custom_xml"/>
 </table>
