@@ -1,0 +1,6 @@
+<materials version="3">
+    <material render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE" name="mat_hcm_glass" version="2">
+        <diffuse_texture file="units/payday2/architecture/hcm/hcm_ext_window_night_il_il"/>
+        <variable type="scalar" name="intensity" value="sun"/>
+    </material>
+</materials>

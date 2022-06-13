@@ -1,0 +1,7 @@
+<materials version="3">
+    <material name="mat_hcm_glass" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION" version="2">
+        <diffuse_texture			file="units/payday2/architecture/hcm/hcm_ext_window_night_il_df"/>
+        <self_illumination_texture	file="units/payday2/architecture/hcm/hcm_ext_window_night_il_il"/>
+        <variable value="sun" type="scalar" name="il_multiplier"/>
+    </material>
+</materials>
