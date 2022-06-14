@@ -500,40 +500,42 @@
 		<unit path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	</add>
 	<add from_db="true" path="units/payday2/architecture/lux/lux_int_pillar_050m_a" type="unit">
-		<unit path="units/payday2/architecture/lux/lux_int_pillar_050m_a"/>
-		<object path="units/payday2/architecture/lux/lux_int_pillar_050m_a"/>
 		<material_config path="units/payday2/architecture/lux/lux"/>
+		<object path="units/payday2/architecture/lux/lux_int_pillar_050m_a"/>
+		<unit path="units/payday2/architecture/lux/lux_int_pillar_050m_a"/>
+	</add>
+	<add>
+		<material_config path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows" unload="true"/>
+		<unit path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_1" unload="true"/>
+		<object path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_1" unload="true"/>
+		<model path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_1" unload="true"/>
+		<unit path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_2" unload="true"/>
+		<object path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_2" unload="true"/>
+		<model path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_2" unload="true"/>
+		<unit path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_3" unload="true"/>
+		<object path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_3" unload="true"/>
+		<model path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_3" unload="true"/>
+		<unit path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_short" unload="true"/>
+		<object path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_short" unload="true"/>
+		<model path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_short" unload="true"/>
+		<unit path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_tiny" unload="true"/>
+		<object path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_tiny" unload="true"/>
+		<model path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_tiny" unload="true"/>
+		<material_config path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows" unload="true"/>
+		<unit path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_1" unload="true"/>
+		<object path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_1" unload="true"/>
+		<model path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_1" unload="true"/>
+		<unit path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_2" unload="true"/>
+		<object path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_2" unload="true"/>
+		<model path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_2" unload="true"/>
+		<unit path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_3" unload="true"/>
+		<object path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_3" unload="true"/>
+		<model path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_3" unload="true"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/hcm/hcm_bdrop_far_08_32x32_il" type="unit">
+		<unit path="units/payday2/architecture/hcm/hcm_bdrop_far_08_32x32_il"/>
+		<object path="units/payday2/architecture/hcm/hcm_bdrop_far_08_32x32_il"/>
+		<material_config path="units/payday2/architecture/hcm/hcm_backdrop_il"/>
 	</add>
 	<cooked_physics path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
-	<!-- START OF CUSTOM HCM WINDOW GLOWS -->
-	<add>
-		<material_config	path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows" unload="true"/>
-		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_1" unload="true"/>
-		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_1" unload="true"/>
-		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_1" unload="true"/>
-		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_2" unload="true"/>
-		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_2" unload="true"/>
-		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_2" unload="true"/>
-		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_3" unload="true"/>
-		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_3" unload="true"/>
-		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_3" unload="true"/>
-		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_short" unload="true"/>
-		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_short" unload="true"/>
-		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_short" unload="true"/>
-		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_tiny" unload="true"/>
-		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_tiny" unload="true"/>
-		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_tiny" unload="true"/>
-		
-		<material_config	path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows" unload="true"/>
-		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_1" unload="true"/>
-		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_1" unload="true"/>
-		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_1" unload="true"/>
-		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_2" unload="true"/>
-		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_2" unload="true"/>
-		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_2" unload="true"/>
-		<unit				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_3" unload="true"/>
-		<object				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_3" unload="true"/>
-		<model				path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_e_window_glows_3" unload="true"/>
-	</add>
-	<!-- END OF CUSTOM HCM WINDOW GLOWS -->
 </table>
