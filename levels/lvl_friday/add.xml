@@ -23,7 +23,6 @@
 		<unit_mat path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
 	</add>
 	<add>
-		<dds path="units/pd2_mod_friday/props/fri_pillar/try_this_1"/>
 		<material_config path="units/pd2_mod_friday/props/fri_pillar/fri_pillar"/>
 		<model path="units/pd2_mod_friday/props/fri_pillar/fri_pillar"/>
 		<object path="units/pd2_mod_friday/props/fri_pillar/fri_pillar"/>
@@ -32,20 +31,28 @@
 		<unit_mat path="units/pd2_mod_friday/props/fri_pillar/fri_pillar"/>		
 	</add>
 	<texture path="levels/mods/lvl_friday/cube_lights/dome_occlusion"/>
-	<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
-	<object path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
-	<model path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
-	<material_config path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
-	<model path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room"/>
-	<object path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room"/>
-	<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room"/>
-	<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge"/>
-	<object path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge"/>
-	<model path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge"/>
+	<add>
+		<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
+		<object path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
+		<model path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
+		<material_config path="units/pd2_mod_friday/architecture/fri_bank/fri_bank"/>
+	</add>
+	<add>
+		<model path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room"/>
+		<object path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room"/>
+		<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_security_room"/>
+	</add>	
+	<add>
+		<unit path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge"/>
+		<object path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge"/>
+		<model path="units/pd2_mod_friday/architecture/fri_bank/fri_lounge"/>
+	</add>		
 	<texture path="units/pd2_mod_friday/architecture/shared_textures/bnk_branch_signs_df"/>
-	<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
-	<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
-	<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	<add>
+		<unit path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+		<model path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+		<object path="units/pd2_mod_friday/props/fri_interactable_door_drill/fri_interactable_door_drill"/>
+	</add>
 	<add path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1" type="unit">
 		<unit load="true" path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1"/>
 		<unit load="true" path="units/payday2/characters/civ_male_bank_manager_1/civ_male_bank_manager_1_husk"/>
