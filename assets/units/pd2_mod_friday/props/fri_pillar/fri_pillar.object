@@ -13,6 +13,6 @@
 	</decal_surfaces> 
 	
     <graphics>
-        <object enabled="true" name="g_lux_int_pillar_050m_a" instance_struct="world_tm" shadow_caster="false" />
+        <object enabled="true" name="g_lux_int_pillar_050m_a" shadow_caster="false" />
     </graphics>
 </dynamic_object> 

@@ -23,11 +23,11 @@
 		<unit_mat path="units/pd2_mod_friday/props/unit_mat/ceiling_4m"/>
 	</add>
 	<add>
-		<dds path="units/pd2_mod_friday/props/fri_pillar/try_this1"/>
+		<dds path="units/pd2_mod_friday/props/fri_pillar/try_this_1"/>
 		<material_config path="units/pd2_mod_friday/props/fri_pillar/fri_pillar"/>
 		<model path="units/pd2_mod_friday/props/fri_pillar/fri_pillar"/>
 		<object path="units/pd2_mod_friday/props/fri_pillar/fri_pillar"/>
-		<texture path="units/pd2_mod_friday/props/fri_pillar/try_this1"/>
+		<texture path="units/pd2_mod_friday/props/fri_pillar/try_this_1"/>
 		<unit path="units/pd2_mod_friday/props/fri_pillar/fri_pillar"/>
 		<unit_mat path="units/pd2_mod_friday/props/fri_pillar/fri_pillar"/>		
 	</add>

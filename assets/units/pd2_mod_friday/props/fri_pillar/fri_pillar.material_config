@@ -1,5 +1,5 @@
 <materials version="3">
 	<material name="mat_mat" decal_material="plaster" render_template="generic:DIFFUSE_TEXTURE" version="2">
-        <diffuse_texture file="units/pd2_mod_friday/props/fri_pillar/fri_pillar"/>
+        <diffuse_texture file="units/pd2_mod_friday/props/fri_pillar/fri_pillar/try_this_1"/>
     </material>
 </materials>
