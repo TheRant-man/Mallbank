@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<dynamic_object>
+	<diesel materials="units/pd2_mod_friday/props/fri_pillar/fri_pillar" orientation_object="rp_lux_int_pillar_050m_a" />
+    <bodies>
+        <body name="static_body" template="static" enabled="true" >
+            <object name="rp_lux_int_pillar_050m_a"/>
+            <object name="c_1" collision_type="convex" padding="-2.5"/>
+        </body>
+    </bodies>
+	
+	<decal_surfaces default_material="plaster" static="true">
+		<decal_mesh name="g_lux_int_pillar_050m_a" material="plaster" enabled="true"/>
+	</decal_surfaces> 
+	
+    <graphics>
+        <object enabled="true" name="g_lux_int_pillar_050m_a" instance_struct="world_tm" shadow_caster="false" />
+    </graphics>
+</dynamic_object> 
