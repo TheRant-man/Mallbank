@@ -7,6 +7,7 @@
 	"bnk_timelock":"Wait for the timelock",
 	"bnk_find_hard_drive_desc":"Take the server's hard drive and wait for Jackal's plan B.",
 	"bnk_find_desc":"Case the bank's security from the lobby.",
+	"jkl_hack_finish_1":"The systems are down. Now get to the vault and get the lance up.",
 	"jkl_hack_finish_2":"The vault door shouldn't be a problem anymore. Get back to it and mount the lance.",
 	"bnk_wirebox_find":"Find the security box",
 	"bnk_pku_drill2":"Get the lance",

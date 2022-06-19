@@ -515,11 +515,6 @@
 		<sequence_manager path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 		<unit path="units/pd2_mod_friday/props/fri_prop_mall_shutter/fri_prop_mall_shutter"/>
 	</add>
-	<add from_db="true" path="units/payday2/architecture/lux/lux_int_pillar_050m_a" type="unit">
-		<material_config path="units/payday2/architecture/lux/lux"/>
-		<object path="units/payday2/architecture/lux/lux_int_pillar_050m_a"/>
-		<unit path="units/payday2/architecture/lux/lux_int_pillar_050m_a"/>
-	</add>
 	<add>
 		<material_config path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows" unload="true"/>
 		<unit path="units/pd2_mod_custom/cus_hcm_window_glows/cus_hcm_window_glows_1" unload="true"/>
