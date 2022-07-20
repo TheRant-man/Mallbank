@@ -109,6 +109,9 @@
 	</level>
 	<Achievements id="Mallbank" icon="">
         <achievement id="shopper" rank="2" name_id="Mallbank1" desc_id="Mallbank1_desc" objective_id="Mallbank1_obj" icon=""/>
+		<achievement id="speedrunner" rank="2" name_id="Mallbank2" desc_id="Mallbank2_desc" objective_id="Mallbank2_obj" icon=""/>
+		<achievement id="capitol_290" rank="3" name_id="capitol_290" desc_id="capitol_290_desc" objective_id="capitol_290_obj" icon=""/>
+		<achievement id="projob" rank="4" name_id="Mallbank_pj" desc_id="Mallbank_pj_desc" objective_id="Mallbank_pj_obj" icon=""/>
 	</Achievements>
 	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" icon="guis/textures/narr_friday" id="narr_friday" jc="20" load_screen="guis/textures/friday_loading" region="street">
 		<chain>
