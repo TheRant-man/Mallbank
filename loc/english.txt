@@ -109,7 +109,7 @@
 	"jkl_c4_2":"The effiency is appreciated, but you were given the saw for a reason."
 	"jkl_c4_3":"You're in, but watchout for the police through your	new ''entrance''."
 	"Mallbank_name":"Crashing Capitol"
-	"Mallbank1":"Clearange Sale"
+	"Mallbank1":"Clearance Sale"
 	"Mallbank1_obj":"Clean house, secure all loot on Crashing Capitol heist."
 	"Mallbank_desc":"Secure all bank loot and empty the jewelry store inside the Shield Mall."
 	"Mallbank2":"Flash Sale"
