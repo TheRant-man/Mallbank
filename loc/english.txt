@@ -115,7 +115,7 @@
 	"Mallbank2":"Flash Sale"
 	"Mallbank2_obj":"Gotta go fast, clear Crashing Capitol heist in under X minutes."
 	"Mallbank2_desc":"Complete the Crashing Capitol heist before the timer hits X minutes."
-	"capitol_290":""
+	"capitol_290":"Black Friday"
 	"capitol_290_obj":"Complete the Crashing Capitol heist on Death Sentence."
 	"capitol_290_desc":"Complete the Crashing Capitol heist on Death Sentence."
 	"Mallbank_pj":""
