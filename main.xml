@@ -113,7 +113,7 @@
 		<achievement id="capitol_290" rank="3" name_id="capitol_290" desc_id="capitol_290_desc" objective_id="capitol_290_obj" icon=""/>
 		<achievement id="projob" rank="4" name_id="Mallbank_pj" desc_id="Mallbank_pj_desc" objective_id="Mallbank_pj_obj" icon=""/>
 	</Achievements>-->
-	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" icon="guis/textures/narr_friday" id="narr_friday" jc="20" load_screen="guis/textures/friday_loading" region="street">
+	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" icon="guis/textures/narr_friday" id="narr_friday" jc="40" load_screen="guis/textures/friday_loading" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
 				<mission_filter>
