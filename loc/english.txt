@@ -78,7 +78,7 @@
 	"jkl_vault_open_1":"The vault is open. Bag the gold and haul it out."
 	"jkl_vault_open_2":"The lance is finished, you know what to do from here."
 	"jkl_vault_open_3":"The vault door is open, to El Dorado gentlemen."
-	"bnk_hack_crash_1":"Excuse me? The override has run into an access violation and there is a script stack. Get it back up."
+	"bnk_hack_crash_1":"Excuse me? The override has run into an access violation and there isn't a script stack. Get it back up."
 	"bnk_hack_crash_2":"The mall's firewall is stopping the override, you need to keep it running."
 	"bnk_hack_crash_3":"A firewall? On public wifi..? Absurd! Gentlemen, can you wire me back in?"
 	"jkl_verify_1":"Timelock activation authorized. Now return to the keypad and open her up."
