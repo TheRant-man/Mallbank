@@ -18,4 +18,5 @@
 	<objective description="bnk_escape_desc" id="bnk_escape" text="bnk_escape"/>
 	<objective description="bnk_escort_find_desc" id="bnk_escort_find" text="bnk_escort_find"/>
 	<objective description="bnk_escort_desc" id="bnk_escort" text="bnk_escort"/>
+	<objective description="bnk_mac_find_hd_desc" id="bnk_mac_find_hd" text="bnk_mac_find_hd"/>
 </table>
