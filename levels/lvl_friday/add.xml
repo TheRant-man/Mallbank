@@ -62,6 +62,22 @@
 		<movie path="vo/objectives/drill vault-001"/>
 		<movie path="vo/objectives/drill secured"/>
 		<movie path="vo/objectives/where manager"/>
+		<movie path="vo/objectives/authorized_1"/>
+		<movie path="vo/objectives/authorized_2"/>
+		<movie path="vo/objectives/authorized_3"/>
+		<movie path="vo/objectives/authorized_4"/>
+		<movie path="vo/objectives/drive_found_1"/>
+		<movie path="vo/objectives/drive_found_2"/>
+		<movie path="vo/objectives/drive_found_3"/>
+		<movie path="vo/objectives/go_to_pear_1"/>
+		<movie path="vo/objectives/go_to_pear_2"/>
+		<movie path="vo/objectives/go_to_pear_3"/>
+		<movie path="vo/objectives/no_servers_1"/>
+		<movie path="vo/objectives/no_servers_2"/>
+		<movie path="vo/objectives/no_servers_3"/>
+		<movie path="vo/objectives/verification_needed_1"/>
+		<movie path="vo/objectives/verification_needed_2"/>
+		<movie path="vo/objectives/verification_needed_3"/>
 	</add>
 	<add>
 		<material_config path="units/pd2_mod_friday/props/fri_civ_mall_1/civ_mall_1"/>
