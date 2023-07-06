@@ -6,10 +6,10 @@
 	<world_sounds path="world_sounds" script_data_type="binary"/>
 	<world_cameras path="world_cameras" script_data_type="binary"/>
 	<massunit path="massunit" reload="true"/>
-	<continent path="halloween_props/halloween_props" script_data_type="binary"/>
-	<mission path="halloween_props/halloween_props" script_data_type="binary"/>
 	<continent path="pc_only/pc_only" script_data_type="binary"/>
 	<mission path="pc_only/pc_only" script_data_type="binary"/>
+	<continent path="halloween_props/halloween_props" script_data_type="binary"/>
+	<mission path="halloween_props/halloween_props" script_data_type="binary"/>
 	<continent path="ed3_world/ed3_world" script_data_type="binary"/>
 	<mission path="ed3_world/ed3_world" script_data_type="binary"/>
 	<continent path="art_ext_windows/art_ext_windows" script_data_type="binary"/>
