@@ -44,6 +44,7 @@
 		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>
 		<hook file="contours.lua" source_file="lib/units/enemies/cop/copbase"/>
 	</Hooks>
+	<!--<Package file="" id="friday" unload_on_restart="true"/>-->
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
@@ -64,36 +65,21 @@
 			<value_node value="levels/narratives/vlad/mallcrasher/world_sounds"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/pc_only/pc_only"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/world/world"/>
-			<value_node value="levels/instances/unique/moon/crate_shoes/world/world"/>
 			<value_node value="levels/instances/unique/chew/chew_swat_van/world/world"/>
-			<value_node value="levels/instances/unique/train_cam_computer/world/world"/>
 			<value_node value="levels/instances/unique/dark/equipment_board/world/world"/>
 			<value_node value="levels/narratives/chill/editor_only/editor_only"/>
 			<value_node value="levels/instances/unique/red/red_hacking_quick/world/world"/>
 			<value_node value="levels/narratives/butcher/thebomb/stage_2/occluders/occluders"/>
 			<value_node value="levels/narratives/vlad/ukrainian_job/world_sounds"/>
 			<value_node value="levels/narratives/h_firestarter/stage_3/world_sounds"/>
-			<value_node value="levels/instances/unique/red/red_gates/world/world"/>
 			<value_node value="levels/narratives/skm/skm_mallcrasher/world"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/ed3_world/ed3_world"/>
-			<value_node value="levels/narratives/h_alex_must_die/stage_3/editor_only/editor_only"/>
 			<value_node value="levels/narratives/e_election_day/stage_3/new_mall/new_mall"/>
-			<value_node value="levels/narratives/armadillo/arm_for/editor_only/editor_only"/>
 			<value_node value="levels/narratives/e_election_day/stage_3/world/world"/>
-			<value_node value="levels/narratives/classics/dah/lights/lights"/>
 			<value_node value="levels/narratives/e_election_day/stage_3/world"/>
-			<value_node value="levels/narratives/locke/vit/props1/props1"/>
 			<value_node value="levels/narratives/vlad/mallcrasher/mission_turf_war/mission_turf_war"/>
-			<value_node value="levels/instances/unique/crojob/random_loot/world/world"/>
-			<value_node value="levels/instances/unique/pbr/pbr_gas_station/world/world"/>
-			<value_node value="levels/instances/unique/are_exfil_puzzle/world/world"/>
-			<value_node value="levels/instances/unique/pet_shutter/world/world"/>
-			<value_node value="levels/instances/unique/mus_security_barrier/world/world"/>
 			<value_node value="packages/job_branchbank_cash"/>
-			<value_node value="levels/narratives/locke/sah/editor_only/editor_only"/>
-			<value_node value="levels/narratives/dentist/mia/stage2/editor_only/editor_only"/>
 			<value_node value="packages/narr_election3"/>
-			<value_node value="levels/narratives/dentist/mia/stage1/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
