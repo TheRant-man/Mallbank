@@ -14,7 +14,7 @@
 	"jkl_find_hack_4":"Now to find a viable computer to connect to the server. Just launch an override.",
 	"heist_lvl_friday_name":"Crashing Capitol",
 	"jkl_bnk_sec_off_3":"Through the gates of Troy, now there's the issue of security.",
-	"jkl_find_office_1":"We likely need to find a server in the mall's office space. You can find one through the halloween store neighboring the bank.",
+	"jkl_find_office_1":"Ahh... Interesting go to the offices next door and hack a terminal. I can get the electricity down for you, I assume this is GenSec's tech.",
 	"heist_narr_friday_brief":"Jackal wants you to hit a bank that's holding cartel-owned gold.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal the gold\n»Escape",
 	"bnk_enter":"Enter the back of the bank",
 	"bnk_flare":"Signal Bile with a flare",
@@ -163,6 +163,7 @@
 	"shutters-002":"It appears that shutters are blocking the offices, ah... what to do..."
 	"timelock start-001":"The timelock countdown has started, now we wait."
 	"timelock start":"Excellent, the timelock is ticking down. Now we just wait for it to hit zero."
+	"timelock start-002":"PLACEHOLDER."
 	"jkl_find_manager_2":"A timelock ergo we can open it without a lance."
 	"jkl_find_manager_3":"It appears the vault has a timelock. That means we can go about this without a lance."
 }
