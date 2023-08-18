@@ -5,16 +5,16 @@
 	"menu_jukebox_music_friday":"Crim Reapers",
 	"hud_cam_access_camera_exit":"Side Exit",
 	"bnk_timelock":"Wait for the timelock",
-	"bnk_find_hard_drive_desc":"Take the server's hard drive and wait for Jackal's plan B.",
+	"bnk_find_hard_drive_desc":"Take the office's hard drive and wait for Jackal's plan B.",
 	"bnk_find_desc":"Case the bank's security from the lobby.",
-	"jkl_hack_finish_1":"The systems are down. Now get to the vault and get the lance up.",
+	"jkl_hack_finish_1":"Their systems are down. Now get to the vault and get that lance going.",
 	"jkl_hack_finish_2":"The vault door shouldn't be a problem anymore. Get back to it and mount the lance.",
 	"bnk_wirebox_find":"Find the security box",
 	"bnk_pku_drill2":"Get the lance",
 	"jkl_find_hack_4":"Now to find a viable computer to connect to the server. Just launch an override.",
 	"heist_lvl_friday_name":"Crashing Capitol",
 	"jkl_bnk_sec_off_3":"Through the gates of Troy, now there's the issue of security.",
-	"jkl_find_office_1":"Ahh... Interesting go to the offices next door and hack a terminal. I can get the electricity down for you, I assume this is GenSec's tech.",
+	"jkl_find_office_1":"Ah. Interesting, go to the offices next door and hack a terminal. I can get the electricity down for you, assuming this is GenSec's tech.",
 	"heist_narr_friday_brief":"Jackal wants you to hit a bank that's holding cartel-owned gold.\n\n»Enter the mall\n»Figure out a way to enter the bank\n»Breach the vault\n»Steal the gold\n»Escape",
 	"bnk_enter":"Enter the back of the bank",
 	"bnk_flare":"Signal Bile with a flare",
@@ -32,7 +32,7 @@
 	"bnk_enter_offices":"Get into the offices",
 	"bnk_find":"Inspect the bank",
 	"bnk_pku_drill_desc":"Wait for the pilot to arrive with the lance.",
-	"jkl_bnk_find_3":"You're here; to the second floor, gentlemen. I'm sure I don't need to remind you what a bank looks like.",
+	"jkl_bnk_find_3":"You've made it. Enter the mall and get a closer look at that bank.",
 	"jkl_find_hack_6":"There should be a server in here. Connect me to its computer so we can override the security.",
 	"heist_lvl_friday_brief":"I have a new contact. An upcoming cartel leader, who I believe would be in Crime.net's best interest to be allied with. He believes that a rival of his is using a branch of the Capitol Savings bank to hold their valuables, such as gold and he wants it out of the picture. All you have to do, is rob a bank.",
 	"hud_cam_access_camera_floor3":"Mall Floor 3",
@@ -41,7 +41,7 @@
 	"bnk_mac_attack_drive":"Get to the Pear Store",
 	"jkl_lectro_2":"What!? Electrified? Did the Mendoza cartel use the same trick?",
 	"bnk_hack_resume_desc":"The PC has stopped, get the override going again!",
-	"jkl_bnk_find_2":"If intel serves us, then the entrance of the bank should be on your left, second floor.",
+	"jkl_bnk_find_2":"It appears you're there, simply enter the mall and inspect the bank.",
 	"bnk_flare_desc":"Place down a flare so Bile can drop off the thermal lance.",
 	"jkl_find_hack_7":"We need to wire the server to a computer in order to override its security systems.",
 	"jkl_hack_finish_4":"The systems are downed. Now return to the vault door and get the lance up.",
@@ -58,7 +58,7 @@
 	"jkl_find_office_3":"Looks like the mall's office space can be accessed through the halloween store next door. We can get into the server from there.",
 	"bnk_enter_offices_desc":"Make your way into the bank's offices, through the halloween store.",
 	"bnk_secure":"Secure the gold",
-	"jkl_bnk_find_1":"Find the bank's entrance. It should be on the left side of the second floor.",
+	"jkl_bnk_find_1":"Looks like you've made it. Head in to the mall and towards the bank.",
 	"bnk_sec_off_desc":"Take a look at the vault door so Jackal knows what you're dealing with.",
 	"bnk_sec_off":"Inspect the vault door",
 	"jkl_bnk_sec_off_5":"Enter the bank: check. Next, the security has to go.",
@@ -67,7 +67,7 @@
 	"bnk_find_hard_drive":"Grab the hard drive",
 	"jkl_lectro_3":"The vault's booby trapped. Guess they can't come up with something original...",
 	"bnk_escape_desc":"Get to the escape vehicle or secure more loot."
-	"jkl_hack_finish_3":"The vault door is free of Zeus's wrath. Now get Hephaestus working on it, the lance I mean."
+	"jkl_hack_finish_3":"GenSec you never change, vault's free to be drilled now."
 	"bnk_hack_cop_3":"Law enforcement has halted our hack."
 	"bnk_hack_cop_2":"Police have stopped the override, I need you to resume it."
 	"bnk_hack_cop_1":"Swat have interfered with the override."
@@ -89,7 +89,7 @@
 	"bnk_pku_drill_2":"Just what were expecting. I am sending over Bile with the thermal lance."
 	"bnk_pku_drill_3":"What a ''surprise'', this vault is nothing new to you gentlemen. Await the drill, Bile if you'd be so kind."
 	"bnk_pku_drill_4":"Hmph... These are no different from a vault in Harvest & Trustee's. I'll have you a thermal lance in few minutes, if you please Bile."
-	"jkl_find_manager_1":"Vault with a timelock? We'll need manager's code for that. Go find him, he should be somewhere in the mall."
+	"jkl_find_manager_1":"There's a timelock on it, which means we can open it without a lance."
 	"where manager":"The bank manager must be somewhere on site. Try to locate them, they can start the opening procedure for you."
 	"where manager-001":"Find the bank manager. They must be on the premises still, they can begin the opening procedure."
 	"jkl_all_gold_1":"The cartel's gold is secured, but you can take more if the cards are in your favor."
@@ -107,8 +107,8 @@
 	"jkl_c4_3":"You're in, but watchout for the police through your	new ''entrance''."
 	"Mallbank_name":"Crashing Capitol"
 	"Mallbank1":"Clearance Sale"
-	"Mallbank1_obj":"Clean house, secure all loot on Crashing Capitol heist."
-	"Mallbank_desc":"Secure all bank loot and empty the jewelry store inside the Shield Mall."
+	"Mallbank1_obj":"Secure all bank loot and empty the jewelry store inside the Shield Mall."
+	"Mallbank1_desc":"Clean house, secure all loot on Crashing Capitol heist."
 	"Mallbank2":"Flash Sale"
 	"Mallbank2_obj":"Gotta go fast, clear Crashing Capitol heist in under 10 minutes."
 	"Mallbank2_desc":"Complete the Crashing Capitol heist before the timer hits 10 minutes."
@@ -118,6 +118,9 @@
 	"Mallbank_pj":"One Down, Get One For Free"
 	"Mallbank_pj_obj":"Complete the Crashing Capitol heist on Death Sentence with one down enabled."
 	"Mallbank_pj_desc":"Complete the Crashing Capitol heist on Death Sentence with the one down modifier enabled."
+	"Mallbank_sniper":"Window Shopper"
+	"Mallbank_sniper_obj":"Complete the Crashing Capitol heist on Overkill or above without killing any snipers"
+	"Mallbank_sniper_desc":"Complete the Crashing Capitol heist on Overkill or above without killing any snipers on the heist"
 	"bnk_mac_find_hd":"Look around the office"
 	"bnk_mac_find_hd_desc":"Try to find something Jackal can use to disable the security measures."
 	"no_servers_1":"Ahh, there don't appear to be physical servers here. That's a problem. Alright, check around. There must be something we can use."
@@ -137,7 +140,7 @@
 	"authorized_3":"Unlocked, and unlikely you missed a step. Head back to the vault door and use the keypad."
 	"authorized_4":"And... Authorized! Return to the keypad and open the vault."
 	"found manager":"That's the guy. Get him to the vault, fast."
-	"found manager-001":"That's the target. Get the manager to the vault, posthaste."
+	"found manager-001":"That's your target. Get the manager to the vault, posthaste."
 	"found manager-002":"Looks like that's our man. Move him straight to the vault."
 	"reminder_new":"Uh... heisters..? The lance?"
 	"check saw":"How's the sawing going? I hope well."
@@ -158,12 +161,12 @@
 	"need saw-002":"A saw will get those open, won't take much time at all."
 	"protect power":"Protect those power boxes, they might try to halt the countdown that way."
 	"protect power-001":"Keep an eye on those powerboxes, they'll take advantage of those to stop the countdown."
-	"shutters":"Huh. So the office areas are blocked by shutters..."
+	"shutters":"Huh... So the office areas are blocked by shutters..."
 	"shutters-001":"Ah, I see  the shutters are blocking off the offices."
 	"shutters-002":"It appears that shutters are blocking the offices, ah... what to do..."
 	"timelock start-001":"The timelock countdown has started, now we wait."
 	"timelock start":"Excellent, the timelock is ticking down. Now we just wait for it to hit zero."
-	"timelock start-002":"PLACEHOLDER."
-	"jkl_find_manager_2":"A timelock ergo we can open it without a lance."
-	"jkl_find_manager_3":"It appears the vault has a timelock. That means we can go about this without a lance."
+	"timelock start-002":"The timelock is counting down, now it's the waiting game."
+	"jkl_find_manager_2":"A timelock, ergo we can open it without a lance."
+	"jkl_find_manager_3":"It appears the vault has a timelock. That means we can go about this without the lance."
 }

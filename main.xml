@@ -30,6 +30,13 @@
 	<instance id="fri_mac_attack">
 		<packages/>
 	</instance>
+	<Achievements icon="" id="Mallbank">
+		<achievement desc_id="Mallbank1_desc" icon="" id="shopper" name_id="Mallbank1" objective_id="Mallbank1_obj" rank="2"/>
+		<achievement desc_id="Mallbank2_desc" icon="" id="speedrunner" name_id="Mallbank2" objective_id="Mallbank2_obj" rank="2"/>
+		<achievement desc_id="capitol_290_desc" icon="" id="capitol_290" name_id="capitol_290" objective_id="capitol_290_obj" rank="3"/>
+		<achievement desc_id="Mallbank_pj_desc" icon="" id="projob" name_id="Mallbank_pj" objective_id="Mallbank_pj_obj" rank="4"/>
+		<achievement desc_id="Mallbank_sniper_desc" icon="" id="window" name_id="Mallbank_sniper" objective_id="Mallbank_sniper_obj" rank="4"/>
+	</Achievements>
 	<AddFiles directory="assets">
 		<texture path="guis/textures/friday_loading" unload="true"/>
 		<texture load="true" path="guis/textures/narr_friday"/>
@@ -44,11 +51,10 @@
 		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>
 		<hook file="contours.lua" source_file="lib/units/enemies/cop/copbase"/>
 	</Hooks>
-	<!--<Package file="" id="friday" unload_on_restart="true"/>-->
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="America" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" icon="guis/textures/narr_friday" id="lvl_friday" intro_event="friday_intro_a,friday_intro_b,friday_intro_c" max_bags="25" music="heist" repossess_bags="true">
+	<level ai_group_type="america" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" icon="guis/textures/narr_friday" id="lvl_friday" intro_event="friday_intro_a,friday_intro_b,friday_intro_c" max_bags="25" music="heist" player_style="generic" repossess_bags="false">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
@@ -96,12 +102,6 @@
 			<sound id="friday_intro_c" path="jkl_heist_intro_3.ogg" volume="1"/>
 		</sounds>
 	</level>
-	<Achievements id="Mallbank" icon="">
-        <achievement id="shopper" rank="2" name_id="Mallbank1" desc_id="Mallbank1_desc" objective_id="Mallbank1_obj" icon=""/>
-		<achievement id="speedrunner" rank="2" name_id="Mallbank2" desc_id="Mallbank2_desc" objective_id="Mallbank2_obj" icon=""/>
-		<achievement id="capitol_290" rank="3" name_id="capitol_290" desc_id="capitol_290_desc" objective_id="capitol_290_obj" icon=""/>
-		<achievement id="projob" rank="4" name_id="Mallbank_pj" desc_id="Mallbank_pj_desc" objective_id="Mallbank_pj_obj" icon=""/>
-	</Achievements>
 	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" icon="guis/textures/narr_friday" id="narr_friday" jc="40" load_screen="guis/textures/friday_loading" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
@@ -123,9 +123,9 @@
 			<value_node value="friday_brief"/>
 		</crimenet_callouts>
 		<crimenet_videos>
-			<value_node value="cn_branchbank1"/>
-			<value_node value="cn_branchbank2"/>
-			<value_node value="cn_branchbank3"/>
+			<value_node value="cn_mallcrash1"/>
+			<value_node value="cn_mallcrash2"/>
+			<value_node value="cn_mallcrash3"/>
 		</crimenet_videos>
 		<debrief_event>
 			<value_node value="friday_brief"/>
