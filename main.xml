@@ -54,7 +54,8 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="america" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" icon="guis/textures/narr_friday" id="lvl_friday" intro_event="friday_intro_a,friday_intro_b,friday_intro_c" max_bags="25" music="heist" player_style="generic" repossess_bags="false">
+	<Package file="fridaypackageassets.xml" id="packages/friday" unload_on_restart="true"/>
+	<level ai_group_type="america" briefing_dialog="friday_brief" cube="cube_apply_heist_bank" drop_pickups_to_ground="true" icon="guis/textures/narr_friday" id="lvl_friday" intro_event="friday_intro_a,friday_intro_b,friday_intro_c" max_bags="25" music="heist" repossess_bags="false">
 		<add file="levels/lvl_friday/add.xml"/>
 		<assets>
 			<asset name="mallcrasher_health"/>
@@ -86,6 +87,7 @@
 			<value_node value="levels/narratives/vlad/mallcrasher/mission_turf_war/mission_turf_war"/>
 			<value_node value="packages/job_branchbank_cash"/>
 			<value_node value="packages/narr_election3"/>
+			<value_node value="packages/friday"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
@@ -123,9 +125,9 @@
 			<value_node value="friday_brief"/>
 		</crimenet_callouts>
 		<crimenet_videos>
-			<value_node value="cn_mallcrash1"/>
-			<value_node value="cn_mallcrash2"/>
-			<value_node value="cn_mallcrash3"/>
+			<value_node value="cn_branchbank1"/>
+			<value_node value="cn_branchbank2"/>
+			<value_node value="cn_branchbank3"/>
 		</crimenet_videos>
 		<debrief_event>
 			<value_node value="friday_brief"/>
