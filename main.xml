@@ -35,7 +35,7 @@
 		<achievement desc_id="Mallbank2_desc" icon="" id="speedrunner" name_id="Mallbank2" objective_id="Mallbank2_obj" rank="2"/>
 		<achievement desc_id="capitol_290_desc" icon="" id="capitol_290" name_id="capitol_290" objective_id="capitol_290_obj" rank="3"/>
 		<achievement desc_id="Mallbank_pj_desc" icon="" id="projob" name_id="Mallbank_pj" objective_id="Mallbank_pj_obj" rank="4"/>
-		<achievement desc_id="Mallbank_sniper_desc" icon="" id="window" name_id="Mallbank_sniper" objective_id="Mallbank_sniper_obj" rank="4"/>
+		<!--<achievement desc_id="Mallbank_sniper_desc" icon="" id="window" name_id="Mallbank_sniper" objective_id="Mallbank_sniper_obj" rank="4"/>-->
 	</Achievements>
 	<AddFiles directory="assets">
 		<texture path="guis/textures/friday_loading" unload="true"/>
