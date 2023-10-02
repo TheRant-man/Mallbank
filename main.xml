@@ -30,7 +30,7 @@
 	<instance id="fri_mac_attack">
 		<packages/>
 	</instance>
-	<Achievements icon="" id="Mallbank">
+	<Achievements icon="guis/textures/Mallbank1" id="Mallbank">
 		<achievement desc_id="Mallbank1_desc" icon="guis/textures/Mallbank1" id="shopper" name_id="Mallbank1" objective_id="Mallbank1_obj" rank="2"/>
 		<achievement desc_id="Mallbank2_desc" icon="guis/textures/Mallbank1" id="speedrunner" name_id="Mallbank2" objective_id="Mallbank2_obj" rank="2"/>
 		<achievement desc_id="capitol_290_desc" icon="guis/textures/Mallbank1" id="capitol_290" name_id="capitol_290" objective_id="capitol_290_obj" rank="3"/>
