@@ -1,2 +1,7 @@
 <table directory="assets">
+	<add from_db="true" path="units/payday2/architecture/lcm_int_stores/lcm_store_neon_sign_1" type="unit">
+		<unit path="units/payday2/architecture/lcm_int_stores/lcm_store_neon_sign_1"/>
+		<object path="units/payday2/architecture/lcm_int_stores/lcm_store_neon_sign_1"/>
+		<material_config path="units/payday2/architecture/lcm_int_stores/lcm_int_stores"/>
+	</add>
 </table>
