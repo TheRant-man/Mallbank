@@ -165,13 +165,13 @@
 			<value_node value="15000"/>
 		</min_mission_xp>
 		<payout>
-			<value_node value="75000"/>
-			<value_node value="150000"/>
-			<value_node value="450000"/>
-			<value_node value="850000"/>
+			<value_node value="100000"/>
+			<value_node value="175000"/>
+			<value_node value="500000"/>
 			<value_node value="900000"/>
-			<value_node value="1e+006"/>
-			<value_node value="1e+006"/>
+			<value_node value="1000000"/>
+			<value_node value="1000000"/>
+			<value_node value="1000000"/>
 		</payout>
 	</narrative>
 </table>
