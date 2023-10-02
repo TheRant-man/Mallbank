@@ -40,7 +40,7 @@
 	<AddFiles directory="assets">
 		<texture path="guis/textures/friday_loading" unload="true"/>
 		<texture load="true" path="guis/textures/narr_friday"/>
-		<texture force="true" path="guis/textures/Mallbank1" unload="true"/>
+		<texture force="true" path="guis/textures/Mallbank1"/>
 		<!--<texture force="true" path="guis/textures/Mallbank2">-->
 		<!--<texture force="true" path="guis/textures/Mallbank290" />-->
 		<!--<ttexture force="true" path="guis/textures/MallbankPJ" />-->
