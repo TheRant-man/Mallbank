@@ -115,7 +115,7 @@
 	"capitol_290":"Black Friday"
 	"capitol_290_obj":"Complete the Crashing Capitol heist on Death Sentence."
 	"capitol_290_desc":"Complete the Crashing Capitol heist on Death Sentence."
-	"Mallbank_pj":"One Down, Get One For Free"
+	"Mallbank_pj":"One Down, Get One for Free"
 	"Mallbank_pj_obj":"Complete the Crashing Capitol heist on Death Sentence with one down enabled."
 	"Mallbank_pj_desc":"Complete the Crashing Capitol heist on Death Sentence with the one down modifier enabled."
 	"Mallbank_sniper":"Window Shopper"
