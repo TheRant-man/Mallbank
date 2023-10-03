@@ -30,21 +30,22 @@
 	<instance id="fri_mac_attack">
 		<packages/>
 	</instance>
-	<Achievements icon="guis/textures/Mallbank1" id="Mallbank">
+	<Achievements icon="guis/textures/Mallbank" id="Mallbank">
 		<achievement desc_id="Mallbank1_desc" icon="guis/textures/Mallbank1" id="shopper" name_id="Mallbank1" objective_id="Mallbank1_obj" rank="2"/>
-		<achievement desc_id="Mallbank2_desc" icon="guis/textures/Mallbank1" id="speedrunner" name_id="Mallbank2" objective_id="Mallbank2_obj" rank="2"/>
-		<achievement desc_id="capitol_290_desc" icon="guis/textures/Mallbank1" id="capitol_290" name_id="capitol_290" objective_id="capitol_290_obj" rank="3"/>
-		<achievement desc_id="Mallbank_pj_desc" icon="guis/textures/Mallbank1" id="projob" name_id="Mallbank_pj" objective_id="Mallbank_pj_obj" rank="4"/>
-		<achievement desc_id="Mallbank_sniper_desc" icon="guis/textures/Mallbank1" id="window" name_id="Mallbank_sniper" objective_id="Mallbank_sniper_obj" rank="4"/>
+		<achievement desc_id="Mallbank2_desc" icon="guis/textures/Mallbank2" id="speedrunner" name_id="Mallbank2" objective_id="Mallbank2_obj" rank="2"/>
+		<achievement desc_id="capitol_290_desc" icon="guis/textures/Mallbank290" id="capitol_290" name_id="capitol_290" objective_id="capitol_290_obj" rank="3"/>
+		<achievement desc_id="Mallbank_pj_desc" icon="guis/textures/MallbankPJ" id="projob" name_id="Mallbank_pj" objective_id="Mallbank_pj_obj" rank="4"/>
+		<achievement desc_id="Mallbank_sniper_desc" icon="guis/textures/MallbankSniper" id="window" name_id="Mallbank_sniper" objective_id="Mallbank_sniper_obj" rank="3"/>
 	</Achievements>
 	<AddFiles directory="assets">
 		<texture path="guis/textures/friday_loading" unload="true"/>
 		<texture load="true" path="guis/textures/narr_friday"/>
+		<texture force="true" path="guis/textures/Mallbank"/>
 		<texture force="true" path="guis/textures/Mallbank1"/>
-		<!--<texture force="true" path="guis/textures/Mallbank2">-->
-		<!--<texture force="true" path="guis/textures/Mallbank290" />-->
-		<!--<ttexture force="true" path="guis/textures/MallbankPJ" />-->
-		<!--<texture force="true" path="guis/textures/MallbankSniper" />-->
+		<texture force="true" path="guis/textures/Mallbank2"/>
+		<texture force="true" path="guis/textures/Mallbank290" />
+		<texture force="true" path="guis/textures/MallbankPJ" />
+		<texture force="true" path="guis/textures/MallbankSniper" />
 	</AddFiles>
 	<HeistMusic directory="assets/sounds/music/friday" id="music_friday" volume="0.6">
 		<event name="setup" source="stealth.ogg" start_source="stealthintro.ogg"/>
