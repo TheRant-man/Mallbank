@@ -104,7 +104,7 @@
 	"jkl_extra_3":"If you're not feeling humble today I suggest drilling those gates."
 	"jkl_c4_1":"Well. You got in quickly, but you just gave police another flank."
 	"jkl_c4_2":"The effiency is appreciated, but you were given the saw for a reason."
-	"jkl_c4_3":"You're in, but watchout for the police through your	new ''entrance''."
+	"jkl_c4_3":"You're in, but watchout for the police through your new ''entrance''."
 	"Mallbank_name":"Crashing Capitol"
 	"Mallbank1":"Clearance Sale"
 	"Mallbank1_obj":"Secure all bank loot and empty the jewelry store inside the Shield Mall on Overkill or above."

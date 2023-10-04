@@ -39,13 +39,14 @@
 	</Achievements>
 	<AddFiles directory="assets">
 		<texture path="guis/textures/friday_loading" unload="true"/>
+		<texture path="guis/textures/friday_loading_new" unload="true"/>
 		<texture load="true" path="guis/textures/narr_friday"/>
 		<texture force="true" path="guis/textures/Mallbank"/>
 		<texture force="true" path="guis/textures/Mallbank1"/>
 		<texture force="true" path="guis/textures/Mallbank2"/>
-		<texture force="true" path="guis/textures/Mallbank290" />
-		<texture force="true" path="guis/textures/MallbankPJ" />
-		<texture force="true" path="guis/textures/MallbankSniper" />
+		<texture force="true" path="guis/textures/Mallbank290"/>
+		<texture force="true" path="guis/textures/MallbankPJ"/>
+		<texture force="true" path="guis/textures/MallbankSniper"/>
 	</AddFiles>
 	<HeistMusic directory="assets/sounds/music/friday" id="music_friday" volume="0.6">
 		<event name="setup" source="stealth.ogg" start_source="stealthintro.ogg"/>
@@ -110,7 +111,7 @@
 			<sound id="friday_intro_c" path="jkl_heist_intro_3.ogg" volume="1"/>
 		</sounds>
 	</level>
-	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" icon="guis/textures/narr_friday" id="narr_friday" jc="40" load_screen="guis/textures/friday_loading" region="street">
+	<narrative briefing_event="friday_brief" contact="custom" hide_from_crimenet="false" id="narr_friday" jc="40" load_screen="guis/textures/friday_loading_new" region="street">
 		<chain>
 			<table level_id="lvl_friday" type="d" type_id="heist_type_assault">
 				<mission_filter>
@@ -124,8 +125,8 @@
 			<value_node value="100000"/>
 			<value_node value="150000"/>
 			<value_node value="300000"/>
-			<value_node value="600000"/>
-			<value_node value="900000"/>
+			<value_node value="300000"/>
+			<value_node value="300000"/>
 		</contract_cost>
 		<crimenet_callouts>
 			<value_node value="friday_brief"/>
@@ -170,9 +171,9 @@
 			<value_node value="175000"/>
 			<value_node value="500000"/>
 			<value_node value="900000"/>
-			<value_node value="1000000"/>
-			<value_node value="1000000"/>
-			<value_node value="1000000"/>
+			<value_node value="1e+006"/>
+			<value_node value="1e+006"/>
+			<value_node value="1e+006"/>
 		</payout>
 	</narrative>
 </table>
