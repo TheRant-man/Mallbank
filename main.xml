@@ -38,7 +38,6 @@
 		<achievement desc_id="Mallbank_sniper_desc" icon="guis/textures/MallbankSniper" id="window" name_id="Mallbank_sniper" objective_id="Mallbank_sniper_obj" rank="3"/>
 	</Achievements>
 	<AddFiles directory="assets">
-		<texture path="guis/textures/friday_loading" unload="true"/>
 		<texture path="guis/textures/friday_loading_new" unload="true"/>
 		<texture load="true" path="guis/textures/narr_friday"/>
 		<texture force="true" path="guis/textures/Mallbank"/>
