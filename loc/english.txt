@@ -39,7 +39,7 @@
 	"bnk_wirebox_hack":"Open and rewire the security box",
 	"bnk_enter_desc":"Find your way into the bank's employee-only area.",
 	"bnk_mac_attack_drive":"Get to the Pear Store",
-	"jkl_lectro_2":"What!? Electrified? Did the Mendoza cartel use the same trick?",
+	"jkl_lectro_2":"What!? Electrified? Didn't the Mendoza cartel use the same trick?",
 	"bnk_hack_resume_desc":"The PC has stopped, get the override going again!",
 	"jkl_bnk_find_2":"It appears you're there, simply enter the mall and inspect the bank.",
 	"bnk_flare_desc":"Place down a flare so Bile can drop off the thermal lance.",
@@ -110,8 +110,8 @@
 	"Mallbank1_obj":"Secure all bank loot and empty the jewelry store inside the Shield Mall."
 	"Mallbank1_desc":"Clean house, secure all loot on Crashing Capitol heist."
 	"Mallbank2":"Flash Sale"
-	"Mallbank2_obj":"Gotta go fast, clear Crashing Capitol heist in under 13 minutes."
-	"Mallbank2_desc":"Complete the Crashing Capitol heist before the timer hits 13 minutes."
+	"Mallbank2_obj":"Gotta go fast, clear Crashing Capitol heist in under 14 minutes."
+	"Mallbank2_desc":"Complete the Crashing Capitol heist before the timer hits 14 minutes."
 	"capitol_290":"Black Friday"
 	"capitol_290_obj":"Complete the Crashing Capitol heist on Death Sentence."
 	"capitol_290_desc":"Complete the Crashing Capitol heist on Death Sentence."
