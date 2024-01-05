@@ -47,7 +47,7 @@
 		<texture force="true" path="guis/textures/MallbankPJ"/>
 		<texture force="true" path="guis/textures/MallbankSniper"/>
 	</AddFiles>
-	<AssetUpdates id="44630" provider="modworkshop" use_local_dir="true" version="1.0.2.2"/>
+	<AssetUpdates id="44630" provider="modworkshop" use_local_dir="true" version="1.0.2.3"/>
 	<HeistMusic directory="assets/sounds/music/friday" id="music_friday" volume="0.6">
 		<event name="setup" source="stealth.ogg" start_source="stealthintro.ogg"/>
 		<event name="anticipation" source="anticiloop.ogg" start_source="anticipation.ogg"/>
