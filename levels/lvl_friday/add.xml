@@ -1,7 +1,17 @@
 <table directory="assets">
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_wall_4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_wall_4m_a"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_wall_4m_a"/>
+	</add>
 	<add from_db="true" path="units/payday2/architecture/lcm_int_stores/lcm_store_neon_sign_1" type="unit">
-		<unit path="units/payday2/architecture/lcm_int_stores/lcm_store_neon_sign_1"/>
-		<object path="units/payday2/architecture/lcm_int_stores/lcm_store_neon_sign_1"/>
 		<material_config path="units/payday2/architecture/lcm_int_stores/lcm_int_stores"/>
+		<object path="units/payday2/architecture/lcm_int_stores/lcm_store_neon_sign_1"/>
+		<unit path="units/payday2/architecture/lcm_int_stores/lcm_store_neon_sign_1"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_ceiling_4x4m_a" type="unit">
+		<unit path="units/payday2/architecture/mkp/mkp_int_ceiling_4x4m_a"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_ceiling_4x4m_a"/>
+		<material_config path="units/payday2/architecture/mkp/mkp"/>
 	</add>
 </table>
